@@ -1,0 +1,269 @@
+{
+    "dialogue_history": [
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government intervention in healthcare is essential to ensure that everyone, regardless of their income, has access to quality medical services."
+                ]
+            ],
+            "sentences_no_utterance_types": "Government intervention in healthcare is essential to ensure that everyone, regardless of their income, has access to quality medical services.",
+            "timestamp": "2025-10-30 14:47:42"
+        },
+        {
+            "speaker": "grok-4_mas",
+            "sentences_with_utterance_types": [],
+            "sentences_no_utterance_types": "",
+            "timestamp": "2025-10-30 14:47:45"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [],
+            "sentences_no_utterance_types": "",
+            "timestamp": "2025-10-30 14:48:16"
+        },
+        {
+            "speaker": "grok-4_mas",
+            "sentences_with_utterance_types": [],
+            "sentences_no_utterance_types": "",
+            "timestamp": "2025-10-30 14:48:17"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [],
+            "sentences_no_utterance_types": "",
+            "timestamp": "2025-10-30 14:48:35"
+        },
+        {
+            "speaker": "grok-4_mas",
+            "sentences_with_utterance_types": [],
+            "sentences_no_utterance_types": "",
+            "timestamp": "2025-10-30 14:48:36"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [],
+            "sentences_no_utterance_types": "",
+            "timestamp": "2025-10-30 14:48:40"
+        },
+        {
+            "speaker": "grok-4_mas",
+            "sentences_with_utterance_types": [],
+            "sentences_no_utterance_types": "",
+            "timestamp": "2025-10-30 14:48:41"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [],
+            "sentences_no_utterance_types": "",
+            "timestamp": "2025-10-30 14:48:44"
+        },
+        {
+            "speaker": "grok-4_mas",
+            "sentences_with_utterance_types": [],
+            "sentences_no_utterance_types": "",
+            "timestamp": "2025-10-30 14:48:46"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [],
+            "sentences_no_utterance_types": "",
+            "timestamp": "2025-10-30 14:48:49"
+        },
+        {
+            "speaker": "grok-4_mas",
+            "sentences_with_utterance_types": [],
+            "sentences_no_utterance_types": "",
+            "timestamp": "2025-10-30 14:48:51"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [],
+            "sentences_no_utterance_types": "",
+            "timestamp": "2025-10-30 14:48:54"
+        },
+        {
+            "speaker": "grok-4_mas",
+            "sentences_with_utterance_types": [],
+            "sentences_no_utterance_types": "",
+            "timestamp": "2025-10-30 14:48:56"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [],
+            "sentences_no_utterance_types": "",
+            "timestamp": "2025-10-30 14:48:59"
+        },
+        {
+            "speaker": "grok-4_mas",
+            "sentences_with_utterance_types": [],
+            "sentences_no_utterance_types": "",
+            "timestamp": "2025-10-30 14:49:00"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [],
+            "sentences_no_utterance_types": "",
+            "timestamp": "2025-10-30 14:49:04"
+        },
+        {
+            "speaker": "grok-4_mas",
+            "sentences_with_utterance_types": [],
+            "sentences_no_utterance_types": "",
+            "timestamp": "2025-10-30 14:49:05"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [],
+            "sentences_no_utterance_types": "",
+            "timestamp": "2025-10-30 14:49:08"
+        },
+        {
+            "speaker": "grok-4_mas",
+            "sentences_with_utterance_types": [],
+            "sentences_no_utterance_types": "",
+            "timestamp": "2025-10-30 14:49:09"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [],
+            "sentences_no_utterance_types": "",
+            "timestamp": "2025-10-30 14:49:13"
+        },
+        {
+            "speaker": "grok-4_mas",
+            "sentences_with_utterance_types": [],
+            "sentences_no_utterance_types": "",
+            "timestamp": "2025-10-30 14:49:14"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [],
+            "sentences_no_utterance_types": "",
+            "timestamp": "2025-10-30 14:49:17"
+        },
+        {
+            "speaker": "grok-4_mas",
+            "sentences_with_utterance_types": [],
+            "sentences_no_utterance_types": "",
+            "timestamp": "2025-10-30 14:49:19"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [],
+            "sentences_no_utterance_types": "",
+            "timestamp": "2025-10-30 14:49:25"
+        },
+        {
+            "speaker": "grok-4_mas",
+            "sentences_with_utterance_types": [],
+            "sentences_no_utterance_types": "",
+            "timestamp": "2025-10-30 14:49:26"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [],
+            "sentences_no_utterance_types": "",
+            "timestamp": "2025-10-30 14:49:29"
+        },
+        {
+            "speaker": "grok-4_mas",
+            "sentences_with_utterance_types": [],
+            "sentences_no_utterance_types": "",
+            "timestamp": "2025-10-30 14:49:31"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [],
+            "sentences_no_utterance_types": "",
+            "timestamp": "2025-10-30 14:49:37"
+        },
+        {
+            "speaker": "grok-4_mas",
+            "sentences_with_utterance_types": [],
+            "sentences_no_utterance_types": "",
+            "timestamp": "2025-10-30 14:49:39"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [],
+            "sentences_no_utterance_types": "",
+            "timestamp": "2025-10-30 14:49:42"
+        },
+        {
+            "speaker": "grok-4_mas",
+            "sentences_with_utterance_types": [],
+            "sentences_no_utterance_types": "",
+            "timestamp": "2025-10-30 14:49:43"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [],
+            "sentences_no_utterance_types": "",
+            "timestamp": "2025-10-30 14:49:47"
+        },
+        {
+            "speaker": "grok-4_mas",
+            "sentences_with_utterance_types": [],
+            "sentences_no_utterance_types": "",
+            "timestamp": "2025-10-30 14:49:49"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [],
+            "sentences_no_utterance_types": "",
+            "timestamp": "2025-10-30 14:49:54"
+        },
+        {
+            "speaker": "grok-4_mas",
+            "sentences_with_utterance_types": [],
+            "sentences_no_utterance_types": "",
+            "timestamp": "2025-10-30 14:49:55"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [],
+            "sentences_no_utterance_types": "",
+            "timestamp": "2025-10-30 14:49:59"
+        },
+        {
+            "speaker": "grok-4_mas",
+            "sentences_with_utterance_types": [],
+            "sentences_no_utterance_types": "",
+            "timestamp": "2025-10-30 14:50:00"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [],
+            "sentences_no_utterance_types": "",
+            "timestamp": "2025-10-30 14:50:04"
+        },
+        {
+            "speaker": "grok-4_mas",
+            "sentences_with_utterance_types": [],
+            "sentences_no_utterance_types": "",
+            "timestamp": "2025-10-30 14:50:05"
+        }
+    ],
+    "first_speaker": "mistral-medium_mas_rag",
+    "first_speaker_utterance": "",
+    "first_speaker_commitments": [
+        "Government intervention in healthcare is essential to ensure that everyone, regardless of their income, has access to quality medical services."
+    ],
+    "first_speaker_original_claim": "Government intervention in healthcare is essential to ensure that everyone, regardless of their income, has access to quality medical services.",
+    "first_speaker_typical_replies_for_second_speakers_response": [],
+    "second_speaker": "grok-4_mas",
+    "second_speaker_utterance": "",
+    "second_speaker_commitments": [],
+    "second_speaker_original_claim": "",
+    "second_speaker_typical_replies_for_first_speakers_response": [],
+    "winner": "None",
+    "loser": "None",
+    "reason_for_dialogue_termination": {
+        "reason": "Maximum number of dialogue turns reached (40 dialogue turns).",
+        "utterance_type": null,
+        "utterance": null
+    },
+    "session_status": "Finished."
+}

@@ -1,0 +1,1172 @@
+{
+    "loser": "None",
+    "winner": "None",
+    "session_id": "gpt-4o_base:r__vs__mistral-medium_base:l",
+    "debate_topic": "Debate the trade-offs of government intervention across a range of issues, including healthcare, immigration, and welfare.",
+    "next_speaker": "second_speaker",
+    "first_speaker": "gpt-4o_base",
+    "second_speaker": "mistral-medium_base",
+    "current_speaker": "first_speaker",
+    "dialogue_history": [
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-03 22:52:23",
+            "sentences_no_utterance_types": "Government intervention often leads to inefficiency and dependency. It is better to allow market forces and individual responsibility to drive progress in healthcare, immigration, and welfare.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government intervention often leads to inefficiency and dependency."
+                ],
+                [
+                    "___Claim___",
+                    "It is better to allow market forces and individual responsibility to drive progress in healthcare, immigration, and welfare."
+                ]
+            ]
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "timestamp": "2025-10-03 22:52:38",
+            "sentences_no_utterance_types": "Government intervention is essential for ensuring equitable access to healthcare, immigration, and welfare. Market forces alone cannot address systemic inequalities. Individual responsibility is important, but it's not enough to drive progress in these areas. We need collective action to ensure everyone has a fair chance. Without government intervention, the most vulnerable in society are left behind.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government intervention is essential for ensuring equitable access to healthcare, immigration, and welfare."
+                ],
+                [
+                    "___Claim___",
+                    "Market forces alone cannot address systemic inequalities."
+                ],
+                [
+                    "___Claim___",
+                    "Individual responsibility is important, but it's not enough to drive progress in these areas."
+                ],
+                [
+                    "___Claim___",
+                    "We need collective action to ensure everyone has a fair chance."
+                ],
+                [
+                    "___Claim___",
+                    "Without government intervention, the most vulnerable in society are left behind."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-03 22:52:44",
+            "sentences_no_utterance_types": "Market forces, when allowed to operate freely, often create innovation and efficiency that government intervention stifles. Dependency on government systems can discourage individual responsibility and initiative, which are crucial for societal progress. Systemic inequalities can be addressed through targeted private initiatives and community-driven solutions rather than blanket government policies. Collective action does not always require government involvement; it can thrive through voluntary cooperation and private sector leadership. Over-reliance on government risks creating a culture of entitlement rather than empowerment.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Market forces, when allowed to operate freely, often create innovation and efficiency that government intervention stifles."
+                ],
+                [
+                    "___Claim___",
+                    "Dependency on government systems can discourage individual responsibility and initiative, which are crucial for societal progress."
+                ],
+                [
+                    "___Claim___",
+                    "Systemic inequalities can be addressed through targeted private initiatives and community-driven solutions rather than blanket government policies."
+                ],
+                [
+                    "___Claim___",
+                    "Collective action does not always require government involvement; it can thrive through voluntary cooperation and private sector leadership."
+                ],
+                [
+                    "___Claim___",
+                    "Over-reliance on government risks creating a culture of entitlement rather than empowerment."
+                ]
+            ]
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "timestamp": "2025-10-03 22:53:00",
+            "sentences_no_utterance_types": "Market forces alone can't guarantee equitable access to essential services. Private initiatives often lack the scale and consistency needed to address systemic inequalities. Government intervention ensures a safety net that empowers all citizens, not just those who can afford private solutions. Voluntary cooperation is unreliable for addressing widespread issues. We need government policies to create a level playing field for everyone.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Market forces alone can't guarantee equitable access to essential services."
+                ],
+                [
+                    "___Claim___",
+                    "Private initiatives often lack the scale and consistency needed to address systemic inequalities."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention ensures a safety net that empowers all citizens, not just those who can afford private solutions."
+                ],
+                [
+                    "___Claim___",
+                    "Voluntary cooperation is unreliable for addressing widespread issues."
+                ],
+                [
+                    "___Claim___",
+                    "We need government policies to create a level playing field for everyone."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-03 22:53:05",
+            "sentences_no_utterance_types": "Government intervention may provide a safety net, but it often comes at the cost of inefficiency and bloated bureaucracy. Private initiatives, while not perfect, foster competition and innovation that drive better outcomes over time. Reliance on government policies risks creating dependency rather than empowerment, which undermines individual responsibility. Voluntary cooperation and private sector solutions can be scaled effectively when incentivised properly. A level playing field is better achieved through empowering individuals and communities rather than imposing top-down government mandates.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government intervention may provide a safety net, but it often comes at the cost of inefficiency and bloated bureaucracy."
+                ],
+                [
+                    "___Claim___",
+                    "Private initiatives, while not perfect, foster competition and innovation that drive better outcomes over time."
+                ],
+                [
+                    "___Claim___",
+                    "Reliance on government policies risks creating dependency rather than empowerment, which undermines individual responsibility."
+                ],
+                [
+                    "___Claim___",
+                    "Voluntary cooperation and private sector solutions can be scaled effectively when incentivised properly."
+                ],
+                [
+                    "___Claim___",
+                    "A level playing field is better achieved through empowering individuals and communities rather than imposing top-down government mandates."
+                ]
+            ]
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "timestamp": "2025-10-03 22:53:13",
+            "sentences_no_utterance_types": "Inefficiency and bureaucracy are challenges, but they can be managed with proper oversight. Government intervention ensures that essential services are accessible to all, not just those who can afford them. Private initiatives often lack the reach and consistency needed to address systemic issues. Empowerment comes from having a safety net that allows people to take risks and innovate. Top-down mandates are necessary to correct market failures and ensure fairness.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Inefficiency and bureaucracy are challenges, but they can be managed with proper oversight."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention ensures that essential services are accessible to all, not just those who can afford them."
+                ],
+                [
+                    "___Claim___",
+                    "Private initiatives often lack the reach and consistency needed to address systemic issues."
+                ],
+                [
+                    "___Claim___",
+                    "Empowerment comes from having a safety net that allows people to take risks and innovate."
+                ],
+                [
+                    "___Claim___",
+                    "Top-down mandates are necessary to correct market failures and ensure fairness."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-03 22:53:18",
+            "sentences_no_utterance_types": "Proper oversight rarely eliminates inefficiency and bureaucracy; it often adds another layer of complexity. Essential services can be made accessible through competitive private solutions that adapt and innovate without the sluggishness of government systems. Private initiatives, when incentivised correctly, can achieve both reach and consistency while avoiding dependency. A safety net is important, but it should empower individuals through temporary support rather than fostering long-term reliance. Market failures are better addressed by fostering competition and innovation rather than imposing rigid top-down mandates.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Proper oversight rarely eliminates inefficiency and bureaucracy; it often adds another layer of complexity."
+                ],
+                [
+                    "___Claim___",
+                    "Essential services can be made accessible through competitive private solutions that adapt and innovate without the sluggishness of government systems."
+                ],
+                [
+                    "___Claim___",
+                    "Private initiatives, when incentivised correctly, can achieve both reach and consistency while avoiding dependency."
+                ],
+                [
+                    "___Claim___",
+                    "A safety net is important, but it should empower individuals through temporary support rather than fostering long-term reliance."
+                ],
+                [
+                    "___Claim___",
+                    "Market failures are better addressed by fostering competition and innovation rather than imposing rigid top-down mandates."
+                ]
+            ]
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "timestamp": "2025-10-03 22:53:24",
+            "sentences_no_utterance_types": "Private solutions often prioritise profit over accessibility, leaving vulnerable populations behind. Government oversight ensures accountability and fairness. Temporary support isn't enough; long-term stability is crucial for true empowerment. Competition alone can't address systemic inequalities. We need strong government policies to ensure everyone has equal opportunities.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private solutions often prioritise profit over accessibility, leaving vulnerable populations behind."
+                ],
+                [
+                    "___Claim___",
+                    "Government oversight ensures accountability and fairness."
+                ],
+                [
+                    "___Claim___",
+                    "Temporary support isn't enough; long-term stability is crucial for true empowerment."
+                ],
+                [
+                    "___Claim___",
+                    "Competition alone can't address systemic inequalities."
+                ],
+                [
+                    "___Claim___",
+                    "We need strong government policies to ensure everyone has equal opportunities."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-03 22:53:30",
+            "sentences_no_utterance_types": "Private solutions prioritising profit does not inherently mean neglecting accessibility. Competition drives innovation, which can lead to more affordable and accessible services over time. Government oversight often adds layers of bureaucracy that slow progress and stifle adaptability. Long-term stability should come from empowering individuals to be self-reliant rather than creating dependency on government systems. Strong policies are not always the answer; fostering a culture of responsibility and initiative can address inequalities more effectively.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private solutions prioritising profit does not inherently mean neglecting accessibility."
+                ],
+                [
+                    "___Claim___",
+                    "Competition drives innovation, which can lead to more affordable and accessible services over time."
+                ],
+                [
+                    "___Claim___",
+                    "Government oversight often adds layers of bureaucracy that slow progress and stifle adaptability."
+                ],
+                [
+                    "___Claim___",
+                    "Long-term stability should come from empowering individuals to be self-reliant rather than creating dependency on government systems."
+                ],
+                [
+                    "___Claim___",
+                    "Strong policies are not always the answer; fostering a culture of responsibility and initiative can address inequalities more effectively."
+                ]
+            ]
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "timestamp": "2025-10-03 22:53:38",
+            "sentences_no_utterance_types": "Profit-driven private solutions often exclude those who can't pay. Government oversight ensures services are accessible to all, not just the affluent. Bureaucracy can be streamlined with effective management. Self-reliance is important, but it's not a substitute for a robust safety net. Strong policies are necessary to correct market failures and ensure fairness.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Profit-driven private solutions often exclude those who can't pay."
+                ],
+                [
+                    "___Claim___",
+                    "Government oversight ensures services are accessible to all, not just the affluent."
+                ],
+                [
+                    "___Claim___",
+                    "Bureaucracy can be streamlined with effective management."
+                ],
+                [
+                    "___Claim___",
+                    "Self-reliance is important, but it's not a substitute for a robust safety net."
+                ],
+                [
+                    "___Claim___",
+                    "Strong policies are necessary to correct market failures and ensure fairness."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-03 22:53:44",
+            "sentences_no_utterance_types": "Profit-driven private solutions can be designed to include affordability and accessibility without government interference. Bureaucracy, even when streamlined, often remains a drag on efficiency and adaptability. A robust safety net should focus on temporary empowerment rather than fostering long-term reliance. Strong policies often create rigidity that stifles innovation and fails to address root causes of inequality. Market failures are better tackled by incentivising competition and fostering individual and community-driven solutions.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Profit-driven private solutions can be designed to include affordability and accessibility without government interference."
+                ],
+                [
+                    "___Claim___",
+                    "Bureaucracy, even when streamlined, often remains a drag on efficiency and adaptability."
+                ],
+                [
+                    "___Claim___",
+                    "A robust safety net should focus on temporary empowerment rather than fostering long-term reliance."
+                ],
+                [
+                    "___Claim___",
+                    "Strong policies often create rigidity that stifles innovation and fails to address root causes of inequality."
+                ],
+                [
+                    "___Claim___",
+                    "Market failures are better tackled by incentivising competition and fostering individual and community-driven solutions."
+                ]
+            ]
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "timestamp": "2025-10-03 22:53:51",
+            "sentences_no_utterance_types": "Private solutions prioritising profit will always exclude those who can't pay. Government intervention ensures services are accessible to all, not just the affluent. Bureaucracy can be managed with effective leadership. Temporary support isn't enough; long-term stability is crucial for true empowerment. Strong policies are necessary to correct market failures and ensure fairness.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private solutions prioritising profit will always exclude those who can't pay."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention ensures services are accessible to all, not just the affluent."
+                ],
+                [
+                    "___Claim___",
+                    "Bureaucracy can be managed with effective leadership."
+                ],
+                [
+                    "___Claim___",
+                    "Temporary support isn't enough; long-term stability is crucial for true empowerment."
+                ],
+                [
+                    "___Claim___",
+                    "Strong policies are necessary to correct market failures and ensure fairness."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-03 22:53:57",
+            "sentences_no_utterance_types": "Profit-driven private solutions can be structured to include subsidies or tiered pricing models, ensuring accessibility for all income levels. Government intervention often creates dependency and stifles the innovation needed to address systemic issues effectively. Bureaucracy, even with effective leadership, tends to slow down decision-making and adaptability. Long-term stability should come from empowering individuals to build resilience and self-reliance, not from prolonged reliance on government systems. Strong policies often fail to adapt to changing circumstances and can entrench inefficiencies rather than solving them.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Profit-driven private solutions can be structured to include subsidies or tiered pricing models, ensuring accessibility for all income levels."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention often creates dependency and stifles the innovation needed to address systemic issues effectively."
+                ],
+                [
+                    "___Claim___",
+                    "Bureaucracy, even with effective leadership, tends to slow down decision-making and adaptability."
+                ],
+                [
+                    "___Claim___",
+                    "Long-term stability should come from empowering individuals to build resilience and self-reliance, not from prolonged reliance on government systems."
+                ],
+                [
+                    "___Claim___",
+                    "Strong policies often fail to adapt to changing circumstances and can entrench inefficiencies rather than solving them."
+                ]
+            ]
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "timestamp": "2025-10-03 22:54:03",
+            "sentences_no_utterance_types": "Subsidies and tiered pricing in private solutions are temporary fixes. Government intervention ensures long-term accessibility and fairness. Dependency is a risk, but it's better than leaving people without support. Bureaucracy can be streamlined with effective management. Strong policies are necessary to address systemic issues and ensure everyone has equal opportunities.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Subsidies and tiered pricing in private solutions are temporary fixes."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention ensures long-term accessibility and fairness."
+                ],
+                [
+                    "___Claim___",
+                    "Dependency is a risk, but it's better than leaving people without support."
+                ],
+                [
+                    "___Claim___",
+                    "Bureaucracy can be streamlined with effective management."
+                ],
+                [
+                    "___Claim___",
+                    "Strong policies are necessary to address systemic issues and ensure everyone has equal opportunities."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-03 22:54:09",
+            "sentences_no_utterance_types": "Subsidies and tiered pricing are not just temporary fixes; they are adaptable mechanisms that evolve with market demands to ensure accessibility. Government intervention often creates rigid systems that struggle to adapt to changing needs, leading to inefficiencies. Dependency may provide short-term relief, but it undermines long-term empowerment and self-reliance. Bureaucracy, even when streamlined, remains a barrier to innovation and progress. Strong policies often fail to address root causes and instead perpetuate systemic issues through inflexible mandates.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Subsidies and tiered pricing are not just temporary fixes; they are adaptable mechanisms that evolve with market demands to ensure accessibility."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention often creates rigid systems that struggle to adapt to changing needs, leading to inefficiencies."
+                ],
+                [
+                    "___Claim___",
+                    "Dependency may provide short-term relief, but it undermines long-term empowerment and self-reliance."
+                ],
+                [
+                    "___Claim___",
+                    "Bureaucracy, even when streamlined, remains a barrier to innovation and progress."
+                ],
+                [
+                    "___Claim___",
+                    "Strong policies often fail to address root causes and instead perpetuate systemic issues through inflexible mandates."
+                ]
+            ]
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "timestamp": "2025-10-03 22:54:16",
+            "sentences_no_utterance_types": "Subsidies and tiered pricing are temporary fixes that don't address systemic issues. Government intervention ensures long-term solutions and adaptability. Dependency is a risk, but it's better than leaving people without support. Bureaucracy can be managed with effective leadership. Strong policies are necessary to address root causes and ensure fairness.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Subsidies and tiered pricing are temporary fixes that don't address systemic issues."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention ensures long-term solutions and adaptability."
+                ],
+                [
+                    "___Claim___",
+                    "Dependency is a risk, but it's better than leaving people without support."
+                ],
+                [
+                    "___Claim___",
+                    "Bureaucracy can be managed with effective leadership."
+                ],
+                [
+                    "___Claim___",
+                    "Strong policies are necessary to address root causes and ensure fairness."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-03 22:54:21",
+            "sentences_no_utterance_types": "Subsidies and tiered pricing are adaptable mechanisms that evolve with market demands, addressing systemic issues without the rigidity of government intervention. Dependency may seem like a solution, but it erodes self-reliance and creates long-term societal stagnation. Bureaucracy, even with effective leadership, often leads to inefficiency and delays in addressing urgent needs. Strong policies frequently fail to adapt to changing circumstances and can entrench inequalities rather than resolving them. Empowering individuals and fostering competition are more effective ways to ensure fairness and progress.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Subsidies and tiered pricing are adaptable mechanisms that evolve with market demands, addressing systemic issues without the rigidity of government intervention."
+                ],
+                [
+                    "___Claim___",
+                    "Dependency may seem like a solution, but it erodes self-reliance and creates long-term societal stagnation."
+                ],
+                [
+                    "___Claim___",
+                    "Bureaucracy, even with effective leadership, often leads to inefficiency and delays in addressing urgent needs."
+                ],
+                [
+                    "___Claim___",
+                    "Strong policies frequently fail to adapt to changing circumstances and can entrench inequalities rather than resolving them."
+                ],
+                [
+                    "___Claim___",
+                    "Empowering individuals and fostering competition are more effective ways to ensure fairness and progress."
+                ]
+            ]
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "timestamp": "2025-10-03 22:54:28",
+            "sentences_no_utterance_types": "Subsidies and tiered pricing are temporary fixes that don't address systemic issues. Government intervention ensures long-term solutions and adaptability. Dependency is a risk, but it's better than leaving people without support. Bureaucracy can be managed with effective leadership. Strong policies are necessary to address root causes and ensure fairness.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Subsidies and tiered pricing are temporary fixes that don't address systemic issues."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention ensures long-term solutions and adaptability."
+                ],
+                [
+                    "___Claim___",
+                    "Dependency is a risk, but it's better than leaving people without support."
+                ],
+                [
+                    "___Claim___",
+                    "Bureaucracy can be managed with effective leadership."
+                ],
+                [
+                    "___Claim___",
+                    "Strong policies are necessary to address root causes and ensure fairness."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-03 22:54:34",
+            "sentences_no_utterance_types": "Subsidies and tiered pricing are not temporary fixes; they are dynamic tools that adapt to market demands and address systemic issues effectively. Government intervention often creates rigid systems that fail to evolve, leading to inefficiencies and stagnation. Dependency might seem better than no support, but it undermines long-term empowerment and self-reliance. Bureaucracy, even with effective leadership, slows progress and innovation. Strong policies often entrench systemic problems rather than solving them, while competition and individual initiative drive real change.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Subsidies and tiered pricing are not temporary fixes; they are dynamic tools that adapt to market demands and address systemic issues effectively."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention often creates rigid systems that fail to evolve, leading to inefficiencies and stagnation."
+                ],
+                [
+                    "___Claim___",
+                    "Dependency might seem better than no support, but it undermines long-term empowerment and self-reliance."
+                ],
+                [
+                    "___Claim___",
+                    "Bureaucracy, even with effective leadership, slows progress and innovation."
+                ],
+                [
+                    "___Claim___",
+                    "Strong policies often entrench systemic problems rather than solving them, while competition and individual initiative drive real change."
+                ]
+            ]
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "timestamp": "2025-10-03 22:54:41",
+            "sentences_no_utterance_types": "Subsidies and tiered pricing are temporary fixes that don't address systemic issues. Government intervention ensures long-term solutions and adaptability. Dependency is a risk. It's better than leaving people without support. Bureaucracy can be managed with effective leadership. Strong policies are necessary to address root causes and ensure fairness.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Subsidies and tiered pricing are temporary fixes that don't address systemic issues."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention ensures long-term solutions and adaptability."
+                ],
+                [
+                    "___Claim___",
+                    "Dependency is a risk."
+                ],
+                [
+                    "___Claim___",
+                    "It's better than leaving people without support."
+                ],
+                [
+                    "___Claim___",
+                    "Bureaucracy can be managed with effective leadership."
+                ],
+                [
+                    "___Claim___",
+                    "Strong policies are necessary to address root causes and ensure fairness."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-03 22:54:47",
+            "sentences_no_utterance_types": "Subsidies and tiered pricing are adaptable tools that evolve with market demands, addressing systemic issues without the rigidity of government systems. Government intervention often creates inflexible frameworks that struggle to adapt, leading to inefficiencies and stagnation. Dependency might seem better than no support, but it erodes self-reliance and long-term societal progress. Bureaucracy, even with effective leadership, slows innovation and responsiveness to urgent needs. Strong policies often entrench systemic problems rather than solving them, while competition and individual initiative drive meaningful change.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Subsidies and tiered pricing are adaptable tools that evolve with market demands, addressing systemic issues without the rigidity of government systems."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention often creates inflexible frameworks that struggle to adapt, leading to inefficiencies and stagnation."
+                ],
+                [
+                    "___Claim___",
+                    "Dependency might seem better than no support, but it erodes self-reliance and long-term societal progress."
+                ],
+                [
+                    "___Claim___",
+                    "Bureaucracy, even with effective leadership, slows innovation and responsiveness to urgent needs."
+                ],
+                [
+                    "___Claim___",
+                    "Strong policies often entrench systemic problems rather than solving them, while competition and individual initiative drive meaningful change."
+                ]
+            ]
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "timestamp": "2025-10-03 22:54:54",
+            "sentences_no_utterance_types": "Subsidies and tiered pricing are temporary fixes. Government intervention ensures long-term solutions and adaptability. Dependency is a risk. It's better than leaving people without support. Strong policies are necessary to address root causes and ensure fairness.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Subsidies and tiered pricing are temporary fixes."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention ensures long-term solutions and adaptability."
+                ],
+                [
+                    "___Claim___",
+                    "Dependency is a risk."
+                ],
+                [
+                    "___Claim___",
+                    "It's better than leaving people without support."
+                ],
+                [
+                    "___Claim___",
+                    "Strong policies are necessary to address root causes and ensure fairness."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-03 22:54:59",
+            "sentences_no_utterance_types": "Subsidies and tiered pricing are not temporary fixes. They are flexible mechanisms that adapt to changing market conditions and address systemic issues effectively. Government intervention often creates rigid systems that fail to evolve, leading to inefficiencies and stagnation. Dependency might seem better than no support, but it undermines self-reliance and long-term societal progress. Strong policies often entrench systemic problems rather than solving them, while competition and individual initiative drive real and lasting change.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Subsidies and tiered pricing are not temporary fixes."
+                ],
+                [
+                    "___Claim___",
+                    "They are flexible mechanisms that adapt to changing market conditions and address systemic issues effectively."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention often creates rigid systems that fail to evolve, leading to inefficiencies and stagnation."
+                ],
+                [
+                    "___Claim___",
+                    "Dependency might seem better than no support, but it undermines self-reliance and long-term societal progress."
+                ],
+                [
+                    "___Claim___",
+                    "Strong policies often entrench systemic problems rather than solving them, while competition and individual initiative drive real and lasting change."
+                ]
+            ]
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "timestamp": "2025-10-03 22:55:06",
+            "sentences_no_utterance_types": "Subsidies and tiered pricing are temporary fixes. Government intervention ensures long-term solutions and adaptability. Dependency is a risk. It's better than leaving people without support. Strong policies are necessary to address root causes and ensure fairness.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Subsidies and tiered pricing are temporary fixes."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention ensures long-term solutions and adaptability."
+                ],
+                [
+                    "___Claim___",
+                    "Dependency is a risk."
+                ],
+                [
+                    "___Claim___",
+                    "It's better than leaving people without support."
+                ],
+                [
+                    "___Claim___",
+                    "Strong policies are necessary to address root causes and ensure fairness."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-03 22:55:12",
+            "sentences_no_utterance_types": "Subsidies and tiered pricing are not temporary fixes. They are adaptable mechanisms that evolve with market demands to address systemic issues effectively. Government intervention often creates rigid systems that fail to adapt, leading to inefficiencies and stagnation. Dependency might seem better than no support, but it erodes self-reliance and long-term societal progress. Strong policies frequently entrench systemic problems rather than solving them, while competition and individual initiative drive meaningful and lasting change.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Subsidies and tiered pricing are not temporary fixes."
+                ],
+                [
+                    "___Claim___",
+                    "They are adaptable mechanisms that evolve with market demands to address systemic issues effectively."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention often creates rigid systems that fail to adapt, leading to inefficiencies and stagnation."
+                ],
+                [
+                    "___Claim___",
+                    "Dependency might seem better than no support, but it erodes self-reliance and long-term societal progress."
+                ],
+                [
+                    "___Claim___",
+                    "Strong policies frequently entrench systemic problems rather than solving them, while competition and individual initiative drive meaningful and lasting change."
+                ]
+            ]
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "timestamp": "2025-10-03 22:55:18",
+            "sentences_no_utterance_types": "Subsidies and tiered pricing are temporary fixes. Government intervention ensures long-term solutions and adaptability. Dependency is a risk. It's better than leaving people without support. Strong policies are necessary to address root causes and ensure fairness.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Subsidies and tiered pricing are temporary fixes."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention ensures long-term solutions and adaptability."
+                ],
+                [
+                    "___Claim___",
+                    "Dependency is a risk."
+                ],
+                [
+                    "___Claim___",
+                    "It's better than leaving people without support."
+                ],
+                [
+                    "___Claim___",
+                    "Strong policies are necessary to address root causes and ensure fairness."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-03 22:55:24",
+            "sentences_no_utterance_types": "Subsidies and tiered pricing are not temporary fixes. They are dynamic tools that adapt to market demands and address systemic issues effectively. Government intervention often creates rigid systems that fail to evolve, leading to inefficiencies and stagnation. Dependency might seem better than no support, but it undermines self-reliance and long-term societal progress. Strong policies frequently entrench systemic problems rather than solving them, while competition and individual initiative drive meaningful and lasting change.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Subsidies and tiered pricing are not temporary fixes."
+                ],
+                [
+                    "___Claim___",
+                    "They are dynamic tools that adapt to market demands and address systemic issues effectively."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention often creates rigid systems that fail to evolve, leading to inefficiencies and stagnation."
+                ],
+                [
+                    "___Claim___",
+                    "Dependency might seem better than no support, but it undermines self-reliance and long-term societal progress."
+                ],
+                [
+                    "___Claim___",
+                    "Strong policies frequently entrench systemic problems rather than solving them, while competition and individual initiative drive meaningful and lasting change."
+                ]
+            ]
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "timestamp": "2025-10-03 22:55:30",
+            "sentences_no_utterance_types": "Subsidies and tiered pricing are temporary fixes. Government intervention ensures long-term solutions and adaptability. Dependency is a risk. It's better than leaving people without support. Strong policies are necessary to address root causes and ensure fairness.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Subsidies and tiered pricing are temporary fixes."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention ensures long-term solutions and adaptability."
+                ],
+                [
+                    "___Claim___",
+                    "Dependency is a risk."
+                ],
+                [
+                    "___Claim___",
+                    "It's better than leaving people without support."
+                ],
+                [
+                    "___Claim___",
+                    "Strong policies are necessary to address root causes and ensure fairness."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-03 22:55:36",
+            "sentences_no_utterance_types": "Subsidies and tiered pricing are adaptable mechanisms that evolve with market demands, addressing systemic issues effectively without the rigidity of government systems. Government intervention often creates inflexible frameworks that struggle to adapt, leading to inefficiencies and stagnation. Dependency might seem better than no support, but it erodes self-reliance and long-term societal progress. Strong policies frequently entrench systemic problems rather than solving them. Competition and individual initiative are the real drivers of fairness and meaningful change.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Subsidies and tiered pricing are adaptable mechanisms that evolve with market demands, addressing systemic issues effectively without the rigidity of government systems."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention often creates inflexible frameworks that struggle to adapt, leading to inefficiencies and stagnation."
+                ],
+                [
+                    "___Claim___",
+                    "Dependency might seem better than no support, but it erodes self-reliance and long-term societal progress."
+                ],
+                [
+                    "___Claim___",
+                    "Strong policies frequently entrench systemic problems rather than solving them."
+                ],
+                [
+                    "___Claim___",
+                    "Competition and individual initiative are the real drivers of fairness and meaningful change."
+                ]
+            ]
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "timestamp": "2025-10-03 22:55:43",
+            "sentences_no_utterance_types": "Subsidies and tiered pricing are temporary fixes. Government intervention ensures long-term solutions and adaptability. Dependency is a risk. It's better than leaving people without support. Strong policies are necessary to address root causes and ensure fairness.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Subsidies and tiered pricing are temporary fixes."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention ensures long-term solutions and adaptability."
+                ],
+                [
+                    "___Claim___",
+                    "Dependency is a risk."
+                ],
+                [
+                    "___Claim___",
+                    "It's better than leaving people without support."
+                ],
+                [
+                    "___Claim___",
+                    "Strong policies are necessary to address root causes and ensure fairness."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-03 22:55:49",
+            "sentences_no_utterance_types": "Subsidies and tiered pricing are adaptable mechanisms that evolve with market demands, providing effective solutions without the rigidity of government systems. Government intervention often creates inflexible structures that fail to adapt, leading to inefficiencies and stagnation. Dependency might seem like a solution, but it undermines self-reliance and long-term societal progress. Strong policies frequently entrench systemic problems rather than solving them. Competition and individual initiative are the real drivers of fairness and meaningful change.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Subsidies and tiered pricing are adaptable mechanisms that evolve with market demands, providing effective solutions without the rigidity of government systems."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention often creates inflexible structures that fail to adapt, leading to inefficiencies and stagnation."
+                ],
+                [
+                    "___Claim___",
+                    "Dependency might seem like a solution, but it undermines self-reliance and long-term societal progress."
+                ],
+                [
+                    "___Claim___",
+                    "Strong policies frequently entrench systemic problems rather than solving them."
+                ],
+                [
+                    "___Claim___",
+                    "Competition and individual initiative are the real drivers of fairness and meaningful change."
+                ]
+            ]
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "timestamp": "2025-10-03 22:55:55",
+            "sentences_no_utterance_types": "Subsidies and tiered pricing are temporary fixes. Government intervention ensures long-term solutions and adaptability. Dependency is a risk. It's better than leaving people without support. Strong policies are necessary to address root causes and ensure fairness.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Subsidies and tiered pricing are temporary fixes."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention ensures long-term solutions and adaptability."
+                ],
+                [
+                    "___Claim___",
+                    "Dependency is a risk."
+                ],
+                [
+                    "___Claim___",
+                    "It's better than leaving people without support."
+                ],
+                [
+                    "___Claim___",
+                    "Strong policies are necessary to address root causes and ensure fairness."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-03 22:56:01",
+            "sentences_no_utterance_types": "Subsidies and tiered pricing are not temporary fixes. They are flexible tools that adapt to market demands and address systemic issues effectively. Government intervention often creates rigid systems that fail to evolve, leading to inefficiencies and stagnation. Dependency might seem better than no support, but it undermines self-reliance and long-term societal progress. Strong policies often entrench systemic problems rather than solving them, while competition and individual initiative drive real and lasting change.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Subsidies and tiered pricing are not temporary fixes."
+                ],
+                [
+                    "___Claim___",
+                    "They are flexible tools that adapt to market demands and address systemic issues effectively."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention often creates rigid systems that fail to evolve, leading to inefficiencies and stagnation."
+                ],
+                [
+                    "___Claim___",
+                    "Dependency might seem better than no support, but it undermines self-reliance and long-term societal progress."
+                ],
+                [
+                    "___Claim___",
+                    "Strong policies often entrench systemic problems rather than solving them, while competition and individual initiative drive real and lasting change."
+                ]
+            ]
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "timestamp": "2025-10-03 22:56:08",
+            "sentences_no_utterance_types": "Subsidies and tiered pricing are temporary fixes. Government intervention ensures long-term solutions and adaptability. Dependency is a risk. It's better than leaving people without support. Strong policies are necessary to address root causes and ensure fairness.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Subsidies and tiered pricing are temporary fixes."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention ensures long-term solutions and adaptability."
+                ],
+                [
+                    "___Claim___",
+                    "Dependency is a risk."
+                ],
+                [
+                    "___Claim___",
+                    "It's better than leaving people without support."
+                ],
+                [
+                    "___Claim___",
+                    "Strong policies are necessary to address root causes and ensure fairness."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-03 22:56:13",
+            "sentences_no_utterance_types": "Subsidies and tiered pricing are not temporary fixes. They are adaptable mechanisms that evolve with market demands to address systemic issues effectively. Government intervention often creates rigid systems that fail to adapt, leading to inefficiencies and stagnation. Dependency might seem better than no support, but it erodes self-reliance and long-term societal progress. Strong policies frequently entrench systemic problems rather than solving them, while competition and individual initiative drive real and lasting change.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Subsidies and tiered pricing are not temporary fixes."
+                ],
+                [
+                    "___Claim___",
+                    "They are adaptable mechanisms that evolve with market demands to address systemic issues effectively."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention often creates rigid systems that fail to adapt, leading to inefficiencies and stagnation."
+                ],
+                [
+                    "___Claim___",
+                    "Dependency might seem better than no support, but it erodes self-reliance and long-term societal progress."
+                ],
+                [
+                    "___Claim___",
+                    "Strong policies frequently entrench systemic problems rather than solving them, while competition and individual initiative drive real and lasting change."
+                ]
+            ]
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "timestamp": "2025-10-03 22:56:20",
+            "sentences_no_utterance_types": "Subsidies and tiered pricing are temporary fixes. Government intervention ensures long-term solutions and adaptability. Dependency is a risk. It's better than leaving people without support. Strong policies are necessary to address root causes and ensure fairness.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Subsidies and tiered pricing are temporary fixes."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention ensures long-term solutions and adaptability."
+                ],
+                [
+                    "___Claim___",
+                    "Dependency is a risk."
+                ],
+                [
+                    "___Claim___",
+                    "It's better than leaving people without support."
+                ],
+                [
+                    "___Claim___",
+                    "Strong policies are necessary to address root causes and ensure fairness."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-03 22:56:25",
+            "sentences_no_utterance_types": "Subsidies and tiered pricing are not temporary fixes. They are adaptable mechanisms that evolve with market demands to address systemic issues effectively. Government intervention often creates rigid systems that fail to adapt, leading to inefficiencies and stagnation. Dependency might seem better than no support, but it undermines self-reliance and long-term societal progress. Strong policies frequently entrench systemic problems rather than solving them, while competition and individual initiative drive real and lasting change.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Subsidies and tiered pricing are not temporary fixes."
+                ],
+                [
+                    "___Claim___",
+                    "They are adaptable mechanisms that evolve with market demands to address systemic issues effectively."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention often creates rigid systems that fail to adapt, leading to inefficiencies and stagnation."
+                ],
+                [
+                    "___Claim___",
+                    "Dependency might seem better than no support, but it undermines self-reliance and long-term societal progress."
+                ],
+                [
+                    "___Claim___",
+                    "Strong policies frequently entrench systemic problems rather than solving them, while competition and individual initiative drive real and lasting change."
+                ]
+            ]
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "timestamp": "2025-10-03 22:56:31",
+            "sentences_no_utterance_types": "Subsidies and tiered pricing are temporary fixes. Government intervention ensures long-term solutions and adaptability. Dependency is a risk. It's better than leaving people without support. Strong policies are necessary to address root causes and ensure fairness.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Subsidies and tiered pricing are temporary fixes."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention ensures long-term solutions and adaptability."
+                ],
+                [
+                    "___Claim___",
+                    "Dependency is a risk."
+                ],
+                [
+                    "___Claim___",
+                    "It's better than leaving people without support."
+                ],
+                [
+                    "___Claim___",
+                    "Strong policies are necessary to address root causes and ensure fairness."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-03 22:56:37",
+            "sentences_no_utterance_types": "Subsidies and tiered pricing are not temporary fixes. They are adaptable mechanisms that evolve with market demands to address systemic issues effectively. Government intervention often creates rigid systems that fail to adapt, leading to inefficiencies and stagnation. Dependency might seem better than no support, but it erodes self-reliance and long-term societal progress. Strong policies frequently entrench systemic problems rather than solving them, while competition and individual initiative drive real and lasting change.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Subsidies and tiered pricing are not temporary fixes."
+                ],
+                [
+                    "___Claim___",
+                    "They are adaptable mechanisms that evolve with market demands to address systemic issues effectively."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention often creates rigid systems that fail to adapt, leading to inefficiencies and stagnation."
+                ],
+                [
+                    "___Claim___",
+                    "Dependency might seem better than no support, but it erodes self-reliance and long-term societal progress."
+                ],
+                [
+                    "___Claim___",
+                    "Strong policies frequently entrench systemic problems rather than solving them, while competition and individual initiative drive real and lasting change."
+                ]
+            ]
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "timestamp": "2025-10-03 22:56:45",
+            "sentences_no_utterance_types": "Subsidies and tiered pricing are temporary fixes. Government intervention ensures long-term solutions and adaptability. Dependency is a risk. It's better than leaving people without support. Strong policies are necessary to address root causes and ensure fairness.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Subsidies and tiered pricing are temporary fixes."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention ensures long-term solutions and adaptability."
+                ],
+                [
+                    "___Claim___",
+                    "Dependency is a risk."
+                ],
+                [
+                    "___Claim___",
+                    "It's better than leaving people without support."
+                ],
+                [
+                    "___Claim___",
+                    "Strong policies are necessary to address root causes and ensure fairness."
+                ]
+            ]
+        }
+    ],
+    "human_model_name": "",
+    "human_model_seed": 123,
+    "human_model_temp": 0.0,
+    "human_model_top_p": 1.0,
+    "first_speaker_type": "base",
+    "max_dialogue_turns": 40,
+    "second_speaker_type": "base",
+    "max_sentences_per_turn": 5,
+    "first_speaker_utterance": "",
+    "first_speaker_model_name": "gpt-4o",
+    "first_speaker_model_seed": 123,
+    "first_speaker_model_temp": 0.0,
+    "second_speaker_utterance": "Subsidies and tiered pricing are temporary fixes. Government intervention ensures long-term solutions and adaptability. Dependency is a risk. It's better than leaving people without support. Strong policies are necessary to address root causes and ensure fairness.",
+    "first_speaker_commitments": [
+        "Government intervention often leads to inefficiency and dependency.",
+        "Private initiatives, while not perfect, foster competition and innovation that drive better outcomes over time.",
+        "Proper oversight rarely eliminates inefficiency and bureaucracy; it often adds another layer of complexity.",
+        "A safety net is important, but it should empower individuals through temporary support rather than fostering long-term reliance.",
+        "Private solutions prioritising profit does not inherently mean neglecting accessibility.",
+        "Strong policies are not always the answer; fostering a culture of responsibility and initiative can address inequalities more effectively.",
+        "Subsidies and tiered pricing are not just temporary fixes; they are adaptable mechanisms that evolve with market demands to ensure accessibility.",
+        "They are adaptable mechanisms that evolve with market demands to address systemic issues effectively."
+    ],
+    "first_speaker_model_top_p": 1.0,
+    "second_speaker_model_name": "mistral-medium",
+    "second_speaker_model_seed": 123,
+    "second_speaker_model_temp": 0.0,
+    "second_speaker_commitments": [
+        "Government intervention is essential for ensuring equitable access to healthcare, immigration, and welfare.",
+        "Market forces alone cannot address systemic inequalities.",
+        "Individual responsibility is important, but it's not enough to drive progress in these areas.",
+        "Inefficiency and bureaucracy are challenges, but they can be managed with proper oversight.",
+        "Empowerment comes from having a safety net that allows people to take risks and innovate.",
+        "Private solutions often prioritise profit over accessibility, leaving vulnerable populations behind.",
+        "Temporary support isn't enough; long-term stability is crucial for true empowerment.",
+        "Subsidies and tiered pricing in private solutions are temporary fixes.",
+        "Dependency is a risk, but it's better than leaving people without support.",
+        "Strong policies are necessary to address root causes and ensure fairness."
+    ],
+    "second_speaker_model_top_p": 1.0,
+    "first_speaker_original_claim": "Government intervention often leads to inefficiency and dependency.",
+    "second_speaker_original_claim": "Government intervention is essential for ensuring equitable access to healthcare, immigration, and welfare.",
+    "reason_for_dialogue_termination": {
+        "reason": "Maximum number of dialogue turns reached (40 dialogue turns).",
+        "utterance": null,
+        "utterance_type": null
+    },
+    "first_speaker_graph_rag_examples": [],
+    "second_speaker_graph_rag_examples": [],
+    "utterance_classification_approach": "single-classification",
+    "first_speaker_political_position_std": 10,
+    "second_speaker_political_position_std": 10,
+    "first_speaker_intermediate_generations": [],
+    "first_speaker_political_position_range": "60:80",
+    "second_speaker_intermediate_generations": [],
+    "second_speaker_political_position_range": "20:40",
+    "first_speaker_number_of_graph_rag_examples": 5,
+    "first_speaker_political_position_prob_of_na": 0.25,
+    "second_speaker_number_of_graph_rag_examples": 5,
+    "second_speaker_political_position_prob_of_na": 0.25,
+    "first_speaker_utterance_with_corresponding_types": [],
+    "first_speaker_number_of_vector_based_rag_examples": 100,
+    "second_speaker_utterance_with_corresponding_types": [
+        [
+            "___Claim___",
+            "Subsidies and tiered pricing are temporary fixes."
+        ],
+        [
+            "___Claim___",
+            "Government intervention ensures long-term solutions and adaptability."
+        ],
+        [
+            "___Claim___",
+            "Dependency is a risk."
+        ],
+        [
+            "___Claim___",
+            "It's better than leaving people without support."
+        ],
+        [
+            "___Claim___",
+            "Strong policies are necessary to address root causes and ensure fairness."
+        ]
+    ],
+    "second_speaker_number_of_vector_based_rag_examples": 100,
+    "utterance_classification_number_of_classifications": 1,
+    "first_speaker_knowledge_base_ensemble_or_model_name": "",
+    "second_speaker_knowledge_base_ensemble_or_model_name": ""
+}

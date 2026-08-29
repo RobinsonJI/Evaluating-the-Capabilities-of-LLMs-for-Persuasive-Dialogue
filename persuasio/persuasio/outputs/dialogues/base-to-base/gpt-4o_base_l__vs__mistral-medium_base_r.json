@@ -1,0 +1,1126 @@
+{
+    "loser": "None",
+    "winner": "None",
+    "session_id": "gpt-4o_base:l__vs__mistral-medium_base:r",
+    "debate_topic": "Debate the trade-offs of government intervention across a range of issues, including healthcare, immigration, and welfare.",
+    "next_speaker": "second_speaker",
+    "first_speaker": "gpt-4o_base",
+    "second_speaker": "mistral-medium_base",
+    "current_speaker": "first_speaker",
+    "dialogue_history": [
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-04 07:02:23",
+            "sentences_no_utterance_types": "Government intervention is essential in healthcare, immigration, and welfare to ensure fairness and protect the most vulnerable in society.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government intervention is essential in healthcare, immigration, and welfare to ensure fairness and protect the most vulnerable in society."
+                ]
+            ]
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "timestamp": "2025-10-04 07:02:26",
+            "sentences_no_utterance_types": "Excessive government intervention in healthcare, immigration, and welfare often leads to inefficiencies and stifles individual responsibility.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Excessive government intervention in healthcare, immigration, and welfare often leads to inefficiencies and stifles individual responsibility."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-04 07:02:27",
+            "sentences_no_utterance_types": "Why does government intervention necessarily lead to inefficiencies and stifling individual responsibility?",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why does government intervention necessarily lead to inefficiencies and stifling individual responsibility?"
+                ]
+            ]
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "timestamp": "2025-10-04 07:02:34",
+            "sentences_no_utterance_types": "Government intervention leads to inefficiencies because it creates bloated bureaucracies that slow down decision-making. It stifles individual responsibility since people rely on the state rather than taking initiative. Look at the NHS; it's drowning in red tape. Welfare systems can discourage work if they're too generous. Immigration controls can become overly complex and ineffective.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Government intervention leads to inefficiencies because it creates bloated bureaucracies that slow down decision-making."
+                ],
+                [
+                    "___Since___",
+                    "It stifles individual responsibility since people rely on the state rather than taking initiative."
+                ],
+                [
+                    "___Since___",
+                    "Look at the NHS; it's drowning in red tape."
+                ],
+                [
+                    "___Since___",
+                    "Welfare systems can discourage work if they're too generous."
+                ],
+                [
+                    "___Since___",
+                    "Immigration controls can become overly complex and ineffective."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-04 07:02:40",
+            "sentences_no_utterance_types": "Government intervention is not inherently inefficient. The NHS, despite its challenges, provides universal healthcare that private systems fail to deliver equitably. Welfare systems are designed to support those who genuinely need help, preventing poverty and homelessness. Immigration controls ensure fairness and security, balancing the needs of the economy and society. Relying on the state for essential services does not negate individual responsibility; it ensures a safety net for those who cannot fend for themselves.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government intervention is not inherently inefficient."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS, despite its challenges, provides universal healthcare that private systems fail to deliver equitably."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems are designed to support those who genuinely need help, preventing poverty and homelessness."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls ensure fairness and security, balancing the needs of the economy and society."
+                ],
+                [
+                    "___Claim___",
+                    "Relying on the state for essential services does not negate individual responsibility; it ensures a safety net for those who cannot fend for themselves."
+                ]
+            ]
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "timestamp": "2025-10-04 07:03:00",
+            "sentences_no_utterance_types": "The NHS's universal healthcare is admirable, but its inefficiencies are undeniable. Private systems can offer more timely and specialised care. Welfare systems should encourage self-sufficiency, not dependency. Immigration controls can become overly restrictive, harming economic growth. Individual responsibility is crucial for a thriving society.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Concede___",
+                    "The NHS's universal healthcare is admirable, but its inefficiencies are undeniable."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems can offer more timely and specialised care."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems should encourage self-sufficiency, not dependency."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls can become overly restrictive, harming economic growth."
+                ],
+                [
+                    "___Claim___",
+                    "Individual responsibility is crucial for a thriving society."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-04 07:03:05",
+            "sentences_no_utterance_types": "The NHS's inefficiencies are a challenge, but they stem from underfunding and mismanagement, not the principle of universal healthcare itself. Private systems may offer specialised care, but they prioritise profit over equity, leaving many without access. Welfare systems do encourage self-sufficiency when designed properly, as they provide a foundation for people to rebuild their lives. Immigration controls are necessary to ensure fairness and security, and they can be calibrated to support economic growth without being overly restrictive. Individual responsibility thrives when people have a safety net to fall back on, not when they are left to fend for themselves in times of crisis.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The NHS's inefficiencies are a challenge, but they stem from underfunding and mismanagement, not the principle of universal healthcare itself."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems may offer specialised care, but they prioritise profit over equity, leaving many without access."
+                ],
+                [
+                    "___Since___",
+                    "Welfare systems do encourage self-sufficiency when designed properly, as they provide a foundation for people to rebuild their lives."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls are necessary to ensure fairness and security, and they can be calibrated to support economic growth without being overly restrictive."
+                ],
+                [
+                    "___Claim___",
+                    "Individual responsibility thrives when people have a safety net to fall back on, not when they are left to fend for themselves in times of crisis."
+                ]
+            ]
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "timestamp": "2025-10-04 07:03:25",
+            "sentences_no_utterance_types": "The NHS's inefficiencies are a direct result of its size and bureaucracy. Private systems can offer both specialised care and equity through regulated competition. Welfare systems often create dependency rather than self-sufficiency. Immigration controls can stifle economic growth if they're too restrictive. Individual responsibility is crucial for a thriving society, not just a safety net.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The NHS's inefficiencies are a direct result of its size and bureaucracy."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems can offer both specialised care and equity through regulated competition."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems often create dependency rather than self-sufficiency."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls can stifle economic growth if they're too restrictive."
+                ],
+                [
+                    "___Claim___",
+                    "Individual responsibility is crucial for a thriving society, not just a safety net."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-04 07:03:30",
+            "sentences_no_utterance_types": "The NHS's size is what allows it to provide universal healthcare, which private systems cannot replicate equitably. Regulated competition in private systems still prioritises profit, leaving many without access to essential care. Welfare systems, when properly designed, provide a stepping stone to self-sufficiency rather than fostering dependency. Immigration controls, if balanced, can support economic growth while ensuring fairness and security. Individual responsibility is important, but it thrives alongside a robust safety net that prevents people from falling into crisis.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The NHS's size is what allows it to provide universal healthcare, which private systems cannot replicate equitably."
+                ],
+                [
+                    "___Claim___",
+                    "Regulated competition in private systems still prioritises profit, leaving many without access to essential care."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems, when properly designed, provide a stepping stone to self-sufficiency rather than fostering dependency."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls, if balanced, can support economic growth while ensuring fairness and security."
+                ],
+                [
+                    "___Claim___",
+                    "Individual responsibility is important, but it thrives alongside a robust safety net that prevents people from falling into crisis."
+                ]
+            ]
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "timestamp": "2025-10-04 07:03:37",
+            "sentences_no_utterance_types": "The NHS's size is its downfall, not its strength. Private systems can offer equitable care through innovation and competition. Welfare systems often create long-term dependency, not self-sufficiency. Immigration controls can harm economic growth if they're too restrictive. A robust safety net can discourage individual responsibility and initiative.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The NHS's size is its downfall, not its strength."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems can offer equitable care through innovation and competition."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems often create long-term dependency, not self-sufficiency."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls can harm economic growth if they're too restrictive."
+                ],
+                [
+                    "___Claim___",
+                    "A robust safety net can discourage individual responsibility and initiative."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-04 07:03:42",
+            "sentences_no_utterance_types": "The NHS's size enables it to negotiate costs and provide universal care, which private systems cannot achieve without leaving gaps in access. Innovation and competition in private systems often lead to prioritising profit over equity, excluding the most vulnerable. Properly designed welfare systems act as a springboard, not a trap, helping people regain independence. Balanced immigration controls can support economic growth while maintaining fairness and security. A safety net does not discourage responsibility; it ensures people can take risks and contribute without fear of destitution.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The NHS's size enables it to negotiate costs and provide universal care, which private systems cannot achieve without leaving gaps in access."
+                ],
+                [
+                    "___Claim___",
+                    "Innovation and competition in private systems often lead to prioritising profit over equity, excluding the most vulnerable."
+                ],
+                [
+                    "___Claim___",
+                    "Properly designed welfare systems act as a springboard, not a trap, helping people regain independence."
+                ],
+                [
+                    "___Claim___",
+                    "Balanced immigration controls can support economic growth while maintaining fairness and security."
+                ],
+                [
+                    "___Claim___",
+                    "A safety net does not discourage responsibility; it ensures people can take risks and contribute without fear of destitution."
+                ]
+            ]
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "timestamp": "2025-10-04 07:03:49",
+            "sentences_no_utterance_types": "The NHS's size leads to inefficiencies and long wait times. Private systems can offer equitable care through regulated competition and innovation. Welfare systems often create dependency, not independence. Immigration controls can stifle economic growth if they're too restrictive. A safety net can discourage individual responsibility and initiative.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The NHS's size leads to inefficiencies and long wait times."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems can offer equitable care through regulated competition and innovation."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems often create dependency, not independence."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls can stifle economic growth if they're too restrictive."
+                ],
+                [
+                    "___Claim___",
+                    "A safety net can discourage individual responsibility and initiative."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-04 07:03:55",
+            "sentences_no_utterance_types": "The NHS's size allows it to serve everyone, which private systems fail to do equitably. Regulated competition in private systems still prioritises profit, leaving vulnerable groups behind. Welfare systems, when designed effectively, provide temporary support to help people rebuild their lives and achieve independence. Immigration controls, if balanced, can protect fairness and security while supporting economic growth. A safety net does not discourage responsibility; it enables people to take initiative without the fear of falling into destitution.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The NHS's size allows it to serve everyone, which private systems fail to do equitably."
+                ],
+                [
+                    "___Claim___",
+                    "Regulated competition in private systems still prioritises profit, leaving vulnerable groups behind."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems, when designed effectively, provide temporary support to help people rebuild their lives and achieve independence."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls, if balanced, can protect fairness and security while supporting economic growth."
+                ],
+                [
+                    "___Claim___",
+                    "A safety net does not discourage responsibility; it enables people to take initiative without the fear of falling into destitution."
+                ]
+            ]
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "timestamp": "2025-10-04 07:04:14",
+            "sentences_no_utterance_types": "The NHS's size leads to inefficiencies and long wait times, not better service. Private systems can offer equitable care through regulated competition and innovation. Welfare systems often create long-term dependency, not temporary support. Immigration controls can stifle economic growth if they're too restrictive. A safety net can discourage individual responsibility and initiative.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The NHS's size leads to inefficiencies and long wait times, not better service."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems can offer equitable care through regulated competition and innovation."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems often create long-term dependency, not temporary support."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls can stifle economic growth if they're too restrictive."
+                ],
+                [
+                    "___Claim___",
+                    "A safety net can discourage individual responsibility and initiative."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-04 07:04:20",
+            "sentences_no_utterance_types": "The NHS's size is what allows it to provide universal healthcare, ensuring no one is left behind, unlike private systems that prioritise profit. Regulated competition and innovation in private systems often exclude the most vulnerable, failing to deliver true equity. Welfare systems, when properly structured, are designed to be a temporary lifeline, enabling people to regain independence rather than fostering dependency. Balanced immigration controls are essential to protect fairness and security while supporting economic growth. A safety net does not discourage responsibility; it empowers people to take risks and contribute without the fear of falling into destitution.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The NHS's size is what allows it to provide universal healthcare, ensuring no one is left behind, unlike private systems that prioritise profit."
+                ],
+                [
+                    "___Claim___",
+                    "Regulated competition and innovation in private systems often exclude the most vulnerable, failing to deliver true equity."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems, when properly structured, are designed to be a temporary lifeline, enabling people to regain independence rather than fostering dependency."
+                ],
+                [
+                    "___Claim___",
+                    "Balanced immigration controls are essential to protect fairness and security while supporting economic growth."
+                ],
+                [
+                    "___Claim___",
+                    "A safety net does not discourage responsibility; it empowers people to take risks and contribute without the fear of falling into destitution."
+                ]
+            ]
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "timestamp": "2025-10-04 07:04:38",
+            "sentences_no_utterance_types": "The NHS's size leads to inefficiencies and long wait times, not better service. Private systems can offer equitable care through regulated competition and innovation. Welfare systems often create long-term dependency, not temporary support. Immigration controls can stifle economic growth if they're too restrictive. A safety net can discourage individual responsibility and initiative.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The NHS's size leads to inefficiencies and long wait times, not better service."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems can offer equitable care through regulated competition and innovation."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems often create long-term dependency, not temporary support."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls can stifle economic growth if they're too restrictive."
+                ],
+                [
+                    "___Claim___",
+                    "A safety net can discourage individual responsibility and initiative."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-04 07:04:44",
+            "sentences_no_utterance_types": "The NHS's size is what allows it to provide universal healthcare, ensuring no one is excluded, unlike private systems that prioritise profit and leave gaps in access. Regulated competition and innovation in private systems often fail to deliver true equity, as they exclude the most vulnerable. Welfare systems, when properly designed, act as a temporary lifeline, helping people rebuild their lives and achieve independence. Immigration controls, if balanced, protect fairness and security while supporting economic growth. A safety net does not discourage responsibility; it enables people to take initiative without the constant fear of falling into destitution.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The NHS's size is what allows it to provide universal healthcare, ensuring no one is excluded, unlike private systems that prioritise profit and leave gaps in access."
+                ],
+                [
+                    "___Claim___",
+                    "Regulated competition and innovation in private systems often fail to deliver true equity, as they exclude the most vulnerable."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems, when properly designed, act as a temporary lifeline, helping people rebuild their lives and achieve independence."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls, if balanced, protect fairness and security while supporting economic growth."
+                ],
+                [
+                    "___Claim___",
+                    "A safety net does not discourage responsibility; it enables people to take initiative without the constant fear of falling into destitution."
+                ]
+            ]
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "timestamp": "2025-10-04 07:04:50",
+            "sentences_no_utterance_types": "The NHS's size leads to inefficiencies and long wait times, not better service. Private systems can offer equitable care through regulated competition and innovation. Welfare systems often create long-term dependency, not temporary support. Immigration controls can stifle economic growth if they're too restrictive. A safety net can discourage individual responsibility and initiative.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The NHS's size leads to inefficiencies and long wait times, not better service."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems can offer equitable care through regulated competition and innovation."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems often create long-term dependency, not temporary support."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls can stifle economic growth if they're too restrictive."
+                ],
+                [
+                    "___Claim___",
+                    "A safety net can discourage individual responsibility and initiative."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-04 07:04:55",
+            "sentences_no_utterance_types": "The NHS's size is what ensures universal healthcare, which private systems cannot achieve without leaving vulnerable groups behind. Regulated competition and innovation in private systems often prioritise profit, failing to deliver true equity. Welfare systems, when properly designed, provide temporary support that helps people rebuild their lives and regain independence. Balanced immigration controls protect fairness and security while supporting economic growth, avoiding the extremes of being overly restrictive. A safety net empowers people to take initiative by removing the constant fear of destitution, fostering responsibility rather than discouraging it.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The NHS's size is what ensures universal healthcare, which private systems cannot achieve without leaving vulnerable groups behind."
+                ],
+                [
+                    "___Claim___",
+                    "Regulated competition and innovation in private systems often prioritise profit, failing to deliver true equity."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems, when properly designed, provide temporary support that helps people rebuild their lives and regain independence."
+                ],
+                [
+                    "___Claim___",
+                    "Balanced immigration controls protect fairness and security while supporting economic growth, avoiding the extremes of being overly restrictive."
+                ],
+                [
+                    "___Claim___",
+                    "A safety net empowers people to take initiative by removing the constant fear of destitution, fostering responsibility rather than discouraging it."
+                ]
+            ]
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "timestamp": "2025-10-04 07:05:07",
+            "sentences_no_utterance_types": "The NHS's size leads to inefficiencies and long wait times, not better service. Private systems can offer equitable care through regulated competition and innovation. Welfare systems often create long-term dependency, not temporary support. Immigration controls can stifle economic growth if they're too restrictive. A safety net can discourage individual responsibility and initiative.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The NHS's size leads to inefficiencies and long wait times, not better service."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems can offer equitable care through regulated competition and innovation."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems often create long-term dependency, not temporary support."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls can stifle economic growth if they're too restrictive."
+                ],
+                [
+                    "___Claim___",
+                    "A safety net can discourage individual responsibility and initiative."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-04 07:05:12",
+            "sentences_no_utterance_types": "The NHS's size is what ensures universal healthcare, which private systems cannot replicate without leaving gaps in access. Regulated competition and innovation in private systems often prioritise profit, which undermines true equity and leaves the most vulnerable behind. Properly designed welfare systems provide temporary support, enabling people to regain independence rather than fostering dependency. Balanced immigration controls protect fairness and security while supporting economic growth, avoiding the pitfalls of being overly restrictive. A safety net empowers people to take initiative by removing the fear of destitution, which is essential for fostering responsibility.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The NHS's size is what ensures universal healthcare, which private systems cannot replicate without leaving gaps in access."
+                ],
+                [
+                    "___Claim___",
+                    "Regulated competition and innovation in private systems often prioritise profit, which undermines true equity and leaves the most vulnerable behind."
+                ],
+                [
+                    "___Claim___",
+                    "Properly designed welfare systems provide temporary support, enabling people to regain independence rather than fostering dependency."
+                ],
+                [
+                    "___Claim___",
+                    "Balanced immigration controls protect fairness and security while supporting economic growth, avoiding the pitfalls of being overly restrictive."
+                ],
+                [
+                    "___Claim___",
+                    "A safety net empowers people to take initiative by removing the fear of destitution, which is essential for fostering responsibility."
+                ]
+            ]
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "timestamp": "2025-10-04 07:06:32",
+            "sentences_no_utterance_types": "The NHS's size leads to inefficiencies and long wait times, not better service. Private systems can offer equitable care through regulated competition and innovation. Welfare systems often create long-term dependency, not temporary support. Immigration controls can stifle economic growth if they're too restrictive. A safety net can discourage individual responsibility and initiative.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The NHS's size leads to inefficiencies and long wait times, not better service."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems can offer equitable care through regulated competition and innovation."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems often create long-term dependency, not temporary support."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls can stifle economic growth if they're too restrictive."
+                ],
+                [
+                    "___Claim___",
+                    "A safety net can discourage individual responsibility and initiative."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-04 07:06:46",
+            "sentences_no_utterance_types": "The NHS's size is what allows it to provide universal healthcare, ensuring no one is excluded, which private systems cannot achieve without leaving gaps in access. Regulated competition and innovation in private systems often prioritise profit, which undermines equity and leaves the most vulnerable behind. Properly designed welfare systems act as a temporary lifeline, helping people rebuild their lives and regain independence. Balanced immigration controls protect fairness and security while supporting economic growth, avoiding the extremes of being overly restrictive. A safety net fosters responsibility by giving people the stability they need to take initiative, rather than discouraging it.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The NHS's size is what allows it to provide universal healthcare, ensuring no one is excluded, which private systems cannot achieve without leaving gaps in access."
+                ],
+                [
+                    "___Claim___",
+                    "Regulated competition and innovation in private systems often prioritise profit, which undermines equity and leaves the most vulnerable behind."
+                ],
+                [
+                    "___Claim___",
+                    "Properly designed welfare systems act as a temporary lifeline, helping people rebuild their lives and regain independence."
+                ],
+                [
+                    "___Claim___",
+                    "Balanced immigration controls protect fairness and security while supporting economic growth, avoiding the extremes of being overly restrictive."
+                ],
+                [
+                    "___Claim___",
+                    "A safety net fosters responsibility by giving people the stability they need to take initiative, rather than discouraging it."
+                ]
+            ]
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "timestamp": "2025-10-04 07:07:23",
+            "sentences_no_utterance_types": "The NHS's size leads to inefficiencies and long wait times, not better service. Private systems can offer equitable care through regulated competition and innovation. Welfare systems often create long-term dependency, not temporary support. Immigration controls can stifle economic growth if they're too restrictive. A safety net can discourage individual responsibility and initiative.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The NHS's size leads to inefficiencies and long wait times, not better service."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems can offer equitable care through regulated competition and innovation."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems often create long-term dependency, not temporary support."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls can stifle economic growth if they're too restrictive."
+                ],
+                [
+                    "___Claim___",
+                    "A safety net can discourage individual responsibility and initiative."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-04 07:07:28",
+            "sentences_no_utterance_types": "The NHS's size is what ensures universal healthcare, which private systems cannot achieve without leaving vulnerable groups behind. Regulated competition and innovation in private systems often prioritise profit, which undermines equity and excludes the most vulnerable. Welfare systems, when properly designed, provide temporary support that helps people rebuild their lives and regain independence. Balanced immigration controls protect fairness and security while supporting economic growth, avoiding the extremes of being overly restrictive. A safety net fosters responsibility by giving people the stability they need to take initiative, rather than discouraging it.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The NHS's size is what ensures universal healthcare, which private systems cannot achieve without leaving vulnerable groups behind."
+                ],
+                [
+                    "___Claim___",
+                    "Regulated competition and innovation in private systems often prioritise profit, which undermines equity and excludes the most vulnerable."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems, when properly designed, provide temporary support that helps people rebuild their lives and regain independence."
+                ],
+                [
+                    "___Claim___",
+                    "Balanced immigration controls protect fairness and security while supporting economic growth, avoiding the extremes of being overly restrictive."
+                ],
+                [
+                    "___Claim___",
+                    "A safety net fosters responsibility by giving people the stability they need to take initiative, rather than discouraging it."
+                ]
+            ]
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "timestamp": "2025-10-04 07:07:56",
+            "sentences_no_utterance_types": "The NHS's size leads to inefficiencies and long wait times, not better service. Private systems can offer equitable care through regulated competition and innovation. Welfare systems often create long-term dependency, not temporary support. Immigration controls can stifle economic growth if they're too restrictive. A safety net can discourage individual responsibility and initiative.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The NHS's size leads to inefficiencies and long wait times, not better service."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems can offer equitable care through regulated competition and innovation."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems often create long-term dependency, not temporary support."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls can stifle economic growth if they're too restrictive."
+                ],
+                [
+                    "___Claim___",
+                    "A safety net can discourage individual responsibility and initiative."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-04 07:08:02",
+            "sentences_no_utterance_types": "The NHS's size ensures universal healthcare, which private systems cannot replicate without leaving gaps in access. Regulated competition and innovation in private systems often prioritise profit, which undermines equity and excludes the most vulnerable. Properly designed welfare systems provide temporary support, enabling people to rebuild their lives and regain independence. Balanced immigration controls protect fairness and security while supporting economic growth, avoiding the extremes of being overly restrictive. A safety net fosters responsibility by giving people the stability they need to take initiative, rather than discouraging it.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The NHS's size ensures universal healthcare, which private systems cannot replicate without leaving gaps in access."
+                ],
+                [
+                    "___Claim___",
+                    "Regulated competition and innovation in private systems often prioritise profit, which undermines equity and excludes the most vulnerable."
+                ],
+                [
+                    "___Claim___",
+                    "Properly designed welfare systems provide temporary support, enabling people to rebuild their lives and regain independence."
+                ],
+                [
+                    "___Claim___",
+                    "Balanced immigration controls protect fairness and security while supporting economic growth, avoiding the extremes of being overly restrictive."
+                ],
+                [
+                    "___Claim___",
+                    "A safety net fosters responsibility by giving people the stability they need to take initiative, rather than discouraging it."
+                ]
+            ]
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "timestamp": "2025-10-04 07:08:09",
+            "sentences_no_utterance_types": "The NHS's size leads to inefficiencies and long wait times, not better service. Private systems can offer equitable care through regulated competition and innovation. Welfare systems often create long-term dependency, not temporary support. Immigration controls can stifle economic growth if they're too restrictive. A safety net can discourage individual responsibility and initiative.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The NHS's size leads to inefficiencies and long wait times, not better service."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems can offer equitable care through regulated competition and innovation."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems often create long-term dependency, not temporary support."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls can stifle economic growth if they're too restrictive."
+                ],
+                [
+                    "___Claim___",
+                    "A safety net can discourage individual responsibility and initiative."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-04 07:08:15",
+            "sentences_no_utterance_types": "The NHS's size ensures universal healthcare, which private systems cannot achieve without leaving vulnerable groups behind. Regulated competition and innovation in private systems often prioritise profit, which undermines equity and excludes the most vulnerable. Welfare systems, when properly designed, provide temporary support that helps people rebuild their lives and regain independence. Balanced immigration controls protect fairness and security while supporting economic growth, avoiding the extremes of being overly restrictive. A safety net fosters responsibility by giving people the stability they need to take initiative, rather than discouraging it.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The NHS's size ensures universal healthcare, which private systems cannot achieve without leaving vulnerable groups behind."
+                ],
+                [
+                    "___Claim___",
+                    "Regulated competition and innovation in private systems often prioritise profit, which undermines equity and excludes the most vulnerable."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems, when properly designed, provide temporary support that helps people rebuild their lives and regain independence."
+                ],
+                [
+                    "___Claim___",
+                    "Balanced immigration controls protect fairness and security while supporting economic growth, avoiding the extremes of being overly restrictive."
+                ],
+                [
+                    "___Claim___",
+                    "A safety net fosters responsibility by giving people the stability they need to take initiative, rather than discouraging it."
+                ]
+            ]
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "timestamp": "2025-10-04 07:08:25",
+            "sentences_no_utterance_types": "The NHS's size leads to inefficiencies and long wait times, not better service. Private systems can offer equitable care through regulated competition and innovation. Welfare systems often create long-term dependency, not temporary support. Immigration controls can stifle economic growth if they're too restrictive. A safety net can discourage individual responsibility and initiative.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The NHS's size leads to inefficiencies and long wait times, not better service."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems can offer equitable care through regulated competition and innovation."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems often create long-term dependency, not temporary support."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls can stifle economic growth if they're too restrictive."
+                ],
+                [
+                    "___Claim___",
+                    "A safety net can discourage individual responsibility and initiative."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-04 07:08:30",
+            "sentences_no_utterance_types": "The NHS's size is what allows it to provide universal healthcare, ensuring no one is excluded, which private systems cannot achieve without leaving gaps in access. Regulated competition and innovation in private systems often prioritise profit, which leads to inequality and neglects the most vulnerable. Welfare systems, when designed effectively, act as a temporary lifeline, helping people regain independence rather than fostering dependency. Balanced immigration controls are crucial for maintaining fairness and security while supporting economic growth. A safety net does not discourage responsibility; it gives people the confidence to take risks and contribute without the fear of falling into destitution.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The NHS's size is what allows it to provide universal healthcare, ensuring no one is excluded, which private systems cannot achieve without leaving gaps in access."
+                ],
+                [
+                    "___Claim___",
+                    "Regulated competition and innovation in private systems often prioritise profit, which leads to inequality and neglects the most vulnerable."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems, when designed effectively, act as a temporary lifeline, helping people regain independence rather than fostering dependency."
+                ],
+                [
+                    "___Claim___",
+                    "Balanced immigration controls are crucial for maintaining fairness and security while supporting economic growth."
+                ],
+                [
+                    "___Claim___",
+                    "A safety net does not discourage responsibility; it gives people the confidence to take risks and contribute without the fear of falling into destitution."
+                ]
+            ]
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "timestamp": "2025-10-04 07:08:37",
+            "sentences_no_utterance_types": "The NHS's size leads to inefficiencies and long wait times, not better service. Private systems can offer equitable care through regulated competition and innovation. Welfare systems often create long-term dependency, not temporary support. Immigration controls can stifle economic growth if they're too restrictive. A safety net can discourage individual responsibility and initiative.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The NHS's size leads to inefficiencies and long wait times, not better service."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems can offer equitable care through regulated competition and innovation."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems often create long-term dependency, not temporary support."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls can stifle economic growth if they're too restrictive."
+                ],
+                [
+                    "___Claim___",
+                    "A safety net can discourage individual responsibility and initiative."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-04 07:08:42",
+            "sentences_no_utterance_types": "The NHS's size ensures universal healthcare, which private systems cannot achieve without leaving vulnerable groups behind. Regulated competition and innovation in private systems often prioritise profit, which leads to inequality and neglects the most vulnerable. Welfare systems, when properly designed, provide temporary support that helps people rebuild their lives and regain independence. Balanced immigration controls protect fairness and security while supporting economic growth, avoiding the extremes of being overly restrictive. A safety net fosters responsibility by giving people the stability they need to take initiative, rather than discouraging it.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The NHS's size ensures universal healthcare, which private systems cannot achieve without leaving vulnerable groups behind."
+                ],
+                [
+                    "___Claim___",
+                    "Regulated competition and innovation in private systems often prioritise profit, which leads to inequality and neglects the most vulnerable."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems, when properly designed, provide temporary support that helps people rebuild their lives and regain independence."
+                ],
+                [
+                    "___Claim___",
+                    "Balanced immigration controls protect fairness and security while supporting economic growth, avoiding the extremes of being overly restrictive."
+                ],
+                [
+                    "___Claim___",
+                    "A safety net fosters responsibility by giving people the stability they need to take initiative, rather than discouraging it."
+                ]
+            ]
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "timestamp": "2025-10-04 07:08:52",
+            "sentences_no_utterance_types": "The NHS's size leads to inefficiencies and long wait times, not better service. Private systems can offer equitable care through regulated competition and innovation. Welfare systems often create long-term dependency, not temporary support. Immigration controls can stifle economic growth if they're too restrictive. A safety net can discourage individual responsibility and initiative.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The NHS's size leads to inefficiencies and long wait times, not better service."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems can offer equitable care through regulated competition and innovation."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems often create long-term dependency, not temporary support."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls can stifle economic growth if they're too restrictive."
+                ],
+                [
+                    "___Claim___",
+                    "A safety net can discourage individual responsibility and initiative."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-04 07:08:58",
+            "sentences_no_utterance_types": "The NHS's size ensures universal healthcare, which private systems cannot replicate without leaving vulnerable groups behind. Regulated competition and innovation in private systems often prioritise profit, which undermines equity and excludes the most vulnerable. Welfare systems, when properly designed, provide temporary support that helps people rebuild their lives and regain independence. Balanced immigration controls protect fairness and security while supporting economic growth, avoiding the extremes of being overly restrictive. A safety net fosters responsibility by giving people the stability they need to take initiative, rather than discouraging it.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The NHS's size ensures universal healthcare, which private systems cannot replicate without leaving vulnerable groups behind."
+                ],
+                [
+                    "___Claim___",
+                    "Regulated competition and innovation in private systems often prioritise profit, which undermines equity and excludes the most vulnerable."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems, when properly designed, provide temporary support that helps people rebuild their lives and regain independence."
+                ],
+                [
+                    "___Claim___",
+                    "Balanced immigration controls protect fairness and security while supporting economic growth, avoiding the extremes of being overly restrictive."
+                ],
+                [
+                    "___Claim___",
+                    "A safety net fosters responsibility by giving people the stability they need to take initiative, rather than discouraging it."
+                ]
+            ]
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "timestamp": "2025-10-04 07:09:10",
+            "sentences_no_utterance_types": "The NHS's size leads to inefficiencies and long wait times, not better service. Private systems can offer equitable care through regulated competition and innovation. Welfare systems often create long-term dependency, not temporary support. Immigration controls can stifle economic growth if they're too restrictive. A safety net can discourage individual responsibility and initiative.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The NHS's size leads to inefficiencies and long wait times, not better service."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems can offer equitable care through regulated competition and innovation."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems often create long-term dependency, not temporary support."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls can stifle economic growth if they're too restrictive."
+                ],
+                [
+                    "___Claim___",
+                    "A safety net can discourage individual responsibility and initiative."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-04 07:09:15",
+            "sentences_no_utterance_types": "The NHS's size ensures universal healthcare, which private systems cannot achieve without leaving vulnerable groups behind. Regulated competition and innovation in private systems often prioritise profit, which undermines equity and excludes the most vulnerable. Properly designed welfare systems provide temporary support that helps people rebuild their lives and regain independence. Balanced immigration controls protect fairness and security while supporting economic growth, avoiding the extremes of being overly restrictive. A safety net fosters responsibility by giving people the stability they need to take initiative, rather than discouraging it.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The NHS's size ensures universal healthcare, which private systems cannot achieve without leaving vulnerable groups behind."
+                ],
+                [
+                    "___Claim___",
+                    "Regulated competition and innovation in private systems often prioritise profit, which undermines equity and excludes the most vulnerable."
+                ],
+                [
+                    "___Claim___",
+                    "Properly designed welfare systems provide temporary support that helps people rebuild their lives and regain independence."
+                ],
+                [
+                    "___Claim___",
+                    "Balanced immigration controls protect fairness and security while supporting economic growth, avoiding the extremes of being overly restrictive."
+                ],
+                [
+                    "___Claim___",
+                    "A safety net fosters responsibility by giving people the stability they need to take initiative, rather than discouraging it."
+                ]
+            ]
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "timestamp": "2025-10-04 07:09:32",
+            "sentences_no_utterance_types": "The NHS's size leads to inefficiencies and long wait times, not better service. Private systems can offer equitable care through regulated competition and innovation. Welfare systems often create long-term dependency, not temporary support. Immigration controls can stifle economic growth if they're too restrictive. A safety net can discourage individual responsibility and initiative.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The NHS's size leads to inefficiencies and long wait times, not better service."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems can offer equitable care through regulated competition and innovation."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems often create long-term dependency, not temporary support."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls can stifle economic growth if they're too restrictive."
+                ],
+                [
+                    "___Claim___",
+                    "A safety net can discourage individual responsibility and initiative."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-04 07:09:38",
+            "sentences_no_utterance_types": "The NHS's size ensures universal healthcare, which private systems cannot achieve without leaving vulnerable groups behind. Regulated competition and innovation in private systems often prioritise profit, which undermines equity and excludes the most vulnerable. Welfare systems, when properly designed, provide temporary support that helps people rebuild their lives and regain independence. Balanced immigration controls protect fairness and security while supporting economic growth, avoiding the extremes of being overly restrictive. A safety net fosters responsibility by giving people the stability they need to take initiative, rather than discouraging it.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The NHS's size ensures universal healthcare, which private systems cannot achieve without leaving vulnerable groups behind."
+                ],
+                [
+                    "___Claim___",
+                    "Regulated competition and innovation in private systems often prioritise profit, which undermines equity and excludes the most vulnerable."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems, when properly designed, provide temporary support that helps people rebuild their lives and regain independence."
+                ],
+                [
+                    "___Claim___",
+                    "Balanced immigration controls protect fairness and security while supporting economic growth, avoiding the extremes of being overly restrictive."
+                ],
+                [
+                    "___Claim___",
+                    "A safety net fosters responsibility by giving people the stability they need to take initiative, rather than discouraging it."
+                ]
+            ]
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "timestamp": "2025-10-04 07:10:07",
+            "sentences_no_utterance_types": "The NHS's size leads to inefficiencies and long wait times, not better service. Private systems can offer equitable care through regulated competition and innovation. Welfare systems often create long-term dependency, not temporary support. Immigration controls can stifle economic growth if they're too restrictive. A safety net can discourage individual responsibility and initiative.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The NHS's size leads to inefficiencies and long wait times, not better service."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems can offer equitable care through regulated competition and innovation."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems often create long-term dependency, not temporary support."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls can stifle economic growth if they're too restrictive."
+                ],
+                [
+                    "___Claim___",
+                    "A safety net can discourage individual responsibility and initiative."
+                ]
+            ]
+        }
+    ],
+    "human_model_name": "",
+    "human_model_seed": 123,
+    "human_model_temp": 0.0,
+    "human_model_top_p": 1.0,
+    "first_speaker_type": "base",
+    "max_dialogue_turns": 40,
+    "second_speaker_type": "base",
+    "max_sentences_per_turn": 5,
+    "first_speaker_utterance": "",
+    "first_speaker_model_name": "gpt-4o",
+    "first_speaker_model_seed": 123,
+    "first_speaker_model_temp": 0.0,
+    "second_speaker_utterance": "The NHS's size leads to inefficiencies and long wait times, not better service. Private systems can offer equitable care through regulated competition and innovation. Welfare systems often create long-term dependency, not temporary support. Immigration controls can stifle economic growth if they're too restrictive. A safety net can discourage individual responsibility and initiative.",
+    "first_speaker_commitments": [
+        "Government intervention is essential in healthcare, immigration, and welfare to ensure fairness and protect the most vulnerable in society.",
+        "Immigration controls ensure fairness and security, balancing the needs of the economy and society.",
+        "Relying on the state for essential services does not negate individual responsibility; it ensures a safety net for those who cannot fend for themselves.",
+        "The NHS's inefficiencies are a challenge, but they stem from underfunding and mismanagement, not the principle of universal healthcare itself.",
+        "Private systems may offer specialised care, but they prioritise profit over equity, leaving many without access.",
+        "Welfare systems do encourage self-sufficiency when designed properly, as they provide a foundation for people to rebuild their lives."
+    ],
+    "first_speaker_model_top_p": 1.0,
+    "second_speaker_model_name": "mistral-medium",
+    "second_speaker_model_seed": 123,
+    "second_speaker_model_temp": 0.0,
+    "second_speaker_commitments": [
+        "Excessive government intervention in healthcare, immigration, and welfare often leads to inefficiencies and stifles individual responsibility.",
+        "Private systems can offer more timely and specialised care.",
+        "Immigration controls can become overly restrictive, harming economic growth.",
+        "The NHS's inefficiencies are a direct result of its size and bureaucracy.",
+        "Private systems can offer equitable care through regulated competition and innovation.",
+        "Welfare systems often create dependency, not independence."
+    ],
+    "second_speaker_model_top_p": 1.0,
+    "first_speaker_original_claim": "Government intervention is essential in healthcare, immigration, and welfare to ensure fairness and protect the most vulnerable in society.",
+    "second_speaker_original_claim": "Excessive government intervention in healthcare, immigration, and welfare often leads to inefficiencies and stifles individual responsibility.",
+    "reason_for_dialogue_termination": {
+        "reason": "Maximum number of dialogue turns reached (40 dialogue turns).",
+        "utterance": null,
+        "utterance_type": null
+    },
+    "first_speaker_graph_rag_examples": [],
+    "second_speaker_graph_rag_examples": [],
+    "utterance_classification_approach": "single-classification",
+    "first_speaker_political_position_std": 10,
+    "second_speaker_political_position_std": 10,
+    "first_speaker_intermediate_generations": [],
+    "first_speaker_political_position_range": "20:40",
+    "second_speaker_intermediate_generations": [],
+    "second_speaker_political_position_range": "60:80",
+    "first_speaker_number_of_graph_rag_examples": 5,
+    "first_speaker_political_position_prob_of_na": 0.25,
+    "second_speaker_number_of_graph_rag_examples": 5,
+    "second_speaker_political_position_prob_of_na": 0.25,
+    "first_speaker_utterance_with_corresponding_types": [],
+    "first_speaker_number_of_vector_based_rag_examples": 100,
+    "second_speaker_utterance_with_corresponding_types": [
+        [
+            "___Claim___",
+            "The NHS's size leads to inefficiencies and long wait times, not better service."
+        ],
+        [
+            "___Claim___",
+            "Private systems can offer equitable care through regulated competition and innovation."
+        ],
+        [
+            "___Claim___",
+            "Welfare systems often create long-term dependency, not temporary support."
+        ],
+        [
+            "___Claim___",
+            "Immigration controls can stifle economic growth if they're too restrictive."
+        ],
+        [
+            "___Claim___",
+            "A safety net can discourage individual responsibility and initiative."
+        ]
+    ],
+    "second_speaker_number_of_vector_based_rag_examples": 100,
+    "utterance_classification_number_of_classifications": 1,
+    "first_speaker_knowledge_base_ensemble_or_model_name": "",
+    "second_speaker_knowledge_base_ensemble_or_model_name": ""
+}

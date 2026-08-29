@@ -1,0 +1,18 @@
+[2025-10-16 15:32:50,071] [INFO] Trying to create session gpt-4o_mas:r__vs__grok-4_mas:l...
+[2025-10-16 15:32:50,103] [INFO] DIALOGUE START: Parent graph invoked, waiting for Langgraph return state...
+[2025-10-16 15:32:50,154] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: gpt-4o_mas, DIALOGUE TURN NUM = 0.
+[2025-10-16 15:32:50,154] [INFO] ENTER: 'MASPromptGenerator' calling 'initial_llm_claim'; CURRENT SPEAKER: gpt-4o_mas, DIALOGUE TURN NUM = 0.
+[2025-10-16 15:32:50,154] [INFO] EXIT: 'MASPromptGenerator' calling 'initial_llm_claim' (3.337860107421875e-06 secs).
+[2025-10-16 15:32:51,168] [INFO] Completion returned and validated from MODEL = 'gpt-4o'.
+[2025-10-16 15:32:51,168] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (1.0140414237976074 secs).
+[2025-10-16 15:32:51,169] [INFO] ENTER: 'MASPromptGenerator' calling 'persuasiveness_choice'; CURRENT SPEAKER: gpt-4o_mas, DIALOGUE TURN NUM = 0.
+[2025-10-16 15:32:51,169] [INFO] EXIT: 'MASPromptGenerator' calling 'persuasiveness_choice' (1.1444091796875e-05 secs).
+[2025-10-16 15:32:51,706] [INFO] Completion returned and validated within 'PersuasivenessChoiceAgent'; MODEL = 'gpt-4o'; DIALOGUE TURN NUM = 0.
+[2025-10-16 15:32:51,707] [INFO] ENTER: 'DisambiguationAgent' calling 'return_disambiguated_sentences'; CURRENT SPEAKER: gpt-4o_mas, DIALOGUE TURN NUM = 0.
+[2025-10-16 15:32:51,707] [INFO] EXIT: 'DisambiguationAgent' calling 'return_disambiguated_sentences' (2.384185791015625e-06 secs).
+[2025-10-16 15:32:51,708] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-10-16 15:32:51,708] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-10-16 15:32:52,273] [INFO] 'commitment_update' completed '___Claim___' update for current speaker's commitments; MODEL = 'gpt-4o'.
+[2025-10-16 15:32:52,329] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-10-16 15:32:52,329] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-10-16 15:32:52,329] [INFO] ENTER: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 1.

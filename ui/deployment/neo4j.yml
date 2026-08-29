@@ -1,0 +1,24 @@
+properties:
+  configuration:
+    activeRevisionsMode: Single
+    ingress:
+      external: false
+      allowInsecure: false
+      targetPort: 7687
+      transport: tcp
+    registries:
+      - server: dsopersuasioneo4j.azurecr.io
+        username: dsopersuasioneo4j
+        passwordSecretRef: registry-password
+    secrets:
+      - name: registry-password
+        value: T0UpZtWj7tz1Ccye8VeKib5e7hPRYbL3CI7/8f5ULA+ACRDaQ2gB
+      - name: neo4j-password
+        value: neo4jdbATILivLeePersuasio4dso
+  template:
+    containers:
+      - name: neo4j
+        image: dsopersuasioneo4j.azurecr.io/neo4j-docker-image:v1
+        resources:
+          cpu: 4
+          memory: 8Gi

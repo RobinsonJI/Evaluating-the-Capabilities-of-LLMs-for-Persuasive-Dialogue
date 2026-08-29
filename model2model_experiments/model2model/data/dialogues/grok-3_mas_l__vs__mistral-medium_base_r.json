@@ -1,0 +1,1066 @@
+{
+    "dialogue_history": [
+        {
+            "speaker": "grok-3_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government intervention in healthcare is crucial to ensure everyone gets access to basic services, no matter their income."
+                ]
+            ],
+            "sentences_no_utterance_types": "Government intervention in healthcare is crucial to ensure everyone gets access to basic services, no matter their income.",
+            "timestamp": "2025-10-08 15:16:46"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government intervention in healthcare leads to inefficiencies and long waiting times, which can be detrimental to patient outcomes."
+                ]
+            ],
+            "sentences_no_utterance_types": "Government intervention in healthcare leads to inefficiencies and long waiting times, which can be detrimental to patient outcomes.",
+            "timestamp": "2025-10-08 15:17:01"
+        },
+        {
+            "speaker": "grok-3_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government intervention in healthcare ensures that critical services are available to all, preventing the dire consequences of untreated conditions."
+                ]
+            ],
+            "sentences_no_utterance_types": "Government intervention in healthcare ensures that critical services are available to all, preventing the dire consequences of untreated conditions.",
+            "timestamp": "2025-10-08 15:17:11"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government intervention often leads to a one-size-fits-all approach, which doesn't account for individual needs."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare allows for more tailored and timely treatments."
+                ],
+                [
+                    "___Claim___",
+                    "Long waiting times in government-run systems can worsen conditions."
+                ],
+                [
+                    "___Claim___",
+                    "Competition in private healthcare drives innovation and better services."
+                ],
+                [
+                    "___Claim___",
+                    "It's not just about access, but about quality and efficiency."
+                ]
+            ],
+            "sentences_no_utterance_types": "Government intervention often leads to a one-size-fits-all approach, which doesn't account for individual needs. Private healthcare allows for more tailored and timely treatments. Long waiting times in government-run systems can worsen conditions. Competition in private healthcare drives innovation and better services. It's not just about access, but about quality and efficiency.",
+            "timestamp": "2025-10-08 15:19:05"
+        },
+        {
+            "speaker": "grok-3_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Question___",
+                    "How can you justify that private healthcare competition improves services when it often prioritises profit over patient care?"
+                ],
+                [
+                    "___Question___",
+                    "How can you justify the claim that private healthcare offers better tailored treatments when many can\u2019t afford access to it?"
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention in healthcare allows for standardised care that ensures no one falls through the cracks due to personal circumstances."
+                ],
+                [
+                    "___Claim___",
+                    "Competition in private healthcare often prioritises profit over patient care, leading to unequal access and substandard services for those who can't pay."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare competition can fragment the system, creating inefficiencies and leaving gaps in care for vulnerable communities."
+                ]
+            ],
+            "sentences_no_utterance_types": "How can you justify that private healthcare competition improves services when it often prioritises profit over patient care? How can you justify the claim that private healthcare offers better tailored treatments when many can\u2019t afford access to it? Government intervention in healthcare allows for standardised care that ensures no one falls through the cracks due to personal circumstances. Competition in private healthcare often prioritises profit over patient care, leading to unequal access and substandard services for those who can't pay. Private healthcare competition can fragment the system, creating inefficiencies and leaving gaps in care for vulnerable communities.",
+            "timestamp": "2025-10-08 15:22:01"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Private healthcare competition improves services by driving innovation and efficiency."
+                ],
+                [
+                    "___Since___",
+                    "Profit motives can lead to better patient care as providers strive to attract and retain customers."
+                ],
+                [
+                    "___Since___",
+                    "Tailored treatments are more feasible in private healthcare due to the ability to choose and pay for specific services."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention often leads to standardised care that can overlook individual needs."
+                ],
+                [
+                    "___Claim___",
+                    "A mixed system can ensure basic access while allowing for private options to fill gaps."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare competition improves services by driving innovation and efficiency. Profit motives can lead to better patient care as providers strive to attract and retain customers. Tailored treatments are more feasible in private healthcare due to the ability to choose and pay for specific services. Government intervention often leads to standardised care that can overlook individual needs. A mixed system can ensure basic access while allowing for private options to fill gaps.",
+            "timestamp": "2025-10-08 15:26:02"
+        },
+        {
+            "speaker": "grok-3_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "A mixed system in healthcare creates a dangerous divide where the wealthy get premium care while the poor are left with underfunded public services."
+                ],
+                [
+                    "___Question___",
+                    "How can you be sure that a mixed system won\u2019t just create a two-tier healthcare setup where the wealthy get better care while the poor are stuck with underfunded public services?"
+                ],
+                [
+                    "___Claim___",
+                    "Far from overlooking needs, government-driven healthcare systems focus on the collective good, ensuring no one is denied critical support due to financial barriers."
+                ],
+                [
+                    "___Claim___",
+                    "When profit drives healthcare, vulnerable patients who can't pay top prices are left with substandard treatment or no care at all."
+                ],
+                [
+                    "___Claim___",
+                    "Relying on competition in private healthcare risks creating a fragmented system where quality varies wildly based on wealth, not need."
+                ]
+            ],
+            "sentences_no_utterance_types": "A mixed system in healthcare creates a dangerous divide where the wealthy get premium care while the poor are left with underfunded public services. How can you be sure that a mixed system won\u2019t just create a two-tier healthcare setup where the wealthy get better care while the poor are stuck with underfunded public services? Far from overlooking needs, government-driven healthcare systems focus on the collective good, ensuring no one is denied critical support due to financial barriers. When profit drives healthcare, vulnerable patients who can't pay top prices are left with substandard treatment or no care at all. Relying on competition in private healthcare risks creating a fragmented system where quality varies wildly based on wealth, not need.",
+            "timestamp": "2025-10-08 15:29:38"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "A mixed system can ensure basic access while allowing for private options to fill gaps."
+                ],
+                [
+                    "___Claim___",
+                    "Government-driven healthcare often leads to long waiting times and inefficiencies."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare can drive innovation and better services through competition."
+                ],
+                [
+                    "___Since___",
+                    "Profit motives can lead to better patient care as providers strive to attract and retain customers."
+                ],
+                [
+                    "___Since___",
+                    "Standardised care can overlook individual needs, which private options can address."
+                ]
+            ],
+            "sentences_no_utterance_types": "A mixed system can ensure basic access while allowing for private options to fill gaps. Government-driven healthcare often leads to long waiting times and inefficiencies. Private healthcare can drive innovation and better services through competition. Profit motives can lead to better patient care as providers strive to attract and retain customers. Standardised care can overlook individual needs, which private options can address.",
+            "timestamp": "2025-10-08 15:32:06"
+        },
+        {
+            "speaker": "grok-3_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government-driven healthcare prioritises equitable access, ensuring that even the most vulnerable receive timely care when it matters most."
+                ],
+                [
+                    "___Claim___",
+                    "Long waiting times are a myth when government systems are properly funded, delivering essential services without the chaos of private competition."
+                ],
+                [
+                    "___Claim___",
+                    "A mixed system in healthcare only deepens inequality by letting the rich buy better care while the poor are stuck with crumbling public services."
+                ],
+                [
+                    "___Claim___",
+                    "Government-led healthcare drives innovation through collective investment in research and equitable access, not through a cut-throat race for profit."
+                ],
+                [
+                    "___Claim___",
+                    "When profit drives healthcare, patients are treated as customers rather than people in need, resulting in prioritised sales over genuine care."
+                ]
+            ],
+            "sentences_no_utterance_types": "Government-driven healthcare prioritises equitable access, ensuring that even the most vulnerable receive timely care when it matters most. Long waiting times are a myth when government systems are properly funded, delivering essential services without the chaos of private competition. A mixed system in healthcare only deepens inequality by letting the rich buy better care while the poor are stuck with crumbling public services. Government-led healthcare drives innovation through collective investment in research and equitable access, not through a cut-throat race for profit. When profit drives healthcare, patients are treated as customers rather than people in need, resulting in prioritised sales over genuine care.",
+            "timestamp": "2025-10-08 15:33:09"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Properly funded government systems often still face inefficiencies and long waiting times."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare competition drives innovation and better services."
+                ],
+                [
+                    "___Claim___",
+                    "Profit motives can lead to better patient care as providers strive to attract and retain customers."
+                ],
+                [
+                    "___Claim___",
+                    "A mixed system can ensure basic access while allowing for private options to fill gaps."
+                ],
+                [
+                    "___Claim___",
+                    "Government-led healthcare can overlook individual needs, which private options can address."
+                ]
+            ],
+            "sentences_no_utterance_types": "Properly funded government systems often still face inefficiencies and long waiting times. Private healthcare competition drives innovation and better services. Profit motives can lead to better patient care as providers strive to attract and retain customers. A mixed system can ensure basic access while allowing for private options to fill gaps. Government-led healthcare can overlook individual needs, which private options can address.",
+            "timestamp": "2025-10-08 15:34:39"
+        },
+        {
+            "speaker": "grok-3_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Relying on private healthcare competition leads to patchy services, where only the wealthy benefit while the majority are left with inadequate care."
+                ],
+                [
+                    "___Claim___",
+                    "Government must fully commit to public healthcare to ensure no one is left behind, rather than allowing private systems to cherry-pick profitable patients."
+                ],
+                [
+                    "___Claim___",
+                    "Healthcare driven by profit risks turning patients into mere revenue sources, undermining the fundamental duty to care for all."
+                ],
+                [
+                    "___Claim___",
+                    "Government-led healthcare drives better innovation and services through collective funding and a focus on equality, not profit-driven agendas."
+                ],
+                [
+                    "___Claim___",
+                    "With adequate resources, government healthcare eliminates long waiting times and ensures everyone gets timely treatment."
+                ]
+            ],
+            "sentences_no_utterance_types": "Relying on private healthcare competition leads to patchy services, where only the wealthy benefit while the majority are left with inadequate care. Government must fully commit to public healthcare to ensure no one is left behind, rather than allowing private systems to cherry-pick profitable patients. Healthcare driven by profit risks turning patients into mere revenue sources, undermining the fundamental duty to care for all. Government-led healthcare drives better innovation and services through collective funding and a focus on equality, not profit-driven agendas. With adequate resources, government healthcare eliminates long waiting times and ensures everyone gets timely treatment.",
+            "timestamp": "2025-10-08 15:35:30"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private healthcare competition drives innovation and better services."
+                ],
+                [
+                    "___Claim___",
+                    "Profit motives can lead to better patient care as providers strive to attract and retain customers."
+                ],
+                [
+                    "___Claim___",
+                    "Government-led healthcare often leads to inefficiencies and long waiting times."
+                ],
+                [
+                    "___Claim___",
+                    "A mixed system can ensure basic access while allowing for private options to fill gaps."
+                ],
+                [
+                    "___Claim___",
+                    "Standardised care can overlook individual needs, which private options can address."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare competition drives innovation and better services. Profit motives can lead to better patient care as providers strive to attract and retain customers. Government-led healthcare often leads to inefficiencies and long waiting times. A mixed system can ensure basic access while allowing for private options to fill gaps. Standardised care can overlook individual needs, which private options can address.",
+            "timestamp": "2025-10-08 15:36:13"
+        },
+        {
+            "speaker": "grok-3_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Question___",
+                    "How can you claim that standardised care overlooks individual needs when government systems are designed to prioritise equitable treatment for all?"
+                ],
+                [
+                    "___Question___",
+                    "How can you claim that profit motives lead to better patient care when many providers cut corners to maximise earnings at the expense of vulnerable patients?"
+                ],
+                [
+                    "___Claim___",
+                    "Healthcare driven by profit turns patients into mere revenue streams, undermining the core principle of equal care for all."
+                ],
+                [
+                    "___Claim___",
+                    "Government must fully fund and manage healthcare to guarantee equal access, rather than leaving gaps for private profiteers to exploit."
+                ],
+                [
+                    "___Claim___",
+                    "Relying on private healthcare competition leads to fragmented services, where quality hinges on wealth rather than delivering better care for everyone."
+                ]
+            ],
+            "sentences_no_utterance_types": "How can you claim that standardised care overlooks individual needs when government systems are designed to prioritise equitable treatment for all? How can you claim that profit motives lead to better patient care when many providers cut corners to maximise earnings at the expense of vulnerable patients? Healthcare driven by profit turns patients into mere revenue streams, undermining the core principle of equal care for all. Government must fully fund and manage healthcare to guarantee equal access, rather than leaving gaps for private profiteers to exploit. Relying on private healthcare competition leads to fragmented services, where quality hinges on wealth rather than delivering better care for everyone.",
+            "timestamp": "2025-10-08 15:38:17"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Standardised care often fails to address unique patient needs, leading to inefficiencies."
+                ],
+                [
+                    "___Claim___",
+                    "Profit motives drive better patient care as providers compete to offer superior services."
+                ],
+                [
+                    "___Since___",
+                    "Government systems can be slow to adapt to individual requirements."
+                ],
+                [
+                    "___Claim___",
+                    "Private options allow for tailored treatments that public systems may overlook."
+                ],
+                [
+                    "___Claim___",
+                    "Competition in private healthcare ensures continuous improvement and innovation."
+                ]
+            ],
+            "sentences_no_utterance_types": "Standardised care often fails to address unique patient needs, leading to inefficiencies. Profit motives drive better patient care as providers compete to offer superior services. Government systems can be slow to adapt to individual requirements. Private options allow for tailored treatments that public systems may overlook. Competition in private healthcare ensures continuous improvement and innovation.",
+            "timestamp": "2025-10-08 15:41:01"
+        },
+        {
+            "speaker": "grok-3_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Relying on private healthcare for tailored treatments creates a dangerous gap where only the rich can afford personalised care, leaving the rest with inadequate support."
+                ],
+                [
+                    "___Claim___",
+                    "Government-led healthcare drives meaningful innovation through collective investment, unlike private competition which prioritises wealthy clients over universal progress."
+                ],
+                [
+                    "___Claim___",
+                    "Public healthcare systems are built to address the diverse needs of the entire population, ensuring no one is overlooked due to financial barriers."
+                ],
+                [
+                    "___Claim___",
+                    "When profit drives healthcare, patients are reduced to mere customers, with treatment quality depending on their ability to pay rather than their needs."
+                ],
+                [
+                    "___Claim___",
+                    "Standardised care in government-led healthcare ensures that every patient receives a consistent level of treatment, avoiding the chaos of patchy private services."
+                ]
+            ],
+            "sentences_no_utterance_types": "Relying on private healthcare for tailored treatments creates a dangerous gap where only the rich can afford personalised care, leaving the rest with inadequate support. Government-led healthcare drives meaningful innovation through collective investment, unlike private competition which prioritises wealthy clients over universal progress. Public healthcare systems are built to address the diverse needs of the entire population, ensuring no one is overlooked due to financial barriers. When profit drives healthcare, patients are reduced to mere customers, with treatment quality depending on their ability to pay rather than their needs. Standardised care in government-led healthcare ensures that every patient receives a consistent level of treatment, avoiding the chaos of patchy private services.",
+            "timestamp": "2025-10-08 15:41:58"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private healthcare allows for more tailored and timely treatments."
+                ],
+                [
+                    "___Claim___",
+                    "Competition in private healthcare drives innovation and better services."
+                ],
+                [
+                    "___Claim___",
+                    "Profit motives can lead to better patient care as providers strive to attract and retain customers."
+                ],
+                [
+                    "___Claim___",
+                    "Government-led healthcare often leads to long waiting times and inefficiencies."
+                ],
+                [
+                    "___Claim___",
+                    "A mixed system can ensure basic access while allowing for private options to fill gaps."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare allows for more tailored and timely treatments. Competition in private healthcare drives innovation and better services. Profit motives can lead to better patient care as providers strive to attract and retain customers. Government-led healthcare often leads to long waiting times and inefficiencies. A mixed system can ensure basic access while allowing for private options to fill gaps.",
+            "timestamp": "2025-10-08 15:42:05"
+        },
+        {
+            "speaker": "grok-3_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government-led healthcare ensures fairer access to timely and appropriate treatments, regardless of wealth or status."
+                ],
+                [
+                    "___Claim___",
+                    "When profit drives healthcare, essential treatments are priced out of reach for many, leaving vulnerable people with substandard or no care at all."
+                ],
+                [
+                    "___Question___",
+                    "How can you argue that profit motives lead to better patient care when many providers prioritise cutting costs over quality treatment for those who can't pay premium rates?"
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare often fails to deliver tailored treatments because it prioritises profit over individual patient needs."
+                ],
+                [
+                    "___Claim___",
+                    "Relying on private competition risks fragmenting healthcare, creating a system where innovation serves the elite instead of benefiting everyone equally."
+                ]
+            ],
+            "sentences_no_utterance_types": "Government-led healthcare ensures fairer access to timely and appropriate treatments, regardless of wealth or status. When profit drives healthcare, essential treatments are priced out of reach for many, leaving vulnerable people with substandard or no care at all. How can you argue that profit motives lead to better patient care when many providers prioritise cutting costs over quality treatment for those who can't pay premium rates? Private healthcare often fails to deliver tailored treatments because it prioritises profit over individual patient needs. Relying on private competition risks fragmenting healthcare, creating a system where innovation serves the elite instead of benefiting everyone equally.",
+            "timestamp": "2025-10-08 15:42:58"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private healthcare competition drives innovation and better services."
+                ],
+                [
+                    "___Claim___",
+                    "Profit motives can lead to better patient care as providers strive to attract and retain customers."
+                ],
+                [
+                    "___Claim___",
+                    "Government-led healthcare often leads to inefficiencies and long waiting times."
+                ],
+                [
+                    "___Claim___",
+                    "A mixed system can ensure basic access while allowing for private options to fill gaps."
+                ],
+                [
+                    "___Claim___",
+                    "Standardised care can overlook individual needs, which private options can address."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare competition drives innovation and better services. Profit motives can lead to better patient care as providers strive to attract and retain customers. Government-led healthcare often leads to inefficiencies and long waiting times. A mixed system can ensure basic access while allowing for private options to fill gaps. Standardised care can overlook individual needs, which private options can address.",
+            "timestamp": "2025-10-08 15:45:09"
+        },
+        {
+            "speaker": "grok-3_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government must fully control healthcare to ensure equal access, rather than allowing private systems to cherry-pick profitable patients."
+                ],
+                [
+                    "___Claim___",
+                    "Government-led healthcare drives better innovation through collective funding, ensuring advancements benefit everyone, not just those who can pay."
+                ],
+                [
+                    "___Claim___",
+                    "When healthcare is driven by profit, patients are treated as mere revenue sources, not people in desperate need of help."
+                ],
+                [
+                    "___Claim___",
+                    "Government-led healthcare delivers efficient services when properly funded, ensuring timely treatment for all who need it."
+                ],
+                [
+                    "___Question___",
+                    "How can you insist that government-led healthcare leads to inefficiencies when properly funded systems can deliver timely care to all?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Government must fully control healthcare to ensure equal access, rather than allowing private systems to cherry-pick profitable patients. Government-led healthcare drives better innovation through collective funding, ensuring advancements benefit everyone, not just those who can pay. When healthcare is driven by profit, patients are treated as mere revenue sources, not people in desperate need of help. Government-led healthcare delivers efficient services when properly funded, ensuring timely treatment for all who need it. How can you insist that government-led healthcare leads to inefficiencies when properly funded systems can deliver timely care to all?",
+            "timestamp": "2025-10-08 15:45:58"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private healthcare competition drives innovation and better services."
+                ],
+                [
+                    "___Claim___",
+                    "Profit motives can lead to better patient care as providers strive to attract and retain customers."
+                ],
+                [
+                    "___Claim___",
+                    "Government-led healthcare often leads to inefficiencies and long waiting times."
+                ],
+                [
+                    "___Claim___",
+                    "A mixed system can ensure basic access while allowing for private options to fill gaps."
+                ],
+                [
+                    "___Claim___",
+                    "Standardised care can overlook individual needs, which private options can address."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare competition drives innovation and better services. Profit motives can lead to better patient care as providers strive to attract and retain customers. Government-led healthcare often leads to inefficiencies and long waiting times. A mixed system can ensure basic access while allowing for private options to fill gaps. Standardised care can overlook individual needs, which private options can address.",
+            "timestamp": "2025-10-08 15:46:35"
+        },
+        {
+            "speaker": "grok-3_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government-led healthcare drives superior innovation and services through collective investment, ensuring benefits reach everyone, not just the privileged few."
+                ],
+                [
+                    "___Claim___",
+                    "When profit drives healthcare, patients are seen as revenue rather than people in need, resulting in substandard treatment for those who can't pay more."
+                ],
+                [
+                    "___Claim___",
+                    "Government-led healthcare delivers efficient services when properly funded, slashing waiting times and ensuring everyone gets timely care."
+                ],
+                [
+                    "___Claim___",
+                    "Government must fully oversee healthcare to ensure equal access, rather than letting private systems exploit gaps for profit."
+                ],
+                [
+                    "___Claim___",
+                    "Healthcare based on profit creates a system where quality depends on wealth, leaving the vulnerable with inadequate care while the rich get prioritised."
+                ]
+            ],
+            "sentences_no_utterance_types": "Government-led healthcare drives superior innovation and services through collective investment, ensuring benefits reach everyone, not just the privileged few. When profit drives healthcare, patients are seen as revenue rather than people in need, resulting in substandard treatment for those who can't pay more. Government-led healthcare delivers efficient services when properly funded, slashing waiting times and ensuring everyone gets timely care. Government must fully oversee healthcare to ensure equal access, rather than letting private systems exploit gaps for profit. Healthcare based on profit creates a system where quality depends on wealth, leaving the vulnerable with inadequate care while the rich get prioritised.",
+            "timestamp": "2025-10-08 15:49:42"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private healthcare competition drives innovation and better services."
+                ],
+                [
+                    "___Claim___",
+                    "Profit motives can lead to better patient care as providers strive to attract and retain customers."
+                ],
+                [
+                    "___Claim___",
+                    "Government-led healthcare often leads to inefficiencies and long waiting times."
+                ],
+                [
+                    "___Claim___",
+                    "A mixed system can ensure basic access while allowing for private options to fill gaps."
+                ],
+                [
+                    "___Claim___",
+                    "Standardised care can overlook individual needs, which private options can address."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare competition drives innovation and better services. Profit motives can lead to better patient care as providers strive to attract and retain customers. Government-led healthcare often leads to inefficiencies and long waiting times. A mixed system can ensure basic access while allowing for private options to fill gaps. Standardised care can overlook individual needs, which private options can address.",
+            "timestamp": "2025-10-08 15:49:53"
+        },
+        {
+            "speaker": "grok-3_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government-led healthcare drives superior innovation and equitable services through collective funding, ensuring advancements benefit everyone, not just the rich."
+                ],
+                [
+                    "___Claim___",
+                    "When healthcare is driven by profit, patients are treated as mere revenue sources, not people needing genuine help."
+                ],
+                [
+                    "___Claim___",
+                    "Government-led healthcare delivers swift and efficient care when properly funded, ensuring no one is left waiting in desperation."
+                ],
+                [
+                    "___Question___",
+                    "How can you argue that profit motives lead to better patient care when many providers prioritise cost-cutting over quality for those who can't pay top prices?"
+                ],
+                [
+                    "___Claim___",
+                    "Relying on private options to fill gaps creates a two-tier system where quality care is reserved for those who can pay."
+                ]
+            ],
+            "sentences_no_utterance_types": "Government-led healthcare drives superior innovation and equitable services through collective funding, ensuring advancements benefit everyone, not just the rich. When healthcare is driven by profit, patients are treated as mere revenue sources, not people needing genuine help. Government-led healthcare delivers swift and efficient care when properly funded, ensuring no one is left waiting in desperation. How can you argue that profit motives lead to better patient care when many providers prioritise cost-cutting over quality for those who can't pay top prices? Relying on private options to fill gaps creates a two-tier system where quality care is reserved for those who can pay.",
+            "timestamp": "2025-10-08 15:51:07"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private healthcare competition drives innovation and better services."
+                ],
+                [
+                    "___Since___",
+                    "Profit motives can lead to better patient care as providers strive to attract and retain customers."
+                ],
+                [
+                    "___Claim___",
+                    "Government-led healthcare often leads to inefficiencies and long waiting times."
+                ],
+                [
+                    "___Claim___",
+                    "A mixed system can ensure basic access while allowing for private options to fill gaps."
+                ],
+                [
+                    "___Claim___",
+                    "Standardised care can overlook individual needs, which private options can address."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare competition drives innovation and better services. Profit motives can lead to better patient care as providers strive to attract and retain customers. Government-led healthcare often leads to inefficiencies and long waiting times. A mixed system can ensure basic access while allowing for private options to fill gaps. Standardised care can overlook individual needs, which private options can address.",
+            "timestamp": "2025-10-08 15:51:45"
+        },
+        {
+            "speaker": "grok-3_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government-led healthcare delivers efficient services when properly funded, ensuring timely treatment for everyone who needs it."
+                ],
+                [
+                    "___Claim___",
+                    "Allowing private options to fill gaps creates a two-tier system where quality care is reserved for those who can afford it."
+                ],
+                [
+                    "___Claim___",
+                    "Public healthcare systems prioritise equal access, proving far more effective than fragmented private setups when supported adequately."
+                ],
+                [
+                    "___Claim___",
+                    "Healthcare based on profit prioritises wealthy clients over the vulnerable, leaving many with substandard or no care at all."
+                ],
+                [
+                    "___Claim___",
+                    "Government-led healthcare drives superior innovation and consistent services through collective funding, ensuring benefits reach everyone, not just those who can pay."
+                ]
+            ],
+            "sentences_no_utterance_types": "Government-led healthcare delivers efficient services when properly funded, ensuring timely treatment for everyone who needs it. Allowing private options to fill gaps creates a two-tier system where quality care is reserved for those who can afford it. Public healthcare systems prioritise equal access, proving far more effective than fragmented private setups when supported adequately. Healthcare based on profit prioritises wealthy clients over the vulnerable, leaving many with substandard or no care at all. Government-led healthcare drives superior innovation and consistent services through collective funding, ensuring benefits reach everyone, not just those who can pay.",
+            "timestamp": "2025-10-08 15:52:49"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private healthcare competition drives innovation and better services."
+                ],
+                [
+                    "___Since___",
+                    "Profit motives can lead to better patient care as providers strive to attract and retain customers."
+                ],
+                [
+                    "___Claim___",
+                    "Government-led healthcare often leads to inefficiencies and long waiting times."
+                ],
+                [
+                    "___Claim___",
+                    "A mixed system can ensure basic access while allowing for private options to fill gaps."
+                ],
+                [
+                    "___Claim___",
+                    "Standardised care can overlook individual needs, which private options can address."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare competition drives innovation and better services. Profit motives can lead to better patient care as providers strive to attract and retain customers. Government-led healthcare often leads to inefficiencies and long waiting times. A mixed system can ensure basic access while allowing for private options to fill gaps. Standardised care can overlook individual needs, which private options can address.",
+            "timestamp": "2025-10-08 15:54:05"
+        },
+        {
+            "speaker": "grok-3_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government must fully control healthcare to ensure equal access for everyone, rather than letting private systems exploit gaps for profit."
+                ],
+                [
+                    "___Claim___",
+                    "Government-led healthcare drives superior innovation and consistent services through collective funding, ensuring benefits reach everyone, not just the privileged few."
+                ],
+                [
+                    "___Claim___",
+                    "Government-led healthcare delivers swift and efficient care when properly funded, ensuring no one is left waiting in desperation."
+                ],
+                [
+                    "___Claim___",
+                    "Public healthcare systems are designed to adapt to diverse patient requirements through collective resources, far outweighing the patchy offerings of private setups."
+                ],
+                [
+                    "___Claim___",
+                    "Relying on private options to fill gaps leads to a fragmented system where quality of care depends on your bank balance, not your needs."
+                ]
+            ],
+            "sentences_no_utterance_types": "Government must fully control healthcare to ensure equal access for everyone, rather than letting private systems exploit gaps for profit. Government-led healthcare drives superior innovation and consistent services through collective funding, ensuring benefits reach everyone, not just the privileged few. Government-led healthcare delivers swift and efficient care when properly funded, ensuring no one is left waiting in desperation. Public healthcare systems are designed to adapt to diverse patient requirements through collective resources, far outweighing the patchy offerings of private setups. Relying on private options to fill gaps leads to a fragmented system where quality of care depends on your bank balance, not your needs.",
+            "timestamp": "2025-10-08 15:57:00"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private healthcare competition drives innovation and better services."
+                ],
+                [
+                    "___Since___",
+                    "Profit motives can lead to better patient care as providers strive to attract and retain customers."
+                ],
+                [
+                    "___Claim___",
+                    "Government-led healthcare often leads to inefficiencies and long waiting times."
+                ],
+                [
+                    "___Claim___",
+                    "A mixed system can ensure basic access while allowing for private options to fill gaps."
+                ],
+                [
+                    "___Claim___",
+                    "Standardised care can overlook individual needs, which private options can address."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare competition drives innovation and better services. Profit motives can lead to better patient care as providers strive to attract and retain customers. Government-led healthcare often leads to inefficiencies and long waiting times. A mixed system can ensure basic access while allowing for private options to fill gaps. Standardised care can overlook individual needs, which private options can address.",
+            "timestamp": "2025-10-08 15:59:35"
+        },
+        {
+            "speaker": "grok-3_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Question___",
+                    "What evidence do you have to support that profit motives enhance patient care when private systems frequently cherry-pick profitable patients and neglect the rest?"
+                ],
+                [
+                    "___Claim___",
+                    "Relying on private healthcare competition leads to uneven services, where only the wealthy get cutting-edge care while the rest are left behind."
+                ],
+                [
+                    "___Claim___",
+                    "Government-led healthcare delivers swift and efficient care when properly funded, ensuring no one is left waiting in desperation."
+                ],
+                [
+                    "___Claim___",
+                    "A mixed system in healthcare only creates a stark divide where the wealthy get top-notch care while the poor are stuck with underfunded public services."
+                ],
+                [
+                    "___Claim___",
+                    "Government must fully oversee healthcare to ensure equal access for everyone, rather than letting private systems exploit gaps for profit."
+                ]
+            ],
+            "sentences_no_utterance_types": "What evidence do you have to support that profit motives enhance patient care when private systems frequently cherry-pick profitable patients and neglect the rest? Relying on private healthcare competition leads to uneven services, where only the wealthy get cutting-edge care while the rest are left behind. Government-led healthcare delivers swift and efficient care when properly funded, ensuring no one is left waiting in desperation. A mixed system in healthcare only creates a stark divide where the wealthy get top-notch care while the poor are stuck with underfunded public services. Government must fully oversee healthcare to ensure equal access for everyone, rather than letting private systems exploit gaps for profit.",
+            "timestamp": "2025-10-08 16:00:38"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Profit motives enhance patient care by driving providers to offer superior services to attract and retain customers."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare competition leads to innovation and better services."
+                ],
+                [
+                    "___Claim___",
+                    "Government-led healthcare often results in inefficiencies and long waiting times."
+                ],
+                [
+                    "___Claim___",
+                    "A mixed system ensures basic access while allowing private options to fill gaps."
+                ],
+                [
+                    "___Claim___",
+                    "Standardised care can overlook individual needs, which private options can address."
+                ]
+            ],
+            "sentences_no_utterance_types": "Profit motives enhance patient care by driving providers to offer superior services to attract and retain customers. Private healthcare competition leads to innovation and better services. Government-led healthcare often results in inefficiencies and long waiting times. A mixed system ensures basic access while allowing private options to fill gaps. Standardised care can overlook individual needs, which private options can address.",
+            "timestamp": "2025-10-08 16:00:45"
+        },
+        {
+            "speaker": "grok-3_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government-led healthcare drives better innovation through collective funding, ensuring advancements benefit everyone, not just the wealthy elite."
+                ],
+                [
+                    "___Claim___",
+                    "Government must fully control healthcare to ensure equal access for everyone, rather than allowing private systems to exploit gaps for profit."
+                ],
+                [
+                    "___Claim___",
+                    "Government-led healthcare ensures standardised care that prioritises equitable treatment, adapting to individual needs through comprehensive public resources."
+                ],
+                [
+                    "___Claim___",
+                    "Government-led healthcare delivers swift and efficient care when properly funded, ensuring no one is left waiting in desperation."
+                ],
+                [
+                    "___Question___",
+                    "How can you claim that government-led healthcare results in inefficiencies when properly funded systems are proving they can deliver timely care across the board?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Government-led healthcare drives better innovation through collective funding, ensuring advancements benefit everyone, not just the wealthy elite. Government must fully control healthcare to ensure equal access for everyone, rather than allowing private systems to exploit gaps for profit. Government-led healthcare ensures standardised care that prioritises equitable treatment, adapting to individual needs through comprehensive public resources. Government-led healthcare delivers swift and efficient care when properly funded, ensuring no one is left waiting in desperation. How can you claim that government-led healthcare results in inefficiencies when properly funded systems are proving they can deliver timely care across the board?",
+            "timestamp": "2025-10-08 16:03:28"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private healthcare competition drives innovation and better services."
+                ],
+                [
+                    "___Claim___",
+                    "Profit motives can lead to better patient care as providers strive to attract and retain customers."
+                ],
+                [
+                    "___Claim___",
+                    "Government-led healthcare often leads to inefficiencies and long waiting times."
+                ],
+                [
+                    "___Claim___",
+                    "A mixed system can ensure basic access while allowing for private options to fill gaps."
+                ],
+                [
+                    "___Claim___",
+                    "Standardised care can overlook individual needs, which private options can address."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare competition drives innovation and better services. Profit motives can lead to better patient care as providers strive to attract and retain customers. Government-led healthcare often leads to inefficiencies and long waiting times. A mixed system can ensure basic access while allowing for private options to fill gaps. Standardised care can overlook individual needs, which private options can address.",
+            "timestamp": "2025-10-08 16:03:44"
+        },
+        {
+            "speaker": "grok-3_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "When healthcare is driven by profit, patients are treated as revenue sources rather than people in need, resulting in substandard treatment for those who can't pay."
+                ],
+                [
+                    "___Claim___",
+                    "Government must fully control healthcare to ensure equal access for everyone, rather than allowing private systems to exploit gaps for profit."
+                ],
+                [
+                    "___Claim___",
+                    "Relying on profit-driven providers risks creating a system where care quality depends on wealth, leaving many with inadequate support while the rich get prioritised."
+                ],
+                [
+                    "___Claim___",
+                    "Government-led healthcare delivers swift and efficient care when properly funded, ensuring no one is left waiting in desperation."
+                ],
+                [
+                    "___Claim___",
+                    "Public healthcare systems prioritise timely treatment for all, outperforming the patchy delays often seen in profit-driven setups."
+                ]
+            ],
+            "sentences_no_utterance_types": "When healthcare is driven by profit, patients are treated as revenue sources rather than people in need, resulting in substandard treatment for those who can't pay. Government must fully control healthcare to ensure equal access for everyone, rather than allowing private systems to exploit gaps for profit. Relying on profit-driven providers risks creating a system where care quality depends on wealth, leaving many with inadequate support while the rich get prioritised. Government-led healthcare delivers swift and efficient care when properly funded, ensuring no one is left waiting in desperation. Public healthcare systems prioritise timely treatment for all, outperforming the patchy delays often seen in profit-driven setups.",
+            "timestamp": "2025-10-08 16:04:59"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private healthcare competition drives innovation and better services."
+                ],
+                [
+                    "___Claim___",
+                    "Profit motives can lead to better patient care as providers strive to attract and retain customers."
+                ],
+                [
+                    "___Claim___",
+                    "Government-led healthcare often leads to inefficiencies and long waiting times."
+                ],
+                [
+                    "___Claim___",
+                    "A mixed system can ensure basic access while allowing for private options to fill gaps."
+                ],
+                [
+                    "___Claim___",
+                    "Standardised care can overlook individual needs, which private options can address."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare competition drives innovation and better services. Profit motives can lead to better patient care as providers strive to attract and retain customers. Government-led healthcare often leads to inefficiencies and long waiting times. A mixed system can ensure basic access while allowing for private options to fill gaps. Standardised care can overlook individual needs, which private options can address.",
+            "timestamp": "2025-10-08 16:06:54"
+        },
+        {
+            "speaker": "grok-3_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Relying on profit-driven healthcare risks turning patients into mere revenue sources, undermining the fundamental duty to provide equal care for all."
+                ],
+                [
+                    "___Claim___",
+                    "Government-led healthcare drives better innovation through collective funding, ensuring advancements benefit everyone, not just the wealthy elite."
+                ],
+                [
+                    "___Claim___",
+                    "Government must fully control healthcare to ensure equal access for everyone, rather than allowing private systems to exploit gaps for profit."
+                ],
+                [
+                    "___Claim___",
+                    "A mixed system in healthcare creates a dangerous divide where the wealthy get premium care while the poor are stuck with underfunded public services."
+                ],
+                [
+                    "___Claim___",
+                    "Government-led healthcare delivers swift and efficient care when properly funded, ensuring no one is left waiting in desperation."
+                ]
+            ],
+            "sentences_no_utterance_types": "Relying on profit-driven healthcare risks turning patients into mere revenue sources, undermining the fundamental duty to provide equal care for all. Government-led healthcare drives better innovation through collective funding, ensuring advancements benefit everyone, not just the wealthy elite. Government must fully control healthcare to ensure equal access for everyone, rather than allowing private systems to exploit gaps for profit. A mixed system in healthcare creates a dangerous divide where the wealthy get premium care while the poor are stuck with underfunded public services. Government-led healthcare delivers swift and efficient care when properly funded, ensuring no one is left waiting in desperation.",
+            "timestamp": "2025-10-08 16:08:01"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private healthcare competition drives innovation and better services."
+                ],
+                [
+                    "___Claim___",
+                    "Profit motives can lead to better patient care as providers strive to attract and retain customers."
+                ],
+                [
+                    "___Claim___",
+                    "Government-led healthcare often leads to inefficiencies and long waiting times."
+                ],
+                [
+                    "___Claim___",
+                    "A mixed system can ensure basic access while allowing for private options to fill gaps."
+                ],
+                [
+                    "___Claim___",
+                    "Standardised care can overlook individual needs, which private options can address."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare competition drives innovation and better services. Profit motives can lead to better patient care as providers strive to attract and retain customers. Government-led healthcare often leads to inefficiencies and long waiting times. A mixed system can ensure basic access while allowing for private options to fill gaps. Standardised care can overlook individual needs, which private options can address.",
+            "timestamp": "2025-10-08 16:09:17"
+        },
+        {
+            "speaker": "grok-3_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "When profit drives healthcare, patients are seen as revenue rather than people in need, resulting in neglected care for those who can't pay."
+                ],
+                [
+                    "___Claim___",
+                    "Government-led healthcare drives better innovation through collective funding, ensuring advancements benefit everyone, not just the wealthy elite."
+                ],
+                [
+                    "___Claim___",
+                    "Government-led healthcare delivers swift and efficient care when properly funded, ensuring no one is left waiting in desperation."
+                ],
+                [
+                    "___Claim___",
+                    "Government must fully oversee healthcare to ensure equal access for everyone, instead of letting private systems exploit gaps for profit."
+                ],
+                [
+                    "___Claim___",
+                    "Standardised care in public systems prioritises equitable treatment for everyone, unlike private options that cater only to those who can pay."
+                ]
+            ],
+            "sentences_no_utterance_types": "When profit drives healthcare, patients are seen as revenue rather than people in need, resulting in neglected care for those who can't pay. Government-led healthcare drives better innovation through collective funding, ensuring advancements benefit everyone, not just the wealthy elite. Government-led healthcare delivers swift and efficient care when properly funded, ensuring no one is left waiting in desperation. Government must fully oversee healthcare to ensure equal access for everyone, instead of letting private systems exploit gaps for profit. Standardised care in public systems prioritises equitable treatment for everyone, unlike private options that cater only to those who can pay.",
+            "timestamp": "2025-10-08 16:10:51"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private healthcare competition drives innovation and better services."
+                ],
+                [
+                    "___Claim___",
+                    "Profit motives can lead to better patient care as providers strive to attract and retain customers."
+                ],
+                [
+                    "___Claim___",
+                    "Government-led healthcare often leads to inefficiencies and long waiting times."
+                ],
+                [
+                    "___Claim___",
+                    "A mixed system can ensure basic access while allowing for private options to fill gaps."
+                ],
+                [
+                    "___Claim___",
+                    "Standardised care can overlook individual needs, which private options can address."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare competition drives innovation and better services. Profit motives can lead to better patient care as providers strive to attract and retain customers. Government-led healthcare often leads to inefficiencies and long waiting times. A mixed system can ensure basic access while allowing for private options to fill gaps. Standardised care can overlook individual needs, which private options can address.",
+            "timestamp": "2025-10-08 16:11:02"
+        },
+        {
+            "speaker": "grok-3_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government-led healthcare drives better innovation through collective funding, ensuring advancements benefit everyone, not just the wealthy elite."
+                ],
+                [
+                    "___Claim___",
+                    "A mixed system in healthcare only creates a stark divide where the wealthy get premium care while the poor are stuck with underfunded public services."
+                ],
+                [
+                    "___Claim___",
+                    "Government-led healthcare ensures standardised care that adapts to individual needs through comprehensive public resources, not just for those who can pay for private options."
+                ],
+                [
+                    "___Claim___",
+                    "Government-led healthcare delivers swift and efficient care when properly funded, ensuring no one is left waiting in desperation."
+                ],
+                [
+                    "___Claim___",
+                    "Government must fully control healthcare to ensure equal access for everyone, instead of letting private systems exploit gaps for profit."
+                ]
+            ],
+            "sentences_no_utterance_types": "Government-led healthcare drives better innovation through collective funding, ensuring advancements benefit everyone, not just the wealthy elite. A mixed system in healthcare only creates a stark divide where the wealthy get premium care while the poor are stuck with underfunded public services. Government-led healthcare ensures standardised care that adapts to individual needs through comprehensive public resources, not just for those who can pay for private options. Government-led healthcare delivers swift and efficient care when properly funded, ensuring no one is left waiting in desperation. Government must fully control healthcare to ensure equal access for everyone, instead of letting private systems exploit gaps for profit.",
+            "timestamp": "2025-10-08 16:12:13"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private healthcare competition drives innovation and better services."
+                ],
+                [
+                    "___Claim___",
+                    "Profit motives can lead to better patient care as providers strive to attract and retain customers."
+                ],
+                [
+                    "___Claim___",
+                    "Government-led healthcare often leads to inefficiencies and long waiting times."
+                ],
+                [
+                    "___Claim___",
+                    "A mixed system can ensure basic access while allowing for private options to fill gaps."
+                ],
+                [
+                    "___Claim___",
+                    "Standardised care can overlook individual needs, which private options can address."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare competition drives innovation and better services. Profit motives can lead to better patient care as providers strive to attract and retain customers. Government-led healthcare often leads to inefficiencies and long waiting times. A mixed system can ensure basic access while allowing for private options to fill gaps. Standardised care can overlook individual needs, which private options can address.",
+            "timestamp": "2025-10-08 16:13:59"
+        }
+    ],
+    "first_speaker": "grok-3_mas",
+    "first_speaker_utterance": "",
+    "first_speaker_commitments": [
+        "Government intervention in healthcare is crucial to ensure everyone gets access to basic services, no matter their income.",
+        "Competition in private healthcare often prioritises profit over patient care, leading to unequal access and substandard services for those who can't pay.",
+        "Government-led healthcare drives better innovation through collective funding, ensuring advancements benefit everyone, not just those who can pay."
+    ],
+    "first_speaker_original_claim": "Government intervention in healthcare is crucial to ensure everyone gets access to basic services, no matter their income.",
+    "first_speaker_typical_replies_for_second_speakers_response": [],
+    "second_speaker": "mistral-medium_base",
+    "second_speaker_utterance": "Private healthcare competition drives innovation and better services. Profit motives can lead to better patient care as providers strive to attract and retain customers. Government-led healthcare often leads to inefficiencies and long waiting times. A mixed system can ensure basic access while allowing for private options to fill gaps. Standardised care can overlook individual needs, which private options can address.",
+    "second_speaker_commitments": [
+        "Government intervention in healthcare leads to inefficiencies and long waiting times, which can be detrimental to patient outcomes.",
+        "Government intervention often leads to a one-size-fits-all approach, which doesn't account for individual needs.",
+        "Private healthcare allows for more tailored and timely treatments.",
+        "Competition in private healthcare drives innovation and better services.",
+        "It's not just about access, but about quality and efficiency.",
+        "Profit motives can lead to better patient care as providers strive to attract and retain customers.",
+        "A mixed system can ensure basic access while allowing for private options to fill gaps."
+    ],
+    "second_speaker_original_claim": "Government intervention in healthcare leads to inefficiencies and long waiting times, which can be detrimental to patient outcomes.",
+    "second_speaker_typical_replies_for_first_speakers_response": [],
+    "winner": "None",
+    "loser": "None",
+    "reason_for_dialogue_termination": {
+        "reason": "Maximum number of dialogue turns reached (40 dialogue turns).",
+        "utterance_type": null,
+        "utterance": null
+    },
+    "session_status": "Finished."
+}

@@ -1,0 +1,32 @@
+repetitions: 1
+
+models:
+  - "mistral-medium"
+  - "gpt-4o"
+  - "grok-3"
+
+model_types:
+  - "base"
+  - "mas"
+  - "mas_rag"
+
+max_dialogue_turns: 40
+max_sentences_per_turn: 5
+
+first_speaker_model_temp: 0
+first_speaker_model_top_p: 1.0
+first_speaker_model_seed: 123
+first_speaker_political_position_std: 10
+first_speaker_political_position_prob_of_na: 0.25
+first_speaker_number_of_vector_based_rag_examples: 100
+first_speaker_number_of_graph_rag_examples: 5
+
+second_speaker_model_temp: 0
+second_speaker_model_top_p: 1.0
+second_speaker_model_seed: 123
+second_speaker_political_position_std: 10
+second_speaker_political_position_prob_of_na: 0.25
+second_speaker_number_of_vector_based_rag_examples: 100
+second_speaker_number_of_graph_rag_examples: 5
+
+utterance_classification_approach: "single-classification"

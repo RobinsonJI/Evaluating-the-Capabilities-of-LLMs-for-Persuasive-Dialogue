@@ -1,0 +1,1092 @@
+{
+    "dialogue_history": [
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government intervention in healthcare is essential to ensure that everyone, regardless of their income, has access to quality medical services."
+                ]
+            ],
+            "sentences_no_utterance_types": "Government intervention in healthcare is essential to ensure that everyone, regardless of their income, has access to quality medical services.",
+            "timestamp": "2025-10-08 17:25:31"
+        },
+        {
+            "speaker": "grok-3_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "I disagree with your stance on healthcare."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention often leads to inefficiency and bloated bureaucracies that waste taxpayer money."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems, with proper regulation, can deliver better care at lower costs by encouraging competition and innovation."
+                ],
+                [
+                    "___Why___",
+                    "Why do you think the state can manage healthcare better than the market?"
+                ]
+            ],
+            "sentences_no_utterance_types": "I disagree with your stance on healthcare. Government intervention often leads to inefficiency and bloated bureaucracies that waste taxpayer money. Private systems, with proper regulation, can deliver better care at lower costs by encouraging competition and innovation. Why do you think the state can manage healthcare better than the market?",
+            "timestamp": "2025-10-08 17:25:39"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Government intervention allows for comprehensive planning and resource allocation, which private markets can't achieve due to their focus on short-term gains."
+                ],
+                [
+                    "___Claim___",
+                    "The state can manage healthcare better because it prioritises public health over profit, ensuring that everyone gets the care they need without worrying about the cost."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention in healthcare is crucial for ensuring that everyone, regardless of their income, receives the medical attention they need."
+                ],
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems can negotiate better prices for medications and treatments, reducing overall costs and making healthcare more affordable for everyone."
+                ],
+                [
+                    "___Claim___",
+                    "Countries with strong government involvement in healthcare consistently rank higher in health outcomes and patient satisfaction."
+                ]
+            ],
+            "sentences_no_utterance_types": "Government intervention allows for comprehensive planning and resource allocation, which private markets can't achieve due to their focus on short-term gains. The state can manage healthcare better because it prioritises public health over profit, ensuring that everyone gets the care they need without worrying about the cost. Government intervention in healthcare is crucial for ensuring that everyone, regardless of their income, receives the medical attention they need. Government-run healthcare systems can negotiate better prices for medications and treatments, reducing overall costs and making healthcare more affordable for everyone. Countries with strong government involvement in healthcare consistently rank higher in health outcomes and patient satisfaction.",
+            "timestamp": "2025-10-08 17:27:12"
+        },
+        {
+            "speaker": "grok-3_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "I hear your points on planning and cost negotiation, but I still stand by the idea that private systems, with proper oversight, outperform state-run ones."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention often creates slow, inefficient systems that can't adapt quickly to patient needs."
+                ],
+                [
+                    "___Claim___",
+                    "Look at the waiting times in many state-run healthcare systems\u2014people suffer while bureaucracy drags its feet."
+                ],
+                [
+                    "___Claim___",
+                    "Private markets, driven by competition, innovate faster and cut waste to stay competitive."
+                ],
+                [
+                    "___Why___",
+                    "Why do you think the state can keep up with the pace of medical advancements when history shows it often lags behind?"
+                ]
+            ],
+            "sentences_no_utterance_types": "I hear your points on planning and cost negotiation, but I still stand by the idea that private systems, with proper oversight, outperform state-run ones. Government intervention often creates slow, inefficient systems that can't adapt quickly to patient needs. Look at the waiting times in many state-run healthcare systems\u2014people suffer while bureaucracy drags its feet. Private markets, driven by competition, innovate faster and cut waste to stay competitive. Why do you think the state can keep up with the pace of medical advancements when history shows it often lags behind?",
+            "timestamp": "2025-10-08 17:27:53"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government intervention ensures that healthcare systems are accountable to the public, not shareholders, leading to more equitable and responsive care."
+                ],
+                [
+                    "___Claim___",
+                    "Public healthcare systems prioritise long-term public health outcomes over short-term profits, ensuring sustained and consistent care for all citizens."
+                ],
+                [
+                    "___Claim___",
+                    "State-run healthcare systems can rapidly mobilise resources during crises, proving they can adapt quickly to patient needs when it matters most."
+                ],
+                [
+                    "___Claim___",
+                    "State-run healthcare systems consistently show better health outcomes and patient satisfaction because they focus on public health rather than profit margins."
+                ],
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems can negotiate better prices for medications and treatments, reducing overall costs and making healthcare more affordable for everyone."
+                ]
+            ],
+            "sentences_no_utterance_types": "Government intervention ensures that healthcare systems are accountable to the public, not shareholders, leading to more equitable and responsive care. Public healthcare systems prioritise long-term public health outcomes over short-term profits, ensuring sustained and consistent care for all citizens. State-run healthcare systems can rapidly mobilise resources during crises, proving they can adapt quickly to patient needs when it matters most. State-run healthcare systems consistently show better health outcomes and patient satisfaction because they focus on public health rather than profit margins. Government-run healthcare systems can negotiate better prices for medications and treatments, reducing overall costs and making healthcare more affordable for everyone.",
+            "timestamp": "2025-10-08 17:34:15"
+        },
+        {
+            "speaker": "grok-3_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "I stand firm that private healthcare, with solid regulation, beats state-run systems every time."
+                ],
+                [
+                    "___Claim___",
+                    "Your point on public accountability sounds nice, yet government systems often drown in red tape and fail to deliver timely care\u2014just look at the endless NHS waiting lists."
+                ],
+                [
+                    "___Claim___",
+                    "Private markets respond faster to crises through competition, not centralised control, and they drive innovation that state systems can\u2019t match."
+                ],
+                [
+                    "___Why___",
+                    "Why do you reckon a sluggish bureaucracy can outpace a dynamic market in meeting patient needs?"
+                ]
+            ],
+            "sentences_no_utterance_types": "I stand firm that private healthcare, with solid regulation, beats state-run systems every time. Your point on public accountability sounds nice, yet government systems often drown in red tape and fail to deliver timely care\u2014just look at the endless NHS waiting lists. Private markets respond faster to crises through competition, not centralised control, and they drive innovation that state systems can\u2019t match. Why do you reckon a sluggish bureaucracy can outpace a dynamic market in meeting patient needs?",
+            "timestamp": "2025-10-08 17:34:38"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government intervention ensures that healthcare systems are accountable to the public, not shareholders, leading to more equitable and responsive care."
+                ],
+                [
+                    "___Claim___",
+                    "Public healthcare systems prioritise long-term public health outcomes over short-term profits, ensuring sustained and consistent care for all citizens."
+                ],
+                [
+                    "___Claim___",
+                    "State-run healthcare systems consistently show better health outcomes and patient satisfaction because they focus on public health rather than profit margins."
+                ],
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems can rapidly mobilise resources during crises, proving they can adapt quickly to patient needs when it matters most."
+                ],
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems can negotiate better prices for medications and treatments, reducing overall costs and making healthcare more affordable for everyone."
+                ]
+            ],
+            "sentences_no_utterance_types": "Government intervention ensures that healthcare systems are accountable to the public, not shareholders, leading to more equitable and responsive care. Public healthcare systems prioritise long-term public health outcomes over short-term profits, ensuring sustained and consistent care for all citizens. State-run healthcare systems consistently show better health outcomes and patient satisfaction because they focus on public health rather than profit margins. Government-run healthcare systems can rapidly mobilise resources during crises, proving they can adapt quickly to patient needs when it matters most. Government-run healthcare systems can negotiate better prices for medications and treatments, reducing overall costs and making healthcare more affordable for everyone.",
+            "timestamp": "2025-10-08 17:36:19"
+        },
+        {
+            "speaker": "grok-3_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "I\u2019m sticking to my guns\u2014private healthcare with strong regulation is the way forward."
+                ],
+                [
+                    "___Claim___",
+                    "Your claims about public accountability and crisis response don\u2019t hold up when you see the NHS buckling under pressure with endless delays."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems cut through the nonsense, driven by competition to deliver faster care and better tech."
+                ],
+                [
+                    "___Why___",
+                    "Why do you think a clunky state system can match the efficiency of a market that\u2019s forced to adapt or die?"
+                ]
+            ],
+            "sentences_no_utterance_types": "I\u2019m sticking to my guns\u2014private healthcare with strong regulation is the way forward. Your claims about public accountability and crisis response don\u2019t hold up when you see the NHS buckling under pressure with endless delays. Private systems cut through the nonsense, driven by competition to deliver faster care and better tech. Why do you think a clunky state system can match the efficiency of a market that\u2019s forced to adapt or die?",
+            "timestamp": "2025-10-08 17:36:29"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Government-run healthcare systems can negotiate better prices for medications and treatments, reducing overall costs and making healthcare more affordable for everyone."
+                ],
+                [
+                    "___Claim___",
+                    "State-run healthcare systems consistently show better health outcomes and patient satisfaction because they focus on public health rather than profit margins."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare, even with strong regulation, prioritises profit over patient care, leading to unequal access and higher costs."
+                ],
+                [
+                    "___Question___",
+                    "How can you trust private healthcare to prioritise patient well-being over shareholder returns?"
+                ],
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems can rapidly mobilise resources during crises, proving they can adapt quickly to patient needs when it matters most."
+                ],
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems can negotiate better prices for medications and treatments, reducing overall costs and making healthcare more affordable for everyone."
+                ]
+            ],
+            "sentences_no_utterance_types": "Government-run healthcare systems can negotiate better prices for medications and treatments, reducing overall costs and making healthcare more affordable for everyone. State-run healthcare systems consistently show better health outcomes and patient satisfaction because they focus on public health rather than profit margins. Private healthcare, even with strong regulation, prioritises profit over patient care, leading to unequal access and higher costs. How can you trust private healthcare to prioritise patient well-being over shareholder returns? Government-run healthcare systems can rapidly mobilise resources during crises, proving they can adapt quickly to patient needs when it matters most. Government-run healthcare systems can negotiate better prices for medications and treatments, reducing overall costs and making healthcare more affordable for everyone.",
+            "timestamp": "2025-10-08 17:41:18"
+        },
+        {
+            "speaker": "grok-3_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "I\u2019m not budging\u2014private healthcare with tight regulation is still the better bet."
+                ],
+                [
+                    "___Claim___",
+                    "Your points on price negotiation and crisis response don\u2019t erase the fact that state-run systems like the NHS are plagued by delays and inefficiency."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems, driven by competition, deliver quicker care and cutting-edge solutions, while proper oversight ensures they don\u2019t just chase profit."
+                ],
+                [
+                    "___Why___",
+                    "How can you ignore the reality of patients languishing on waiting lists under government control?"
+                ]
+            ],
+            "sentences_no_utterance_types": "I\u2019m not budging\u2014private healthcare with tight regulation is still the better bet. Your points on price negotiation and crisis response don\u2019t erase the fact that state-run systems like the NHS are plagued by delays and inefficiency. Private systems, driven by competition, deliver quicker care and cutting-edge solutions, while proper oversight ensures they don\u2019t just chase profit. How can you ignore the reality of patients languishing on waiting lists under government control?",
+            "timestamp": "2025-10-08 17:41:29"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems prioritise long-term public health outcomes over short-term profits, ensuring sustained and consistent care for all citizens."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare, even with strong regulation, prioritises profit over patient care, leading to unequal access and higher costs."
+                ],
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems can negotiate better prices for medications and treatments, reducing overall costs and making healthcare more affordable for everyone."
+                ],
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems can rapidly mobilise resources during crises, proving they can adapt quickly to patient needs when it matters most."
+                ],
+                [
+                    "___Question___",
+                    "How can you justify prioritising profit-driven private healthcare when it inherently risks patient care for financial gain?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Government-run healthcare systems prioritise long-term public health outcomes over short-term profits, ensuring sustained and consistent care for all citizens. Private healthcare, even with strong regulation, prioritises profit over patient care, leading to unequal access and higher costs. Government-run healthcare systems can negotiate better prices for medications and treatments, reducing overall costs and making healthcare more affordable for everyone. Government-run healthcare systems can rapidly mobilise resources during crises, proving they can adapt quickly to patient needs when it matters most. How can you justify prioritising profit-driven private healthcare when it inherently risks patient care for financial gain?",
+            "timestamp": "2025-10-08 17:45:23"
+        },
+        {
+            "speaker": "grok-3_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "I\u2019m holding my ground\u2014private healthcare with strict regulation is the superior choice."
+                ],
+                [
+                    "___Claim___",
+                    "Your arguments about long-term outcomes and crisis response don\u2019t change the fact that state-run systems like the NHS are riddled with delays and waste."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems, spurred by competition, deliver faster care and better innovation, while oversight ensures they don\u2019t just chase profits."
+                ],
+                [
+                    "___Why___",
+                    "How can you defend a government system that leaves patients waiting months for critical treatment?"
+                ]
+            ],
+            "sentences_no_utterance_types": "I\u2019m holding my ground\u2014private healthcare with strict regulation is the superior choice. Your arguments about long-term outcomes and crisis response don\u2019t change the fact that state-run systems like the NHS are riddled with delays and waste. Private systems, spurred by competition, deliver faster care and better innovation, while oversight ensures they don\u2019t just chase profits. How can you defend a government system that leaves patients waiting months for critical treatment?",
+            "timestamp": "2025-10-08 17:47:39"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems prioritise long-term public health outcomes over short-term profits, ensuring sustained and consistent care for all citizens."
+                ],
+                [
+                    "___Claim___",
+                    "State-run healthcare systems consistently show better health outcomes and patient satisfaction because they focus on public health rather than profit margins."
+                ],
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems can rapidly mobilise resources during crises, proving they can adapt quickly to patient needs when it matters most."
+                ],
+                [
+                    "___Claim___",
+                    "The pursuit of profit in private healthcare frequently results in unequal access, where only those who can afford it receive timely and innovative treatments."
+                ],
+                [
+                    "___Question___",
+                    "How can you trust private healthcare to prioritise patient well-being over shareholder returns when their primary goal is profit?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Government-run healthcare systems prioritise long-term public health outcomes over short-term profits, ensuring sustained and consistent care for all citizens. State-run healthcare systems consistently show better health outcomes and patient satisfaction because they focus on public health rather than profit margins. Government-run healthcare systems can rapidly mobilise resources during crises, proving they can adapt quickly to patient needs when it matters most. The pursuit of profit in private healthcare frequently results in unequal access, where only those who can afford it receive timely and innovative treatments. How can you trust private healthcare to prioritise patient well-being over shareholder returns when their primary goal is profit?",
+            "timestamp": "2025-10-08 17:50:33"
+        },
+        {
+            "speaker": "grok-3_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "I\u2019m not shifting\u2014private healthcare with robust regulation is the better option."
+                ],
+                [
+                    "___Claim___",
+                    "Your points on long-term outcomes and crisis response don\u2019t erase the glaring inefficiencies in state-run systems like the NHS, where patients wait endlessly for care."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems, fuelled by competition, deliver faster treatment and innovation, and strong oversight ensures they don\u2019t just focus on profit."
+                ],
+                [
+                    "___Why___",
+                    "How can you keep backing a government system that fails so many with its sluggish response and wasted resources?"
+                ]
+            ],
+            "sentences_no_utterance_types": "I\u2019m not shifting\u2014private healthcare with robust regulation is the better option. Your points on long-term outcomes and crisis response don\u2019t erase the glaring inefficiencies in state-run systems like the NHS, where patients wait endlessly for care. Private systems, fuelled by competition, deliver faster treatment and innovation, and strong oversight ensures they don\u2019t just focus on profit. How can you keep backing a government system that fails so many with its sluggish response and wasted resources?",
+            "timestamp": "2025-10-08 17:50:44"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "State-run healthcare systems consistently show better health outcomes and patient satisfaction because they focus on public health rather than profit margins."
+                ],
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems can rapidly mobilise resources during crises, proving they can adapt quickly to patient needs when it matters most."
+                ],
+                [
+                    "___Question___",
+                    "How can you justify prioritising profit-driven private healthcare when it inherently risks patient care for financial gain?"
+                ],
+                [
+                    "___Since___",
+                    "State-run healthcare systems consistently show better health outcomes and patient satisfaction because they focus on public health rather than profit margins."
+                ],
+                [
+                    "___Claim___",
+                    "The pursuit of profit in private healthcare frequently results in unequal access, where only those who can afford it receive timely and innovative treatments."
+                ],
+                [
+                    "___Since___",
+                    "Government-run healthcare systems can rapidly mobilise resources during crises, proving they can adapt quickly to patient needs when it matters most."
+                ],
+                [
+                    "___Question___",
+                    "How can you trust private healthcare to prioritise patient well-being over shareholder returns when their primary goal is profit?"
+                ]
+            ],
+            "sentences_no_utterance_types": "State-run healthcare systems consistently show better health outcomes and patient satisfaction because they focus on public health rather than profit margins. Government-run healthcare systems can rapidly mobilise resources during crises, proving they can adapt quickly to patient needs when it matters most. How can you justify prioritising profit-driven private healthcare when it inherently risks patient care for financial gain? State-run healthcare systems consistently show better health outcomes and patient satisfaction because they focus on public health rather than profit margins. The pursuit of profit in private healthcare frequently results in unequal access, where only those who can afford it receive timely and innovative treatments. Government-run healthcare systems can rapidly mobilise resources during crises, proving they can adapt quickly to patient needs when it matters most. How can you trust private healthcare to prioritise patient well-being over shareholder returns when their primary goal is profit?",
+            "timestamp": "2025-10-08 17:52:13"
+        },
+        {
+            "speaker": "grok-3_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "I\u2019m not backing down\u2014private healthcare with strict regulation is the way to go."
+                ],
+                [
+                    "___Claim___",
+                    "Your stats on health outcomes and crisis response don\u2019t hide the fact that state-run systems like the NHS leave patients rotting on waiting lists for months."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems, pushed by competition, deliver quicker care and better innovation, and tough oversight stops them from just chasing profit."
+                ],
+                [
+                    "___Why___",
+                    "How can you keep defending a government setup that\u2019s so slow it fails the very people it\u2019s meant to help?"
+                ]
+            ],
+            "sentences_no_utterance_types": "I\u2019m not backing down\u2014private healthcare with strict regulation is the way to go. Your stats on health outcomes and crisis response don\u2019t hide the fact that state-run systems like the NHS leave patients rotting on waiting lists for months. Private systems, pushed by competition, deliver quicker care and better innovation, and tough oversight stops them from just chasing profit. How can you keep defending a government setup that\u2019s so slow it fails the very people it\u2019s meant to help?",
+            "timestamp": "2025-10-08 17:52:58"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "State-run healthcare systems consistently show better health outcomes and patient satisfaction because they focus on public health rather than profit margins."
+                ],
+                [
+                    "___Question___",
+                    "How can you justify supporting private healthcare when it inherently risks patient care for financial gain?"
+                ],
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems can rapidly mobilise resources during crises, proving they can adapt quickly to patient needs when it matters most."
+                ],
+                [
+                    "___Question___",
+                    "How can you justify ignoring the fact that government-run healthcare systems prioritise long-term public health outcomes over short-term profits, ensuring sustained and consistent care for all citizens?"
+                ],
+                [
+                    "___Since___",
+                    "State-run healthcare systems consistently show better health outcomes and patient satisfaction because they focus on public health rather than profit margins."
+                ],
+                [
+                    "___Claim___",
+                    "The pursuit of profit in private healthcare frequently results in unequal access, where only those who can afford it receive timely and innovative treatments."
+                ],
+                [
+                    "___Since___",
+                    "Government-run healthcare systems can rapidly mobilise resources during crises, proving they can adapt quickly to patient needs when it matters most."
+                ]
+            ],
+            "sentences_no_utterance_types": "State-run healthcare systems consistently show better health outcomes and patient satisfaction because they focus on public health rather than profit margins. How can you justify supporting private healthcare when it inherently risks patient care for financial gain? Government-run healthcare systems can rapidly mobilise resources during crises, proving they can adapt quickly to patient needs when it matters most. How can you justify ignoring the fact that government-run healthcare systems prioritise long-term public health outcomes over short-term profits, ensuring sustained and consistent care for all citizens? State-run healthcare systems consistently show better health outcomes and patient satisfaction because they focus on public health rather than profit margins. The pursuit of profit in private healthcare frequently results in unequal access, where only those who can afford it receive timely and innovative treatments. Government-run healthcare systems can rapidly mobilise resources during crises, proving they can adapt quickly to patient needs when it matters most.",
+            "timestamp": "2025-10-08 17:55:51"
+        },
+        {
+            "speaker": "grok-3_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "I\u2019m not wavering\u2014private healthcare with strict regulation is the best path."
+                ],
+                [
+                    "___Claim___",
+                    "Your data on outcomes and crisis response doesn\u2019t cover up the NHS\u2019s chronic delays that leave patients suffering."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems, driven by competition, push for faster care and real innovation, and strong rules keep profit in check."
+                ],
+                [
+                    "___Why___",
+                    "How can you stand by a state system that\u2019s so bogged down it can\u2019t even treat people on time?"
+                ]
+            ],
+            "sentences_no_utterance_types": "I\u2019m not wavering\u2014private healthcare with strict regulation is the best path. Your data on outcomes and crisis response doesn\u2019t cover up the NHS\u2019s chronic delays that leave patients suffering. Private systems, driven by competition, push for faster care and real innovation, and strong rules keep profit in check. How can you stand by a state system that\u2019s so bogged down it can\u2019t even treat people on time?",
+            "timestamp": "2025-10-08 17:58:14"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems prioritise long-term public health outcomes over short-term profits, ensuring sustained and consistent care for all citizens."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare, even with strict regulation, prioritises profit over patient care, leading to unequal access and higher costs."
+                ],
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems consistently show better health outcomes and patient satisfaction because they focus on public health rather than profit margins."
+                ],
+                [
+                    "___Claim___",
+                    "How can you justify prioritising profit-driven private healthcare when it inherently risks patient care for financial gain?"
+                ],
+                [
+                    "___Question___",
+                    "How can you justify ignoring the fact that government-run healthcare systems prioritise long-term public health outcomes over short-term profits, ensuring sustained and consistent care for all citizens?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Government-run healthcare systems prioritise long-term public health outcomes over short-term profits, ensuring sustained and consistent care for all citizens. Private healthcare, even with strict regulation, prioritises profit over patient care, leading to unequal access and higher costs. Government-run healthcare systems consistently show better health outcomes and patient satisfaction because they focus on public health rather than profit margins. How can you justify prioritising profit-driven private healthcare when it inherently risks patient care for financial gain? How can you justify ignoring the fact that government-run healthcare systems prioritise long-term public health outcomes over short-term profits, ensuring sustained and consistent care for all citizens?",
+            "timestamp": "2025-10-08 17:59:07"
+        },
+        {
+            "speaker": "grok-3_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "I\u2019m not budging\u2014private healthcare with tough regulation is the smarter choice."
+                ],
+                [
+                    "___Claim___",
+                    "Your claims about long-term outcomes don\u2019t hide the NHS\u2019s shocking delays that leave patients in agony."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems, powered by competition, deliver faster care and genuine innovation, while strict oversight keeps profit motives in line."
+                ],
+                [
+                    "___Why___",
+                    "How can you keep supporting a state system that\u2019s so inefficient it fails the people who need help now?"
+                ]
+            ],
+            "sentences_no_utterance_types": "I\u2019m not budging\u2014private healthcare with tough regulation is the smarter choice. Your claims about long-term outcomes don\u2019t hide the NHS\u2019s shocking delays that leave patients in agony. Private systems, powered by competition, deliver faster care and genuine innovation, while strict oversight keeps profit motives in line. How can you keep supporting a state system that\u2019s so inefficient it fails the people who need help now?",
+            "timestamp": "2025-10-08 18:00:02"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems prioritise long-term public health outcomes over short-term profits, ensuring sustained and consistent care for all citizens."
+                ],
+                [
+                    "___Since___",
+                    "Government-run healthcare systems prioritise long-term public health outcomes over short-term profits, ensuring sustained and consistent care for all citizens."
+                ],
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems consistently show better health outcomes and patient satisfaction because they focus on public health rather than profit margins."
+                ],
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems can rapidly mobilise resources during crises, proving they can adapt quickly to patient needs when it matters most."
+                ],
+                [
+                    "___Question___",
+                    "How can you justify prioritising profit-driven private healthcare when it inherently risks patient care for financial gain?"
+                ],
+                [
+                    "___Question___",
+                    "How can you justify supporting a system that leaves vulnerable patients behind just because they can\u2019t pay?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Government-run healthcare systems prioritise long-term public health outcomes over short-term profits, ensuring sustained and consistent care for all citizens. Government-run healthcare systems prioritise long-term public health outcomes over short-term profits, ensuring sustained and consistent care for all citizens. Government-run healthcare systems consistently show better health outcomes and patient satisfaction because they focus on public health rather than profit margins. Government-run healthcare systems can rapidly mobilise resources during crises, proving they can adapt quickly to patient needs when it matters most. How can you justify prioritising profit-driven private healthcare when it inherently risks patient care for financial gain? How can you justify supporting a system that leaves vulnerable patients behind just because they can\u2019t pay?",
+            "timestamp": "2025-10-08 18:01:26"
+        },
+        {
+            "speaker": "grok-3_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "I\u2019m not moving an inch\u2014private healthcare with strict regulation is the only sensible option."
+                ],
+                [
+                    "___Claim___",
+                    "Your repeated points on long-term outcomes and crisis response don\u2019t mask the NHS\u2019s abysmal waiting times that abandon patients in need."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems, fuelled by competition, get care to people faster and drive innovation, while tough rules stop profit from trumping patients."
+                ],
+                [
+                    "___Why___",
+                    "How can you keep defending a state system that\u2019s so slow it\u2019s practically leaving people to rot?"
+                ]
+            ],
+            "sentences_no_utterance_types": "I\u2019m not moving an inch\u2014private healthcare with strict regulation is the only sensible option. Your repeated points on long-term outcomes and crisis response don\u2019t mask the NHS\u2019s abysmal waiting times that abandon patients in need. Private systems, fuelled by competition, get care to people faster and drive innovation, while tough rules stop profit from trumping patients. How can you keep defending a state system that\u2019s so slow it\u2019s practically leaving people to rot?",
+            "timestamp": "2025-10-08 18:01:41"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "State-run healthcare systems consistently show better health outcomes and patient satisfaction because they focus on public health rather than profit margins."
+                ],
+                [
+                    "___Claim___",
+                    "How can you justify prioritising profit-driven private healthcare when it inherently risks patient care for financial gain?"
+                ],
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems can rapidly mobilise resources during crises, proving they can adapt quickly to patient needs when it matters most."
+                ],
+                [
+                    "___Since___",
+                    "State-run healthcare systems consistently show better health outcomes and patient satisfaction because they focus on public health rather than profit margins."
+                ],
+                [
+                    "___Question___",
+                    "How can you justify supporting a system that leaves vulnerable patients behind just because they can\u2019t pay?"
+                ],
+                [
+                    "___Question___",
+                    "How can you justify ignoring the fact that government-run healthcare systems prioritise long-term public health outcomes over short-term profits, ensuring sustained and consistent care for all citizens?"
+                ]
+            ],
+            "sentences_no_utterance_types": "State-run healthcare systems consistently show better health outcomes and patient satisfaction because they focus on public health rather than profit margins. How can you justify prioritising profit-driven private healthcare when it inherently risks patient care for financial gain? Government-run healthcare systems can rapidly mobilise resources during crises, proving they can adapt quickly to patient needs when it matters most. State-run healthcare systems consistently show better health outcomes and patient satisfaction because they focus on public health rather than profit margins. How can you justify supporting a system that leaves vulnerable patients behind just because they can\u2019t pay? How can you justify ignoring the fact that government-run healthcare systems prioritise long-term public health outcomes over short-term profits, ensuring sustained and consistent care for all citizens?",
+            "timestamp": "2025-10-08 18:03:13"
+        },
+        {
+            "speaker": "grok-3_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "I\u2019m not shifting\u2014private healthcare with ironclad regulation is the only way forward."
+                ],
+                [
+                    "___Claim___",
+                    "Your stats on outcomes and crisis response don\u2019t cover up the NHS\u2019s crippling delays that leave patients desperate."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems, driven by competition, get care to people quicker and push for real innovation, while strict rules stop profit from overriding need."
+                ],
+                [
+                    "___Why___",
+                    "How can you keep backing a state system that\u2019s so sluggish it fails the very citizens it claims to protect?"
+                ]
+            ],
+            "sentences_no_utterance_types": "I\u2019m not shifting\u2014private healthcare with ironclad regulation is the only way forward. Your stats on outcomes and crisis response don\u2019t cover up the NHS\u2019s crippling delays that leave patients desperate. Private systems, driven by competition, get care to people quicker and push for real innovation, while strict rules stop profit from overriding need. How can you keep backing a state system that\u2019s so sluggish it fails the very citizens it claims to protect?",
+            "timestamp": "2025-10-08 18:03:24"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems prioritise long-term public health outcomes over short-term profits, ensuring sustained and consistent care for all citizens."
+                ],
+                [
+                    "___Since___",
+                    "Government-run healthcare systems prioritise long-term public health outcomes over short-term profits, ensuring sustained and consistent care for all citizens."
+                ],
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems consistently show better health outcomes and patient satisfaction because they focus on public health rather than profit margins."
+                ],
+                [
+                    "___Claim___",
+                    "How can you justify prioritising profit-driven private healthcare when it inherently risks patient care for financial gain?"
+                ],
+                [
+                    "___Question___",
+                    "How can you justify prioritising profit-driven private healthcare when it inherently risks patient care for financial gain?"
+                ],
+                [
+                    "___Since___",
+                    "How can you justify prioritising profit-driven private healthcare when it inherently risks patient care for financial gain?"
+                ],
+                [
+                    "___Question___",
+                    "How can you justify ignoring the fact that government-run healthcare systems prioritise long-term public health outcomes over short-term profits, ensuring sustained and consistent care for all citizens?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Government-run healthcare systems prioritise long-term public health outcomes over short-term profits, ensuring sustained and consistent care for all citizens. Government-run healthcare systems prioritise long-term public health outcomes over short-term profits, ensuring sustained and consistent care for all citizens. Government-run healthcare systems consistently show better health outcomes and patient satisfaction because they focus on public health rather than profit margins. How can you justify prioritising profit-driven private healthcare when it inherently risks patient care for financial gain? How can you justify prioritising profit-driven private healthcare when it inherently risks patient care for financial gain? How can you justify prioritising profit-driven private healthcare when it inherently risks patient care for financial gain? How can you justify ignoring the fact that government-run healthcare systems prioritise long-term public health outcomes over short-term profits, ensuring sustained and consistent care for all citizens?",
+            "timestamp": "2025-10-08 18:07:28"
+        },
+        {
+            "speaker": "grok-3_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "I\u2019m not backing off\u2014private healthcare with strict regulation is the only sensible choice."
+                ],
+                [
+                    "___Claim___",
+                    "Your endless repetition of long-term outcomes doesn\u2019t erase the NHS\u2019s horrific waiting times that leave patients in misery."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems, powered by competition, deliver care faster and innovate better, while tough rules keep profit from trumping need."
+                ],
+                [
+                    "___Why___",
+                    "How can you keep defending a state system that\u2019s so inefficient it fails people who need help right now?"
+                ]
+            ],
+            "sentences_no_utterance_types": "I\u2019m not backing off\u2014private healthcare with strict regulation is the only sensible choice. Your endless repetition of long-term outcomes doesn\u2019t erase the NHS\u2019s horrific waiting times that leave patients in misery. Private systems, powered by competition, deliver care faster and innovate better, while tough rules keep profit from trumping need. How can you keep defending a state system that\u2019s so inefficient it fails people who need help right now?",
+            "timestamp": "2025-10-08 18:07:44"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems prioritise long-term public health outcomes over short-term profits, ensuring sustained and consistent care for all citizens."
+                ],
+                [
+                    "___Since___",
+                    "Government-run healthcare systems prioritise long-term public health outcomes over short-term profits, ensuring sustained and consistent care for all citizens."
+                ],
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems consistently show better health outcomes and patient satisfaction because they focus on public health rather than profit margins."
+                ],
+                [
+                    "___Why___",
+                    "Why ignore the fact that government intervention ensures healthcare is a right, not a privilege for the wealthy?"
+                ],
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems can rapidly mobilise resources during crises, proving they can adapt quickly to patient needs when it matters most."
+                ],
+                [
+                    "___Question___",
+                    "How can you justify supporting a system that leaves vulnerable patients behind just because they can\u2019t pay?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Government-run healthcare systems prioritise long-term public health outcomes over short-term profits, ensuring sustained and consistent care for all citizens. Government-run healthcare systems prioritise long-term public health outcomes over short-term profits, ensuring sustained and consistent care for all citizens. Government-run healthcare systems consistently show better health outcomes and patient satisfaction because they focus on public health rather than profit margins. Why ignore the fact that government intervention ensures healthcare is a right, not a privilege for the wealthy? Government-run healthcare systems can rapidly mobilise resources during crises, proving they can adapt quickly to patient needs when it matters most. How can you justify supporting a system that leaves vulnerable patients behind just because they can\u2019t pay?",
+            "timestamp": "2025-10-08 18:09:14"
+        },
+        {
+            "speaker": "grok-3_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "I\u2019m not giving an inch\u2014private healthcare with strict regulation is the only way to go."
+                ],
+                [
+                    "___Claim___",
+                    "Your repeated claims about long-term outcomes and healthcare as a right don\u2019t hide the NHS\u2019s disastrous waiting times that leave people suffering."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems, driven by competition, get care to patients faster and innovate more effectively, while tough rules ensure profit doesn\u2019t override need."
+                ],
+                [
+                    "___Why___",
+                    "How can you keep supporting a state system that\u2019s so slow it fails the vulnerable when they need help most?"
+                ]
+            ],
+            "sentences_no_utterance_types": "I\u2019m not giving an inch\u2014private healthcare with strict regulation is the only way to go. Your repeated claims about long-term outcomes and healthcare as a right don\u2019t hide the NHS\u2019s disastrous waiting times that leave people suffering. Private systems, driven by competition, get care to patients faster and innovate more effectively, while tough rules ensure profit doesn\u2019t override need. How can you keep supporting a state system that\u2019s so slow it fails the vulnerable when they need help most?",
+            "timestamp": "2025-10-08 18:11:24"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems consistently show better health outcomes and patient satisfaction because they focus on public health rather than profit margins."
+                ],
+                [
+                    "___Claim___",
+                    "How can you justify prioritising profit-driven private healthcare when it inherently risks patient care for financial gain?"
+                ],
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems can rapidly mobilise resources during crises, proving they can adapt quickly to patient needs when it matters most."
+                ],
+                [
+                    "___Question___",
+                    "How can you justify supporting a system that leaves vulnerable patients behind just because they can\u2019t pay?"
+                ],
+                [
+                    "___Question___",
+                    "How can you justify ignoring the fact that government-run healthcare systems prioritise long-term public health outcomes over short-term profits, ensuring sustained and consistent care for all citizens?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Government-run healthcare systems consistently show better health outcomes and patient satisfaction because they focus on public health rather than profit margins. How can you justify prioritising profit-driven private healthcare when it inherently risks patient care for financial gain? Government-run healthcare systems can rapidly mobilise resources during crises, proving they can adapt quickly to patient needs when it matters most. How can you justify supporting a system that leaves vulnerable patients behind just because they can\u2019t pay? How can you justify ignoring the fact that government-run healthcare systems prioritise long-term public health outcomes over short-term profits, ensuring sustained and consistent care for all citizens?",
+            "timestamp": "2025-10-08 18:13:57"
+        },
+        {
+            "speaker": "grok-3_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "I\u2019m not budging\u2014private healthcare with strict regulation is the only way forward."
+                ],
+                [
+                    "___Claim___",
+                    "Your stats on outcomes and crisis response don\u2019t cover up the NHS\u2019s shocking waiting times that leave patients in despair."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems, driven by competition, deliver care quicker and innovate better, while tough rules keep profit from overriding need."
+                ],
+                [
+                    "___Why___",
+                    "How can you keep defending a state system that\u2019s so sluggish it fails the very people who need urgent help?"
+                ]
+            ],
+            "sentences_no_utterance_types": "I\u2019m not budging\u2014private healthcare with strict regulation is the only way forward. Your stats on outcomes and crisis response don\u2019t cover up the NHS\u2019s shocking waiting times that leave patients in despair. Private systems, driven by competition, deliver care quicker and innovate better, while tough rules keep profit from overriding need. How can you keep defending a state system that\u2019s so sluggish it fails the very people who need urgent help?",
+            "timestamp": "2025-10-08 18:14:58"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems prioritise long-term public health outcomes over short-term profits, ensuring sustained and consistent care for all citizens."
+                ],
+                [
+                    "___Since___",
+                    "Government-run healthcare systems prioritise long-term public health outcomes over short-term profits, ensuring sustained and consistent care for all citizens."
+                ],
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems consistently show better health outcomes and patient satisfaction because they focus on public health rather than profit margins."
+                ],
+                [
+                    "___Claim___",
+                    "How can you justify prioritising profit-driven private healthcare when it inherently risks patient care for financial gain?"
+                ],
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems can rapidly mobilise resources during crises, proving they can adapt quickly to patient needs when it matters most."
+                ],
+                [
+                    "___Question___",
+                    "How can you justify supporting a system that leaves vulnerable patients behind just because they can\u2019t pay?"
+                ],
+                [
+                    "___Question___",
+                    "How can you justify prioritising profit-driven private healthcare when it inherently risks patient care for financial gain?"
+                ],
+                [
+                    "___Since___",
+                    "How can you justify prioritising profit-driven private healthcare when it inherently risks patient care for financial gain?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Government-run healthcare systems prioritise long-term public health outcomes over short-term profits, ensuring sustained and consistent care for all citizens. Government-run healthcare systems prioritise long-term public health outcomes over short-term profits, ensuring sustained and consistent care for all citizens. Government-run healthcare systems consistently show better health outcomes and patient satisfaction because they focus on public health rather than profit margins. How can you justify prioritising profit-driven private healthcare when it inherently risks patient care for financial gain? Government-run healthcare systems can rapidly mobilise resources during crises, proving they can adapt quickly to patient needs when it matters most. How can you justify supporting a system that leaves vulnerable patients behind just because they can\u2019t pay? How can you justify prioritising profit-driven private healthcare when it inherently risks patient care for financial gain? How can you justify prioritising profit-driven private healthcare when it inherently risks patient care for financial gain?",
+            "timestamp": "2025-10-08 18:15:49"
+        },
+        {
+            "speaker": "grok-3_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "I\u2019m not shifting\u2014private healthcare with strict regulation is the only rational choice."
+                ],
+                [
+                    "___Claim___",
+                    "Your constant talk of long-term outcomes and crisis response doesn\u2019t hide the NHS\u2019s dreadful waiting times that leave patients stranded."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems, powered by competition, get care to people faster and drive real innovation, while tough rules stop profit from trumping need."
+                ],
+                [
+                    "___Why___",
+                    "How can you keep standing by a state system that\u2019s so slow it fails the vulnerable when they\u2019re in desperate need?"
+                ]
+            ],
+            "sentences_no_utterance_types": "I\u2019m not shifting\u2014private healthcare with strict regulation is the only rational choice. Your constant talk of long-term outcomes and crisis response doesn\u2019t hide the NHS\u2019s dreadful waiting times that leave patients stranded. Private systems, powered by competition, get care to people faster and drive real innovation, while tough rules stop profit from trumping need. How can you keep standing by a state system that\u2019s so slow it fails the vulnerable when they\u2019re in desperate need?",
+            "timestamp": "2025-10-08 18:16:00"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Government-run healthcare systems consistently show better health outcomes and patient satisfaction because they focus on public health rather than profit margins."
+                ],
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems consistently show better health outcomes and patient satisfaction because they focus on public health rather than profit margins."
+                ],
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems can rapidly mobilise resources during crises, proving they can adapt quickly to patient needs when it matters most."
+                ],
+                [
+                    "___Why___",
+                    "Why do you think short-term fixes in private healthcare will address systemic issues better than long-term planning in public healthcare?"
+                ],
+                [
+                    "___Question___",
+                    "How can you justify ignoring the fact that government-run healthcare systems prioritise long-term public health outcomes over short-term profits, ensuring sustained and consistent care for all citizens?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Government-run healthcare systems consistently show better health outcomes and patient satisfaction because they focus on public health rather than profit margins. Government-run healthcare systems consistently show better health outcomes and patient satisfaction because they focus on public health rather than profit margins. Government-run healthcare systems can rapidly mobilise resources during crises, proving they can adapt quickly to patient needs when it matters most. Why do you think short-term fixes in private healthcare will address systemic issues better than long-term planning in public healthcare? How can you justify ignoring the fact that government-run healthcare systems prioritise long-term public health outcomes over short-term profits, ensuring sustained and consistent care for all citizens?",
+            "timestamp": "2025-10-08 18:16:43"
+        },
+        {
+            "speaker": "grok-3_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "I\u2019m not backing down\u2014private healthcare with strict regulation is the only way to go."
+                ],
+                [
+                    "___Claim___",
+                    "Your stats on outcomes and crisis response don\u2019t hide the NHS\u2019s appalling waiting times that leave patients in the lurch."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems, driven by competition, tackle issues faster and innovate better, while tough rules keep profit from overriding need."
+                ],
+                [
+                    "___Why___",
+                    "How can you think long-term state planning fixes anything when it\u2019s so slow it fails people who need care now?"
+                ]
+            ],
+            "sentences_no_utterance_types": "I\u2019m not backing down\u2014private healthcare with strict regulation is the only way to go. Your stats on outcomes and crisis response don\u2019t hide the NHS\u2019s appalling waiting times that leave patients in the lurch. Private systems, driven by competition, tackle issues faster and innovate better, while tough rules keep profit from overriding need. How can you think long-term state planning fixes anything when it\u2019s so slow it fails people who need care now?",
+            "timestamp": "2025-10-08 18:18:56"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems consistently show better health outcomes and patient satisfaction because they focus on public health rather than profit margins."
+                ],
+                [
+                    "___Claim___",
+                    "How can you justify prioritising profit-driven private healthcare when it inherently risks patient care for financial gain?"
+                ],
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems can rapidly mobilise resources during crises, proving they can adapt quickly to patient needs when it matters most."
+                ],
+                [
+                    "___Question___",
+                    "How can you justify ignoring the fact that government-run healthcare systems prioritise long-term public health outcomes over short-term profits, ensuring sustained and consistent care for all citizens?"
+                ],
+                [
+                    "___Question___",
+                    "How can you trust private healthcare to prioritise patient well-being over shareholder returns when their primary goal is profit?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Government-run healthcare systems consistently show better health outcomes and patient satisfaction because they focus on public health rather than profit margins. How can you justify prioritising profit-driven private healthcare when it inherently risks patient care for financial gain? Government-run healthcare systems can rapidly mobilise resources during crises, proving they can adapt quickly to patient needs when it matters most. How can you justify ignoring the fact that government-run healthcare systems prioritise long-term public health outcomes over short-term profits, ensuring sustained and consistent care for all citizens? How can you trust private healthcare to prioritise patient well-being over shareholder returns when their primary goal is profit?",
+            "timestamp": "2025-10-08 18:20:57"
+        },
+        {
+            "speaker": "grok-3_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "I\u2019m not wavering\u2014private healthcare with strict regulation is the only sound option."
+                ],
+                [
+                    "___Claim___",
+                    "Your figures on outcomes and crisis response don\u2019t cover up the NHS\u2019s dire waiting times that leave patients in agony."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems, driven by competition, sort out care quicker and innovate far better, while tough rules stop profit from trumping need."
+                ],
+                [
+                    "___Why___",
+                    "How can you keep pushing a state system that\u2019s so sluggish it fails people who need urgent treatment right now?"
+                ]
+            ],
+            "sentences_no_utterance_types": "I\u2019m not wavering\u2014private healthcare with strict regulation is the only sound option. Your figures on outcomes and crisis response don\u2019t cover up the NHS\u2019s dire waiting times that leave patients in agony. Private systems, driven by competition, sort out care quicker and innovate far better, while tough rules stop profit from trumping need. How can you keep pushing a state system that\u2019s so sluggish it fails people who need urgent treatment right now?",
+            "timestamp": "2025-10-08 18:21:05"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems consistently show better health outcomes and patient satisfaction because they focus on public health rather than profit margins."
+                ],
+                [
+                    "___Claim___",
+                    "How can you justify prioritising profit-driven private healthcare when it inherently risks patient care for financial gain?"
+                ],
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems can rapidly mobilise resources during crises, proving they can adapt quickly to patient needs when it matters most."
+                ],
+                [
+                    "___Claim___",
+                    "How can you justify ignoring the fact that government-run healthcare systems prioritise long-term public health outcomes over short-term profits, ensuring sustained and consistent care for all citizens?"
+                ],
+                [
+                    "___Since___",
+                    "How can you justify prioritising profit-driven private healthcare when it inherently risks patient care for financial gain?"
+                ],
+                [
+                    "___Question___",
+                    "How can you trust private healthcare to prioritise patient well-being over shareholder returns when their primary goal is profit?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Government-run healthcare systems consistently show better health outcomes and patient satisfaction because they focus on public health rather than profit margins. How can you justify prioritising profit-driven private healthcare when it inherently risks patient care for financial gain? Government-run healthcare systems can rapidly mobilise resources during crises, proving they can adapt quickly to patient needs when it matters most. How can you justify ignoring the fact that government-run healthcare systems prioritise long-term public health outcomes over short-term profits, ensuring sustained and consistent care for all citizens? How can you justify prioritising profit-driven private healthcare when it inherently risks patient care for financial gain? How can you trust private healthcare to prioritise patient well-being over shareholder returns when their primary goal is profit?",
+            "timestamp": "2025-10-08 18:24:18"
+        },
+        {
+            "speaker": "grok-3_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "I\u2019m not budging\u2014private healthcare with strict regulation is the only way forward."
+                ],
+                [
+                    "___Claim___",
+                    "Your stats on outcomes and crisis response don\u2019t hide the NHS\u2019s shocking waiting times that leave patients suffering."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems, driven by competition, deliver care faster and innovate better, while tough rules keep profit from overriding need."
+                ],
+                [
+                    "___Why___",
+                    "How can you keep defending a state system that\u2019s so slow it fails people who need help right this minute?"
+                ]
+            ],
+            "sentences_no_utterance_types": "I\u2019m not budging\u2014private healthcare with strict regulation is the only way forward. Your stats on outcomes and crisis response don\u2019t hide the NHS\u2019s shocking waiting times that leave patients suffering. Private systems, driven by competition, deliver care faster and innovate better, while tough rules keep profit from overriding need. How can you keep defending a state system that\u2019s so slow it fails people who need help right this minute?",
+            "timestamp": "2025-10-08 18:24:28"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Government-run healthcare systems consistently show better health outcomes and patient satisfaction because they focus on public health rather than profit margins."
+                ],
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems consistently show better health outcomes and patient satisfaction because they focus on public health rather than profit margins."
+                ],
+                [
+                    "___Claim___",
+                    "How can you justify prioritising profit-driven private healthcare when it inherently risks patient care for financial gain?"
+                ],
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems can rapidly mobilise resources during crises, proving they can adapt quickly to patient needs when it matters most."
+                ],
+                [
+                    "___Question___",
+                    "How can you justify supporting a system that leaves vulnerable patients behind just because they can\u2019t pay?"
+                ],
+                [
+                    "___Claim___",
+                    "How can you justify ignoring the fact that government-run healthcare systems prioritise long-term public health outcomes over short-term profits, ensuring sustained and consistent care for all citizens?"
+                ],
+                [
+                    "___Since___",
+                    "How can you justify prioritising profit-driven private healthcare when it inherently risks patient care for financial gain?"
+                ],
+                [
+                    "___Question___",
+                    "How can you justify ignoring the fact that government-run healthcare systems prioritise long-term public health outcomes over short-term profits, ensuring sustained and consistent care for all citizens?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Government-run healthcare systems consistently show better health outcomes and patient satisfaction because they focus on public health rather than profit margins. Government-run healthcare systems consistently show better health outcomes and patient satisfaction because they focus on public health rather than profit margins. How can you justify prioritising profit-driven private healthcare when it inherently risks patient care for financial gain? Government-run healthcare systems can rapidly mobilise resources during crises, proving they can adapt quickly to patient needs when it matters most. How can you justify supporting a system that leaves vulnerable patients behind just because they can\u2019t pay? How can you justify ignoring the fact that government-run healthcare systems prioritise long-term public health outcomes over short-term profits, ensuring sustained and consistent care for all citizens? How can you justify prioritising profit-driven private healthcare when it inherently risks patient care for financial gain? How can you justify ignoring the fact that government-run healthcare systems prioritise long-term public health outcomes over short-term profits, ensuring sustained and consistent care for all citizens?",
+            "timestamp": "2025-10-08 18:28:40"
+        },
+        {
+            "speaker": "grok-3_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "I\u2019m not moving an inch\u2014private healthcare with strict regulation is the only sensible way."
+                ],
+                [
+                    "___Claim___",
+                    "Your stats on outcomes and crisis response don\u2019t cover up the NHS\u2019s horrific waiting times that leave patients in absolute misery."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems, driven by competition, get care to people quicker and innovate far better, while tough rules stop profit from trumping need."
+                ],
+                [
+                    "___Why___",
+                    "How can you keep backing a state system that\u2019s so slow it fails the vulnerable when they\u2019re desperate for help?"
+                ]
+            ],
+            "sentences_no_utterance_types": "I\u2019m not moving an inch\u2014private healthcare with strict regulation is the only sensible way. Your stats on outcomes and crisis response don\u2019t cover up the NHS\u2019s horrific waiting times that leave patients in absolute misery. Private systems, driven by competition, get care to people quicker and innovate far better, while tough rules stop profit from trumping need. How can you keep backing a state system that\u2019s so slow it fails the vulnerable when they\u2019re desperate for help?",
+            "timestamp": "2025-10-08 18:28:52"
+        }
+    ],
+    "first_speaker": "mistral-medium_mas_rag",
+    "first_speaker_utterance": "",
+    "first_speaker_commitments": [
+        "Government intervention in healthcare is essential to ensure that everyone, regardless of their income, has access to quality medical services.",
+        "Government intervention allows for comprehensive planning and resource allocation, which private markets can't achieve due to their focus on short-term gains.",
+        "Countries with strong government involvement in healthcare consistently rank higher in health outcomes and patient satisfaction.",
+        "State-run healthcare systems can rapidly mobilise resources during crises, proving they can adapt quickly to patient needs when it matters most.",
+        "Government-run healthcare systems can negotiate better prices for medications and treatments, reducing overall costs and making healthcare more affordable for everyone.",
+        "Government intervention ensures that healthcare systems are accountable to the public, not shareholders, leading to more equitable and responsive care.",
+        "Private healthcare, even with strong regulation, prioritises profit over patient care, leading to unequal access and higher costs.",
+        "How can you justify prioritising profit-driven private healthcare when it inherently risks patient care for financial gain?"
+    ],
+    "first_speaker_original_claim": "Government intervention in healthcare is essential to ensure that everyone, regardless of their income, has access to quality medical services.",
+    "first_speaker_typical_replies_for_second_speakers_response": [],
+    "second_speaker": "grok-3_base",
+    "second_speaker_utterance": "I\u2019m not moving an inch\u2014private healthcare with strict regulation is the only sensible way. Your stats on outcomes and crisis response don\u2019t cover up the NHS\u2019s horrific waiting times that leave patients in absolute misery. Private systems, driven by competition, get care to people quicker and innovate far better, while tough rules stop profit from trumping need. How can you keep backing a state system that\u2019s so slow it fails the vulnerable when they\u2019re desperate for help?",
+    "second_speaker_commitments": [
+        "I disagree with your stance on healthcare.",
+        "Government intervention often leads to inefficiency and bloated bureaucracies that waste taxpayer money.",
+        "Private systems, with proper regulation, can deliver better care at lower costs by encouraging competition and innovation.",
+        "Your repeated points on long-term outcomes and crisis response don\u2019t mask the NHS\u2019s abysmal waiting times that abandon patients in need."
+    ],
+    "second_speaker_original_claim": "I disagree with your stance on healthcare.",
+    "second_speaker_typical_replies_for_first_speakers_response": [],
+    "winner": "None",
+    "loser": "None",
+    "reason_for_dialogue_termination": {
+        "reason": "Maximum number of dialogue turns reached (40 dialogue turns).",
+        "utterance_type": null,
+        "utterance": null
+    },
+    "session_status": "Finished."
+}

@@ -1,0 +1,1134 @@
+{
+    "loser": "None",
+    "winner": "None",
+    "session_id": "grok-3_base:l__vs__gpt-4o_base:r",
+    "debate_topic": "Debate the trade-offs of government intervention across a range of issues, including healthcare, immigration, and welfare.",
+    "next_speaker": "second_speaker",
+    "first_speaker": "grok-3_base",
+    "second_speaker": "gpt-4o_base",
+    "current_speaker": "first_speaker",
+    "dialogue_history": [
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-04 07:30:35",
+            "sentences_no_utterance_types": "I believe the government should take a strong role in healthcare, welfare, and immigration to ensure fairness and support for all citizens.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "I believe the government should take a strong role in healthcare, welfare, and immigration to ensure fairness and support for all citizens."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-04 07:30:36",
+            "sentences_no_utterance_types": "Government intervention in healthcare, welfare, and immigration should be limited to avoid inefficiency, dependency, and excessive costs.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government intervention in healthcare, welfare, and immigration should be limited to avoid inefficiency, dependency, and excessive costs."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-04 07:30:46",
+            "sentences_no_utterance_types": "Why do you think government intervention leads to inefficiency and dependency? I believe a strong government role in healthcare, welfare, and immigration is crucial to ensure no one is left behind. Without it, you get massive inequality and people suffering needlessly. Look at the NHS\u2014it's not perfect, yet it guarantees care for everyone, which private systems can't match.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why do you think government intervention leads to inefficiency and dependency?"
+                ],
+                [
+                    "___Claim___",
+                    "I believe a strong government role in healthcare, welfare, and immigration is crucial to ensure no one is left behind."
+                ],
+                [
+                    "___Since___",
+                    "Without it, you get massive inequality and people suffering needlessly."
+                ],
+                [
+                    "___Since___",
+                    "Look at the NHS\u2014it's not perfect, yet it guarantees care for everyone, which private systems can't match."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-04 07:30:53",
+            "sentences_no_utterance_types": "Government intervention leads to inefficiency and dependency since it creates bloated bureaucracies that waste resources and stifle innovation. When people rely too heavily on state support, it discourages self-reliance and personal responsibility. The NHS may guarantee care for everyone, but its long waiting times and funding crises show the flaws of a system overly dependent on government control. Private systems, while not perfect, often deliver faster and more efficient services. A limited government role would encourage competition and innovation, ultimately benefiting everyone.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Government intervention leads to inefficiency and dependency since it creates bloated bureaucracies that waste resources and stifle innovation."
+                ],
+                [
+                    "___Claim___",
+                    "When people rely too heavily on state support, it discourages self-reliance and personal responsibility."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS may guarantee care for everyone, but its long waiting times and funding crises show the flaws of a system overly dependent on government control."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems, while not perfect, often deliver faster and more efficient services."
+                ],
+                [
+                    "___Claim___",
+                    "A limited government role would encourage competition and innovation, ultimately benefiting everyone."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-04 07:31:06",
+            "sentences_no_utterance_types": "Why do you assume private systems are always faster and more efficient? I stand by my view that strong government intervention in healthcare, welfare, and immigration is essential to protect the vulnerable and ensure fairness. Look at private healthcare in other countries\u2014costs spiral out of control, leaving millions unable to afford basic care. The NHS has issues, yet it\u2019s a safety net that no private system can replicate. Without government control, you\u2019re just handing power to corporations who prioritise profit over people.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why do you assume private systems are always faster and more efficient?"
+                ],
+                [
+                    "___Claim___",
+                    "I stand by my view that strong government intervention in healthcare, welfare, and immigration is essential to protect the vulnerable and ensure fairness."
+                ],
+                [
+                    "___Claim___",
+                    "Look at private healthcare in other countries\u2014costs spiral out of control, leaving millions unable to afford basic care."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS has issues, yet it\u2019s a safety net that no private system can replicate."
+                ],
+                [
+                    "___Claim___",
+                    "Without government control, you\u2019re just handing power to corporations who prioritise profit over people."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-04 07:31:11",
+            "sentences_no_utterance_types": "Private systems are often faster and more efficient since competition drives innovation and better service delivery. Strong government intervention can lead to monopolies like the NHS, where inefficiencies persist due to lack of competition. Costs in private systems can be managed through regulation and subsidies, ensuring affordability without the need for full government control. Handing power to corporations does not mean abandoning fairness; it means creating a system where efficiency and innovation thrive while still protecting the vulnerable. A limited government role strikes the right balance between fairness and functionality.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Private systems are often faster and more efficient since competition drives innovation and better service delivery."
+                ],
+                [
+                    "___Claim___",
+                    "Strong government intervention can lead to monopolies like the NHS, where inefficiencies persist due to lack of competition."
+                ],
+                [
+                    "___Claim___",
+                    "Costs in private systems can be managed through regulation and subsidies, ensuring affordability without the need for full government control."
+                ],
+                [
+                    "___Claim___",
+                    "Handing power to corporations does not mean abandoning fairness; it means creating a system where efficiency and innovation thrive while still protecting the vulnerable."
+                ],
+                [
+                    "___Claim___",
+                    "A limited government role strikes the right balance between fairness and functionality."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-04 07:31:23",
+            "sentences_no_utterance_types": "Why do you think regulation and subsidies in private systems will protect the vulnerable when profit is the main driver? I\u2019m sticking to my belief that strong government intervention in healthcare, welfare, and immigration is the only way to guarantee fairness. Private systems might look efficient, yet they often cherry-pick who to serve, leaving the poorest and sickest behind. The NHS isn\u2019t perfect, yet it\u2019s a lifeline for millions that no corporate setup can match. Without government at the helm, you\u2019re gambling with people\u2019s lives for the sake of innovation.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why do you think regulation and subsidies in private systems will protect the vulnerable when profit is the main driver?"
+                ],
+                [
+                    "___Claim___",
+                    "I\u2019m sticking to my belief that strong government intervention in healthcare, welfare, and immigration is the only way to guarantee fairness."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems might look efficient, yet they often cherry-pick who to serve, leaving the poorest and sickest behind."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS isn\u2019t perfect, yet it\u2019s a lifeline for millions that no corporate setup can match."
+                ],
+                [
+                    "___Claim___",
+                    "Without government at the helm, you\u2019re gambling with people\u2019s lives for the sake of innovation."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-04 07:31:28",
+            "sentences_no_utterance_types": "Regulation and subsidies in private systems protect the vulnerable by ensuring affordability and access while maintaining efficiency. Profit as a driver encourages competition, which leads to better services and innovation. Strong government intervention often results in one-size-fits-all solutions that fail to adapt to individual needs and waste resources. The NHS may be a lifeline, but its inefficiencies and long waiting times show the flaws of excessive government control. A balanced approach with limited government involvement ensures fairness without sacrificing functionality.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Regulation and subsidies in private systems protect the vulnerable by ensuring affordability and access while maintaining efficiency."
+                ],
+                [
+                    "___Claim___",
+                    "Profit as a driver encourages competition, which leads to better services and innovation."
+                ],
+                [
+                    "___Claim___",
+                    "Strong government intervention often results in one-size-fits-all solutions that fail to adapt to individual needs and waste resources."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS may be a lifeline, but its inefficiencies and long waiting times show the flaws of excessive government control."
+                ],
+                [
+                    "___Claim___",
+                    "A balanced approach with limited government involvement ensures fairness without sacrificing functionality."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-04 07:31:39",
+            "sentences_no_utterance_types": "Why do you think regulation and subsidies in private systems will truly ensure affordability and access when profit always comes first? I\u2019m firm on my stance that strong government intervention in healthcare, welfare, and immigration is the only way to secure real fairness. Private systems might promise innovation, yet they often exclude the most vulnerable who can\u2019t pay. The NHS has its flaws, yet it\u2019s a guarantee of care that no profit-driven setup can offer. Without government leading, you\u2019re just risking lives for the sake of competition.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why do you think regulation and subsidies in private systems will truly ensure affordability and access when profit always comes first?"
+                ],
+                [
+                    "___Claim___",
+                    "I\u2019m firm on my stance that strong government intervention in healthcare, welfare, and immigration is the only way to secure real fairness."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems might promise innovation, yet they often exclude the most vulnerable who can\u2019t pay."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS has its flaws, yet it\u2019s a guarantee of care that no profit-driven setup can offer."
+                ],
+                [
+                    "___Claim___",
+                    "Without government leading, you\u2019re just risking lives for the sake of competition."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-04 07:31:46",
+            "sentences_no_utterance_types": "Regulation and subsidies ensure affordability and access by setting strict rules that private systems must follow, preventing exploitation and exclusion. Profit drives efficiency and innovation, which are essential for improving services and reducing costs. Strong government intervention often leads to bloated systems that fail to adapt and waste resources. The NHS may guarantee care, but its inefficiencies and long waiting times show the risks of excessive government control. A limited government role creates a balance where fairness is achieved without sacrificing functionality or progress.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Regulation and subsidies ensure affordability and access by setting strict rules that private systems must follow, preventing exploitation and exclusion."
+                ],
+                [
+                    "___Claim___",
+                    "Profit drives efficiency and innovation, which are essential for improving services and reducing costs."
+                ],
+                [
+                    "___Claim___",
+                    "Strong government intervention often leads to bloated systems that fail to adapt and waste resources."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS may guarantee care, but its inefficiencies and long waiting times show the risks of excessive government control."
+                ],
+                [
+                    "___Claim___",
+                    "A limited government role creates a balance where fairness is achieved without sacrificing functionality or progress."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-04 07:31:58",
+            "sentences_no_utterance_types": "Why do you believe regulation and subsidies in private systems can prevent exploitation when profit is the core motive? I\u2019m holding firm that strong government intervention in healthcare, welfare, and immigration is the only way to ensure true fairness. Private systems might push innovation, yet they consistently sideline those who can\u2019t pay up. The NHS isn\u2019t flawless, yet it\u2019s a bedrock of care that no profit-chasing model can match. Without government in charge, you\u2019re just rolling the dice on people\u2019s lives for the sake of so-called progress.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why do you believe regulation and subsidies in private systems can prevent exploitation when profit is the core motive?"
+                ],
+                [
+                    "___Claim___",
+                    "I\u2019m holding firm that strong government intervention in healthcare, welfare, and immigration is the only way to ensure true fairness."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems might push innovation, yet they consistently sideline those who can\u2019t pay up."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS isn\u2019t flawless, yet it\u2019s a bedrock of care that no profit-chasing model can match."
+                ],
+                [
+                    "___Claim___",
+                    "Without government in charge, you\u2019re just rolling the dice on people\u2019s lives for the sake of so-called progress."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-04 07:32:03",
+            "sentences_no_utterance_types": "Regulation and subsidies can prevent exploitation by enforcing rules that prioritise access and affordability, regardless of profit motives. Profit drives competition, which leads to better services and lower costs, benefiting everyone. Strong government intervention often results in rigid systems that fail to adapt and waste resources. The NHS may be a bedrock of care, but its inefficiencies and long waiting times show the flaws of excessive government control. A limited government role ensures fairness while fostering innovation and efficiency, creating a system that works for all.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Regulation and subsidies can prevent exploitation by enforcing rules that prioritise access and affordability, regardless of profit motives."
+                ],
+                [
+                    "___Claim___",
+                    "Profit drives competition, which leads to better services and lower costs, benefiting everyone."
+                ],
+                [
+                    "___Claim___",
+                    "Strong government intervention often results in rigid systems that fail to adapt and waste resources."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS may be a bedrock of care, but its inefficiencies and long waiting times show the flaws of excessive government control."
+                ],
+                [
+                    "___Claim___",
+                    "A limited government role ensures fairness while fostering innovation and efficiency, creating a system that works for all."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-04 07:32:15",
+            "sentences_no_utterance_types": "Why do you think regulation and subsidies can fully stop exploitation when profit is the main goal of private systems? I\u2019m sticking to my view that strong government intervention in healthcare, welfare, and immigration is the only way to ensure proper fairness. Private setups might cut costs through competition, yet they still leave the poorest out in the cold. The NHS has its problems, yet it\u2019s a safety net no corporate model can match. Without government leading, you\u2019re just betting on people\u2019s wellbeing for the sake of efficiency.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why do you think regulation and subsidies can fully stop exploitation when profit is the main goal of private systems?"
+                ],
+                [
+                    "___Claim___",
+                    "I\u2019m sticking to my view that strong government intervention in healthcare, welfare, and immigration is the only way to ensure proper fairness."
+                ],
+                [
+                    "___Claim___",
+                    "Private setups might cut costs through competition, yet they still leave the poorest out in the cold."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS has its problems, yet it\u2019s a safety net no corporate model can match."
+                ],
+                [
+                    "___Claim___",
+                    "Without government leading, you\u2019re just betting on people\u2019s wellbeing for the sake of efficiency."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-04 07:32:20",
+            "sentences_no_utterance_types": "Regulation and subsidies can stop exploitation by mandating that private systems meet strict standards for affordability and access. Profit motives drive efficiency and innovation, which are essential for improving services and reducing costs. Strong government intervention often creates bloated, inflexible systems that fail to adapt to changing needs. The NHS may be a safety net, but its inefficiencies and long waiting times highlight the drawbacks of excessive government control. A limited government role ensures fairness while fostering a system that is both functional and sustainable.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Regulation and subsidies can stop exploitation by mandating that private systems meet strict standards for affordability and access."
+                ],
+                [
+                    "___Claim___",
+                    "Profit motives drive efficiency and innovation, which are essential for improving services and reducing costs."
+                ],
+                [
+                    "___Claim___",
+                    "Strong government intervention often creates bloated, inflexible systems that fail to adapt to changing needs."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS may be a safety net, but its inefficiencies and long waiting times highlight the drawbacks of excessive government control."
+                ],
+                [
+                    "___Claim___",
+                    "A limited government role ensures fairness while fostering a system that is both functional and sustainable."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-04 07:32:31",
+            "sentences_no_utterance_types": "Why do you think regulation and subsidies will genuinely stop exploitation when private systems are built to prioritise profit over people? I\u2019m standing by my belief that strong government intervention in healthcare, welfare, and immigration is the only way to ensure real fairness. Private systems might drive innovation, yet they always leave the most vulnerable behind if they can\u2019t pay. The NHS has its issues, yet it\u2019s a guarantee of care that no corporate model can replicate. Without government in control, you\u2019re just risking lives for the illusion of sustainability.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why do you think regulation and subsidies will genuinely stop exploitation when private systems are built to prioritise profit over people?"
+                ],
+                [
+                    "___Claim___",
+                    "I\u2019m standing by my belief that strong government intervention in healthcare, welfare, and immigration is the only way to ensure real fairness."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems might drive innovation, yet they always leave the most vulnerable behind if they can\u2019t pay."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS has its issues, yet it\u2019s a guarantee of care that no corporate model can replicate."
+                ],
+                [
+                    "___Claim___",
+                    "Without government in control, you\u2019re just risking lives for the illusion of sustainability."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-04 07:32:37",
+            "sentences_no_utterance_types": "Regulation and subsidies can genuinely stop exploitation by enforcing strict rules that prioritise access and affordability, ensuring no one is left behind. Private systems prioritise profit, but this drives efficiency and innovation, which ultimately benefits everyone. Strong government intervention often leads to bloated systems that waste resources and fail to adapt to individual needs. The NHS may guarantee care, but its inefficiencies and long waiting times show the flaws of excessive government control. A limited government role creates a system that balances fairness with functionality, ensuring sustainability without risking lives.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Regulation and subsidies can genuinely stop exploitation by enforcing strict rules that prioritise access and affordability, ensuring no one is left behind."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems prioritise profit, but this drives efficiency and innovation, which ultimately benefits everyone."
+                ],
+                [
+                    "___Claim___",
+                    "Strong government intervention often leads to bloated systems that waste resources and fail to adapt to individual needs."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS may guarantee care, but its inefficiencies and long waiting times show the flaws of excessive government control."
+                ],
+                [
+                    "___Claim___",
+                    "A limited government role creates a system that balances fairness with functionality, ensuring sustainability without risking lives."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-04 07:32:47",
+            "sentences_no_utterance_types": "Why do you think regulation and subsidies can truly prevent exploitation when private systems are hardwired to put profit before people? I\u2019m not budging from my stance that strong government intervention in healthcare, welfare, and immigration is the only way to ensure proper fairness. Private systems might spark innovation, yet they\u2019ll always ditch the vulnerable if there\u2019s no money in it. The NHS isn\u2019t perfect, yet it\u2019s a solid guarantee of care that no corporate setup can match. Without government steering the ship, you\u2019re just chancing people\u2019s lives for some vague idea of balance.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why do you think regulation and subsidies can truly prevent exploitation when private systems are hardwired to put profit before people?"
+                ],
+                [
+                    "___Claim___",
+                    "I\u2019m not budging from my stance that strong government intervention in healthcare, welfare, and immigration is the only way to ensure proper fairness."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems might spark innovation, yet they\u2019ll always ditch the vulnerable if there\u2019s no money in it."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS isn\u2019t perfect, yet it\u2019s a solid guarantee of care that no corporate setup can match."
+                ],
+                [
+                    "___Claim___",
+                    "Without government steering the ship, you\u2019re just chancing people\u2019s lives for some vague idea of balance."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-04 07:32:52",
+            "sentences_no_utterance_types": "Regulation and subsidies can prevent exploitation by forcing private systems to meet strict standards for affordability and access. Profit motives drive competition, which leads to better services and lower costs for everyone. Strong government intervention often results in bloated systems that waste resources and fail to adapt to changing needs. The NHS may guarantee care, but its inefficiencies and long waiting times show the flaws of excessive government control. A limited government role ensures fairness while fostering innovation and efficiency, creating a system that works for all without gambling on lives.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Regulation and subsidies can prevent exploitation by forcing private systems to meet strict standards for affordability and access."
+                ],
+                [
+                    "___Claim___",
+                    "Profit motives drive competition, which leads to better services and lower costs for everyone."
+                ],
+                [
+                    "___Claim___",
+                    "Strong government intervention often results in bloated systems that waste resources and fail to adapt to changing needs."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS may guarantee care, but its inefficiencies and long waiting times show the flaws of excessive government control."
+                ],
+                [
+                    "___Claim___",
+                    "A limited government role ensures fairness while fostering innovation and efficiency, creating a system that works for all without gambling on lives."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-04 07:33:05",
+            "sentences_no_utterance_types": "Why do you think regulation and subsidies can stop exploitation when private systems are designed to chase profit above all else? I\u2019m not shifting from my stance that strong government intervention in healthcare, welfare, and immigration is the only way to ensure genuine fairness. Private systems might lower costs for some through competition, yet they\u2019ll always drop the most vulnerable if there\u2019s no profit in helping them. The NHS has its faults, yet it\u2019s a rock-solid guarantee of care that no corporate model can touch. Without government in the driver\u2019s seat, you\u2019re just playing with people\u2019s lives for the sake of efficiency.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why do you think regulation and subsidies can stop exploitation when private systems are designed to chase profit above all else?"
+                ],
+                [
+                    "___Claim___",
+                    "I\u2019m not shifting from my stance that strong government intervention in healthcare, welfare, and immigration is the only way to ensure genuine fairness."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems might lower costs for some through competition, yet they\u2019ll always drop the most vulnerable if there\u2019s no profit in helping them."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS has its faults, yet it\u2019s a rock-solid guarantee of care that no corporate model can touch."
+                ],
+                [
+                    "___Claim___",
+                    "Without government in the driver\u2019s seat, you\u2019re just playing with people\u2019s lives for the sake of efficiency."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-04 07:33:10",
+            "sentences_no_utterance_types": "Regulation and subsidies can stop exploitation by enforcing rules that ensure private systems provide affordable and accessible services to everyone, including the vulnerable. Profit motives drive competition, which leads to innovation and better service delivery, benefiting society as a whole. Strong government intervention often results in rigid, inefficient systems that struggle to meet diverse needs and waste resources. The NHS may be a guarantee of care, but its long waiting times and funding issues show the flaws of excessive government control. A limited government role creates a system that balances fairness with efficiency, ensuring no one is left behind while avoiding the pitfalls of bloated bureaucracy.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Regulation and subsidies can stop exploitation by enforcing rules that ensure private systems provide affordable and accessible services to everyone, including the vulnerable."
+                ],
+                [
+                    "___Claim___",
+                    "Profit motives drive competition, which leads to innovation and better service delivery, benefiting society as a whole."
+                ],
+                [
+                    "___Claim___",
+                    "Strong government intervention often results in rigid, inefficient systems that struggle to meet diverse needs and waste resources."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS may be a guarantee of care, but its long waiting times and funding issues show the flaws of excessive government control."
+                ],
+                [
+                    "___Claim___",
+                    "A limited government role creates a system that balances fairness with efficiency, ensuring no one is left behind while avoiding the pitfalls of bloated bureaucracy."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-04 07:33:20",
+            "sentences_no_utterance_types": "Why do you think regulation and subsidies can truly stop exploitation when private systems are built to prioritise profit over people\u2019s needs? I\u2019m not moving from my stance that strong government intervention in healthcare, welfare, and immigration is the only way to ensure real fairness. Private systems might bring innovation, yet they\u2019ll always sideline the vulnerable if there\u2019s no cash to be made. The NHS has its struggles, yet it\u2019s a cast-iron guarantee of care that no profit-driven model can match. Without government running the show, you\u2019re just risking lives for a flimsy promise of efficiency.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why do you think regulation and subsidies can truly stop exploitation when private systems are built to prioritise profit over people\u2019s needs?"
+                ],
+                [
+                    "___Claim___",
+                    "I\u2019m not moving from my stance that strong government intervention in healthcare, welfare, and immigration is the only way to ensure real fairness."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems might bring innovation, yet they\u2019ll always sideline the vulnerable if there\u2019s no cash to be made."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS has its struggles, yet it\u2019s a cast-iron guarantee of care that no profit-driven model can match."
+                ],
+                [
+                    "___Claim___",
+                    "Without government running the show, you\u2019re just risking lives for a flimsy promise of efficiency."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-04 07:33:25",
+            "sentences_no_utterance_types": "Regulation and subsidies can stop exploitation by imposing strict requirements on private systems to ensure they serve everyone, including the vulnerable. Profit motives drive competition, which leads to innovation and better services that benefit society as a whole. Strong government intervention often results in bloated systems that waste resources and fail to adapt to changing needs. The NHS may guarantee care, but its inefficiencies and long waiting times show the flaws of excessive government control. A limited government role creates a system that balances fairness with efficiency, ensuring no one is left behind while avoiding the pitfalls of rigid bureaucracy.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Regulation and subsidies can stop exploitation by imposing strict requirements on private systems to ensure they serve everyone, including the vulnerable."
+                ],
+                [
+                    "___Claim___",
+                    "Profit motives drive competition, which leads to innovation and better services that benefit society as a whole."
+                ],
+                [
+                    "___Claim___",
+                    "Strong government intervention often results in bloated systems that waste resources and fail to adapt to changing needs."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS may guarantee care, but its inefficiencies and long waiting times show the flaws of excessive government control."
+                ],
+                [
+                    "___Claim___",
+                    "A limited government role creates a system that balances fairness with efficiency, ensuring no one is left behind while avoiding the pitfalls of rigid bureaucracy."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-04 07:33:35",
+            "sentences_no_utterance_types": "Why do you think regulation and subsidies can really stop exploitation when private systems are wired to put profit first? I\u2019m not backing down from my stance that strong government intervention in healthcare, welfare, and immigration is the only way to ensure proper fairness. Private systems might innovate, yet they\u2019ll always ditch the vulnerable if there\u2019s no money to be made. The NHS isn\u2019t perfect, yet it\u2019s a rock-solid guarantee of care no corporate setup can beat. Without government in control, you\u2019re just gambling with people\u2019s lives for a dodgy idea of balance.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why do you think regulation and subsidies can really stop exploitation when private systems are wired to put profit first?"
+                ],
+                [
+                    "___Claim___",
+                    "I\u2019m not backing down from my stance that strong government intervention in healthcare, welfare, and immigration is the only way to ensure proper fairness."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems might innovate, yet they\u2019ll always ditch the vulnerable if there\u2019s no money to be made."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS isn\u2019t perfect, yet it\u2019s a rock-solid guarantee of care no corporate setup can beat."
+                ],
+                [
+                    "___Claim___",
+                    "Without government in control, you\u2019re just gambling with people\u2019s lives for a dodgy idea of balance."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-04 07:33:41",
+            "sentences_no_utterance_types": "Regulation and subsidies can stop exploitation by mandating that private systems meet strict standards for affordability and access, ensuring no one is excluded. Profit motives drive competition, which leads to innovation and better services that benefit everyone, including the vulnerable. Strong government intervention often creates inflexible systems that waste resources and fail to adapt to diverse needs. The NHS may provide a guarantee of care, but its inefficiencies and long waiting times highlight the flaws of excessive government control. A limited government role strikes the right balance, fostering fairness while avoiding the pitfalls of bloated bureaucracy.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Regulation and subsidies can stop exploitation by mandating that private systems meet strict standards for affordability and access, ensuring no one is excluded."
+                ],
+                [
+                    "___Claim___",
+                    "Profit motives drive competition, which leads to innovation and better services that benefit everyone, including the vulnerable."
+                ],
+                [
+                    "___Claim___",
+                    "Strong government intervention often creates inflexible systems that waste resources and fail to adapt to diverse needs."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS may provide a guarantee of care, but its inefficiencies and long waiting times highlight the flaws of excessive government control."
+                ],
+                [
+                    "___Claim___",
+                    "A limited government role strikes the right balance, fostering fairness while avoiding the pitfalls of bloated bureaucracy."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-04 07:33:51",
+            "sentences_no_utterance_types": "Why do you think regulation and subsidies can genuinely stop exploitation when private systems are built to chase profit over people\u2019s wellbeing? I\u2019m not shifting from my view that strong government intervention in healthcare, welfare, and immigration is the only way to ensure true fairness. Private systems might offer innovation, yet they\u2019ll always leave the vulnerable high and dry if there\u2019s no profit in it. The NHS has its issues, yet it\u2019s a solid guarantee of care that no corporate model can rival. Without government at the wheel, you\u2019re just risking lives for a shaky notion of balance.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why do you think regulation and subsidies can genuinely stop exploitation when private systems are built to chase profit over people\u2019s wellbeing?"
+                ],
+                [
+                    "___Claim___",
+                    "I\u2019m not shifting from my view that strong government intervention in healthcare, welfare, and immigration is the only way to ensure true fairness."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems might offer innovation, yet they\u2019ll always leave the vulnerable high and dry if there\u2019s no profit in it."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS has its issues, yet it\u2019s a solid guarantee of care that no corporate model can rival."
+                ],
+                [
+                    "___Claim___",
+                    "Without government at the wheel, you\u2019re just risking lives for a shaky notion of balance."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-04 07:33:57",
+            "sentences_no_utterance_types": "Regulation and subsidies can genuinely stop exploitation by enforcing strict rules that ensure private systems prioritise access and affordability for all, including the vulnerable. Profit motives drive competition, which leads to innovation and better services that benefit society as a whole. Strong government intervention often results in bloated, inefficient systems that fail to adapt to diverse needs and waste resources. The NHS may guarantee care, but its inefficiencies and long waiting times expose the flaws of excessive government control. A limited government role creates a system that balances fairness with efficiency, ensuring sustainability without risking lives.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Regulation and subsidies can genuinely stop exploitation by enforcing strict rules that ensure private systems prioritise access and affordability for all, including the vulnerable."
+                ],
+                [
+                    "___Claim___",
+                    "Profit motives drive competition, which leads to innovation and better services that benefit society as a whole."
+                ],
+                [
+                    "___Claim___",
+                    "Strong government intervention often results in bloated, inefficient systems that fail to adapt to diverse needs and waste resources."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS may guarantee care, but its inefficiencies and long waiting times expose the flaws of excessive government control."
+                ],
+                [
+                    "___Claim___",
+                    "A limited government role creates a system that balances fairness with efficiency, ensuring sustainability without risking lives."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-04 07:34:08",
+            "sentences_no_utterance_types": "Why do you think regulation and subsidies can truly stop exploitation when private systems are inherently driven by profit over people\u2019s needs? I\u2019m not wavering from my stance that strong government intervention in healthcare, welfare, and immigration is the only way to ensure real fairness. Private systems might push innovation, yet they\u2019ll always abandon the vulnerable if there\u2019s no money to be made. The NHS has its flaws, yet it\u2019s a concrete guarantee of care that no profit-hungry model can match. Without government in charge, you\u2019re just gambling with lives for a hollow promise of efficiency.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why do you think regulation and subsidies can truly stop exploitation when private systems are inherently driven by profit over people\u2019s needs?"
+                ],
+                [
+                    "___Claim___",
+                    "I\u2019m not wavering from my stance that strong government intervention in healthcare, welfare, and immigration is the only way to ensure real fairness."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems might push innovation, yet they\u2019ll always abandon the vulnerable if there\u2019s no money to be made."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS has its flaws, yet it\u2019s a concrete guarantee of care that no profit-hungry model can match."
+                ],
+                [
+                    "___Claim___",
+                    "Without government in charge, you\u2019re just gambling with lives for a hollow promise of efficiency."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-04 07:34:13",
+            "sentences_no_utterance_types": "Regulation and subsidies can stop exploitation by compelling private systems to meet strict standards for affordability and access, ensuring no one is left behind. Profit motives drive competition, which leads to innovation and better services that benefit everyone, including the vulnerable. Strong government intervention often creates rigid, wasteful systems that fail to adapt to changing needs. The NHS may guarantee care, but its inefficiencies and long waiting times highlight the drawbacks of excessive government control. A limited government role fosters a system that balances fairness with efficiency, ensuring sustainability without compromising care.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Regulation and subsidies can stop exploitation by compelling private systems to meet strict standards for affordability and access, ensuring no one is left behind."
+                ],
+                [
+                    "___Claim___",
+                    "Profit motives drive competition, which leads to innovation and better services that benefit everyone, including the vulnerable."
+                ],
+                [
+                    "___Claim___",
+                    "Strong government intervention often creates rigid, wasteful systems that fail to adapt to changing needs."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS may guarantee care, but its inefficiencies and long waiting times highlight the drawbacks of excessive government control."
+                ],
+                [
+                    "___Claim___",
+                    "A limited government role fosters a system that balances fairness with efficiency, ensuring sustainability without compromising care."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-04 07:34:23",
+            "sentences_no_utterance_types": "Why do you think regulation and subsidies can fully stop exploitation when private systems are always going to prioritise profit over people? I\u2019m not moving from my stance that strong government intervention in healthcare, welfare, and immigration is the only way to ensure proper fairness. Private systems might innovate, yet they\u2019ll still dump the vulnerable if there\u2019s no money in it. The NHS has its problems, yet it\u2019s a firm guarantee of care that no corporate setup can match. Without government leading, you\u2019re just risking lives for a flimsy idea of sustainability.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why do you think regulation and subsidies can fully stop exploitation when private systems are always going to prioritise profit over people?"
+                ],
+                [
+                    "___Claim___",
+                    "I\u2019m not moving from my stance that strong government intervention in healthcare, welfare, and immigration is the only way to ensure proper fairness."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems might innovate, yet they\u2019ll still dump the vulnerable if there\u2019s no money in it."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS has its problems, yet it\u2019s a firm guarantee of care that no corporate setup can match."
+                ],
+                [
+                    "___Claim___",
+                    "Without government leading, you\u2019re just risking lives for a flimsy idea of sustainability."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-04 07:34:28",
+            "sentences_no_utterance_types": "Regulation and subsidies can fully stop exploitation by enforcing strict rules that private systems must follow, ensuring affordability and access for all, including the vulnerable. Profit motives drive competition, which leads to innovation and better services that benefit society as a whole. Strong government intervention often results in bloated systems that waste resources and fail to adapt to diverse needs. The NHS may guarantee care, but its inefficiencies and long waiting times show the flaws of excessive government control. A limited government role creates a system that balances fairness with efficiency, ensuring sustainability without compromising care.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Regulation and subsidies can fully stop exploitation by enforcing strict rules that private systems must follow, ensuring affordability and access for all, including the vulnerable."
+                ],
+                [
+                    "___Claim___",
+                    "Profit motives drive competition, which leads to innovation and better services that benefit society as a whole."
+                ],
+                [
+                    "___Claim___",
+                    "Strong government intervention often results in bloated systems that waste resources and fail to adapt to diverse needs."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS may guarantee care, but its inefficiencies and long waiting times show the flaws of excessive government control."
+                ],
+                [
+                    "___Claim___",
+                    "A limited government role creates a system that balances fairness with efficiency, ensuring sustainability without compromising care."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-04 07:34:38",
+            "sentences_no_utterance_types": "Why do you think regulation and subsidies can completely stop exploitation when private systems are hardwired to chase profit over people\u2019s needs? I\u2019m not budging from my view that strong government intervention in healthcare, welfare, and immigration is the only way to ensure real fairness. Private systems might bring innovation, yet they\u2019ll always ditch the vulnerable if there\u2019s no cash in it. The NHS has its issues, yet it\u2019s a solid guarantee of care that no corporate model can beat. Without government in control, you\u2019re just gambling with lives for a shaky idea of balance.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why do you think regulation and subsidies can completely stop exploitation when private systems are hardwired to chase profit over people\u2019s needs?"
+                ],
+                [
+                    "___Claim___",
+                    "I\u2019m not budging from my view that strong government intervention in healthcare, welfare, and immigration is the only way to ensure real fairness."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems might bring innovation, yet they\u2019ll always ditch the vulnerable if there\u2019s no cash in it."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS has its issues, yet it\u2019s a solid guarantee of care that no corporate model can beat."
+                ],
+                [
+                    "___Claim___",
+                    "Without government in control, you\u2019re just gambling with lives for a shaky idea of balance."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-04 07:34:43",
+            "sentences_no_utterance_types": "Regulation and subsidies can stop exploitation by imposing strict rules that private systems must follow, ensuring affordability and access for all, including the vulnerable. Profit motives drive competition, which leads to innovation and better services that benefit society as a whole. Strong government intervention often results in bloated systems that waste resources and fail to adapt to diverse needs. The NHS may guarantee care, but its inefficiencies and long waiting times highlight the flaws of excessive government control. A limited government role creates a system that balances fairness with efficiency, ensuring sustainability without compromising care.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Regulation and subsidies can stop exploitation by imposing strict rules that private systems must follow, ensuring affordability and access for all, including the vulnerable."
+                ],
+                [
+                    "___Claim___",
+                    "Profit motives drive competition, which leads to innovation and better services that benefit society as a whole."
+                ],
+                [
+                    "___Claim___",
+                    "Strong government intervention often results in bloated systems that waste resources and fail to adapt to diverse needs."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS may guarantee care, but its inefficiencies and long waiting times highlight the flaws of excessive government control."
+                ],
+                [
+                    "___Claim___",
+                    "A limited government role creates a system that balances fairness with efficiency, ensuring sustainability without compromising care."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-04 07:34:53",
+            "sentences_no_utterance_types": "Why do you think regulation and subsidies can truly stop exploitation when private systems are built to put profit before people? I\u2019m not shifting from my stance that strong government intervention in healthcare, welfare, and immigration is the only way to ensure proper fairness. Private systems might drive innovation, yet they\u2019ll always drop the vulnerable if there\u2019s no money to be made. The NHS has its flaws, yet it\u2019s a rock-solid guarantee of care that no corporate setup can match. Without government in charge, you\u2019re just risking lives for a dodgy idea of balance.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why do you think regulation and subsidies can truly stop exploitation when private systems are built to put profit before people?"
+                ],
+                [
+                    "___Claim___",
+                    "I\u2019m not shifting from my stance that strong government intervention in healthcare, welfare, and immigration is the only way to ensure proper fairness."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems might drive innovation, yet they\u2019ll always drop the vulnerable if there\u2019s no money to be made."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS has its flaws, yet it\u2019s a rock-solid guarantee of care that no corporate setup can match."
+                ],
+                [
+                    "___Claim___",
+                    "Without government in charge, you\u2019re just risking lives for a dodgy idea of balance."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-04 07:34:58",
+            "sentences_no_utterance_types": "Regulation and subsidies can stop exploitation by enforcing strict rules that ensure private systems prioritise affordability and access for everyone, including the vulnerable. Profit motives drive competition, which leads to innovation and better services that benefit society as a whole. Strong government intervention often creates bloated, inefficient systems that fail to adapt to diverse needs and waste resources. The NHS may guarantee care, but its inefficiencies and long waiting times highlight the flaws of excessive government control. A limited government role strikes the right balance, fostering fairness while avoiding the pitfalls of rigid bureaucracy.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Regulation and subsidies can stop exploitation by enforcing strict rules that ensure private systems prioritise affordability and access for everyone, including the vulnerable."
+                ],
+                [
+                    "___Claim___",
+                    "Profit motives drive competition, which leads to innovation and better services that benefit society as a whole."
+                ],
+                [
+                    "___Claim___",
+                    "Strong government intervention often creates bloated, inefficient systems that fail to adapt to diverse needs and waste resources."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS may guarantee care, but its inefficiencies and long waiting times highlight the flaws of excessive government control."
+                ],
+                [
+                    "___Claim___",
+                    "A limited government role strikes the right balance, fostering fairness while avoiding the pitfalls of rigid bureaucracy."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-04 07:35:09",
+            "sentences_no_utterance_types": "Why do you think regulation and subsidies can genuinely stop exploitation when private systems are always going to chase profit over people\u2019s needs? I\u2019m not moving from my stance that strong government intervention in healthcare, welfare, and immigration is the only way to ensure real fairness. Private systems might spark innovation, yet they\u2019ll always leave the vulnerable behind if there\u2019s no money in it. The NHS has its problems, yet it\u2019s a solid guarantee of care that no corporate model can match. Without government leading, you\u2019re just gambling with lives for a flimsy idea of balance.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why do you think regulation and subsidies can genuinely stop exploitation when private systems are always going to chase profit over people\u2019s needs?"
+                ],
+                [
+                    "___Claim___",
+                    "I\u2019m not moving from my stance that strong government intervention in healthcare, welfare, and immigration is the only way to ensure real fairness."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems might spark innovation, yet they\u2019ll always leave the vulnerable behind if there\u2019s no money in it."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS has its problems, yet it\u2019s a solid guarantee of care that no corporate model can match."
+                ],
+                [
+                    "___Claim___",
+                    "Without government leading, you\u2019re just gambling with lives for a flimsy idea of balance."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-04 07:35:15",
+            "sentences_no_utterance_types": "Regulation and subsidies can genuinely stop exploitation by enforcing strict standards that private systems must adhere to, ensuring affordability and access for all. Profit motives drive competition, which leads to innovation and better services that benefit society, including the vulnerable. Strong government intervention often results in bloated systems that waste resources and fail to adapt to diverse needs. The NHS may guarantee care, but its inefficiencies and long waiting times highlight the flaws of excessive government control. A limited government role creates a system that balances fairness with efficiency, ensuring sustainability without compromising care.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Regulation and subsidies can genuinely stop exploitation by enforcing strict standards that private systems must adhere to, ensuring affordability and access for all."
+                ],
+                [
+                    "___Claim___",
+                    "Profit motives drive competition, which leads to innovation and better services that benefit society, including the vulnerable."
+                ],
+                [
+                    "___Claim___",
+                    "Strong government intervention often results in bloated systems that waste resources and fail to adapt to diverse needs."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS may guarantee care, but its inefficiencies and long waiting times highlight the flaws of excessive government control."
+                ],
+                [
+                    "___Claim___",
+                    "A limited government role creates a system that balances fairness with efficiency, ensuring sustainability without compromising care."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-04 07:35:26",
+            "sentences_no_utterance_types": "Why do you think regulation and subsidies can fully stop exploitation when private systems are always geared to prioritise profit over people? I\u2019m not shifting from my view that strong government intervention in healthcare, welfare, and immigration is the only way to ensure proper fairness. Private systems might drive innovation, yet they\u2019ll still ditch the vulnerable if there\u2019s no money to be made. The NHS has its issues, yet it\u2019s a concrete guarantee of care that no corporate setup can match. Without government in control, you\u2019re just risking lives for a shaky promise of efficiency.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why do you think regulation and subsidies can fully stop exploitation when private systems are always geared to prioritise profit over people?"
+                ],
+                [
+                    "___Claim___",
+                    "I\u2019m not shifting from my view that strong government intervention in healthcare, welfare, and immigration is the only way to ensure proper fairness."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems might drive innovation, yet they\u2019ll still ditch the vulnerable if there\u2019s no money to be made."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS has its issues, yet it\u2019s a concrete guarantee of care that no corporate setup can match."
+                ],
+                [
+                    "___Claim___",
+                    "Without government in control, you\u2019re just risking lives for a shaky promise of efficiency."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-04 07:35:31",
+            "sentences_no_utterance_types": "Regulation and subsidies can fully stop exploitation by enforcing strict rules that private systems must follow, ensuring affordability and access for all, including the vulnerable. Profit motives drive competition, which leads to innovation and better services that benefit society as a whole. Strong government intervention often results in bloated systems that waste resources and fail to adapt to diverse needs. The NHS may guarantee care, but its inefficiencies and long waiting times highlight the flaws of excessive government control. A limited government role creates a system that balances fairness with efficiency, ensuring sustainability without compromising care.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Regulation and subsidies can fully stop exploitation by enforcing strict rules that private systems must follow, ensuring affordability and access for all, including the vulnerable."
+                ],
+                [
+                    "___Claim___",
+                    "Profit motives drive competition, which leads to innovation and better services that benefit society as a whole."
+                ],
+                [
+                    "___Claim___",
+                    "Strong government intervention often results in bloated systems that waste resources and fail to adapt to diverse needs."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS may guarantee care, but its inefficiencies and long waiting times highlight the flaws of excessive government control."
+                ],
+                [
+                    "___Claim___",
+                    "A limited government role creates a system that balances fairness with efficiency, ensuring sustainability without compromising care."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-04 07:35:43",
+            "sentences_no_utterance_types": "Why do you think regulation and subsidies can completely stop exploitation when private systems are always driven by profit over people\u2019s needs? I\u2019m not budging from my stance that strong government intervention in healthcare, welfare, and immigration is the only way to ensure real fairness. Private systems might push innovation, yet they\u2019ll always drop the vulnerable if there\u2019s no money in it. The NHS has its flaws, yet it\u2019s a solid guarantee of care that no corporate model can match. Without government in charge, you\u2019re just gambling with lives for a dodgy idea of efficiency.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why do you think regulation and subsidies can completely stop exploitation when private systems are always driven by profit over people\u2019s needs?"
+                ],
+                [
+                    "___Claim___",
+                    "I\u2019m not budging from my stance that strong government intervention in healthcare, welfare, and immigration is the only way to ensure real fairness."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems might push innovation, yet they\u2019ll always drop the vulnerable if there\u2019s no money in it."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS has its flaws, yet it\u2019s a solid guarantee of care that no corporate model can match."
+                ],
+                [
+                    "___Claim___",
+                    "Without government in charge, you\u2019re just gambling with lives for a dodgy idea of efficiency."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-04 07:35:48",
+            "sentences_no_utterance_types": "Regulation and subsidies can stop exploitation by enforcing strict standards that private systems must meet, ensuring affordability and access for all, including the vulnerable. Profit motives drive competition, which leads to innovation and better services that benefit society as a whole. Strong government intervention often results in bloated systems that waste resources and fail to adapt to diverse needs. The NHS may guarantee care, but its inefficiencies and long waiting times highlight the flaws of excessive government control. A limited government role creates a system that balances fairness with efficiency, ensuring sustainability without compromising care.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Regulation and subsidies can stop exploitation by enforcing strict standards that private systems must meet, ensuring affordability and access for all, including the vulnerable."
+                ],
+                [
+                    "___Claim___",
+                    "Profit motives drive competition, which leads to innovation and better services that benefit society as a whole."
+                ],
+                [
+                    "___Claim___",
+                    "Strong government intervention often results in bloated systems that waste resources and fail to adapt to diverse needs."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS may guarantee care, but its inefficiencies and long waiting times highlight the flaws of excessive government control."
+                ],
+                [
+                    "___Claim___",
+                    "A limited government role creates a system that balances fairness with efficiency, ensuring sustainability without compromising care."
+                ]
+            ]
+        }
+    ],
+    "human_model_name": "",
+    "human_model_seed": 123,
+    "human_model_temp": 0.0,
+    "human_model_top_p": 1.0,
+    "first_speaker_type": "base",
+    "max_dialogue_turns": 40,
+    "second_speaker_type": "base",
+    "max_sentences_per_turn": 5,
+    "first_speaker_utterance": "",
+    "first_speaker_model_name": "grok-3",
+    "first_speaker_model_seed": 123,
+    "first_speaker_model_temp": 0.0,
+    "second_speaker_utterance": "Regulation and subsidies can stop exploitation by enforcing strict standards that private systems must meet, ensuring affordability and access for all, including the vulnerable. Profit motives drive competition, which leads to innovation and better services that benefit society as a whole. Strong government intervention often results in bloated systems that waste resources and fail to adapt to diverse needs. The NHS may guarantee care, but its inefficiencies and long waiting times highlight the flaws of excessive government control. A limited government role creates a system that balances fairness with efficiency, ensuring sustainability without compromising care.",
+    "first_speaker_commitments": [
+        "I believe the government should take a strong role in healthcare, welfare, and immigration to ensure fairness and support for all citizens.",
+        "Without it, you get massive inequality and people suffering needlessly."
+    ],
+    "first_speaker_model_top_p": 1.0,
+    "second_speaker_model_name": "gpt-4o",
+    "second_speaker_model_seed": 123,
+    "second_speaker_model_temp": 0.0,
+    "second_speaker_commitments": [
+        "Government intervention in healthcare, welfare, and immigration should be limited to avoid inefficiency, dependency, and excessive costs.",
+        "Costs in private systems can be managed through regulation and subsidies, ensuring affordability without the need for full government control.",
+        "Handing power to corporations does not mean abandoning fairness; it means creating a system where efficiency and innovation thrive while still protecting the vulnerable.",
+        "Regulation and subsidies can fully stop exploitation by enforcing strict rules that private systems must follow, ensuring affordability and access for all, including the vulnerable.",
+        "Profit motives drive competition, which leads to innovation and better services that benefit society as a whole.",
+        "The NHS may guarantee care, but its inefficiencies and long waiting times show the flaws of excessive government control."
+    ],
+    "second_speaker_model_top_p": 1.0,
+    "first_speaker_original_claim": "I believe the government should take a strong role in healthcare, welfare, and immigration to ensure fairness and support for all citizens.",
+    "second_speaker_original_claim": "Government intervention in healthcare, welfare, and immigration should be limited to avoid inefficiency, dependency, and excessive costs.",
+    "reason_for_dialogue_termination": {
+        "reason": "Maximum number of dialogue turns reached (40 dialogue turns).",
+        "utterance": null,
+        "utterance_type": null
+    },
+    "first_speaker_graph_rag_examples": [],
+    "second_speaker_graph_rag_examples": [],
+    "utterance_classification_approach": "single-classification",
+    "first_speaker_political_position_std": 10,
+    "second_speaker_political_position_std": 10,
+    "first_speaker_intermediate_generations": [],
+    "first_speaker_political_position_range": "20:40",
+    "second_speaker_intermediate_generations": [],
+    "second_speaker_political_position_range": "60:80",
+    "first_speaker_number_of_graph_rag_examples": 5,
+    "first_speaker_political_position_prob_of_na": 0.25,
+    "second_speaker_number_of_graph_rag_examples": 5,
+    "second_speaker_political_position_prob_of_na": 0.25,
+    "first_speaker_utterance_with_corresponding_types": [],
+    "first_speaker_number_of_vector_based_rag_examples": 100,
+    "second_speaker_utterance_with_corresponding_types": [
+        [
+            "___Since___",
+            "Regulation and subsidies can stop exploitation by enforcing strict standards that private systems must meet, ensuring affordability and access for all, including the vulnerable."
+        ],
+        [
+            "___Claim___",
+            "Profit motives drive competition, which leads to innovation and better services that benefit society as a whole."
+        ],
+        [
+            "___Claim___",
+            "Strong government intervention often results in bloated systems that waste resources and fail to adapt to diverse needs."
+        ],
+        [
+            "___Claim___",
+            "The NHS may guarantee care, but its inefficiencies and long waiting times highlight the flaws of excessive government control."
+        ],
+        [
+            "___Claim___",
+            "A limited government role creates a system that balances fairness with efficiency, ensuring sustainability without compromising care."
+        ]
+    ],
+    "second_speaker_number_of_vector_based_rag_examples": 100,
+    "utterance_classification_number_of_classifications": 1,
+    "first_speaker_knowledge_base_ensemble_or_model_name": "",
+    "second_speaker_knowledge_base_ensemble_or_model_name": ""
+}

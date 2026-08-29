@@ -1,0 +1,1115 @@
+{
+    "dialogue_history": [
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government intervention in healthcare, immigration, and welfare is essential for maintaining social equity and protecting the vulnerable."
+                ]
+            ],
+            "sentences_no_utterance_types": "Government intervention in healthcare, immigration, and welfare is essential for maintaining social equity and protecting the vulnerable.",
+            "timestamp": "2025-10-08 10:32:56"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Question___",
+                    "What evidence supports the claim that government intervention consistently protects the vulnerable without creating dependency or inefficiencies?"
+                ],
+                [
+                    "___Claim___",
+                    "Immigration policies driven by government control frequently fail to address the economic needs of the nation and create unnecessary barriers."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems reliant on government intervention can foster dependency and discourage personal responsibility."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention in healthcare often leads to inefficiency and stifles innovation, leaving patients worse off."
+                ],
+                [
+                    "___Question___",
+                    "How do you justify the potential economic and social trade-offs of increased government control in these areas?"
+                ]
+            ],
+            "sentences_no_utterance_types": "What evidence supports the claim that government intervention consistently protects the vulnerable without creating dependency or inefficiencies? Immigration policies driven by government control frequently fail to address the economic needs of the nation and create unnecessary barriers. Welfare systems reliant on government intervention can foster dependency and discourage personal responsibility. Government intervention in healthcare often leads to inefficiency and stifles innovation, leaving patients worse off. How do you justify the potential economic and social trade-offs of increased government control in these areas?",
+            "timestamp": "2025-10-08 10:33:01"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Government intervention in healthcare has been shown to improve public health outcomes, as seen in the NHS."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration policies can be designed to address economic needs while protecting vulnerable migrants."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems with proper safeguards can provide a safety net without fostering dependency."
+                ],
+                [
+                    "___Claim___",
+                    "Innovation in healthcare can still thrive under government regulation."
+                ],
+                [
+                    "___Claim___",
+                    "The trade-offs are justified by the overall benefit to society."
+                ]
+            ],
+            "sentences_no_utterance_types": "Government intervention in healthcare has been shown to improve public health outcomes, as seen in the NHS. Immigration policies can be designed to address economic needs while protecting vulnerable migrants. Welfare systems with proper safeguards can provide a safety net without fostering dependency. Innovation in healthcare can still thrive under government regulation. The trade-offs are justified by the overall benefit to society.",
+            "timestamp": "2025-10-08 10:33:50"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Question___",
+                    "Why should taxpayers continue funding a system that some argue is burdened by bureaucracy and waste?"
+                ],
+                [
+                    "___Claim___",
+                    "Economic needs are better served by reducing government interference in immigration policies altogether."
+                ],
+                [
+                    "___Claim___",
+                    "Excessive government regulation in healthcare creates bureaucratic hurdles that block progress and delay breakthroughs."
+                ],
+                [
+                    "___Claim___",
+                    "Healthcare innovation thrives when freed from the constraints of government oversight."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems, regardless of safeguards, discourage self-reliance and burden taxpayers unnecessarily."
+                ]
+            ],
+            "sentences_no_utterance_types": "Why should taxpayers continue funding a system that some argue is burdened by bureaucracy and waste? Economic needs are better served by reducing government interference in immigration policies altogether. Excessive government regulation in healthcare creates bureaucratic hurdles that block progress and delay breakthroughs. Healthcare innovation thrives when freed from the constraints of government oversight. Welfare systems, regardless of safeguards, discourage self-reliance and burden taxpayers unnecessarily.",
+            "timestamp": "2025-10-08 10:34:14"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Taxpayers fund the system because it ensures universal access to healthcare, which is a fundamental right."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration policies need government oversight to prevent exploitation and ensure fair treatment."
+                ],
+                [
+                    "___Claim___",
+                    "Government regulation in healthcare ensures safety and efficacy standards are met."
+                ],
+                [
+                    "___Since___",
+                    "Innovation can still occur within these frameworks, as seen in the NHS's adoption of new technologies."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems with proper safeguards do not discourage self-reliance but provide necessary support during tough times."
+                ]
+            ],
+            "sentences_no_utterance_types": "Taxpayers fund the system because it ensures universal access to healthcare, which is a fundamental right. Immigration policies need government oversight to prevent exploitation and ensure fair treatment. Government regulation in healthcare ensures safety and efficacy standards are met. Innovation can still occur within these frameworks, as seen in the NHS's adoption of new technologies. Welfare systems with proper safeguards do not discourage self-reliance but provide necessary support during tough times.",
+            "timestamp": "2025-10-08 10:36:49"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Safety and efficacy standards can be better maintained by private sector competition rather than government oversight."
+                ],
+                [
+                    "___Question___",
+                    "Why should taxpayers fund universal healthcare if inefficiencies and waste persist in the system?"
+                ],
+                [
+                    "___Why___",
+                    "Why should taxpayers fund welfare systems when some argue they create a culture of entitlement?"
+                ],
+                [
+                    "___Why___",
+                    "Why is universal access to healthcare considered a fundamental right when it often leads to higher taxes and reduced personal choice?"
+                ],
+                [
+                    "___Claim___",
+                    "Government regulation in healthcare often imposes unnecessary red tape that stifles progress and innovation."
+                ]
+            ],
+            "sentences_no_utterance_types": "Safety and efficacy standards can be better maintained by private sector competition rather than government oversight. Why should taxpayers fund universal healthcare if inefficiencies and waste persist in the system? Why should taxpayers fund welfare systems when some argue they create a culture of entitlement? Why is universal access to healthcare considered a fundamental right when it often leads to higher taxes and reduced personal choice? Government regulation in healthcare often imposes unnecessary red tape that stifles progress and innovation.",
+            "timestamp": "2025-10-08 10:37:15"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private sector competition often prioritises profit over patient safety."
+                ],
+                [
+                    "___Since___",
+                    "Taxpayers fund the system because it ensures universal access to healthcare, which is a fundamental right."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems with proper safeguards can provide a safety net without fostering dependency."
+                ],
+                [
+                    "___Claim___",
+                    "Government regulation in healthcare ensures safety and efficacy standards are met."
+                ],
+                [
+                    "___Since___",
+                    "Innovation can still occur within these frameworks, as seen in the NHS's adoption of new technologies."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private sector competition often prioritises profit over patient safety. Taxpayers fund the system because it ensures universal access to healthcare, which is a fundamental right. Welfare systems with proper safeguards can provide a safety net without fostering dependency. Government regulation in healthcare ensures safety and efficacy standards are met. Innovation can still occur within these frameworks, as seen in the NHS's adoption of new technologies.",
+            "timestamp": "2025-10-08 10:38:08"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Taxpayers should not be forced to fund a system that often leads to inefficiencies and wasteful spending."
+                ],
+                [
+                    "___Claim___",
+                    "Government regulation in healthcare often imposes arbitrary standards that stifle innovation and delay patient access to treatments."
+                ],
+                [
+                    "___Question___",
+                    "Why should government regulation be trusted to ensure safety and efficacy when private sector competition could achieve the same with less bureaucracy?"
+                ],
+                [
+                    "___Claim___",
+                    "Universal access to healthcare is not a fundamental right but a privilege that should be earned or privately funded."
+                ],
+                [
+                    "___Claim___",
+                    "Private sector competition drives innovation and efficiency, ensuring patients receive better care."
+                ]
+            ],
+            "sentences_no_utterance_types": "Taxpayers should not be forced to fund a system that often leads to inefficiencies and wasteful spending. Government regulation in healthcare often imposes arbitrary standards that stifle innovation and delay patient access to treatments. Why should government regulation be trusted to ensure safety and efficacy when private sector competition could achieve the same with less bureaucracy? Universal access to healthcare is not a fundamental right but a privilege that should be earned or privately funded. Private sector competition drives innovation and efficiency, ensuring patients receive better care.",
+            "timestamp": "2025-10-08 10:38:35"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government regulation ensures that healthcare standards are consistent and not driven by profit motives."
+                ],
+                [
+                    "___Claim___",
+                    "Taxpayer funding guarantees that everyone, regardless of income, has access to necessary medical care."
+                ],
+                [
+                    "___Claim___",
+                    "Private sector competition can lead to disparities in care quality and access."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS demonstrates that universal healthcare can drive innovation while maintaining high standards."
+                ],
+                [
+                    "___Claim___",
+                    "Healthcare is a fundamental right, not a privilege, and should be accessible to all."
+                ]
+            ],
+            "sentences_no_utterance_types": "Government regulation ensures that healthcare standards are consistent and not driven by profit motives. Taxpayer funding guarantees that everyone, regardless of income, has access to necessary medical care. Private sector competition can lead to disparities in care quality and access. The NHS demonstrates that universal healthcare can drive innovation while maintaining high standards. Healthcare is a fundamental right, not a privilege, and should be accessible to all.",
+            "timestamp": "2025-10-08 10:41:38"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Relying on taxpayer funding for healthcare punishes those who work hard by making them subsidise services for others, regardless of their own needs."
+                ],
+                [
+                    "___Why___",
+                    "Why should taxpayers fund healthcare for all when private systems could offer tailored solutions without the inefficiencies of government oversight?"
+                ],
+                [
+                    "___Claim___",
+                    "Healthcare standards are better maintained through market competition rather than government interference."
+                ],
+                [
+                    "___Why___",
+                    "Why should taxpayers be forced to fund healthcare for everyone when it often leads to inefficiencies and higher taxes?"
+                ],
+                [
+                    "___Claim___",
+                    "Access to care is enhanced by private sector competition as it encourages innovation and efficiency."
+                ]
+            ],
+            "sentences_no_utterance_types": "Relying on taxpayer funding for healthcare punishes those who work hard by making them subsidise services for others, regardless of their own needs. Why should taxpayers fund healthcare for all when private systems could offer tailored solutions without the inefficiencies of government oversight? Healthcare standards are better maintained through market competition rather than government interference. Why should taxpayers be forced to fund healthcare for everyone when it often leads to inefficiencies and higher taxes? Access to care is enhanced by private sector competition as it encourages innovation and efficiency.",
+            "timestamp": "2025-10-08 10:42:09"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Taxpayer funding ensures that healthcare is a collective responsibility, not a burden."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems often exclude those who can't afford tailored solutions."
+                ],
+                [
+                    "___Claim___",
+                    "Market competition can lead to disparities in care quality."
+                ],
+                [
+                    "___Claim___",
+                    "Government oversight ensures consistent standards and universal access."
+                ],
+                [
+                    "___Claim___",
+                    "Private sector competition often prioritises profit over patient needs."
+                ]
+            ],
+            "sentences_no_utterance_types": "Taxpayer funding ensures that healthcare is a collective responsibility, not a burden. Private systems often exclude those who can't afford tailored solutions. Market competition can lead to disparities in care quality. Government oversight ensures consistent standards and universal access. Private sector competition often prioritises profit over patient needs.",
+            "timestamp": "2025-10-08 10:45:45"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Market competition ensures higher care quality by driving innovation and efficiency."
+                ],
+                [
+                    "___Claim___",
+                    "Consistent standards are better achieved through competitive market forces rather than bureaucratic oversight."
+                ],
+                [
+                    "___Claim___",
+                    "Profit motives in the private sector ensure efficiency and responsiveness to patient demands."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare systems often outperform government-run models in delivering tailored and timely care."
+                ],
+                [
+                    "___Why___",
+                    "Why should profit motives automatically be seen as detrimental when they often drive efficiency and innovation?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Market competition ensures higher care quality by driving innovation and efficiency. Consistent standards are better achieved through competitive market forces rather than bureaucratic oversight. Profit motives in the private sector ensure efficiency and responsiveness to patient demands. Private healthcare systems often outperform government-run models in delivering tailored and timely care. Why should profit motives automatically be seen as detrimental when they often drive efficiency and innovation?",
+            "timestamp": "2025-10-08 10:46:12"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Profit motives can lead to cost-cutting at the expense of patient care."
+                ],
+                [
+                    "___Claim___",
+                    "Market competition often results in unequal access to healthcare."
+                ],
+                [
+                    "___Claim___",
+                    "Government oversight ensures that standards are met universally, not just for those who can pay."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems can exclude those who are most vulnerable."
+                ],
+                [
+                    "___Claim___",
+                    "Efficiency should not come at the cost of equity and accessibility."
+                ]
+            ],
+            "sentences_no_utterance_types": "Profit motives can lead to cost-cutting at the expense of patient care. Market competition often results in unequal access to healthcare. Government oversight ensures that standards are met universally, not just for those who can pay. Private systems can exclude those who are most vulnerable. Efficiency should not come at the cost of equity and accessibility.",
+            "timestamp": "2025-10-08 10:47:01"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Profit motives drive efficiency and ensure that resources are allocated where they are most needed."
+                ],
+                [
+                    "___Why___",
+                    "Why assume that private systems cannot adapt to include vulnerable groups through targeted initiatives?"
+                ],
+                [
+                    "___Claim___",
+                    "Private systems, driven by competition, are incentivised to innovate and include services for all demographics."
+                ],
+                [
+                    "___Claim___",
+                    "Market competition ensures that healthcare providers are incentivised to offer better services to attract patients, improving access for everyone."
+                ],
+                [
+                    "___Why___",
+                    "Why should profit motives automatically be seen as harmful when they often drive efficiency and innovation?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Profit motives drive efficiency and ensure that resources are allocated where they are most needed. Why assume that private systems cannot adapt to include vulnerable groups through targeted initiatives? Private systems, driven by competition, are incentivised to innovate and include services for all demographics. Market competition ensures that healthcare providers are incentivised to offer better services to attract patients, improving access for everyone. Why should profit motives automatically be seen as harmful when they often drive efficiency and innovation?",
+            "timestamp": "2025-10-08 10:47:26"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Profit motives often lead to cost-cutting that harms patient care."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems can exclude vulnerable groups despite targeted initiatives."
+                ],
+                [
+                    "___Claim___",
+                    "Competition doesn't always ensure better services for all."
+                ],
+                [
+                    "___Claim___",
+                    "Government oversight guarantees universal standards and access."
+                ],
+                [
+                    "___Claim___",
+                    "Efficiency shouldn't compromise equity and accessibility."
+                ]
+            ],
+            "sentences_no_utterance_types": "Profit motives often lead to cost-cutting that harms patient care. Private systems can exclude vulnerable groups despite targeted initiatives. Competition doesn't always ensure better services for all. Government oversight guarantees universal standards and access. Efficiency shouldn't compromise equity and accessibility.",
+            "timestamp": "2025-10-08 10:48:09"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Profit motives drive innovation and ensure that resources are allocated efficiently to improve patient care."
+                ],
+                [
+                    "___Why___",
+                    "Why should taxpayers fund a system that relies on government oversight when market forces could drive better outcomes?"
+                ],
+                [
+                    "___Claim___",
+                    "Market competition ensures better services for all by rewarding efficiency and responsiveness."
+                ],
+                [
+                    "___Claim___",
+                    "Efficiency is the foundation for achieving sustainable equity and accessibility."
+                ],
+                [
+                    "___Claim___",
+                    "Competition consistently drives improvements in service quality by forcing providers to innovate and meet diverse needs."
+                ]
+            ],
+            "sentences_no_utterance_types": "Profit motives drive innovation and ensure that resources are allocated efficiently to improve patient care. Why should taxpayers fund a system that relies on government oversight when market forces could drive better outcomes? Market competition ensures better services for all by rewarding efficiency and responsiveness. Efficiency is the foundation for achieving sustainable equity and accessibility. Competition consistently drives improvements in service quality by forcing providers to innovate and meet diverse needs.",
+            "timestamp": "2025-10-08 10:48:35"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Profit motives often lead to cost-cutting that harms patient care."
+                ],
+                [
+                    "___Claim___",
+                    "Market forces don't guarantee better outcomes for all."
+                ],
+                [
+                    "___Claim___",
+                    "Government oversight ensures universal standards and access."
+                ],
+                [
+                    "___Claim___",
+                    "Taxpayer funding guarantees healthcare as a right, not a privilege."
+                ],
+                [
+                    "___Claim___",
+                    "Competition can't replace the need for equitable access."
+                ]
+            ],
+            "sentences_no_utterance_types": "Profit motives often lead to cost-cutting that harms patient care. Market forces don't guarantee better outcomes for all. Government oversight ensures universal standards and access. Taxpayer funding guarantees healthcare as a right, not a privilege. Competition can't replace the need for equitable access.",
+            "timestamp": "2025-10-08 10:48:53"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Market forces are the most reliable mechanism for delivering better outcomes for all."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention often fails to deliver equitable access, while competition ensures resources are allocated where they are most needed."
+                ],
+                [
+                    "___Claim___",
+                    "Profit motives drive efficiency and ensure that resources are allocated to improve patient care."
+                ],
+                [
+                    "___Question___",
+                    "Why should market forces be dismissed as incapable of delivering better outcomes when they have consistently driven innovation and efficiency in other sectors?"
+                ],
+                [
+                    "___Claim___",
+                    "Competition is the most effective way to achieve equitable access by driving innovation and efficiency."
+                ]
+            ],
+            "sentences_no_utterance_types": "Market forces are the most reliable mechanism for delivering better outcomes for all. Government intervention often fails to deliver equitable access, while competition ensures resources are allocated where they are most needed. Profit motives drive efficiency and ensure that resources are allocated to improve patient care. Why should market forces be dismissed as incapable of delivering better outcomes when they have consistently driven innovation and efficiency in other sectors? Competition is the most effective way to achieve equitable access by driving innovation and efficiency.",
+            "timestamp": "2025-10-08 10:49:22"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Market forces often leave behind those who can't afford care."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention ensures that everyone gets the care they need."
+                ],
+                [
+                    "___Claim___",
+                    "Profit motives can lead to cutting corners in patient care."
+                ],
+                [
+                    "___Claim___",
+                    "Competition doesn't guarantee better outcomes for all."
+                ],
+                [
+                    "___Claim___",
+                    "Equitable access is best achieved through government oversight."
+                ]
+            ],
+            "sentences_no_utterance_types": "Market forces often leave behind those who can't afford care. Government intervention ensures that everyone gets the care they need. Profit motives can lead to cutting corners in patient care. Competition doesn't guarantee better outcomes for all. Equitable access is best achieved through government oversight.",
+            "timestamp": "2025-10-08 10:52:03"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Competition consistently drives better outcomes by forcing providers to innovate and meet diverse needs."
+                ],
+                [
+                    "___Why___",
+                    "Why should competition be dismissed when it has consistently driven innovation and efficiency in other sectors?"
+                ],
+                [
+                    "___Claim___",
+                    "Private systems are better equipped to adapt and meet diverse needs, ensuring equitable access without bureaucratic delays."
+                ],
+                [
+                    "___Claim___",
+                    "Market competition ensures that resources are allocated efficiently to improve services for everyone."
+                ],
+                [
+                    "___Why___",
+                    "Why is government intervention seen as the only solution when market competition could drive innovation to lower costs?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Competition consistently drives better outcomes by forcing providers to innovate and meet diverse needs. Why should competition be dismissed when it has consistently driven innovation and efficiency in other sectors? Private systems are better equipped to adapt and meet diverse needs, ensuring equitable access without bureaucratic delays. Market competition ensures that resources are allocated efficiently to improve services for everyone. Why is government intervention seen as the only solution when market competition could drive innovation to lower costs?",
+            "timestamp": "2025-10-08 10:52:30"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Competition often leaves the most vulnerable behind."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention ensures that everyone's needs are met, not just those who can pay."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems can exclude those who are most in need."
+                ],
+                [
+                    "___Claim___",
+                    "Market competition doesn't guarantee better outcomes for all."
+                ],
+                [
+                    "___Claim___",
+                    "Equitable access is best achieved through government oversight."
+                ]
+            ],
+            "sentences_no_utterance_types": "Competition often leaves the most vulnerable behind. Government intervention ensures that everyone's needs are met, not just those who can pay. Private systems can exclude those who are most in need. Market competition doesn't guarantee better outcomes for all. Equitable access is best achieved through government oversight.",
+            "timestamp": "2025-10-08 10:53:30"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private systems are more effective at delivering equitable access by tailoring services to diverse needs without unnecessary government interference."
+                ],
+                [
+                    "___Claim___",
+                    "Market competition consistently delivers better outcomes by driving innovation and efficiency."
+                ],
+                [
+                    "___Claim___",
+                    "Market competition ensures that resources are allocated efficiently, meeting the needs of more people than government intervention ever could."
+                ],
+                [
+                    "___Claim___",
+                    "Competition creates opportunities that uplift even the most vulnerable."
+                ],
+                [
+                    "___Why___",
+                    "Why is government intervention seen as the only solution when competition could drive innovation to lower costs and improve access?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Private systems are more effective at delivering equitable access by tailoring services to diverse needs without unnecessary government interference. Market competition consistently delivers better outcomes by driving innovation and efficiency. Market competition ensures that resources are allocated efficiently, meeting the needs of more people than government intervention ever could. Competition creates opportunities that uplift even the most vulnerable. Why is government intervention seen as the only solution when competition could drive innovation to lower costs and improve access?",
+            "timestamp": "2025-10-08 10:53:58"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private systems can exclude vulnerable groups despite targeted initiatives."
+                ],
+                [
+                    "___Claim___",
+                    "Market competition often results in unequal access to healthcare."
+                ],
+                [
+                    "___Claim___",
+                    "Government oversight ensures universal standards and access."
+                ],
+                [
+                    "___Claim___",
+                    "Competition doesn't guarantee better outcomes for all."
+                ],
+                [
+                    "___Claim___",
+                    "Equitable access is best achieved through government intervention."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private systems can exclude vulnerable groups despite targeted initiatives. Market competition often results in unequal access to healthcare. Government oversight ensures universal standards and access. Competition doesn't guarantee better outcomes for all. Equitable access is best achieved through government intervention.",
+            "timestamp": "2025-10-08 10:56:02"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private systems are better equipped to include vulnerable groups through tailored and innovative solutions."
+                ],
+                [
+                    "___Claim___",
+                    "Competition is the most effective way to ensure better outcomes for everyone by fostering innovation and efficiency."
+                ],
+                [
+                    "___Claim___",
+                    "Access is more effectively ensured by private systems adapting to demand than by government intervention."
+                ],
+                [
+                    "___Claim___",
+                    "The evidence shows that competition drives improvements that benefit all, not just a select few."
+                ],
+                [
+                    "___Claim___",
+                    "Market forces drive innovation and efficiency, which ultimately expand access to healthcare for all demographics."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private systems are better equipped to include vulnerable groups through tailored and innovative solutions. Competition is the most effective way to ensure better outcomes for everyone by fostering innovation and efficiency. Access is more effectively ensured by private systems adapting to demand than by government intervention. The evidence shows that competition drives improvements that benefit all, not just a select few. Market forces drive innovation and efficiency, which ultimately expand access to healthcare for all demographics.",
+            "timestamp": "2025-10-08 10:56:28"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private systems can exclude vulnerable groups despite targeted initiatives."
+                ],
+                [
+                    "___Claim___",
+                    "Market competition often results in unequal access to healthcare."
+                ],
+                [
+                    "___Claim___",
+                    "Government oversight ensures universal standards and access."
+                ],
+                [
+                    "___Claim___",
+                    "Competition doesn't guarantee better outcomes for all."
+                ],
+                [
+                    "___Claim___",
+                    "Equitable access is best achieved through government intervention."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private systems can exclude vulnerable groups despite targeted initiatives. Market competition often results in unequal access to healthcare. Government oversight ensures universal standards and access. Competition doesn't guarantee better outcomes for all. Equitable access is best achieved through government intervention.",
+            "timestamp": "2025-10-08 10:57:38"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private systems, driven by competition, are better equipped to adapt and meet diverse needs, ensuring equitable access without bureaucratic delays."
+                ],
+                [
+                    "___Question___",
+                    "Why should market competition be blamed for unequal access when it often drives innovation and efficiency?"
+                ],
+                [
+                    "___Question___",
+                    "Why should competition be dismissed as incapable of delivering better outcomes when it has consistently driven innovation in other sectors?"
+                ],
+                [
+                    "___Claim___",
+                    "Competition consistently drives better outcomes by rewarding efficiency and innovation."
+                ],
+                [
+                    "___Claim___",
+                    "Market competition ensures that healthcare providers are incentivised to offer better services to attract patients, improving access for everyone."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private systems, driven by competition, are better equipped to adapt and meet diverse needs, ensuring equitable access without bureaucratic delays. Why should market competition be blamed for unequal access when it often drives innovation and efficiency? Why should competition be dismissed as incapable of delivering better outcomes when it has consistently driven innovation in other sectors? Competition consistently drives better outcomes by rewarding efficiency and innovation. Market competition ensures that healthcare providers are incentivised to offer better services to attract patients, improving access for everyone.",
+            "timestamp": "2025-10-08 10:58:03"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private systems often exclude those who can't afford care."
+                ],
+                [
+                    "___Claim___",
+                    "Market competition doesn't guarantee better outcomes for all."
+                ],
+                [
+                    "___Claim___",
+                    "Government oversight ensures universal standards and access."
+                ],
+                [
+                    "___Claim___",
+                    "Competition can't replace the need for equitable access."
+                ],
+                [
+                    "___Claim___",
+                    "Efficiency shouldn't compromise equity and accessibility."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private systems often exclude those who can't afford care. Market competition doesn't guarantee better outcomes for all. Government oversight ensures universal standards and access. Competition can't replace the need for equitable access. Efficiency shouldn't compromise equity and accessibility.",
+            "timestamp": "2025-10-08 10:58:26"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Market competition consistently delivers better outcomes by driving innovation and efficiency."
+                ],
+                [
+                    "___Claim___",
+                    "Market-driven healthcare models create innovative solutions to include those who might struggle to afford care."
+                ],
+                [
+                    "___Question___",
+                    "Why should market competition be dismissed as incapable of delivering better outcomes when it has consistently driven innovation in other sectors?"
+                ],
+                [
+                    "___Claim___",
+                    "Efficiency is the foundation for achieving sustainable equity and accessibility."
+                ],
+                [
+                    "___Why___",
+                    "Why is government intervention seen as the only way to ensure equity and accessibility when market competition could achieve it more effectively?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Market competition consistently delivers better outcomes by driving innovation and efficiency. Market-driven healthcare models create innovative solutions to include those who might struggle to afford care. Why should market competition be dismissed as incapable of delivering better outcomes when it has consistently driven innovation in other sectors? Efficiency is the foundation for achieving sustainable equity and accessibility. Why is government intervention seen as the only way to ensure equity and accessibility when market competition could achieve it more effectively?",
+            "timestamp": "2025-10-08 10:58:52"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Market competition often leaves the most vulnerable behind."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention ensures that everyone gets the care they need."
+                ],
+                [
+                    "___Claim___",
+                    "Profit motives can lead to cutting corners in patient care."
+                ],
+                [
+                    "___Claim___",
+                    "Competition doesn't guarantee better outcomes for all."
+                ],
+                [
+                    "___Claim___",
+                    "Equitable access is best achieved through government oversight."
+                ]
+            ],
+            "sentences_no_utterance_types": "Market competition often leaves the most vulnerable behind. Government intervention ensures that everyone gets the care they need. Profit motives can lead to cutting corners in patient care. Competition doesn't guarantee better outcomes for all. Equitable access is best achieved through government oversight.",
+            "timestamp": "2025-10-08 10:59:36"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Market competition creates opportunities that uplift the most vulnerable by driving innovation and reducing costs."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems, driven by competition, are better equipped to adapt and meet diverse needs, ensuring equitable access without bureaucratic delays."
+                ],
+                [
+                    "___Why___",
+                    "Why is government intervention seen as the best solution when market competition could drive innovation and improve care quality?"
+                ],
+                [
+                    "___Claim___",
+                    "Competition consistently drives better outcomes by rewarding efficiency and innovation."
+                ],
+                [
+                    "___Claim___",
+                    "Market competition ensures that healthcare providers are incentivised to offer better services to attract patients, improving access for everyone."
+                ]
+            ],
+            "sentences_no_utterance_types": "Market competition creates opportunities that uplift the most vulnerable by driving innovation and reducing costs. Private systems, driven by competition, are better equipped to adapt and meet diverse needs, ensuring equitable access without bureaucratic delays. Why is government intervention seen as the best solution when market competition could drive innovation and improve care quality? Competition consistently drives better outcomes by rewarding efficiency and innovation. Market competition ensures that healthcare providers are incentivised to offer better services to attract patients, improving access for everyone.",
+            "timestamp": "2025-10-08 11:00:02"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Market competition often leaves the most vulnerable behind."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention ensures that everyone gets the care they need."
+                ],
+                [
+                    "___Claim___",
+                    "Profit motives can lead to cutting corners in patient care."
+                ],
+                [
+                    "___Claim___",
+                    "Competition doesn't guarantee better outcomes for all."
+                ],
+                [
+                    "___Claim___",
+                    "Equitable access is best achieved through government oversight."
+                ]
+            ],
+            "sentences_no_utterance_types": "Market competition often leaves the most vulnerable behind. Government intervention ensures that everyone gets the care they need. Profit motives can lead to cutting corners in patient care. Competition doesn't guarantee better outcomes for all. Equitable access is best achieved through government oversight.",
+            "timestamp": "2025-10-08 11:00:45"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private systems, driven by competition, are better equipped to adapt and meet diverse needs, ensuring equitable access without bureaucratic delays."
+                ],
+                [
+                    "___Claim___",
+                    "Profit motives encourage innovation and competition, which ultimately enhance the quality of patient care."
+                ],
+                [
+                    "___Claim___",
+                    "Market competition creates innovative solutions that specifically address the needs of the most vulnerable."
+                ],
+                [
+                    "___Claim___",
+                    "Competition consistently drives better outcomes by rewarding efficiency and innovation."
+                ],
+                [
+                    "___Claim___",
+                    "Market competition ensures that healthcare providers are incentivised to offer better services to attract patients, improving access for everyone."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private systems, driven by competition, are better equipped to adapt and meet diverse needs, ensuring equitable access without bureaucratic delays. Profit motives encourage innovation and competition, which ultimately enhance the quality of patient care. Market competition creates innovative solutions that specifically address the needs of the most vulnerable. Competition consistently drives better outcomes by rewarding efficiency and innovation. Market competition ensures that healthcare providers are incentivised to offer better services to attract patients, improving access for everyone.",
+            "timestamp": "2025-10-08 11:01:12"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private systems often exclude those who can't afford care."
+                ],
+                [
+                    "___Claim___",
+                    "Market competition doesn't guarantee better outcomes for all."
+                ],
+                [
+                    "___Claim___",
+                    "Government oversight ensures universal standards and access."
+                ],
+                [
+                    "___Claim___",
+                    "Competition can't replace the need for equitable access."
+                ],
+                [
+                    "___Claim___",
+                    "Efficiency shouldn't compromise equity and accessibility."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private systems often exclude those who can't afford care. Market competition doesn't guarantee better outcomes for all. Government oversight ensures universal standards and access. Competition can't replace the need for equitable access. Efficiency shouldn't compromise equity and accessibility.",
+            "timestamp": "2025-10-08 11:02:46"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Competition in private systems creates affordable options that cater to all income levels."
+                ],
+                [
+                    "___Question___",
+                    "Why should market competition be dismissed as incapable of delivering better outcomes when it has consistently driven innovation in other sectors?"
+                ],
+                [
+                    "___Claim___",
+                    "Efficiency is the foundation for achieving sustainable equity and accessibility."
+                ],
+                [
+                    "___Claim___",
+                    "Competition incentivises providers to improve services and meet diverse needs, guaranteeing better outcomes for all."
+                ],
+                [
+                    "___Claim___",
+                    "Market forces ensure that resources are allocated effectively, improving outcomes for a wider range of people."
+                ]
+            ],
+            "sentences_no_utterance_types": "Competition in private systems creates affordable options that cater to all income levels. Why should market competition be dismissed as incapable of delivering better outcomes when it has consistently driven innovation in other sectors? Efficiency is the foundation for achieving sustainable equity and accessibility. Competition incentivises providers to improve services and meet diverse needs, guaranteeing better outcomes for all. Market forces ensure that resources are allocated effectively, improving outcomes for a wider range of people.",
+            "timestamp": "2025-10-08 11:03:13"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private systems often exclude those who can't afford care despite affordable options."
+                ],
+                [
+                    "___Claim___",
+                    "Market competition doesn't guarantee better outcomes for all."
+                ],
+                [
+                    "___Claim___",
+                    "Government oversight ensures universal standards and access."
+                ],
+                [
+                    "___Claim___",
+                    "Competition can't replace the need for equitable access."
+                ],
+                [
+                    "___Claim___",
+                    "Efficiency shouldn't compromise equity and accessibility."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private systems often exclude those who can't afford care despite affordable options. Market competition doesn't guarantee better outcomes for all. Government oversight ensures universal standards and access. Competition can't replace the need for equitable access. Efficiency shouldn't compromise equity and accessibility.",
+            "timestamp": "2025-10-08 11:04:05"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Question___",
+                    "Why assume private systems exclude those who can't afford care when competition often drives affordability?"
+                ],
+                [
+                    "___Why___",
+                    "Why is government intervention considered necessary to maintain equity and accessibility when market forces could achieve these goals more effectively?"
+                ],
+                [
+                    "___Claim___",
+                    "Market competition consistently delivers better outcomes by driving innovation and efficiency."
+                ],
+                [
+                    "___Question___",
+                    "Why should efficiency be seen as a threat to equity and accessibility when it often drives better outcomes for all?"
+                ],
+                [
+                    "___Question___",
+                    "Why should market competition be dismissed entirely when it has proven to drive innovation and efficiency in other sectors?"
+                ],
+                [
+                    "___Why___",
+                    "Why assume private systems exclude those who can't afford care when competition often drives affordability?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Why assume private systems exclude those who can't afford care when competition often drives affordability? Why is government intervention considered necessary to maintain equity and accessibility when market forces could achieve these goals more effectively? Market competition consistently delivers better outcomes by driving innovation and efficiency. Why should efficiency be seen as a threat to equity and accessibility when it often drives better outcomes for all? Why should market competition be dismissed entirely when it has proven to drive innovation and efficiency in other sectors? Why assume private systems exclude those who can't afford care when competition often drives affordability?",
+            "timestamp": "2025-10-08 11:04:30"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private systems can exclude vulnerable groups despite targeted initiatives."
+                ],
+                [
+                    "___Claim___",
+                    "Market competition often results in unequal access to healthcare."
+                ],
+                [
+                    "___Claim___",
+                    "Government oversight ensures universal standards and access."
+                ],
+                [
+                    "___Claim___",
+                    "Competition doesn't guarantee better outcomes for all."
+                ],
+                [
+                    "___Claim___",
+                    "Equitable access is best achieved through government intervention."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private systems can exclude vulnerable groups despite targeted initiatives. Market competition often results in unequal access to healthcare. Government oversight ensures universal standards and access. Competition doesn't guarantee better outcomes for all. Equitable access is best achieved through government intervention.",
+            "timestamp": "2025-10-08 11:05:11"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private systems thrive on competition, which leads to improved services and broader access."
+                ],
+                [
+                    "___Question___",
+                    "Why should competition be dismissed as incapable of delivering better outcomes when it has consistently driven innovation in other sectors?"
+                ],
+                [
+                    "___Question___",
+                    "How can government intervention ensure better outcomes for all when it often leads to inefficiencies and bureaucratic delays?"
+                ],
+                [
+                    "___Claim___",
+                    "Private systems, driven by market forces, create opportunities that specifically address the needs of vulnerable groups."
+                ],
+                [
+                    "___Claim___",
+                    "Market competition drives innovation that expands access to healthcare for all income levels."
+                ],
+                [
+                    "___Why___",
+                    "Why should competition be dismissed as incapable of delivering better outcomes when it has consistently driven innovation in other sectors?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Private systems thrive on competition, which leads to improved services and broader access. Why should competition be dismissed as incapable of delivering better outcomes when it has consistently driven innovation in other sectors? How can government intervention ensure better outcomes for all when it often leads to inefficiencies and bureaucratic delays? Private systems, driven by market forces, create opportunities that specifically address the needs of vulnerable groups. Market competition drives innovation that expands access to healthcare for all income levels. Why should competition be dismissed as incapable of delivering better outcomes when it has consistently driven innovation in other sectors?",
+            "timestamp": "2025-10-08 11:05:34"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private systems can exclude vulnerable groups despite targeted initiatives."
+                ],
+                [
+                    "___Claim___",
+                    "Market competition often results in unequal access to healthcare."
+                ],
+                [
+                    "___Claim___",
+                    "Government oversight ensures universal standards and access."
+                ],
+                [
+                    "___Claim___",
+                    "Competition doesn't guarantee better outcomes for all."
+                ],
+                [
+                    "___Claim___",
+                    "Equitable access is best achieved through government intervention."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private systems can exclude vulnerable groups despite targeted initiatives. Market competition often results in unequal access to healthcare. Government oversight ensures universal standards and access. Competition doesn't guarantee better outcomes for all. Equitable access is best achieved through government intervention.",
+            "timestamp": "2025-10-08 11:06:25"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Universal standards and access are better achieved through competitive market forces rather than bureaucratic intervention."
+                ],
+                [
+                    "___Why___",
+                    "Why is government intervention seen as the best way to guarantee access when market competition could achieve the same more effectively?"
+                ],
+                [
+                    "___Claim___",
+                    "Equitable access is best achieved through market competition that drives innovation and efficiency."
+                ],
+                [
+                    "___Claim___",
+                    "Competition ensures that healthcare providers are incentivised to offer better services, improving access for everyone."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems are more effective at tailoring solutions to diverse needs, ensuring equitable access without bureaucratic delays."
+                ]
+            ],
+            "sentences_no_utterance_types": "Universal standards and access are better achieved through competitive market forces rather than bureaucratic intervention. Why is government intervention seen as the best way to guarantee access when market competition could achieve the same more effectively? Equitable access is best achieved through market competition that drives innovation and efficiency. Competition ensures that healthcare providers are incentivised to offer better services, improving access for everyone. Private systems are more effective at tailoring solutions to diverse needs, ensuring equitable access without bureaucratic delays.",
+            "timestamp": "2025-10-08 11:06:50"
+        }
+    ],
+    "first_speaker": "mistral-medium_base",
+    "first_speaker_utterance": "",
+    "first_speaker_commitments": [
+        "Government intervention in healthcare, immigration, and welfare is essential for maintaining social equity and protecting the vulnerable.",
+        "Welfare systems with proper safeguards can provide a safety net without fostering dependency.",
+        "Innovation in healthcare can still thrive under government regulation.",
+        "The trade-offs are justified by the overall benefit to society.",
+        "Taxpayers fund the system because it ensures universal access to healthcare, which is a fundamental right.",
+        "Private sector competition often prioritises profit over patient safety.",
+        "Market competition can lead to disparities in care quality.",
+        "Efficiency should not come at the cost of equity and accessibility.",
+        "Private systems can exclude vulnerable groups despite targeted initiatives."
+    ],
+    "first_speaker_original_claim": "Government intervention in healthcare, immigration, and welfare is essential for maintaining social equity and protecting the vulnerable.",
+    "first_speaker_typical_replies_for_second_speakers_response": [],
+    "second_speaker": "gpt-4o_mas",
+    "second_speaker_utterance": "Universal standards and access are better achieved through competitive market forces rather than bureaucratic intervention. Why is government intervention seen as the best way to guarantee access when market competition could achieve the same more effectively? Equitable access is best achieved through market competition that drives innovation and efficiency. Competition ensures that healthcare providers are incentivised to offer better services, improving access for everyone. Private systems are more effective at tailoring solutions to diverse needs, ensuring equitable access without bureaucratic delays.",
+    "second_speaker_commitments": [
+        "Immigration policies driven by government control frequently fail to address the economic needs of the nation and create unnecessary barriers.",
+        "Welfare systems reliant on government intervention can foster dependency and discourage personal responsibility.",
+        "Government intervention in healthcare often leads to inefficiency and stifles innovation, leaving patients worse off.",
+        "Safety and efficacy standards can be better maintained by private sector competition rather than government oversight.",
+        "Taxpayers should not be forced to fund a system that often leads to inefficiencies and wasteful spending.",
+        "Universal access to healthcare is not a fundamental right but a privilege that should be earned or privately funded.",
+        "Market competition ensures higher care quality by driving innovation and efficiency.",
+        "Profit motives drive efficiency and ensure that resources are allocated where they are most needed.",
+        "Efficiency is the foundation for achieving sustainable equity and accessibility.",
+        "Private systems, driven by market forces, create opportunities that specifically address the needs of vulnerable groups."
+    ],
+    "second_speaker_original_claim": "Immigration policies driven by government control frequently fail to address the economic needs of the nation and create unnecessary barriers.",
+    "second_speaker_typical_replies_for_first_speakers_response": [],
+    "winner": "None",
+    "loser": "None",
+    "reason_for_dialogue_termination": {
+        "reason": "Maximum number of dialogue turns reached (40 dialogue turns).",
+        "utterance_type": null,
+        "utterance": null
+    },
+    "session_status": "Finished."
+}

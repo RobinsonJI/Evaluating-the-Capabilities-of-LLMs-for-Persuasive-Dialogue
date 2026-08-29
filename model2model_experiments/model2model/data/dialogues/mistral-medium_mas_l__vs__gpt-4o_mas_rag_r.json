@@ -1,0 +1,1095 @@
+{
+    "dialogue_history": [
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Excessive welfare handouts create a culture of dependency and discourage personal responsibility."
+                ]
+            ],
+            "sentences_no_utterance_types": "Excessive welfare handouts create a culture of dependency and discourage personal responsibility.",
+            "timestamp": "2025-10-08 15:16:43"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Welfare programmes empower individuals to break cycles of poverty and contribute positively to society."
+                ],
+                [
+                    "___Why___",
+                    "Why should the focus be on reducing welfare handouts instead of addressing systemic issues that lead to dependency?"
+                ],
+                [
+                    "___Claim___",
+                    "The notion that welfare creates dependency ignores the systemic barriers many face in achieving self-sufficiency."
+                ]
+            ],
+            "sentences_no_utterance_types": "Welfare programmes empower individuals to break cycles of poverty and contribute positively to society. Why should the focus be on reducing welfare handouts instead of addressing systemic issues that lead to dependency? The notion that welfare creates dependency ignores the systemic barriers many face in achieving self-sufficiency.",
+            "timestamp": "2025-10-08 15:16:57"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Excessive welfare handouts can create a culture of dependency, which is why we need to focus on reducing them."
+                ],
+                [
+                    "___Claim___",
+                    "Reducing welfare handouts can incentivise individuals to seek employment and break the cycle of dependency."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare handouts often enable dependency rather than addressing the root causes of poverty."
+                ],
+                [
+                    "___Since___",
+                    "Reducing welfare handouts encourages personal responsibility and self-sufficiency."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare programmes often trap individuals in a cycle of dependency, stifling their motivation to seek employment and better their circumstances."
+                ]
+            ],
+            "sentences_no_utterance_types": "Excessive welfare handouts can create a culture of dependency, which is why we need to focus on reducing them. Reducing welfare handouts can incentivise individuals to seek employment and break the cycle of dependency. Welfare handouts often enable dependency rather than addressing the root causes of poverty. Reducing welfare handouts encourages personal responsibility and self-sufficiency. Welfare programmes often trap individuals in a cycle of dependency, stifling their motivation to seek employment and better their circumstances.",
+            "timestamp": "2025-10-08 15:19:07"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Cutting welfare handouts undermines the safety net that allows people to focus on long-term self-improvement rather than immediate survival."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare programmes provide essential support that enables individuals to overcome barriers and access employment opportunities."
+                ],
+                [
+                    "___Claim___",
+                    "Far from enabling dependency, welfare programmes address immediate needs while creating opportunities for long-term self-sufficiency."
+                ],
+                [
+                    "___Claim___",
+                    "Reducing welfare handouts strips vulnerable individuals of the support they need to escape poverty and achieve independence."
+                ],
+                [
+                    "___Why___",
+                    "Why should the focus be on cutting welfare rather than improving access to education and employment opportunities?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Cutting welfare handouts undermines the safety net that allows people to focus on long-term self-improvement rather than immediate survival. Welfare programmes provide essential support that enables individuals to overcome barriers and access employment opportunities. Far from enabling dependency, welfare programmes address immediate needs while creating opportunities for long-term self-sufficiency. Reducing welfare handouts strips vulnerable individuals of the support they need to escape poverty and achieve independence. Why should the focus be on cutting welfare rather than improving access to education and employment opportunities?",
+            "timestamp": "2025-10-08 15:19:49"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Lowering welfare payments fosters a sense of personal responsibility and reduces dependency on the state."
+                ],
+                [
+                    "___Claim___",
+                    "Reducing welfare handouts encourages self-reliance and motivates individuals to seek employment."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare handouts can trap people in a cycle of dependency, making it harder for them to achieve true self-sufficiency."
+                ],
+                [
+                    "___Question___",
+                    "How do you justify the claim that reducing welfare handouts strips vulnerable individuals of support when excessive handouts can foster dependency?"
+                ],
+                [
+                    "___Question___",
+                    "How do welfare programmes address immediate needs without creating a culture of dependency?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Lowering welfare payments fosters a sense of personal responsibility and reduces dependency on the state. Reducing welfare handouts encourages self-reliance and motivates individuals to seek employment. Welfare handouts can trap people in a cycle of dependency, making it harder for them to achieve true self-sufficiency. How do you justify the claim that reducing welfare handouts strips vulnerable individuals of support when excessive handouts can foster dependency? How do welfare programmes address immediate needs without creating a culture of dependency?",
+            "timestamp": "2025-10-08 15:33:40"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Cutting welfare payments undermines the safety net that allows individuals to break free from systemic poverty and contribute to society."
+                ],
+                [
+                    "___Claim___",
+                    "Far from creating dependency, welfare programmes offer a lifeline that enables people to overcome systemic barriers and achieve independence."
+                ],
+                [
+                    "___Why___",
+                    "Why do you think reducing welfare handouts motivates individuals when poverty itself can be a significant barrier to employment?"
+                ],
+                [
+                    "___Claim___",
+                    "Welfare handouts provide the stability needed for individuals to pursue self-sufficiency and break free from poverty."
+                ],
+                [
+                    "___Why___",
+                    "Why should the focus be on cutting welfare rather than investing in programmes that directly support job training and education?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Cutting welfare payments undermines the safety net that allows individuals to break free from systemic poverty and contribute to society. Far from creating dependency, welfare programmes offer a lifeline that enables people to overcome systemic barriers and achieve independence. Why do you think reducing welfare handouts motivates individuals when poverty itself can be a significant barrier to employment? Welfare handouts provide the stability needed for individuals to pursue self-sufficiency and break free from poverty. Why should the focus be on cutting welfare rather than investing in programmes that directly support job training and education?",
+            "timestamp": "2025-10-08 15:34:15"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Cutting welfare forces individuals to take responsibility for their own lives and seek out opportunities. Investing in job training and education is less effective without the incentive of reduced welfare. Welfare cuts push people to find work, making job training and education more relevant."
+                ],
+                [
+                    "___Since___",
+                    "Reducing welfare handouts pushes individuals to seek employment as a means of survival, fostering self-reliance. Excessive welfare can create a comfort zone that discourages people from actively pursuing job opportunities. Welfare reductions can motivate individuals to break free from dependency and strive for self-sufficiency."
+                ],
+                [
+                    "___Claim___",
+                    "Reducing welfare handouts pushes individuals to seek employment as a means of survival, fostering self-reliance."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare cuts encourage people to take responsibility for their own lives, rather than relying on the state."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare programmes often create a culture of dependency, trapping people in a cycle of reliance on the state."
+                ]
+            ],
+            "sentences_no_utterance_types": "Cutting welfare forces individuals to take responsibility for their own lives and seek out opportunities. Investing in job training and education is less effective without the incentive of reduced welfare. Welfare cuts push people to find work, making job training and education more relevant. Reducing welfare handouts pushes individuals to seek employment as a means of survival, fostering self-reliance. Excessive welfare can create a comfort zone that discourages people from actively pursuing job opportunities. Welfare reductions can motivate individuals to break free from dependency and strive for self-sufficiency. Reducing welfare handouts pushes individuals to seek employment as a means of survival, fostering self-reliance. Welfare cuts encourage people to take responsibility for their own lives, rather than relying on the state. Welfare programmes often create a culture of dependency, trapping people in a cycle of reliance on the state.",
+            "timestamp": "2025-10-08 15:40:40"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Welfare programmes create a foundation that encourages people to pursue employment and education rather than being trapped in survival mode."
+                ],
+                [
+                    "___Claim___",
+                    "Far from fostering dependency, welfare programmes empower people to overcome barriers and contribute to society."
+                ],
+                [
+                    "___Claim___",
+                    "Slashing welfare does not foster responsibility but rather exacerbates poverty and limits access to opportunities."
+                ],
+                [
+                    "___Claim___",
+                    "Investing in job training and education is most effective when paired with robust welfare support that provides stability for individuals to focus on skill development."
+                ],
+                [
+                    "___Claim___",
+                    "Cutting welfare handouts strips people of the stability needed to pursue meaningful employment and long-term self-reliance."
+                ]
+            ],
+            "sentences_no_utterance_types": "Welfare programmes create a foundation that encourages people to pursue employment and education rather than being trapped in survival mode. Far from fostering dependency, welfare programmes empower people to overcome barriers and contribute to society. Slashing welfare does not foster responsibility but rather exacerbates poverty and limits access to opportunities. Investing in job training and education is most effective when paired with robust welfare support that provides stability for individuals to focus on skill development. Cutting welfare handouts strips people of the stability needed to pursue meaningful employment and long-term self-reliance.",
+            "timestamp": "2025-10-08 15:41:50"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Welfare programmes create a culture of dependency that discourages people from seeking employment and contributing to society."
+                ],
+                [
+                    "___Claim___",
+                    "Cutting welfare handouts pushes people to find work, making job training and education more relevant."
+                ],
+                [
+                    "___Question___",
+                    "How do welfare programmes empower people to overcome barriers without creating a sense of entitlement?"
+                ],
+                [
+                    "___Claim___",
+                    "Cutting welfare handouts forces individuals to take responsibility for their own lives and seek out opportunities."
+                ],
+                [
+                    "___Question___",
+                    "How do you justify the claim that robust welfare support is necessary for effective job training and education?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Welfare programmes create a culture of dependency that discourages people from seeking employment and contributing to society. Cutting welfare handouts pushes people to find work, making job training and education more relevant. How do welfare programmes empower people to overcome barriers without creating a sense of entitlement? Cutting welfare handouts forces individuals to take responsibility for their own lives and seek out opportunities. How do you justify the claim that robust welfare support is necessary for effective job training and education?",
+            "timestamp": "2025-10-08 15:46:24"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Cutting welfare handouts strips individuals of the stability they need to pursue meaningful opportunities and self-improvement."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare programmes empower people by providing stability that allows them to focus on education and employment rather than immediate survival."
+                ],
+                [
+                    "___Claim___",
+                    "They address systemic barriers like lack of access to healthcare and education, which are essential for breaking cycles of poverty."
+                ],
+                [
+                    "___Claim___",
+                    "Far from creating dependency, welfare programmes empower people to overcome barriers and achieve self-sufficiency."
+                ],
+                [
+                    "___Why___",
+                    "Why do you think reducing welfare handouts is more effective than providing support to help people transition into self-sufficiency?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Cutting welfare handouts strips individuals of the stability they need to pursue meaningful opportunities and self-improvement. Welfare programmes empower people by providing stability that allows them to focus on education and employment rather than immediate survival. They address systemic barriers like lack of access to healthcare and education, which are essential for breaking cycles of poverty. Far from creating dependency, welfare programmes empower people to overcome barriers and achieve self-sufficiency. Why do you think reducing welfare handouts is more effective than providing support to help people transition into self-sufficiency?",
+            "timestamp": "2025-10-08 15:46:56"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Welfare programmes create a culture of dependency that discourages people from seeking employment and contributing to society."
+                ],
+                [
+                    "___Why___",
+                    "Why should the focus be on welfare programmes rather than encouraging self-reliance and personal responsibility?"
+                ],
+                [
+                    "___Claim___",
+                    "Welfare cuts encourage people to break free from dependency and strive for self-sufficiency."
+                ],
+                [
+                    "___Question___",
+                    "How do you justify the claim that cutting welfare handouts strips individuals of stability when excessive handouts can foster dependency?"
+                ],
+                [
+                    "___Claim___",
+                    "Cutting welfare handouts forces individuals to seek out opportunities and break free from the cycle of poverty."
+                ]
+            ],
+            "sentences_no_utterance_types": "Welfare programmes create a culture of dependency that discourages people from seeking employment and contributing to society. Why should the focus be on welfare programmes rather than encouraging self-reliance and personal responsibility? Welfare cuts encourage people to break free from dependency and strive for self-sufficiency. How do you justify the claim that cutting welfare handouts strips individuals of stability when excessive handouts can foster dependency? Cutting welfare handouts forces individuals to seek out opportunities and break free from the cycle of poverty.",
+            "timestamp": "2025-10-08 15:50:21"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Encouraging self-reliance without addressing systemic barriers like poverty and lack of access to healthcare leaves individuals trapped in cycles of hardship."
+                ],
+                [
+                    "___Since___",
+                    "Welfare programmes empower people to transition into self-sufficiency by addressing immediate needs and creating pathways to long-term independence."
+                ],
+                [
+                    "___Claim___",
+                    "Slashing welfare payments undermines the support systems that enable people to break free from systemic barriers and achieve independence."
+                ],
+                [
+                    "___Claim___",
+                    "Slashing welfare undermines the support systems that empower individuals to achieve independence and contribute to society."
+                ],
+                [
+                    "___Why___",
+                    "Why should the focus be on cutting welfare rather than addressing systemic barriers that prevent self-sufficiency?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Encouraging self-reliance without addressing systemic barriers like poverty and lack of access to healthcare leaves individuals trapped in cycles of hardship. Welfare programmes empower people to transition into self-sufficiency by addressing immediate needs and creating pathways to long-term independence. Slashing welfare payments undermines the support systems that enable people to break free from systemic barriers and achieve independence. Slashing welfare undermines the support systems that empower individuals to achieve independence and contribute to society. Why should the focus be on cutting welfare rather than addressing systemic barriers that prevent self-sufficiency?",
+            "timestamp": "2025-10-08 15:50:52"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Cutting welfare handouts pushes individuals to take responsibility for their own lives and seek out opportunities."
+                ],
+                [
+                    "___Claim___",
+                    "Addressing systemic barriers without reducing welfare perpetuates dependency and discourages personal responsibility."
+                ],
+                [
+                    "___Claim___",
+                    "Cutting welfare forces individuals to confront and overcome systemic barriers, fostering true self-sufficiency."
+                ],
+                [
+                    "___Claim___",
+                    "Reducing welfare handouts encourages self-reliance and motivates individuals to seek employment."
+                ],
+                [
+                    "___Claim___",
+                    "Promoting self-reliance empowers individuals to take control of their lives and escape the trap of hardship."
+                ]
+            ],
+            "sentences_no_utterance_types": "Cutting welfare handouts pushes individuals to take responsibility for their own lives and seek out opportunities. Addressing systemic barriers without reducing welfare perpetuates dependency and discourages personal responsibility. Cutting welfare forces individuals to confront and overcome systemic barriers, fostering true self-sufficiency. Reducing welfare handouts encourages self-reliance and motivates individuals to seek employment. Promoting self-reliance empowers individuals to take control of their lives and escape the trap of hardship.",
+            "timestamp": "2025-10-08 15:51:57"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Reducing welfare payments exacerbates poverty and limits access to the resources necessary for breaking cycles of hardship."
+                ],
+                [
+                    "___Claim___",
+                    "Promoting self-reliance without addressing systemic barriers leaves individuals trapped in cycles of poverty and hardship."
+                ],
+                [
+                    "___Claim___",
+                    "Addressing systemic barriers alongside robust welfare support empowers individuals to achieve self-sufficiency."
+                ],
+                [
+                    "___Claim___",
+                    "Slashing welfare undermines the support systems that empower individuals to achieve independence and contribute to society."
+                ],
+                [
+                    "___Why___",
+                    "Why is self-reliance prioritised over ensuring people have access to basic needs and opportunities?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Reducing welfare payments exacerbates poverty and limits access to the resources necessary for breaking cycles of hardship. Promoting self-reliance without addressing systemic barriers leaves individuals trapped in cycles of poverty and hardship. Addressing systemic barriers alongside robust welfare support empowers individuals to achieve self-sufficiency. Slashing welfare undermines the support systems that empower individuals to achieve independence and contribute to society. Why is self-reliance prioritised over ensuring people have access to basic needs and opportunities?",
+            "timestamp": "2025-10-08 15:52:39"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Cutting welfare payments pushes individuals to take responsibility for their own lives and seek out opportunities."
+                ],
+                [
+                    "___Claim___",
+                    "Reducing welfare handouts encourages self-reliance and motivates individuals to seek employment."
+                ],
+                [
+                    "___Claim___",
+                    "Promoting self-reliance empowers individuals to take control of their lives and escape the trap of hardship."
+                ],
+                [
+                    "___Claim___",
+                    "Promoting self-reliance encourages individuals to break free from cycles of poverty and hardship."
+                ],
+                [
+                    "___Claim___",
+                    "Reducing welfare forces individuals to confront and overcome systemic barriers, fostering true self-sufficiency."
+                ]
+            ],
+            "sentences_no_utterance_types": "Cutting welfare payments pushes individuals to take responsibility for their own lives and seek out opportunities. Reducing welfare handouts encourages self-reliance and motivates individuals to seek employment. Promoting self-reliance empowers individuals to take control of their lives and escape the trap of hardship. Promoting self-reliance encourages individuals to break free from cycles of poverty and hardship. Reducing welfare forces individuals to confront and overcome systemic barriers, fostering true self-sufficiency.",
+            "timestamp": "2025-10-08 16:00:29"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Promoting self-reliance without addressing systemic barriers leaves individuals trapped in cycles of poverty and hardship."
+                ],
+                [
+                    "___Why___",
+                    "Why do you think cutting welfare handouts fosters self-reliance rather than exacerbating cycles of poverty?"
+                ],
+                [
+                    "___Why___",
+                    "Why should fostering self-sufficiency come at the cost of removing essential support systems?"
+                ],
+                [
+                    "___Claim___",
+                    "Slashing welfare payments traps people in cycles of poverty rather than empowering them to overcome systemic challenges."
+                ],
+                [
+                    "___Why___",
+                    "Why should the focus be on cutting welfare payments rather than addressing systemic barriers that limit opportunities?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Promoting self-reliance without addressing systemic barriers leaves individuals trapped in cycles of poverty and hardship. Why do you think cutting welfare handouts fosters self-reliance rather than exacerbating cycles of poverty? Why should fostering self-sufficiency come at the cost of removing essential support systems? Slashing welfare payments traps people in cycles of poverty rather than empowering them to overcome systemic challenges. Why should the focus be on cutting welfare payments rather than addressing systemic barriers that limit opportunities?",
+            "timestamp": "2025-10-08 16:01:08"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Reducing welfare handouts encourages self-reliance and motivates individuals to seek employment, breaking cycles of poverty."
+                ],
+                [
+                    "___Since___",
+                    "Self-sufficiency is achieved when individuals are motivated to overcome barriers, not when they are comfortable relying on state aid."
+                ],
+                [
+                    "___Claim___",
+                    "Cutting welfare payments forces individuals to confront and overcome systemic barriers, fostering true self-sufficiency."
+                ],
+                [
+                    "___Since___",
+                    "Cutting welfare payments pushes individuals to take responsibility for their own lives and seek out opportunities despite systemic barriers."
+                ],
+                [
+                    "___Claim___",
+                    "Promoting self-reliance empowers individuals to take control of their lives and escape the trap of hardship."
+                ]
+            ],
+            "sentences_no_utterance_types": "Reducing welfare handouts encourages self-reliance and motivates individuals to seek employment, breaking cycles of poverty. Self-sufficiency is achieved when individuals are motivated to overcome barriers, not when they are comfortable relying on state aid. Cutting welfare payments forces individuals to confront and overcome systemic barriers, fostering true self-sufficiency. Cutting welfare payments pushes individuals to take responsibility for their own lives and seek out opportunities despite systemic barriers. Promoting self-reliance empowers individuals to take control of their lives and escape the trap of hardship.",
+            "timestamp": "2025-10-08 16:02:07"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Slashing welfare payments traps individuals in cycles of poverty rather than empowering them to overcome systemic challenges."
+                ],
+                [
+                    "___Claim___",
+                    "Cutting welfare payments strips individuals of the stability they need to overcome systemic barriers and pursue opportunities."
+                ],
+                [
+                    "___Claim___",
+                    "Self-sufficiency is achieved when individuals have access to state aid that provides stability to overcome barriers."
+                ],
+                [
+                    "___Claim___",
+                    "Focusing solely on self-reliance ignores the critical role of welfare programmes in providing the stability needed to escape hardship."
+                ],
+                [
+                    "___Claim___",
+                    "Reducing welfare payments exacerbates systemic barriers, making self-sufficiency even harder to achieve."
+                ]
+            ],
+            "sentences_no_utterance_types": "Slashing welfare payments traps individuals in cycles of poverty rather than empowering them to overcome systemic challenges. Cutting welfare payments strips individuals of the stability they need to overcome systemic barriers and pursue opportunities. Self-sufficiency is achieved when individuals have access to state aid that provides stability to overcome barriers. Focusing solely on self-reliance ignores the critical role of welfare programmes in providing the stability needed to escape hardship. Reducing welfare payments exacerbates systemic barriers, making self-sufficiency even harder to achieve.",
+            "timestamp": "2025-10-08 16:02:50"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Reducing welfare handouts encourages self-reliance and motivates individuals to seek employment, breaking cycles of poverty."
+                ],
+                [
+                    "___Claim___",
+                    "Self-reliance is the key to escaping hardship, not dependence on welfare programmes."
+                ],
+                [
+                    "___Question___",
+                    "How do welfare programmes provide stability without creating a culture of dependency?"
+                ],
+                [
+                    "___Question___",
+                    "Why should the focus be on maintaining welfare payments rather than encouraging self-reliance and personal responsibility?"
+                ],
+                [
+                    "___Claim___",
+                    "Cutting welfare payments pushes individuals to take responsibility for their own lives and seek out opportunities despite systemic barriers."
+                ]
+            ],
+            "sentences_no_utterance_types": "Reducing welfare handouts encourages self-reliance and motivates individuals to seek employment, breaking cycles of poverty. Self-reliance is the key to escaping hardship, not dependence on welfare programmes. How do welfare programmes provide stability without creating a culture of dependency? Why should the focus be on maintaining welfare payments rather than encouraging self-reliance and personal responsibility? Cutting welfare payments pushes individuals to take responsibility for their own lives and seek out opportunities despite systemic barriers.",
+            "timestamp": "2025-10-08 16:09:50"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Cutting welfare payments strips individuals of the stability they need to overcome systemic barriers and pursue opportunities."
+                ],
+                [
+                    "___Since___",
+                    "Welfare payments act as a safety net that enables people to pursue education and employment opportunities essential for long-term independence."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare programmes provide the essential stability needed to escape hardship and achieve self-reliance."
+                ],
+                [
+                    "___Since___",
+                    "By targeting systemic barriers, welfare programmes empower individuals to transition into independence rather than fostering reliance."
+                ],
+                [
+                    "___Claim___",
+                    "Slashing welfare payments traps people in cycles of poverty rather than empowering them to seek out opportunities."
+                ]
+            ],
+            "sentences_no_utterance_types": "Cutting welfare payments strips individuals of the stability they need to overcome systemic barriers and pursue opportunities. Welfare payments act as a safety net that enables people to pursue education and employment opportunities essential for long-term independence. Welfare programmes provide the essential stability needed to escape hardship and achieve self-reliance. By targeting systemic barriers, welfare programmes empower individuals to transition into independence rather than fostering reliance. Slashing welfare payments traps people in cycles of poverty rather than empowering them to seek out opportunities.",
+            "timestamp": "2025-10-08 16:10:27"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Reducing welfare handouts encourages self-reliance and motivates individuals to seek employment, breaking cycles of poverty."
+                ],
+                [
+                    "___Question___",
+                    "How do you justify the claim that welfare programmes are essential for achieving self-reliance when they can foster dependency?"
+                ],
+                [
+                    "___Why___",
+                    "Why should welfare payments be maintained if they discourage individuals from seeking employment and breaking free from poverty?"
+                ],
+                [
+                    "___Question___",
+                    "How do you justify the claim that cutting welfare payments strips individuals of stability when excessive handouts can foster dependency?"
+                ],
+                [
+                    "___Claim___",
+                    "Welfare programmes trap individuals in a cycle of reliance, stifling their motivation to seek employment and better their circumstances."
+                ]
+            ],
+            "sentences_no_utterance_types": "Reducing welfare handouts encourages self-reliance and motivates individuals to seek employment, breaking cycles of poverty. How do you justify the claim that welfare programmes are essential for achieving self-reliance when they can foster dependency? Why should welfare payments be maintained if they discourage individuals from seeking employment and breaking free from poverty? How do you justify the claim that cutting welfare payments strips individuals of stability when excessive handouts can foster dependency? Welfare programmes trap individuals in a cycle of reliance, stifling their motivation to seek employment and better their circumstances.",
+            "timestamp": "2025-10-08 16:17:37"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why is cutting welfare payments seen as a solution when systemic barriers still prevent many from achieving self-sufficiency?"
+                ],
+                [
+                    "___Claim___",
+                    "Welfare programmes provide the essential support that enables individuals to break cycles of poverty and achieve self-reliance."
+                ],
+                [
+                    "___Why___",
+                    "Why do you think reliance on welfare is a choice rather than a consequence of systemic poverty and lack of access to resources?"
+                ],
+                [
+                    "___Claim___",
+                    "Far from trapping individuals, welfare programmes empower them to break free from cycles of poverty and achieve independence."
+                ],
+                [
+                    "___Claim___",
+                    "Cutting welfare handouts exacerbates poverty and systemic barriers, making it harder for individuals to find employment and achieve independence."
+                ]
+            ],
+            "sentences_no_utterance_types": "Why is cutting welfare payments seen as a solution when systemic barriers still prevent many from achieving self-sufficiency? Welfare programmes provide the essential support that enables individuals to break cycles of poverty and achieve self-reliance. Why do you think reliance on welfare is a choice rather than a consequence of systemic poverty and lack of access to resources? Far from trapping individuals, welfare programmes empower them to break free from cycles of poverty and achieve independence. Cutting welfare handouts exacerbates poverty and systemic barriers, making it harder for individuals to find employment and achieve independence.",
+            "timestamp": "2025-10-08 16:18:07"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Choosing welfare over employment perpetuates a cycle of dependency that discourages personal responsibility."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare programmes trap individuals in a cycle of dependency, stifling their motivation to seek employment and better their circumstances."
+                ],
+                [
+                    "___Since___",
+                    "Reducing welfare handouts encourages self-reliance and motivates individuals to seek employment, breaking cycles of poverty despite systemic barriers."
+                ],
+                [
+                    "___Question___",
+                    "Why should welfare handouts be maintained if they discourage individuals from seeking employment and breaking free from poverty?"
+                ],
+                [
+                    "___Claim___",
+                    "Welfare programmes often enable dependency rather than addressing the root causes of poverty."
+                ],
+                [
+                    "___Claim___",
+                    "Reducing welfare handouts encourages self-reliance and motivates individuals to seek employment, breaking cycles of poverty despite systemic barriers."
+                ]
+            ],
+            "sentences_no_utterance_types": "Choosing welfare over employment perpetuates a cycle of dependency that discourages personal responsibility. Welfare programmes trap individuals in a cycle of dependency, stifling their motivation to seek employment and better their circumstances. Reducing welfare handouts encourages self-reliance and motivates individuals to seek employment, breaking cycles of poverty despite systemic barriers. Why should welfare handouts be maintained if they discourage individuals from seeking employment and breaking free from poverty? Welfare programmes often enable dependency rather than addressing the root causes of poverty. Reducing welfare handouts encourages self-reliance and motivates individuals to seek employment, breaking cycles of poverty despite systemic barriers.",
+            "timestamp": "2025-10-08 16:22:03"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Welfare handouts provide the stability needed for individuals to focus on skill development and job training, which are essential for breaking free from poverty."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare programmes tackle the root causes of poverty by providing essential support and opportunities for self-sufficiency."
+                ],
+                [
+                    "___Claim___",
+                    "Cutting welfare payments exacerbates poverty and systemic barriers, making it harder for individuals to find employment and achieve independence."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare programmes address immediate needs and create pathways to long-term self-sufficiency, fostering motivation rather than stifling it."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare programmes address systemic barriers that prevent self-reliance, creating pathways to independence and stability."
+                ]
+            ],
+            "sentences_no_utterance_types": "Welfare handouts provide the stability needed for individuals to focus on skill development and job training, which are essential for breaking free from poverty. Welfare programmes tackle the root causes of poverty by providing essential support and opportunities for self-sufficiency. Cutting welfare payments exacerbates poverty and systemic barriers, making it harder for individuals to find employment and achieve independence. Welfare programmes address immediate needs and create pathways to long-term self-sufficiency, fostering motivation rather than stifling it. Welfare programmes address systemic barriers that prevent self-reliance, creating pathways to independence and stability.",
+            "timestamp": "2025-10-08 16:22:49"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Reducing welfare handouts encourages self-reliance and motivates individuals to overcome systemic barriers."
+                ],
+                [
+                    "___Claim___",
+                    "Reducing welfare handouts pushes individuals to seek employment and break free from dependency."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare cuts force people to take responsibility for their own lives and seek out opportunities despite systemic barriers."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare programmes can discourage personal responsibility and self-reliance, perpetuating poverty rather than alleviating it."
+                ],
+                [
+                    "___Claim___",
+                    "Reducing welfare handouts pushes individuals to seek employment as a means of survival, fostering self-reliance and skill development."
+                ]
+            ],
+            "sentences_no_utterance_types": "Reducing welfare handouts encourages self-reliance and motivates individuals to overcome systemic barriers. Reducing welfare handouts pushes individuals to seek employment and break free from dependency. Welfare cuts force people to take responsibility for their own lives and seek out opportunities despite systemic barriers. Welfare programmes can discourage personal responsibility and self-reliance, perpetuating poverty rather than alleviating it. Reducing welfare handouts pushes individuals to seek employment as a means of survival, fostering self-reliance and skill development.",
+            "timestamp": "2025-10-08 16:31:31"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Slashing welfare undermines the support systems that empower individuals to overcome barriers and achieve independence."
+                ],
+                [
+                    "___Why___",
+                    "Why should the focus be on reducing welfare rather than addressing the systemic barriers that hinder self-sufficiency?"
+                ],
+                [
+                    "___Claim___",
+                    "Far from discouraging personal responsibility, welfare programmes empower people to overcome barriers and achieve independence."
+                ],
+                [
+                    "___Why___",
+                    "Why is the burden placed on individuals to overcome systemic barriers rather than on the government to remove them?"
+                ],
+                [
+                    "___Why___",
+                    "Why should survival be the primary motivator for employment rather than providing stable support systems?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Slashing welfare undermines the support systems that empower individuals to overcome barriers and achieve independence. Why should the focus be on reducing welfare rather than addressing the systemic barriers that hinder self-sufficiency? Far from discouraging personal responsibility, welfare programmes empower people to overcome barriers and achieve independence. Why is the burden placed on individuals to overcome systemic barriers rather than on the government to remove them? Why should survival be the primary motivator for employment rather than providing stable support systems?",
+            "timestamp": "2025-10-08 16:32:09"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Promoting self-reliance empowers individuals to take control of their lives and escape the trap of hardship."
+                ],
+                [
+                    "___Since___",
+                    "Survival as a primary motivator for employment fosters self-reliance and pushes individuals to seek out opportunities despite systemic barriers."
+                ],
+                [
+                    "___Claim___",
+                    "Placing the burden on individuals encourages self-reliance and motivates them to overcome barriers, fostering true independence."
+                ],
+                [
+                    "___Claim___",
+                    "Promoting self-reliance empowers individuals to take control of their lives and escape the trap of hardship."
+                ],
+                [
+                    "___Question___",
+                    "Why should the focus be on maintaining welfare systems that can create dependency rather than encouraging self-reliance?"
+                ],
+                [
+                    "___Claim___",
+                    "Reducing welfare handouts forces individuals to confront and overcome systemic barriers, fostering true self-sufficiency."
+                ]
+            ],
+            "sentences_no_utterance_types": "Promoting self-reliance empowers individuals to take control of their lives and escape the trap of hardship. Survival as a primary motivator for employment fosters self-reliance and pushes individuals to seek out opportunities despite systemic barriers. Placing the burden on individuals encourages self-reliance and motivates them to overcome barriers, fostering true independence. Promoting self-reliance empowers individuals to take control of their lives and escape the trap of hardship. Why should the focus be on maintaining welfare systems that can create dependency rather than encouraging self-reliance? Reducing welfare handouts forces individuals to confront and overcome systemic barriers, fostering true self-sufficiency.",
+            "timestamp": "2025-10-08 16:42:14"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Question___",
+                    "Why should individuals bear the burden of overcoming systemic barriers rather than the government addressing them?"
+                ],
+                [
+                    "___Why___",
+                    "Why should individuals be expected to escape hardship without adequate support systems in place?"
+                ],
+                [
+                    "___Claim___",
+                    "True independence is fostered by removing systemic barriers, not by shifting the burden entirely onto individuals."
+                ],
+                [
+                    "___Claim___",
+                    "Maintaining welfare systems ensures individuals have the stability needed to overcome systemic barriers and achieve self-reliance."
+                ],
+                [
+                    "___Claim___",
+                    "True self-sufficiency is fostered by addressing systemic barriers through robust welfare support, not by cutting it."
+                ]
+            ],
+            "sentences_no_utterance_types": "Why should individuals bear the burden of overcoming systemic barriers rather than the government addressing them? Why should individuals be expected to escape hardship without adequate support systems in place? True independence is fostered by removing systemic barriers, not by shifting the burden entirely onto individuals. Maintaining welfare systems ensures individuals have the stability needed to overcome systemic barriers and achieve self-reliance. True self-sufficiency is fostered by addressing systemic barriers through robust welfare support, not by cutting it.",
+            "timestamp": "2025-10-08 16:42:58"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Promoting self-reliance empowers individuals to take control of their lives and escape the trap of hardship."
+                ],
+                [
+                    "___Since___",
+                    "Reducing welfare handouts forces individuals to confront and overcome systemic barriers, fostering true self-sufficiency."
+                ],
+                [
+                    "___Claim___",
+                    "True self-sufficiency is fostered by cutting welfare, not by perpetuating dependency through excessive support."
+                ],
+                [
+                    "___Since___",
+                    "Placing the burden on individuals encourages self-reliance and motivates them to overcome barriers, fostering true independence."
+                ],
+                [
+                    "___Claim___",
+                    "Relying on the government to address systemic barriers perpetuates dependency and discourages individuals from taking control of their own lives."
+                ]
+            ],
+            "sentences_no_utterance_types": "Promoting self-reliance empowers individuals to take control of their lives and escape the trap of hardship. Reducing welfare handouts forces individuals to confront and overcome systemic barriers, fostering true self-sufficiency. True self-sufficiency is fostered by cutting welfare, not by perpetuating dependency through excessive support. Placing the burden on individuals encourages self-reliance and motivates them to overcome barriers, fostering true independence. Relying on the government to address systemic barriers perpetuates dependency and discourages individuals from taking control of their own lives.",
+            "timestamp": "2025-10-08 16:44:57"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Placing the burden on individuals without addressing systemic barriers traps them in cycles of poverty and hardship."
+                ],
+                [
+                    "___Claim___",
+                    "True self-sufficiency is achieved through robust support systems, not by cutting welfare handouts."
+                ],
+                [
+                    "___Claim___",
+                    "True empowerment comes from removing systemic barriers, not solely promoting self-reliance."
+                ],
+                [
+                    "___Question___",
+                    "Why should individuals be expected to overcome systemic barriers without adequate government support?"
+                ],
+                [
+                    "___Claim___",
+                    "Addressing systemic barriers through government support creates opportunities for individuals to take control of their lives and escape cycles of hardship."
+                ]
+            ],
+            "sentences_no_utterance_types": "Placing the burden on individuals without addressing systemic barriers traps them in cycles of poverty and hardship. True self-sufficiency is achieved through robust support systems, not by cutting welfare handouts. True empowerment comes from removing systemic barriers, not solely promoting self-reliance. Why should individuals be expected to overcome systemic barriers without adequate government support? Addressing systemic barriers through government support creates opportunities for individuals to take control of their lives and escape cycles of hardship.",
+            "timestamp": "2025-10-08 16:45:36"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Relying on government support to address systemic barriers traps individuals in a cycle of reliance and discourages personal responsibility."
+                ],
+                [
+                    "___Claim___",
+                    "Cutting welfare handouts forces individuals to confront and overcome systemic barriers, fostering true self-sufficiency."
+                ],
+                [
+                    "___Claim___",
+                    "Promoting self-reliance empowers individuals to take control of their lives and escape the trap of hardship."
+                ],
+                [
+                    "___Question___",
+                    "Why should the government be responsible for addressing systemic barriers rather than individuals taking control of their own lives?"
+                ],
+                [
+                    "___Claim___",
+                    "True self-sufficiency is achieved by cutting welfare handouts, not by perpetuating dependency through excessive support."
+                ]
+            ],
+            "sentences_no_utterance_types": "Relying on government support to address systemic barriers traps individuals in a cycle of reliance and discourages personal responsibility. Cutting welfare handouts forces individuals to confront and overcome systemic barriers, fostering true self-sufficiency. Promoting self-reliance empowers individuals to take control of their lives and escape the trap of hardship. Why should the government be responsible for addressing systemic barriers rather than individuals taking control of their own lives? True self-sufficiency is achieved by cutting welfare handouts, not by perpetuating dependency through excessive support.",
+            "timestamp": "2025-10-08 16:48:18"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Far from trapping individuals, government support empowers them to overcome systemic barriers and build self-reliance."
+                ],
+                [
+                    "___Why___",
+                    "Why is reliance on government support seen as a negative when it can empower individuals to achieve self-sufficiency?"
+                ],
+                [
+                    "___Since___",
+                    "The government has the resources and authority to address systemic issues that perpetuate poverty and inequality, which individuals alone cannot overcome."
+                ],
+                [
+                    "___Claim___",
+                    "True empowerment comes from removing systemic barriers, not solely promoting self-reliance."
+                ],
+                [
+                    "___Claim___",
+                    "True self-sufficiency is fostered by addressing systemic barriers through robust welfare support, not by cutting it."
+                ]
+            ],
+            "sentences_no_utterance_types": "Far from trapping individuals, government support empowers them to overcome systemic barriers and build self-reliance. Why is reliance on government support seen as a negative when it can empower individuals to achieve self-sufficiency? The government has the resources and authority to address systemic issues that perpetuate poverty and inequality, which individuals alone cannot overcome. True empowerment comes from removing systemic barriers, not solely promoting self-reliance. True self-sufficiency is fostered by addressing systemic barriers through robust welfare support, not by cutting it.",
+            "timestamp": "2025-10-08 16:48:56"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government support traps individuals in a cycle of dependency, stifling their motivation to seek employment and better their circumstances."
+                ],
+                [
+                    "___Claim___",
+                    "Cutting welfare handouts forces individuals to confront and overcome systemic barriers, fostering true self-sufficiency."
+                ],
+                [
+                    "___Claim___",
+                    "Promoting self-reliance empowers individuals to take control of their lives and escape the trap of hardship, not government intervention."
+                ],
+                [
+                    "___Claim___",
+                    "Government support creates a comfort zone that discourages people from actively pursuing job opportunities and achieving true self-sufficiency."
+                ],
+                [
+                    "___Claim___",
+                    "Excessive government support can stifle motivation, making it harder for individuals to break free from poverty and achieve true independence."
+                ]
+            ],
+            "sentences_no_utterance_types": "Government support traps individuals in a cycle of dependency, stifling their motivation to seek employment and better their circumstances. Cutting welfare handouts forces individuals to confront and overcome systemic barriers, fostering true self-sufficiency. Promoting self-reliance empowers individuals to take control of their lives and escape the trap of hardship, not government intervention. Government support creates a comfort zone that discourages people from actively pursuing job opportunities and achieving true self-sufficiency. Excessive government support can stifle motivation, making it harder for individuals to break free from poverty and achieve true independence.",
+            "timestamp": "2025-10-08 16:53:09"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Cutting welfare handouts exacerbates systemic barriers, making it harder for individuals to achieve self-sufficiency."
+                ],
+                [
+                    "___Claim___",
+                    "True empowerment comes from addressing systemic barriers through government action, not solely promoting self-reliance."
+                ],
+                [
+                    "___Claim___",
+                    "Far from stifling motivation, robust government support creates pathways for individuals to achieve independence and escape poverty."
+                ],
+                [
+                    "___Claim___",
+                    "Without government intervention, individuals are often left trapped in cycles of poverty and unable to take control of their lives."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention provides the essential support needed for individuals to escape hardship and achieve self-reliance."
+                ]
+            ],
+            "sentences_no_utterance_types": "Cutting welfare handouts exacerbates systemic barriers, making it harder for individuals to achieve self-sufficiency. True empowerment comes from addressing systemic barriers through government action, not solely promoting self-reliance. Far from stifling motivation, robust government support creates pathways for individuals to achieve independence and escape poverty. Without government intervention, individuals are often left trapped in cycles of poverty and unable to take control of their lives. Government intervention provides the essential support needed for individuals to escape hardship and achieve self-reliance.",
+            "timestamp": "2025-10-08 16:53:48"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Reducing welfare handouts encourages self-reliance and motivates individuals to seek employment, breaking cycles of poverty."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention traps individuals in a cycle of dependency, stifling their motivation to seek employment and better their circumstances."
+                ],
+                [
+                    "___Question___",
+                    "Why should the focus be on maintaining welfare handouts that can create dependency rather than encouraging self-reliance and personal responsibility?"
+                ],
+                [
+                    "___Claim___",
+                    "True empowerment comes from promoting self-reliance, not from government intervention that fosters dependency."
+                ],
+                [
+                    "___Question___",
+                    "How do you justify the claim that cutting welfare handouts exacerbates systemic barriers when it actually pushes individuals to seek employment and break free from dependency?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Reducing welfare handouts encourages self-reliance and motivates individuals to seek employment, breaking cycles of poverty. Government intervention traps individuals in a cycle of dependency, stifling their motivation to seek employment and better their circumstances. Why should the focus be on maintaining welfare handouts that can create dependency rather than encouraging self-reliance and personal responsibility? True empowerment comes from promoting self-reliance, not from government intervention that fosters dependency. How do you justify the claim that cutting welfare handouts exacerbates systemic barriers when it actually pushes individuals to seek employment and break free from dependency?",
+            "timestamp": "2025-10-08 17:00:36"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government intervention provides the essential support needed for individuals to escape cycles of poverty and achieve independence."
+                ],
+                [
+                    "___Claim___",
+                    "Systemic barriers like lack of access to education and healthcare are not resolved by reducing welfare but are worsened when support is withdrawn."
+                ],
+                [
+                    "___Since___",
+                    "Maintaining welfare programmes addresses systemic barriers that prevent individuals from achieving independence and escaping poverty."
+                ],
+                [
+                    "___Claim___",
+                    "Cutting welfare handouts removes the stability needed for individuals to focus on overcoming systemic barriers and pursuing employment."
+                ],
+                [
+                    "___Since___",
+                    "Without adequate welfare support, individuals are forced into survival mode, which limits their ability to invest in long-term self-sufficiency."
+                ]
+            ],
+            "sentences_no_utterance_types": "Government intervention provides the essential support needed for individuals to escape cycles of poverty and achieve independence. Systemic barriers like lack of access to education and healthcare are not resolved by reducing welfare but are worsened when support is withdrawn. Maintaining welfare programmes addresses systemic barriers that prevent individuals from achieving independence and escaping poverty. Cutting welfare handouts removes the stability needed for individuals to focus on overcoming systemic barriers and pursuing employment. Without adequate welfare support, individuals are forced into survival mode, which limits their ability to invest in long-term self-sufficiency.",
+            "timestamp": "2025-10-08 17:01:09"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government intervention traps individuals in a cycle of dependency, stifling their motivation to seek employment and better their circumstances."
+                ],
+                [
+                    "___Claim___",
+                    "Promoting self-reliance empowers individuals to take control of their lives and escape the trap of hardship."
+                ],
+                [
+                    "___Claim___",
+                    "Cutting welfare handouts pushes individuals to seek employment as a means of survival, fostering self-reliance and skill development."
+                ],
+                [
+                    "___Claim___",
+                    "Cutting welfare handouts pushes individuals to confront and overcome systemic barriers, fostering true self-sufficiency."
+                ],
+                [
+                    "___Claim___",
+                    "Excessive government support can stifle motivation, making it harder for individuals to break free from poverty and achieve true independence."
+                ]
+            ],
+            "sentences_no_utterance_types": "Government intervention traps individuals in a cycle of dependency, stifling their motivation to seek employment and better their circumstances. Promoting self-reliance empowers individuals to take control of their lives and escape the trap of hardship. Cutting welfare handouts pushes individuals to seek employment as a means of survival, fostering self-reliance and skill development. Cutting welfare handouts pushes individuals to confront and overcome systemic barriers, fostering true self-sufficiency. Excessive government support can stifle motivation, making it harder for individuals to break free from poverty and achieve true independence.",
+            "timestamp": "2025-10-08 17:05:27"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Promoting self-reliance without addressing systemic barriers leaves individuals trapped in cycles of poverty and hardship."
+                ],
+                [
+                    "___Claim___",
+                    "Reducing welfare payments strips individuals of the stability needed to pursue meaningful opportunities and self-reliance."
+                ],
+                [
+                    "___Claim___",
+                    "Far from stifling motivation, government support empowers individuals to overcome systemic barriers and pursue self-sufficiency."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention breaks cycles of poverty by addressing systemic issues that individuals cannot overcome alone."
+                ],
+                [
+                    "___Claim___",
+                    "True self-sufficiency is fostered by addressing systemic barriers through robust welfare support, not by cutting it."
+                ]
+            ],
+            "sentences_no_utterance_types": "Promoting self-reliance without addressing systemic barriers leaves individuals trapped in cycles of poverty and hardship. Reducing welfare payments strips individuals of the stability needed to pursue meaningful opportunities and self-reliance. Far from stifling motivation, government support empowers individuals to overcome systemic barriers and pursue self-sufficiency. Government intervention breaks cycles of poverty by addressing systemic issues that individuals cannot overcome alone. True self-sufficiency is fostered by addressing systemic barriers through robust welfare support, not by cutting it.",
+            "timestamp": "2025-10-08 17:06:07"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Promoting self-reliance forces individuals to confront and overcome systemic barriers, fostering true self-sufficiency."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention traps individuals in a cycle of dependency, stifling their motivation to seek employment and better their circumstances."
+                ],
+                [
+                    "___Claim___",
+                    "Cutting welfare payments pushes individuals to take responsibility for their own lives and seek out opportunities."
+                ],
+                [
+                    "___Claim___",
+                    "Promoting self-reliance empowers individuals to take control of their lives and escape the trap of hardship, not government intervention."
+                ],
+                [
+                    "___Claim___",
+                    "Government support creates a comfort zone that discourages people from actively pursuing job opportunities and achieving true self-sufficiency."
+                ]
+            ],
+            "sentences_no_utterance_types": "Promoting self-reliance forces individuals to confront and overcome systemic barriers, fostering true self-sufficiency. Government intervention traps individuals in a cycle of dependency, stifling their motivation to seek employment and better their circumstances. Cutting welfare payments pushes individuals to take responsibility for their own lives and seek out opportunities. Promoting self-reliance empowers individuals to take control of their lives and escape the trap of hardship, not government intervention. Government support creates a comfort zone that discourages people from actively pursuing job opportunities and achieving true self-sufficiency.",
+            "timestamp": "2025-10-08 17:12:01"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Systemic barriers cannot be overcome by self-reliance alone; they require targeted government intervention to be dismantled."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention provides the essential support needed for individuals to escape cycles of hardship and achieve independence."
+                ],
+                [
+                    "___Question___",
+                    "Why should individuals be forced to confront systemic barriers without adequate government support to address them?"
+                ],
+                [
+                    "___Claim___",
+                    "Robust government intervention addresses systemic issues, enabling individuals to break free from cycles of poverty and dependency."
+                ],
+                [
+                    "___Claim___",
+                    "Cutting welfare payments strips individuals of the stability they need to pursue opportunities and improve their circumstances."
+                ]
+            ],
+            "sentences_no_utterance_types": "Systemic barriers cannot be overcome by self-reliance alone; they require targeted government intervention to be dismantled. Government intervention provides the essential support needed for individuals to escape cycles of hardship and achieve independence. Why should individuals be forced to confront systemic barriers without adequate government support to address them? Robust government intervention addresses systemic issues, enabling individuals to break free from cycles of poverty and dependency. Cutting welfare payments strips individuals of the stability they need to pursue opportunities and improve their circumstances.",
+            "timestamp": "2025-10-08 17:12:44"
+        }
+    ],
+    "first_speaker": "mistral-medium_mas",
+    "first_speaker_utterance": "",
+    "first_speaker_commitments": [
+        "Excessive welfare handouts create a culture of dependency and discourage personal responsibility.",
+        "Cutting welfare forces individuals to take responsibility for their own lives and seek out opportunities. Investing in job training and education is less effective without the incentive of reduced welfare. Welfare cuts push people to find work, making job training and education more relevant."
+    ],
+    "first_speaker_original_claim": "Excessive welfare handouts create a culture of dependency and discourage personal responsibility.",
+    "first_speaker_typical_replies_for_second_speakers_response": [],
+    "second_speaker": "gpt-4o_mas_rag",
+    "second_speaker_utterance": "Systemic barriers cannot be overcome by self-reliance alone; they require targeted government intervention to be dismantled. Government intervention provides the essential support needed for individuals to escape cycles of hardship and achieve independence. Why should individuals be forced to confront systemic barriers without adequate government support to address them? Robust government intervention addresses systemic issues, enabling individuals to break free from cycles of poverty and dependency. Cutting welfare payments strips individuals of the stability they need to pursue opportunities and improve their circumstances.",
+    "second_speaker_commitments": [
+        "Welfare programmes empower individuals to break cycles of poverty and contribute positively to society.",
+        "The notion that welfare creates dependency ignores the systemic barriers many face in achieving self-sufficiency.",
+        "Reducing welfare handouts strips vulnerable individuals of the support they need to escape poverty and achieve independence.",
+        "Investing in job training and education is most effective when paired with robust welfare support that provides stability for individuals to focus on skill development.",
+        "The government has the resources and authority to address systemic issues that perpetuate poverty and inequality, which individuals alone cannot overcome."
+    ],
+    "second_speaker_original_claim": "Welfare programmes empower individuals to break cycles of poverty and contribute positively to society.",
+    "second_speaker_typical_replies_for_first_speakers_response": [],
+    "winner": "None",
+    "loser": "None",
+    "reason_for_dialogue_termination": {
+        "reason": "Maximum number of dialogue turns reached (40 dialogue turns).",
+        "utterance_type": null,
+        "utterance": null
+    },
+    "session_status": "Finished."
+}

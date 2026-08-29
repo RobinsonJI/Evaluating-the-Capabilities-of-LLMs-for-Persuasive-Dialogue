@@ -1,0 +1,1110 @@
+{
+    "dialogue_history": [
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Strict immigration policies are necessary to protect national identity and resources, but they can also hinder economic growth and cultural diversity."
+                ]
+            ],
+            "sentences_no_utterance_types": "Strict immigration policies are necessary to protect national identity and resources, but they can also hinder economic growth and cultural diversity.",
+            "timestamp": "2025-10-08 19:25:41"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "National identity is strengthened, not threatened, by the cultural richness and economic contributions of immigrants."
+                ],
+                [
+                    "___Claim___",
+                    "Restricting immigration does not safeguard resources; it limits the workforce and stifles economic innovation."
+                ],
+                [
+                    "___Question___",
+                    "How do you reconcile the need to protect resources with the potential economic benefits of immigration?"
+                ]
+            ],
+            "sentences_no_utterance_types": "National identity is strengthened, not threatened, by the cultural richness and economic contributions of immigrants. Restricting immigration does not safeguard resources; it limits the workforce and stifles economic innovation. How do you reconcile the need to protect resources with the potential economic benefits of immigration?",
+            "timestamp": "2025-10-08 19:25:45"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "It's not about restricting immigration entirely, but about managing it in a way that benefits the country economically and socially."
+                ],
+                [
+                    "___Claim___",
+                    "Cultural richness is a byproduct of controlled immigration, not an excuse for open borders."
+                ],
+                [
+                    "___Claim___",
+                    "Strict immigration policies protect jobs for British workers, preventing wage suppression and unemployment."
+                ],
+                [
+                    "___Since___",
+                    "Strict immigration policies ensure that resources are allocated to existing citizens first, which is crucial for maintaining social stability."
+                ],
+                [
+                    "___Since___",
+                    "A controlled immigration system allows us to selectively attract skilled workers who can contribute to the economy without overwhelming public services."
+                ]
+            ],
+            "sentences_no_utterance_types": "It's not about restricting immigration entirely, but about managing it in a way that benefits the country economically and socially. Cultural richness is a byproduct of controlled immigration, not an excuse for open borders. Strict immigration policies protect jobs for British workers, preventing wage suppression and unemployment. Strict immigration policies ensure that resources are allocated to existing citizens first, which is crucial for maintaining social stability. A controlled immigration system allows us to selectively attract skilled workers who can contribute to the economy without overwhelming public services.",
+            "timestamp": "2025-10-08 19:26:57"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Open borders foster a more authentic and vibrant cultural richness than restrictive immigration policies ever could."
+                ],
+                [
+                    "___Claim___",
+                    "Social stability is better achieved through inclusive policies that embrace immigration rather than restrict it."
+                ],
+                [
+                    "___Claim___",
+                    "Restricting immigration, even partially, undermines the country's ability to adapt to global economic demands."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration management focused on control rather than inclusion fails to harness the full potential of cultural and economic contributions."
+                ],
+                [
+                    "___Claim___",
+                    "Wage suppression is more often caused by corporate practices than by immigration, which actually fuels economic growth."
+                ]
+            ],
+            "sentences_no_utterance_types": "Open borders foster a more authentic and vibrant cultural richness than restrictive immigration policies ever could. Social stability is better achieved through inclusive policies that embrace immigration rather than restrict it. Restricting immigration, even partially, undermines the country's ability to adapt to global economic demands. Immigration management focused on control rather than inclusion fails to harness the full potential of cultural and economic contributions. Wage suppression is more often caused by corporate practices than by immigration, which actually fuels economic growth.",
+            "timestamp": "2025-10-08 19:27:24"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Question___",
+                    "How do you propose we manage immigration to harness cultural and economic contributions without overwhelming public services?"
+                ],
+                [
+                    "___Claim___",
+                    "Selective immigration policies allow us to attract the skilled workers we need, enhancing our economy rather than diluting it."
+                ],
+                [
+                    "___Claim___",
+                    "Vibrant cultural exchange is best achieved through managed immigration that respects and preserves national identity."
+                ],
+                [
+                    "___Claim___",
+                    "Wage suppression is directly linked to unchecked immigration, which floods the labour market and drives down wages."
+                ],
+                [
+                    "___Claim___",
+                    "Social stability is maintained by prioritising the needs of existing citizens through controlled immigration."
+                ]
+            ],
+            "sentences_no_utterance_types": "How do you propose we manage immigration to harness cultural and economic contributions without overwhelming public services? Selective immigration policies allow us to attract the skilled workers we need, enhancing our economy rather than diluting it. Vibrant cultural exchange is best achieved through managed immigration that respects and preserves national identity. Wage suppression is directly linked to unchecked immigration, which floods the labour market and drives down wages. Social stability is maintained by prioritising the needs of existing citizens through controlled immigration.",
+            "timestamp": "2025-10-08 19:29:50"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Immigration doesn't overwhelm public services; it revitalises them by bringing in a diverse workforce to address shortages."
+                ],
+                [
+                    "___Claim___",
+                    "Encouraging regional settlement of immigrants can ease pressure on specific areas and distribute economic benefits more evenly."
+                ],
+                [
+                    "___Claim___",
+                    "Social stability is achieved by embracing the contributions of immigrants and fostering inclusivity."
+                ],
+                [
+                    "___Claim___",
+                    "Selective immigration policies limit the diversity of skills and perspectives that drive innovation and economic growth."
+                ],
+                [
+                    "___Claim___",
+                    "The idea that immigration floods the labour market ignores the fact that immigrants often fill essential roles that sustain the economy."
+                ]
+            ],
+            "sentences_no_utterance_types": "Immigration doesn't overwhelm public services; it revitalises them by bringing in a diverse workforce to address shortages. Encouraging regional settlement of immigrants can ease pressure on specific areas and distribute economic benefits more evenly. Social stability is achieved by embracing the contributions of immigrants and fostering inclusivity. Selective immigration policies limit the diversity of skills and perspectives that drive innovation and economic growth. The idea that immigration floods the labour market ignores the fact that immigrants often fill essential roles that sustain the economy.",
+            "timestamp": "2025-10-08 19:30:13"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why should we risk straining public services when we can manage immigration to better suit our current infrastructure?"
+                ],
+                [
+                    "___Claim___",
+                    "Embracing unrestricted immigration leads to social fragmentation, not stability."
+                ],
+                [
+                    "___Claim___",
+                    "Uncontrolled immigration places an unsustainable burden on public services, stretching resources thin."
+                ],
+                [
+                    "___Claim___",
+                    "Selective immigration policies ensure that we attract the most skilled and talented individuals who can significantly boost our economy."
+                ],
+                [
+                    "___Claim___",
+                    "Social stability is maintained by prioritising the needs of existing citizens through controlled immigration."
+                ]
+            ],
+            "sentences_no_utterance_types": "Why should we risk straining public services when we can manage immigration to better suit our current infrastructure? Embracing unrestricted immigration leads to social fragmentation, not stability. Uncontrolled immigration places an unsustainable burden on public services, stretching resources thin. Selective immigration policies ensure that we attract the most skilled and talented individuals who can significantly boost our economy. Social stability is maintained by prioritising the needs of existing citizens through controlled immigration.",
+            "timestamp": "2025-10-08 19:37:49"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Immigration revitalises public services by addressing workforce shortages, which strengthens infrastructure rather than straining it."
+                ],
+                [
+                    "___Since___",
+                    "Unrestricted immigration fuels economic growth, which provides the funding needed to expand and improve public services."
+                ],
+                [
+                    "___Claim___",
+                    "Embracing unrestricted immigration fosters social cohesion by encouraging cultural exchange and mutual understanding."
+                ],
+                [
+                    "___Claim___",
+                    "Selective immigration policies stifle the diversity of skills and ideas that drive true economic innovation."
+                ],
+                [
+                    "___Claim___",
+                    "Social stability is better achieved by fostering inclusivity and shared opportunities rather than focusing solely on existing citizens."
+                ]
+            ],
+            "sentences_no_utterance_types": "Immigration revitalises public services by addressing workforce shortages, which strengthens infrastructure rather than straining it. Unrestricted immigration fuels economic growth, which provides the funding needed to expand and improve public services. Embracing unrestricted immigration fosters social cohesion by encouraging cultural exchange and mutual understanding. Selective immigration policies stifle the diversity of skills and ideas that drive true economic innovation. Social stability is better achieved by fostering inclusivity and shared opportunities rather than focusing solely on existing citizens.",
+            "timestamp": "2025-10-08 19:38:11"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Targeted immigration policies ensure that we bring in the best and brightest, fostering a more dynamic and innovative economy."
+                ],
+                [
+                    "___Claim___",
+                    "Shared opportunities must first ensure that current citizens are not left behind by unchecked immigration."
+                ],
+                [
+                    "___Claim___",
+                    "Unrestricted immigration leads to social fragmentation, not cohesion, by overwhelming communities and diluting national identity."
+                ],
+                [
+                    "___Claim___",
+                    "Focusing solely on inclusivity without considering the strain on resources leads to instability, not harmony."
+                ],
+                [
+                    "___Claim___",
+                    "Social stability is maintained by prioritising the needs of existing citizens through controlled immigration."
+                ]
+            ],
+            "sentences_no_utterance_types": "Targeted immigration policies ensure that we bring in the best and brightest, fostering a more dynamic and innovative economy. Shared opportunities must first ensure that current citizens are not left behind by unchecked immigration. Unrestricted immigration leads to social fragmentation, not cohesion, by overwhelming communities and diluting national identity. Focusing solely on inclusivity without considering the strain on resources leads to instability, not harmony. Social stability is maintained by prioritising the needs of existing citizens through controlled immigration.",
+            "timestamp": "2025-10-08 19:41:14"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Dynamic and innovative economies thrive on inclusivity, not on selective and exclusionary immigration policies."
+                ],
+                [
+                    "___Claim___",
+                    "National identity evolves and grows richer through the contributions of immigrants, rather than being diluted."
+                ],
+                [
+                    "___Claim___",
+                    "Targeted immigration policies narrow the talent pool and stifle the diversity that drives true innovation."
+                ],
+                [
+                    "___Claim___",
+                    "Social stability is better achieved by embracing the contributions of immigrants and fostering mutual understanding."
+                ],
+                [
+                    "___Claim___",
+                    "Prioritising current citizens over immigrants in shared opportunities creates division and stifles societal progress."
+                ]
+            ],
+            "sentences_no_utterance_types": "Dynamic and innovative economies thrive on inclusivity, not on selective and exclusionary immigration policies. National identity evolves and grows richer through the contributions of immigrants, rather than being diluted. Targeted immigration policies narrow the talent pool and stifle the diversity that drives true innovation. Social stability is better achieved by embracing the contributions of immigrants and fostering mutual understanding. Prioritising current citizens over immigrants in shared opportunities creates division and stifles societal progress.",
+            "timestamp": "2025-10-08 19:41:40"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "National identity is preserved and strengthened by controlled immigration, not by unchecked influxes that risk diluting our cultural heritage."
+                ],
+                [
+                    "___Claim___",
+                    "Focusing on high-skilled immigrants boosts innovation by bringing in top-tier expertise and driving economic growth."
+                ],
+                [
+                    "___Claim___",
+                    "Prioritising current citizens ensures that the foundation of our society remains strong and united."
+                ],
+                [
+                    "___Claim___",
+                    "Selective immigration policies ensure that we bring in the best and brightest, fostering a more dynamic and innovative economy."
+                ],
+                [
+                    "___Claim___",
+                    "Dynamic and innovative economies thrive on selective immigration policies that attract top talent, not on unchecked inclusivity."
+                ]
+            ],
+            "sentences_no_utterance_types": "National identity is preserved and strengthened by controlled immigration, not by unchecked influxes that risk diluting our cultural heritage. Focusing on high-skilled immigrants boosts innovation by bringing in top-tier expertise and driving economic growth. Prioritising current citizens ensures that the foundation of our society remains strong and united. Selective immigration policies ensure that we bring in the best and brightest, fostering a more dynamic and innovative economy. Dynamic and innovative economies thrive on selective immigration policies that attract top talent, not on unchecked inclusivity.",
+            "timestamp": "2025-10-08 19:43:20"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Innovation thrives on the diverse perspectives and skills brought by immigrants of all backgrounds, not just the highly skilled."
+                ],
+                [
+                    "___Claim___",
+                    "A strong and united society is built on shared opportunities for all, not on exclusionary prioritisation of current citizens."
+                ],
+                [
+                    "___Claim___",
+                    "Restricting immigration to high-skilled workers narrows the talent pool and stifles the creative dynamism needed for economic growth."
+                ],
+                [
+                    "___Claim___",
+                    "Dynamic and innovative economies thrive on the diversity and creativity brought by inclusive immigration policies."
+                ],
+                [
+                    "___Claim___",
+                    "Unchecked inclusivity fosters collaboration and innovation by bringing together a wide range of skills and ideas."
+                ]
+            ],
+            "sentences_no_utterance_types": "Innovation thrives on the diverse perspectives and skills brought by immigrants of all backgrounds, not just the highly skilled. A strong and united society is built on shared opportunities for all, not on exclusionary prioritisation of current citizens. Restricting immigration to high-skilled workers narrows the talent pool and stifles the creative dynamism needed for economic growth. Dynamic and innovative economies thrive on the diversity and creativity brought by inclusive immigration policies. Unchecked inclusivity fosters collaboration and innovation by bringing together a wide range of skills and ideas.",
+            "timestamp": "2025-10-08 19:43:50"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why should we risk stifling economic growth by allowing unchecked immigration instead of focusing on high-skilled workers?"
+                ],
+                [
+                    "___Claim___",
+                    "Focusing on high-skilled immigrants boosts innovation by bringing in top-tier expertise and driving economic growth."
+                ],
+                [
+                    "___Why___",
+                    "Why should we risk straining our resources by offering shared opportunities to all without considering the impact on existing citizens?"
+                ],
+                [
+                    "___Claim___",
+                    "Selective immigration policies ensure that we bring in the best and brightest, fostering a more dynamic and innovative economy."
+                ],
+                [
+                    "___Claim___",
+                    "A strong and united society is built on prioritising current citizens to ensure stability and cohesion."
+                ]
+            ],
+            "sentences_no_utterance_types": "Why should we risk stifling economic growth by allowing unchecked immigration instead of focusing on high-skilled workers? Focusing on high-skilled immigrants boosts innovation by bringing in top-tier expertise and driving economic growth. Why should we risk straining our resources by offering shared opportunities to all without considering the impact on existing citizens? Selective immigration policies ensure that we bring in the best and brightest, fostering a more dynamic and innovative economy. A strong and united society is built on prioritising current citizens to ensure stability and cohesion.",
+            "timestamp": "2025-10-08 19:47:30"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Innovation thrives on the diverse perspectives and skills brought by immigrants of all backgrounds, not just the highly skilled."
+                ],
+                [
+                    "___Claim___",
+                    "Shared opportunities for all strengthen social cohesion and drive collective progress, rather than creating division."
+                ],
+                [
+                    "___Since___",
+                    "Immigrants revitalise public services by filling workforce gaps, which strengthens resources rather than straining them."
+                ],
+                [
+                    "___Claim___",
+                    "Unchecked immigration fuels economic growth by bringing in a diverse range of skills and perspectives that drive innovation."
+                ],
+                [
+                    "___Since___",
+                    "Since inclusive immigration policies create a dynamic workforce that sustains industries and public services, boosting overall economic stability."
+                ]
+            ],
+            "sentences_no_utterance_types": "Innovation thrives on the diverse perspectives and skills brought by immigrants of all backgrounds, not just the highly skilled. Shared opportunities for all strengthen social cohesion and drive collective progress, rather than creating division. Immigrants revitalise public services by filling workforce gaps, which strengthens resources rather than straining them. Unchecked immigration fuels economic growth by bringing in a diverse range of skills and perspectives that drive innovation. Since inclusive immigration policies create a dynamic workforce that sustains industries and public services, boosting overall economic stability.",
+            "timestamp": "2025-10-08 19:47:53"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Focusing on high-skilled immigrants boosts innovation by bringing in top-tier expertise and driving economic growth."
+                ],
+                [
+                    "___Why___",
+                    "Why should we risk overwhelming our public services when we can manage immigration to better suit our current infrastructure?"
+                ],
+                [
+                    "___Why___",
+                    "Why do you believe unchecked immigration is necessary when targeted policies can bring in the skills we need without the risks?"
+                ],
+                [
+                    "___Claim___",
+                    "Prioritising current citizens in shared opportunities ensures stability and prevents division."
+                ],
+                [
+                    "___Question___",
+                    "How do you reconcile the economic benefits of unchecked immigration with the potential strain on public services?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Focusing on high-skilled immigrants boosts innovation by bringing in top-tier expertise and driving economic growth. Why should we risk overwhelming our public services when we can manage immigration to better suit our current infrastructure? Why do you believe unchecked immigration is necessary when targeted policies can bring in the skills we need without the risks? Prioritising current citizens in shared opportunities ensures stability and prevents division. How do you reconcile the economic benefits of unchecked immigration with the potential strain on public services?",
+            "timestamp": "2025-10-08 19:53:55"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Inclusive immigration policies create a dynamic workforce that sustains industries and public services, ensuring long-term stability."
+                ],
+                [
+                    "___Claim___",
+                    "Inclusive immigration fosters social cohesion and revitalises communities, which strengthens the nation's infrastructure."
+                ],
+                [
+                    "___Claim___",
+                    "Excluding immigrants from shared opportunities weakens societal progress and disrupts harmony."
+                ],
+                [
+                    "___Since___",
+                    "Since inclusive immigration policies fuel economic growth, they provide the funding needed to expand and improve public services."
+                ],
+                [
+                    "___Claim___",
+                    "Shared opportunities for all foster stability and unity, not division."
+                ]
+            ],
+            "sentences_no_utterance_types": "Inclusive immigration policies create a dynamic workforce that sustains industries and public services, ensuring long-term stability. Inclusive immigration fosters social cohesion and revitalises communities, which strengthens the nation's infrastructure. Excluding immigrants from shared opportunities weakens societal progress and disrupts harmony. Since inclusive immigration policies fuel economic growth, they provide the funding needed to expand and improve public services. Shared opportunities for all foster stability and unity, not division.",
+            "timestamp": "2025-10-08 19:54:17"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why should we prioritise inclusivity over the potential risks of straining our resources and social cohesion?"
+                ],
+                [
+                    "___Question___",
+                    "Why should we risk overwhelming our communities when targeted immigration policies can bring in the skills we need without the risks?"
+                ],
+                [
+                    "___Question___",
+                    "How do you propose we manage shared opportunities for all without overwhelming our public services?"
+                ],
+                [
+                    "___Why___",
+                    "Why do you believe inclusive immigration policies are the only way to fuel economic growth?"
+                ],
+                [
+                    "___Question___",
+                    "How do you reconcile the economic benefits of unchecked immigration with the potential social fragmentation it causes?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Why should we prioritise inclusivity over the potential risks of straining our resources and social cohesion? Why should we risk overwhelming our communities when targeted immigration policies can bring in the skills we need without the risks? How do you propose we manage shared opportunities for all without overwhelming our public services? Why do you believe inclusive immigration policies are the only way to fuel economic growth? How do you reconcile the economic benefits of unchecked immigration with the potential social fragmentation it causes?",
+            "timestamp": "2025-10-08 19:59:18"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Public services are bolstered, not overwhelmed, when inclusive policies bring in skilled and motivated immigrants."
+                ],
+                [
+                    "___Claim___",
+                    "Restricting immigration limits the workforce and stifles the economic dynamism needed for growth."
+                ],
+                [
+                    "___Claim___",
+                    "Encouraging regional settlement of immigrants distributes economic benefits and reduces pressure on public services."
+                ],
+                [
+                    "___Since___",
+                    "Inclusive immigration policies attract a diverse range of skills and perspectives that are essential for driving innovation and economic progress."
+                ],
+                [
+                    "___Since___",
+                    "The economic growth driven by inclusive immigration provides the resources needed to support and expand public services, reducing strain."
+                ]
+            ],
+            "sentences_no_utterance_types": "Public services are bolstered, not overwhelmed, when inclusive policies bring in skilled and motivated immigrants. Restricting immigration limits the workforce and stifles the economic dynamism needed for growth. Encouraging regional settlement of immigrants distributes economic benefits and reduces pressure on public services. Inclusive immigration policies attract a diverse range of skills and perspectives that are essential for driving innovation and economic progress. The economic growth driven by inclusive immigration provides the resources needed to support and expand public services, reducing strain.",
+            "timestamp": "2025-10-08 19:59:43"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Targeted immigration policies attract the high-skilled workers we need, driving innovation without the risks of unchecked inclusivity."
+                ],
+                [
+                    "___Claim___",
+                    "Strict immigration policies protect jobs for British workers, preventing wage suppression and unemployment."
+                ],
+                [
+                    "___Question___",
+                    "How do you justify the claim that public services are bolstered by inclusive immigration policies when evidence shows increased strain on resources?"
+                ],
+                [
+                    "___Question___",
+                    "How do you justify the claim that inclusive immigration policies are essential for driving innovation and economic progress?"
+                ],
+                [
+                    "___Question___",
+                    "Why should we risk straining regional resources when targeted immigration policies can bring in the skills we need without the risks?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Targeted immigration policies attract the high-skilled workers we need, driving innovation without the risks of unchecked inclusivity. Strict immigration policies protect jobs for British workers, preventing wage suppression and unemployment. How do you justify the claim that public services are bolstered by inclusive immigration policies when evidence shows increased strain on resources? How do you justify the claim that inclusive immigration policies are essential for driving innovation and economic progress? Why should we risk straining regional resources when targeted immigration policies can bring in the skills we need without the risks?",
+            "timestamp": "2025-10-08 20:00:34"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Inclusive immigration policies bring in a wide range of skills and perspectives that fuel creativity and innovation."
+                ],
+                [
+                    "___Claim___",
+                    "Strict immigration policies shrink the workforce, making it harder for businesses to thrive and create jobs."
+                ],
+                [
+                    "___Claim___",
+                    "Inclusive immigration policies address labour shortages in critical sectors like healthcare and education, directly strengthening public services."
+                ],
+                [
+                    "___Claim___",
+                    "The economic growth driven by inclusive immigration increases tax revenues, which can be reinvested into expanding and improving public services."
+                ],
+                [
+                    "___Since___",
+                    "Economic progress relies on a dynamic workforce, which inclusive immigration policies sustain by filling gaps across industries."
+                ]
+            ],
+            "sentences_no_utterance_types": "Inclusive immigration policies bring in a wide range of skills and perspectives that fuel creativity and innovation. Strict immigration policies shrink the workforce, making it harder for businesses to thrive and create jobs. Inclusive immigration policies address labour shortages in critical sectors like healthcare and education, directly strengthening public services. The economic growth driven by inclusive immigration increases tax revenues, which can be reinvested into expanding and improving public services. Economic progress relies on a dynamic workforce, which inclusive immigration policies sustain by filling gaps across industries.",
+            "timestamp": "2025-10-08 20:00:58"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why do you think inclusive immigration policies are the only way to fuel creativity and innovation?"
+                ],
+                [
+                    "___Why___",
+                    "Why do you believe inclusive immigration policies are the only way to sustain a dynamic workforce?"
+                ],
+                [
+                    "___Claim___",
+                    "Strict immigration policies allow us to selectively attract skilled workers who can contribute to the economy without overwhelming public services."
+                ],
+                [
+                    "___Claim___",
+                    "Strict immigration policies protect jobs for British workers, preventing wage suppression and unemployment."
+                ],
+                [
+                    "___Why___",
+                    "Why do you believe inclusive immigration policies are the only solution to labour shortages in critical sectors?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Why do you think inclusive immigration policies are the only way to fuel creativity and innovation? Why do you believe inclusive immigration policies are the only way to sustain a dynamic workforce? Strict immigration policies allow us to selectively attract skilled workers who can contribute to the economy without overwhelming public services. Strict immigration policies protect jobs for British workers, preventing wage suppression and unemployment. Why do you believe inclusive immigration policies are the only solution to labour shortages in critical sectors?",
+            "timestamp": "2025-10-08 20:01:55"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Inclusive immigration policies ensure a steady influx of workers across all skill levels, filling gaps in industries that drive economic growth."
+                ],
+                [
+                    "___Since___",
+                    "Inclusive immigration policies bring together a diverse range of perspectives and experiences that spark creativity and drive innovation."
+                ],
+                [
+                    "___Claim___",
+                    "Restricting immigration narrows the talent pool and limits the range of ideas that drive progress."
+                ],
+                [
+                    "___Since___",
+                    "A dynamic workforce sustained by inclusive immigration policies ensures industries remain adaptable and competitive in a global economy."
+                ],
+                [
+                    "___Claim___",
+                    "Unemployment is reduced when immigrants fill essential roles that sustain industries and public services."
+                ]
+            ],
+            "sentences_no_utterance_types": "Inclusive immigration policies ensure a steady influx of workers across all skill levels, filling gaps in industries that drive economic growth. Inclusive immigration policies bring together a diverse range of perspectives and experiences that spark creativity and drive innovation. Restricting immigration narrows the talent pool and limits the range of ideas that drive progress. A dynamic workforce sustained by inclusive immigration policies ensures industries remain adaptable and competitive in a global economy. Unemployment is reduced when immigrants fill essential roles that sustain industries and public services.",
+            "timestamp": "2025-10-08 20:02:19"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why do you believe inclusive immigration policies are the only way to ensure industries remain adaptable and competitive in a global economy?"
+                ],
+                [
+                    "___Question___",
+                    "Why do you believe inclusive immigration policies are the only solution to filling gaps in industries that drive economic growth?"
+                ],
+                [
+                    "___Claim___",
+                    "Targeted immigration policies attract the high-skilled workers we need, driving innovation without the risks of unchecked inclusivity."
+                ],
+                [
+                    "___Claim___",
+                    "Strict immigration policies protect jobs for British workers, preventing wage suppression and unemployment."
+                ],
+                [
+                    "___Why___",
+                    "Why do you believe inclusive immigration policies are the only way to bring together diverse perspectives and experiences?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Why do you believe inclusive immigration policies are the only way to ensure industries remain adaptable and competitive in a global economy? Why do you believe inclusive immigration policies are the only solution to filling gaps in industries that drive economic growth? Targeted immigration policies attract the high-skilled workers we need, driving innovation without the risks of unchecked inclusivity. Strict immigration policies protect jobs for British workers, preventing wage suppression and unemployment. Why do you believe inclusive immigration policies are the only way to bring together diverse perspectives and experiences?",
+            "timestamp": "2025-10-08 20:06:02"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Restricting immigration limits the talent pool, which reduces the ability of industries to innovate and compete internationally."
+                ],
+                [
+                    "___Question___",
+                    "Why do you believe restricting immigration is more effective at preventing unemployment than fostering a dynamic and inclusive workforce?"
+                ],
+                [
+                    "___Claim___",
+                    "Wage suppression is driven by corporate practices, not immigration, which actually fuels economic growth."
+                ],
+                [
+                    "___Claim___",
+                    "Unemployment decreases when immigrants fill essential roles that sustain industries and public services."
+                ],
+                [
+                    "___Claim___",
+                    "A diverse workforce created by inclusive immigration policies drives innovation and adaptability, which are essential for economic growth."
+                ]
+            ],
+            "sentences_no_utterance_types": "Restricting immigration limits the talent pool, which reduces the ability of industries to innovate and compete internationally. Why do you believe restricting immigration is more effective at preventing unemployment than fostering a dynamic and inclusive workforce? Wage suppression is driven by corporate practices, not immigration, which actually fuels economic growth. Unemployment decreases when immigrants fill essential roles that sustain industries and public services. A diverse workforce created by inclusive immigration policies drives innovation and adaptability, which are essential for economic growth.",
+            "timestamp": "2025-10-08 20:06:23"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why do you think industries can't innovate and compete internationally with a more controlled and selective immigration approach?"
+                ],
+                [
+                    "___Since___",
+                    "Strict immigration policies protect jobs for British workers, preventing wage suppression and unemployment."
+                ],
+                [
+                    "___Claim___",
+                    "A controlled immigration system allows us to selectively attract skilled workers who can contribute to the economy without overwhelming the labour market."
+                ],
+                [
+                    "___Claim___",
+                    "Prioritising current citizens in job opportunities ensures that the foundation of our workforce remains strong and stable."
+                ],
+                [
+                    "___Claim___",
+                    "Wage suppression is directly linked to unchecked immigration, which floods the labour market and drives down wages."
+                ]
+            ],
+            "sentences_no_utterance_types": "Why do you think industries can't innovate and compete internationally with a more controlled and selective immigration approach? Strict immigration policies protect jobs for British workers, preventing wage suppression and unemployment. A controlled immigration system allows us to selectively attract skilled workers who can contribute to the economy without overwhelming the labour market. Prioritising current citizens in job opportunities ensures that the foundation of our workforce remains strong and stable. Wage suppression is directly linked to unchecked immigration, which floods the labour market and drives down wages.",
+            "timestamp": "2025-10-08 20:12:15"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Restricting immigration under the guise of control limits innovation and adaptability in a rapidly changing global economy."
+                ],
+                [
+                    "___Claim___",
+                    "Wage suppression is driven by corporate practices, not immigration, which actually fuels economic growth."
+                ],
+                [
+                    "___Claim___",
+                    "Unemployment decreases when immigrants fill essential roles that sustain industries and public services."
+                ],
+                [
+                    "___Claim___",
+                    "A strong and stable workforce is built on inclusivity and diversity, not on prioritising one group over another."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration strengthens the labour market by filling essential roles and driving economic growth."
+                ]
+            ],
+            "sentences_no_utterance_types": "Restricting immigration under the guise of control limits innovation and adaptability in a rapidly changing global economy. Wage suppression is driven by corporate practices, not immigration, which actually fuels economic growth. Unemployment decreases when immigrants fill essential roles that sustain industries and public services. A strong and stable workforce is built on inclusivity and diversity, not on prioritising one group over another. Immigration strengthens the labour market by filling essential roles and driving economic growth.",
+            "timestamp": "2025-10-08 20:12:39"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Prioritising current citizens in job opportunities ensures that the foundation of our workforce remains strong and stable."
+                ],
+                [
+                    "___Claim___",
+                    "Unchecked immigration floods the labour market, driving down wages and increasing unemployment."
+                ],
+                [
+                    "___Claim___",
+                    "Wage suppression is directly linked to unchecked immigration, which floods the labour market and drives down wages."
+                ],
+                [
+                    "___Claim___",
+                    "Controlled immigration policies enhance innovation by attracting top-tier talent that drives economic growth."
+                ],
+                [
+                    "___Claim___",
+                    "Prioritising British workers for essential roles ensures that unemployment rates stay low and industries remain strong."
+                ]
+            ],
+            "sentences_no_utterance_types": "Prioritising current citizens in job opportunities ensures that the foundation of our workforce remains strong and stable. Unchecked immigration floods the labour market, driving down wages and increasing unemployment. Wage suppression is directly linked to unchecked immigration, which floods the labour market and drives down wages. Controlled immigration policies enhance innovation by attracting top-tier talent that drives economic growth. Prioritising British workers for essential roles ensures that unemployment rates stay low and industries remain strong.",
+            "timestamp": "2025-10-08 20:18:02"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "A strong and stable workforce is built on inclusivity and collaboration, not exclusionary prioritisation."
+                ],
+                [
+                    "___Claim___",
+                    "Industries grow stronger when they embrace a diverse workforce rather than restricting opportunities to British workers."
+                ],
+                [
+                    "___Claim___",
+                    "Unchecked immigration strengthens the labour market by filling essential roles and driving economic growth."
+                ],
+                [
+                    "___Claim___",
+                    "Innovation thrives on the broad range of skills and ideas brought by inclusive immigration, not selective control."
+                ],
+                [
+                    "___Claim___",
+                    "Wages are suppressed by exploitative corporate practices, not by the presence of immigrants in the workforce."
+                ]
+            ],
+            "sentences_no_utterance_types": "A strong and stable workforce is built on inclusivity and collaboration, not exclusionary prioritisation. Industries grow stronger when they embrace a diverse workforce rather than restricting opportunities to British workers. Unchecked immigration strengthens the labour market by filling essential roles and driving economic growth. Innovation thrives on the broad range of skills and ideas brought by inclusive immigration, not selective control. Wages are suppressed by exploitative corporate practices, not by the presence of immigrants in the workforce.",
+            "timestamp": "2025-10-08 20:18:27"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Industries thrive when they prioritise British workers, ensuring stability and cohesion in the workforce."
+                ],
+                [
+                    "___Claim___",
+                    "A strong and stable workforce is built on prioritising British workers, not unchecked inclusivity."
+                ],
+                [
+                    "___Claim___",
+                    "Unchecked immigration floods the labour market, driving down wages and increasing unemployment."
+                ],
+                [
+                    "___Claim___",
+                    "Unchecked immigration overwhelms public services and strains resources, leading to social instability."
+                ],
+                [
+                    "___Claim___",
+                    "Selective control of immigration ensures that we attract the best talent, driving innovation without the risks of an unmanaged influx."
+                ]
+            ],
+            "sentences_no_utterance_types": "Industries thrive when they prioritise British workers, ensuring stability and cohesion in the workforce. A strong and stable workforce is built on prioritising British workers, not unchecked inclusivity. Unchecked immigration floods the labour market, driving down wages and increasing unemployment. Unchecked immigration overwhelms public services and strains resources, leading to social instability. Selective control of immigration ensures that we attract the best talent, driving innovation without the risks of an unmanaged influx.",
+            "timestamp": "2025-10-08 20:20:50"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "A strong and stable workforce thrives on inclusivity and diversity, not on exclusionary prioritisation of British workers."
+                ],
+                [
+                    "___Claim___",
+                    "Prioritising British workers over inclusivity stifles the potential for industries to grow and compete globally."
+                ],
+                [
+                    "___Claim___",
+                    "Industries thrive when they embrace a diverse workforce, fostering innovation and adaptability."
+                ],
+                [
+                    "___Claim___",
+                    "Innovation thrives on the broad range of skills and ideas brought by inclusive immigration, not selective control."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration strengthens public services by increasing tax revenues and filling critical roles, reducing strain rather than causing it."
+                ]
+            ],
+            "sentences_no_utterance_types": "A strong and stable workforce thrives on inclusivity and diversity, not on exclusionary prioritisation of British workers. Prioritising British workers over inclusivity stifles the potential for industries to grow and compete globally. Industries thrive when they embrace a diverse workforce, fostering innovation and adaptability. Innovation thrives on the broad range of skills and ideas brought by inclusive immigration, not selective control. Immigration strengthens public services by increasing tax revenues and filling critical roles, reducing strain rather than causing it.",
+            "timestamp": "2025-10-08 20:21:23"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Unchecked immigration overwhelms public services, increasing strain rather than reducing it."
+                ],
+                [
+                    "___Claim___",
+                    "Industries thrive when they focus on high-skilled workers, driving innovation without the risks of unchecked inclusivity."
+                ],
+                [
+                    "___Claim___",
+                    "Prioritising British workers ensures that industries remain strong and competitive by maintaining a stable workforce."
+                ],
+                [
+                    "___Claim___",
+                    "Selective control of immigration ensures that we attract the best talent, driving innovation without the risks of an unmanaged influx."
+                ],
+                [
+                    "___Why___",
+                    "Why should we risk straining public services when targeted immigration policies can bring in the skills we need without the risks?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Unchecked immigration overwhelms public services, increasing strain rather than reducing it. Industries thrive when they focus on high-skilled workers, driving innovation without the risks of unchecked inclusivity. Prioritising British workers ensures that industries remain strong and competitive by maintaining a stable workforce. Selective control of immigration ensures that we attract the best talent, driving innovation without the risks of an unmanaged influx. Why should we risk straining public services when targeted immigration policies can bring in the skills we need without the risks?",
+            "timestamp": "2025-10-08 20:26:41"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "The economic growth driven by inclusive immigration increases tax revenues, which are reinvested into expanding and improving public services."
+                ],
+                [
+                    "___Claim___",
+                    "Innovation thrives on the broad range of skills and ideas brought by inclusive immigration, not selective control."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration bolsters public services by providing a diverse workforce that sustains critical sectors like healthcare and education."
+                ],
+                [
+                    "___Claim___",
+                    "Public services are strengthened by the tax revenues and essential roles filled by immigrants, reducing strain rather than causing it."
+                ],
+                [
+                    "___Claim___",
+                    "Industries become stronger and more competitive by embracing a diverse and inclusive workforce, not by prioritising one group."
+                ]
+            ],
+            "sentences_no_utterance_types": "The economic growth driven by inclusive immigration increases tax revenues, which are reinvested into expanding and improving public services. Innovation thrives on the broad range of skills and ideas brought by inclusive immigration, not selective control. Immigration bolsters public services by providing a diverse workforce that sustains critical sectors like healthcare and education. Public services are strengthened by the tax revenues and essential roles filled by immigrants, reducing strain rather than causing it. Industries become stronger and more competitive by embracing a diverse and inclusive workforce, not by prioritising one group.",
+            "timestamp": "2025-10-08 20:27:08"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Question___",
+                    "Why do you believe immigration is necessary to sustain critical sectors like healthcare and education?"
+                ],
+                [
+                    "___Why___",
+                    "Why do you think embracing a diverse workforce is more beneficial than attracting top-tier talent through selective immigration?"
+                ],
+                [
+                    "___Question___",
+                    "Why should we believe that reinvesting tax revenues from inclusive immigration will improve public services rather than overwhelm them?"
+                ],
+                [
+                    "___Question___",
+                    "How do you justify the claim that innovation thrives on inclusive immigration when evidence shows that targeted policies attract top-tier talent?"
+                ],
+                [
+                    "___Why___",
+                    "Why do you believe inclusive immigration is the only way to drive economic growth and increase tax revenues?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Why do you believe immigration is necessary to sustain critical sectors like healthcare and education? Why do you think embracing a diverse workforce is more beneficial than attracting top-tier talent through selective immigration? Why should we believe that reinvesting tax revenues from inclusive immigration will improve public services rather than overwhelm them? How do you justify the claim that innovation thrives on inclusive immigration when evidence shows that targeted policies attract top-tier talent? Why do you believe inclusive immigration is the only way to drive economic growth and increase tax revenues?",
+            "timestamp": "2025-10-08 20:28:02"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Immigrants fill essential roles in healthcare and education, addressing workforce shortages that would otherwise cripple these sectors."
+                ],
+                [
+                    "___Since___",
+                    "Immigrants fill essential roles in healthcare and education, addressing workforce shortages that would otherwise cripple these sectors."
+                ],
+                [
+                    "___Claim___",
+                    "A diverse workforce brings a broader range of perspectives and skills that drive innovation and adaptability."
+                ],
+                [
+                    "___Claim___",
+                    "Economic growth from inclusive immigration provides the resources needed to improve infrastructure and public service capacity."
+                ],
+                [
+                    "___Since___",
+                    "Industries thrive when they embrace inclusivity, which fosters adaptability and resilience in a global economy."
+                ],
+                [
+                    "___Since___",
+                    "Inclusive immigration policies bring in a wide range of skills and perspectives that fuel innovation and economic dynamism."
+                ]
+            ],
+            "sentences_no_utterance_types": "Immigrants fill essential roles in healthcare and education, addressing workforce shortages that would otherwise cripple these sectors. Immigrants fill essential roles in healthcare and education, addressing workforce shortages that would otherwise cripple these sectors. A diverse workforce brings a broader range of perspectives and skills that drive innovation and adaptability. Economic growth from inclusive immigration provides the resources needed to improve infrastructure and public service capacity. Industries thrive when they embrace inclusivity, which fosters adaptability and resilience in a global economy. Inclusive immigration policies bring in a wide range of skills and perspectives that fuel innovation and economic dynamism.",
+            "timestamp": "2025-10-08 20:28:28"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Question___",
+                    "Why should we risk straining public services when targeted immigration policies can bring in the skills we need without the risks?"
+                ],
+                [
+                    "___Why___",
+                    "Why do you think British workers can't be trained to fill these essential roles instead of relying on immigrants?"
+                ],
+                [
+                    "___Why___",
+                    "Why should we prioritise diversity over attracting top-tier talent through selective immigration?"
+                ],
+                [
+                    "___Question___",
+                    "Why should we prioritise diversity over attracting top-tier talent through selective immigration?"
+                ],
+                [
+                    "___Why___",
+                    "Why do you think unchecked immigration is necessary when selective policies can drive innovation without the risks?"
+                ],
+                [
+                    "___Why___",
+                    "Why should we risk diluting our national identity and straining resources for the sake of inclusivity?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Why should we risk straining public services when targeted immigration policies can bring in the skills we need without the risks? Why do you think British workers can't be trained to fill these essential roles instead of relying on immigrants? Why should we prioritise diversity over attracting top-tier talent through selective immigration? Why should we prioritise diversity over attracting top-tier talent through selective immigration? Why do you think unchecked immigration is necessary when selective policies can drive innovation without the risks? Why should we risk diluting our national identity and straining resources for the sake of inclusivity?",
+            "timestamp": "2025-10-08 20:33:16"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Diversity fosters social cohesion and innovation, which are essential for a thriving and united society."
+                ],
+                [
+                    "___Since___",
+                    "Immigrants fill essential roles in public services, addressing shortages that targeted policies cannot fully resolve."
+                ],
+                [
+                    "___Since___",
+                    "Inclusive immigration fuels economic growth, which strengthens public services and reduces risks rather than creating them."
+                ],
+                [
+                    "___Since___",
+                    "Industries thrive when they embrace inclusivity, which fosters resilience and competitiveness in a global economy."
+                ],
+                [
+                    "___Since___",
+                    "National identity grows stronger through the cultural richness and economic contributions of immigrants."
+                ]
+            ],
+            "sentences_no_utterance_types": "Diversity fosters social cohesion and innovation, which are essential for a thriving and united society. Immigrants fill essential roles in public services, addressing shortages that targeted policies cannot fully resolve. Inclusive immigration fuels economic growth, which strengthens public services and reduces risks rather than creating them. Industries thrive when they embrace inclusivity, which fosters resilience and competitiveness in a global economy. National identity grows stronger through the cultural richness and economic contributions of immigrants.",
+            "timestamp": "2025-10-08 20:33:45"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why should we risk straining public services when targeted policies can attract the skilled workers we need?"
+                ],
+                [
+                    "___Claim___",
+                    "National identity is preserved and strengthened by controlled immigration, not by unchecked influxes that risk diluting our cultural heritage."
+                ],
+                [
+                    "___Claim___",
+                    "A thriving and united society is built on prioritising current citizens, not on risking strain on public services for the sake of diversity."
+                ],
+                [
+                    "___Question___",
+                    "How do you justify the claim that immigrants fill essential roles that targeted policies cannot fully resolve?"
+                ],
+                [
+                    "___Claim___",
+                    "Innovation is driven by top-tier talent, not by unchecked inclusivity that strains resources."
+                ]
+            ],
+            "sentences_no_utterance_types": "Why should we risk straining public services when targeted policies can attract the skilled workers we need? National identity is preserved and strengthened by controlled immigration, not by unchecked influxes that risk diluting our cultural heritage. A thriving and united society is built on prioritising current citizens, not on risking strain on public services for the sake of diversity. How do you justify the claim that immigrants fill essential roles that targeted policies cannot fully resolve? Innovation is driven by top-tier talent, not by unchecked inclusivity that strains resources.",
+            "timestamp": "2025-10-08 20:34:33"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "A thriving and united society is built on embracing diversity, which strengthens public services and fosters social cohesion."
+                ],
+                [
+                    "___Since___",
+                    "Economic growth from inclusive immigration increases tax revenues, which are reinvested into expanding and improving public services."
+                ],
+                [
+                    "___Since___",
+                    "Inclusive immigration ensures a broader range of skills that targeted policies cannot fully anticipate or accommodate."
+                ],
+                [
+                    "___Claim___",
+                    "Innovation thrives on the diverse perspectives and skills brought by inclusive immigration, not just top-tier talent."
+                ],
+                [
+                    "___Claim___",
+                    "National identity evolves and flourishes through the cultural diversity brought by inclusive immigration policies."
+                ]
+            ],
+            "sentences_no_utterance_types": "A thriving and united society is built on embracing diversity, which strengthens public services and fosters social cohesion. Economic growth from inclusive immigration increases tax revenues, which are reinvested into expanding and improving public services. Inclusive immigration ensures a broader range of skills that targeted policies cannot fully anticipate or accommodate. Innovation thrives on the diverse perspectives and skills brought by inclusive immigration, not just top-tier talent. National identity evolves and flourishes through the cultural diversity brought by inclusive immigration policies.",
+            "timestamp": "2025-10-08 20:35:00"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Question___",
+                    "Why should we risk straining public services when targeted immigration policies can bring in the skills we need without overwhelming our infrastructure?"
+                ],
+                [
+                    "___Claim___",
+                    "National identity is preserved and strengthened by controlled immigration, not by unchecked influxes that risk diluting our cultural heritage."
+                ],
+                [
+                    "___Question___",
+                    "How do you justify the claim that inclusive immigration increases tax revenues when evidence shows that targeted policies attract high-skilled workers who contribute more significantly to the economy?"
+                ],
+                [
+                    "___Why___",
+                    "Why should we risk diluting the quality of innovation by prioritising inclusivity over high-skilled workers?"
+                ],
+                [
+                    "___Why___",
+                    "Why should we risk straining resources when targeted policies can achieve the same goals without the risks?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Why should we risk straining public services when targeted immigration policies can bring in the skills we need without overwhelming our infrastructure? National identity is preserved and strengthened by controlled immigration, not by unchecked influxes that risk diluting our cultural heritage. How do you justify the claim that inclusive immigration increases tax revenues when evidence shows that targeted policies attract high-skilled workers who contribute more significantly to the economy? Why should we risk diluting the quality of innovation by prioritising inclusivity over high-skilled workers? Why should we risk straining resources when targeted policies can achieve the same goals without the risks?",
+            "timestamp": "2025-10-08 20:35:45"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Economic growth from inclusive immigration increases tax revenues, which are reinvested into expanding and improving public services."
+                ],
+                [
+                    "___Claim___",
+                    "Innovation thrives on the diverse perspectives and skills brought by inclusive immigration, not just high-skilled workers."
+                ],
+                [
+                    "___Since___",
+                    "Inclusive immigration policies bring in a broader range of skills that targeted policies cannot fully anticipate, addressing gaps in critical sectors."
+                ],
+                [
+                    "___Since___",
+                    "Innovation thrives on the diverse perspectives and skills brought by inclusive immigration, not just high-skilled workers."
+                ],
+                [
+                    "___Claim___",
+                    "National identity flourishes through the cultural diversity and economic contributions brought by inclusive immigration policies."
+                ],
+                [
+                    "___Since___",
+                    "A diverse workforce drives innovation and productivity, which boosts economic output and generates higher tax revenues."
+                ]
+            ],
+            "sentences_no_utterance_types": "Economic growth from inclusive immigration increases tax revenues, which are reinvested into expanding and improving public services. Innovation thrives on the diverse perspectives and skills brought by inclusive immigration, not just high-skilled workers. Inclusive immigration policies bring in a broader range of skills that targeted policies cannot fully anticipate, addressing gaps in critical sectors. Innovation thrives on the diverse perspectives and skills brought by inclusive immigration, not just high-skilled workers. National identity flourishes through the cultural diversity and economic contributions brought by inclusive immigration policies. A diverse workforce drives innovation and productivity, which boosts economic output and generates higher tax revenues.",
+            "timestamp": "2025-10-08 20:36:10"
+        }
+    ],
+    "first_speaker": "mistral-medium_mas",
+    "first_speaker_utterance": "",
+    "first_speaker_commitments": [
+        "Strict immigration policies are necessary to protect national identity and resources, but they can also hinder economic growth and cultural diversity.",
+        "Cultural richness is a byproduct of controlled immigration, not an excuse for open borders.",
+        "Strict immigration policies protect jobs for British workers, preventing wage suppression and unemployment.",
+        "A controlled immigration system allows us to selectively attract skilled workers who can contribute to the economy without overwhelming public services.",
+        "Embracing unrestricted immigration leads to social fragmentation, not stability.",
+        "Shared opportunities must first ensure that current citizens are not left behind by unchecked immigration.",
+        "Focusing on high-skilled immigrants boosts innovation by bringing in top-tier expertise and driving economic growth."
+    ],
+    "first_speaker_original_claim": "Strict immigration policies are necessary to protect national identity and resources, but they can also hinder economic growth and cultural diversity.",
+    "first_speaker_typical_replies_for_second_speakers_response": [],
+    "second_speaker": "gpt-4o_mas",
+    "second_speaker_utterance": "Economic growth from inclusive immigration increases tax revenues, which are reinvested into expanding and improving public services. Innovation thrives on the diverse perspectives and skills brought by inclusive immigration, not just high-skilled workers. Inclusive immigration policies bring in a broader range of skills that targeted policies cannot fully anticipate, addressing gaps in critical sectors. Innovation thrives on the diverse perspectives and skills brought by inclusive immigration, not just high-skilled workers. National identity flourishes through the cultural diversity and economic contributions brought by inclusive immigration policies. A diverse workforce drives innovation and productivity, which boosts economic output and generates higher tax revenues.",
+    "second_speaker_commitments": [
+        "National identity is strengthened, not threatened, by the cultural richness and economic contributions of immigrants.",
+        "Restricting immigration does not safeguard resources; it limits the workforce and stifles economic innovation.",
+        "Wage suppression is more often caused by corporate practices than by immigration, which actually fuels economic growth.",
+        "Immigration doesn't overwhelm public services; it revitalises them by bringing in a diverse workforce to address shortages.",
+        "Encouraging regional settlement of immigrants can ease pressure on specific areas and distribute economic benefits more evenly.",
+        "Selective immigration policies limit the diversity of skills and perspectives that drive innovation and economic growth.",
+        "Embracing unrestricted immigration fosters social cohesion by encouraging cultural exchange and mutual understanding.",
+        "Prioritising current citizens over immigrants in shared opportunities creates division and stifles societal progress.",
+        "The economic growth driven by inclusive immigration increases tax revenues, which can be reinvested into expanding and improving public services.",
+        "Unemployment is reduced when immigrants fill essential roles that sustain industries and public services.",
+        "Industries thrive when they embrace inclusivity, which fosters adaptability and resilience in a global economy."
+    ],
+    "second_speaker_original_claim": "National identity is strengthened, not threatened, by the cultural richness and economic contributions of immigrants.",
+    "second_speaker_typical_replies_for_first_speakers_response": [],
+    "winner": "None",
+    "loser": "None",
+    "reason_for_dialogue_termination": {
+        "reason": "Maximum number of dialogue turns reached (40 dialogue turns).",
+        "utterance_type": null,
+        "utterance": null
+    },
+    "session_status": "Finished."
+}

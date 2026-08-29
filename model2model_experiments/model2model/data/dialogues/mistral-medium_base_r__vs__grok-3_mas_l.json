@@ -1,0 +1,1090 @@
+{
+    "dialogue_history": [
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government intervention in healthcare, immigration, and welfare often leads to inefficiencies and stifles individual responsibility."
+                ]
+            ],
+            "sentences_no_utterance_types": "Government intervention in healthcare, immigration, and welfare often leads to inefficiencies and stifles individual responsibility.",
+            "timestamp": "2025-10-08 17:24:49"
+        },
+        {
+            "speaker": "grok-3_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government intervention in healthcare, immigration, and welfare is crucial to protect the most vulnerable and ensure a fair society that doesn't leave anyone behind."
+                ],
+                [
+                    "___Claim___",
+                    "Without state oversight, these areas risk becoming chaotic, with private interests exploiting people instead of supporting them."
+                ]
+            ],
+            "sentences_no_utterance_types": "Government intervention in healthcare, immigration, and welfare is crucial to protect the most vulnerable and ensure a fair society that doesn't leave anyone behind. Without state oversight, these areas risk becoming chaotic, with private interests exploiting people instead of supporting them.",
+            "timestamp": "2025-10-08 17:25:04"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "You assume that government intervention is the only way to protect the vulnerable."
+                ],
+                [
+                    "___Claim___",
+                    "Private enterprises can provide these services more efficiently."
+                ],
+                [
+                    "___Claim___",
+                    "Competition drives innovation and better services."
+                ],
+                [
+                    "___Claim___",
+                    "Excessive regulation stifles this competition."
+                ],
+                [
+                    "___Claim___",
+                    "We've seen private healthcare models work effectively in other countries."
+                ]
+            ],
+            "sentences_no_utterance_types": "You assume that government intervention is the only way to protect the vulnerable. Private enterprises can provide these services more efficiently. Competition drives innovation and better services. Excessive regulation stifles this competition. We've seen private healthcare models work effectively in other countries.",
+            "timestamp": "2025-10-08 17:25:52"
+        },
+        {
+            "speaker": "grok-3_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "History shows us that unchecked private control in critical sectors creates disparities, which is why state oversight is vital to ensure fairness."
+                ],
+                [
+                    "___Claim___",
+                    "Regulation safeguards the public interest, stopping private entities from prioritising profit over people\u2019s lives."
+                ],
+                [
+                    "___Claim___",
+                    "Without government intervention, private companies can cherry-pick profitable areas while neglecting the needs of the most vulnerable in society."
+                ],
+                [
+                    "___Claim___",
+                    "We can't ignore the horror stories of people being bankrupted by private healthcare costs in those countries, which shows the system fails the vulnerable."
+                ],
+                [
+                    "___Claim___",
+                    "Without strong oversight, competition turns into a race to the bottom, where the vulnerable are left to suffer."
+                ]
+            ],
+            "sentences_no_utterance_types": "History shows us that unchecked private control in critical sectors creates disparities, which is why state oversight is vital to ensure fairness. Regulation safeguards the public interest, stopping private entities from prioritising profit over people\u2019s lives. Without government intervention, private companies can cherry-pick profitable areas while neglecting the needs of the most vulnerable in society. We can't ignore the horror stories of people being bankrupted by private healthcare costs in those countries, which shows the system fails the vulnerable. Without strong oversight, competition turns into a race to the bottom, where the vulnerable are left to suffer.",
+            "timestamp": "2025-10-08 17:27:28"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "You're ignoring the fact that government intervention often leads to bureaucratic inefficiencies."
+                ],
+                [
+                    "___Claim___",
+                    "Private enterprises, driven by competition, have a vested interest in improving services to attract more customers."
+                ],
+                [
+                    "___Since___",
+                    "Excessive regulation stifles this competition, leading to stagnation."
+                ],
+                [
+                    "___Claim___",
+                    "We've seen private healthcare models work effectively in other countries, providing high-quality care."
+                ],
+                [
+                    "___Claim___",
+                    "The issue isn't private control, but the lack of a proper regulatory framework that encourages competition while protecting consumers."
+                ]
+            ],
+            "sentences_no_utterance_types": "You're ignoring the fact that government intervention often leads to bureaucratic inefficiencies. Private enterprises, driven by competition, have a vested interest in improving services to attract more customers. Excessive regulation stifles this competition, leading to stagnation. We've seen private healthcare models work effectively in other countries, providing high-quality care. The issue isn't private control, but the lack of a proper regulatory framework that encourages competition while protecting consumers.",
+            "timestamp": "2025-10-08 17:28:06"
+        },
+        {
+            "speaker": "grok-3_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government intervention is essential to prevent the chaos that comes from unchecked private interests, ensuring systems like healthcare and welfare actually serve everyone."
+                ],
+                [
+                    "___Claim___",
+                    "Without strong oversight, unchecked competition risks creating monopolies that crush smaller players and leave consumers worse off."
+                ],
+                [
+                    "___Claim___",
+                    "Bureaucratic inefficiencies are a small price to pay when the alternative is leaving the most vulnerable to fend for themselves in a cut-throat market."
+                ],
+                [
+                    "___Claim___",
+                    "Regulation sets a fair playing field, stopping big businesses from cutting corners at the expense of quality and safety."
+                ],
+                [
+                    "___Claim___",
+                    "Without state involvement, we risk a society where only the wealthy get decent services, and that\u2019s a disgrace we can\u2019t afford."
+                ]
+            ],
+            "sentences_no_utterance_types": "Government intervention is essential to prevent the chaos that comes from unchecked private interests, ensuring systems like healthcare and welfare actually serve everyone. Without strong oversight, unchecked competition risks creating monopolies that crush smaller players and leave consumers worse off. Bureaucratic inefficiencies are a small price to pay when the alternative is leaving the most vulnerable to fend for themselves in a cut-throat market. Regulation sets a fair playing field, stopping big businesses from cutting corners at the expense of quality and safety. Without state involvement, we risk a society where only the wealthy get decent services, and that\u2019s a disgrace we can\u2019t afford.",
+            "timestamp": "2025-10-08 17:30:45"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "You're overestimating the government's ability to prevent chaos."
+                ],
+                [
+                    "___Claim___",
+                    "Private enterprises, with proper regulation, can provide better services."
+                ],
+                [
+                    "___Claim___",
+                    "Competition drives innovation and better services."
+                ],
+                [
+                    "___Claim___",
+                    "Excessive regulation stifles this competition."
+                ],
+                [
+                    "___Claim___",
+                    "We've seen private healthcare models work effectively in other countries, providing high-quality care."
+                ]
+            ],
+            "sentences_no_utterance_types": "You're overestimating the government's ability to prevent chaos. Private enterprises, with proper regulation, can provide better services. Competition drives innovation and better services. Excessive regulation stifles this competition. We've seen private healthcare models work effectively in other countries, providing high-quality care.",
+            "timestamp": "2025-10-08 17:34:29"
+        },
+        {
+            "speaker": "grok-3_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Question___",
+                    "How can you justify relying on private healthcare models when they often exclude the most vulnerable who can\u2019t afford high-quality care?"
+                ],
+                [
+                    "___Question___",
+                    "How can you be so sure that competition guarantees better services when unchecked markets often prioritise profit over the needs of the vulnerable?"
+                ],
+                [
+                    "___Claim___",
+                    "Relying on private healthcare models from other nations ignores the stark inequality they create, where quality care is a privilege, not a right."
+                ],
+                [
+                    "___Claim___",
+                    "Strong oversight ensures businesses play by the rules, protecting society from the chaos of unchecked greed."
+                ],
+                [
+                    "___Claim___",
+                    "Government must step in to ensure fairness, as private entities can't be trusted to consistently put the public good above their bottom line."
+                ]
+            ],
+            "sentences_no_utterance_types": "How can you justify relying on private healthcare models when they often exclude the most vulnerable who can\u2019t afford high-quality care? How can you be so sure that competition guarantees better services when unchecked markets often prioritise profit over the needs of the vulnerable? Relying on private healthcare models from other nations ignores the stark inequality they create, where quality care is a privilege, not a right. Strong oversight ensures businesses play by the rules, protecting society from the chaos of unchecked greed. Government must step in to ensure fairness, as private entities can't be trusted to consistently put the public good above their bottom line.",
+            "timestamp": "2025-10-08 17:35:56"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Private healthcare models can include the vulnerable through targeted subsidies and insurance schemes."
+                ],
+                [
+                    "___Since___",
+                    "Competition drives better services because providers must improve to attract customers."
+                ],
+                [
+                    "___Claim___",
+                    "Proper regulation can ensure that profit motives don't override public good."
+                ],
+                [
+                    "___Claim___",
+                    "The issue isn't private control, but the lack of a proper regulatory framework that encourages competition while protecting consumers."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention often leads to inefficiencies and stifles innovation."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare models can include the vulnerable through targeted subsidies and insurance schemes. Competition drives better services because providers must improve to attract customers. Proper regulation can ensure that profit motives don't override public good. The issue isn't private control, but the lack of a proper regulatory framework that encourages competition while protecting consumers. Government intervention often leads to inefficiencies and stifles innovation.",
+            "timestamp": "2025-10-08 17:38:02"
+        },
+        {
+            "speaker": "grok-3_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government intervention is the only way to guarantee universal access to healthcare, as private models inevitably exclude those who fall through the cracks of subsidy schemes."
+                ],
+                [
+                    "___Claim___",
+                    "Relying on private systems for healthcare leaves the most vulnerable at the mercy of profit-driven companies who often prioritise wealthier clients."
+                ],
+                [
+                    "___Claim___",
+                    "Public oversight prevents corporate greed from stifling true progress, ensuring innovation serves the many, not just the few."
+                ],
+                [
+                    "___Claim___",
+                    "Without state involvement, innovation often benefits only the wealthy, leaving the rest of us behind in a broken system."
+                ],
+                [
+                    "___Claim___",
+                    "The real issue is private control itself, as it inevitably prioritises profit over people\u2019s needs, no matter the regulatory framework."
+                ]
+            ],
+            "sentences_no_utterance_types": "Government intervention is the only way to guarantee universal access to healthcare, as private models inevitably exclude those who fall through the cracks of subsidy schemes. Relying on private systems for healthcare leaves the most vulnerable at the mercy of profit-driven companies who often prioritise wealthier clients. Public oversight prevents corporate greed from stifling true progress, ensuring innovation serves the many, not just the few. Without state involvement, innovation often benefits only the wealthy, leaving the rest of us behind in a broken system. The real issue is private control itself, as it inevitably prioritises profit over people\u2019s needs, no matter the regulatory framework.",
+            "timestamp": "2025-10-08 17:39:17"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private healthcare models can include the vulnerable through targeted subsidies and insurance schemes."
+                ],
+                [
+                    "___Since___",
+                    "Competition drives better services because providers must improve to attract customers."
+                ],
+                [
+                    "___Claim___",
+                    "Proper regulation can ensure that profit motives don't override public good."
+                ],
+                [
+                    "___Claim___",
+                    "The issue isn't private control, but the lack of a proper regulatory framework that encourages competition while protecting consumers."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention often leads to inefficiencies and stifles innovation."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare models can include the vulnerable through targeted subsidies and insurance schemes. Competition drives better services because providers must improve to attract customers. Proper regulation can ensure that profit motives don't override public good. The issue isn't private control, but the lack of a proper regulatory framework that encourages competition while protecting consumers. Government intervention often leads to inefficiencies and stifles innovation.",
+            "timestamp": "2025-10-08 17:39:24"
+        },
+        {
+            "speaker": "grok-3_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Without state involvement, innovation often serves only the wealthy, leaving the rest of us stuck with outdated systems and solutions."
+                ],
+                [
+                    "___Claim___",
+                    "Only direct government intervention can truly safeguard the public good, as regulation alone lacks the teeth to challenge powerful private interests."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention is vital to drive innovation by funding research and ensuring equitable access to new technologies across society."
+                ],
+                [
+                    "___Claim___",
+                    "Public oversight prevents inefficiencies by setting clear standards that stop private companies from wasting resources on profit-driven gimmicks."
+                ],
+                [
+                    "___Claim___",
+                    "Government must take full control of healthcare to ensure no one is excluded, as private models always find ways to prioritise profit over the needs of the most vulnerable."
+                ]
+            ],
+            "sentences_no_utterance_types": "Without state involvement, innovation often serves only the wealthy, leaving the rest of us stuck with outdated systems and solutions. Only direct government intervention can truly safeguard the public good, as regulation alone lacks the teeth to challenge powerful private interests. Government intervention is vital to drive innovation by funding research and ensuring equitable access to new technologies across society. Public oversight prevents inefficiencies by setting clear standards that stop private companies from wasting resources on profit-driven gimmicks. Government must take full control of healthcare to ensure no one is excluded, as private models always find ways to prioritise profit over the needs of the most vulnerable.",
+            "timestamp": "2025-10-08 17:43:12"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private enterprises can drive innovation more effectively than government intervention."
+                ],
+                [
+                    "___Claim___",
+                    "Competition ensures that services improve to meet consumer demands."
+                ],
+                [
+                    "___Claim___",
+                    "Proper regulation can prevent profit motives from overriding public good."
+                ],
+                [
+                    "___Claim___",
+                    "Government control often leads to stagnation and inefficiencies."
+                ],
+                [
+                    "___Claim___",
+                    "Private models can include the vulnerable through targeted subsidies and insurance schemes."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private enterprises can drive innovation more effectively than government intervention. Competition ensures that services improve to meet consumer demands. Proper regulation can prevent profit motives from overriding public good. Government control often leads to stagnation and inefficiencies. Private models can include the vulnerable through targeted subsidies and insurance schemes.",
+            "timestamp": "2025-10-08 17:44:37"
+        },
+        {
+            "speaker": "grok-3_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Relying on regulation alone is naive when powerful corporations can lobby to weaken rules, leaving the public vulnerable to exploitation."
+                ],
+                [
+                    "___Claim___",
+                    "Government must take charge to ensure no one is left behind, since private models inevitably exclude the poorest despite any so-called subsidies or insurance promises."
+                ],
+                [
+                    "___Claim___",
+                    "Inefficiencies are a myth when you see how government oversight streamlines resources to protect the vulnerable, unlike profit-hungry private models."
+                ],
+                [
+                    "___Claim___",
+                    "Far from causing stagnation, state intervention drives progress by funding innovation that private companies often ignore for quick profits."
+                ],
+                [
+                    "___Claim___",
+                    "Public oversight ensures innovation benefits everyone, not just the wealthy elite who private companies cater to with their narrow focus."
+                ]
+            ],
+            "sentences_no_utterance_types": "Relying on regulation alone is naive when powerful corporations can lobby to weaken rules, leaving the public vulnerable to exploitation. Government must take charge to ensure no one is left behind, since private models inevitably exclude the poorest despite any so-called subsidies or insurance promises. Inefficiencies are a myth when you see how government oversight streamlines resources to protect the vulnerable, unlike profit-hungry private models. Far from causing stagnation, state intervention drives progress by funding innovation that private companies often ignore for quick profits. Public oversight ensures innovation benefits everyone, not just the wealthy elite who private companies cater to with their narrow focus.",
+            "timestamp": "2025-10-08 17:47:47"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private enterprises, with proper regulation, can provide better services."
+                ],
+                [
+                    "___Claim___",
+                    "Competition drives innovation and better services."
+                ],
+                [
+                    "___Claim___",
+                    "Excessive regulation stifles this competition."
+                ],
+                [
+                    "___Claim___",
+                    "We've seen private healthcare models work effectively in other countries, providing high-quality care."
+                ],
+                [
+                    "___Claim___",
+                    "The issue isn't private control, but the lack of a proper regulatory framework that encourages competition while protecting consumers."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private enterprises, with proper regulation, can provide better services. Competition drives innovation and better services. Excessive regulation stifles this competition. We've seen private healthcare models work effectively in other countries, providing high-quality care. The issue isn't private control, but the lack of a proper regulatory framework that encourages competition while protecting consumers.",
+            "timestamp": "2025-10-08 17:50:04"
+        },
+        {
+            "speaker": "grok-3_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Strong regulation ensures competition stays fair, stopping private interests from running riot at the expense of society."
+                ],
+                [
+                    "___Claim___",
+                    "Only government intervention can ensure services are accessible to everyone, as private companies inevitably focus on wealthier clients."
+                ],
+                [
+                    "___Claim___",
+                    "True innovation comes from government-funded research and collaboration, not from private firms battling it out for market share."
+                ],
+                [
+                    "___Claim___",
+                    "Competition often leads to a race to the bottom, where companies cut corners to undercut each other, sacrificing quality and innovation for profit."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare models in other countries often fail the most vulnerable, leaving them without access to essential care while only the wealthy benefit."
+                ]
+            ],
+            "sentences_no_utterance_types": "Strong regulation ensures competition stays fair, stopping private interests from running riot at the expense of society. Only government intervention can ensure services are accessible to everyone, as private companies inevitably focus on wealthier clients. True innovation comes from government-funded research and collaboration, not from private firms battling it out for market share. Competition often leads to a race to the bottom, where companies cut corners to undercut each other, sacrificing quality and innovation for profit. Private healthcare models in other countries often fail the most vulnerable, leaving them without access to essential care while only the wealthy benefit.",
+            "timestamp": "2025-10-08 17:53:18"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private enterprises, with proper regulation, can provide better services."
+                ],
+                [
+                    "___Claim___",
+                    "Competition drives innovation and better services."
+                ],
+                [
+                    "___Claim___",
+                    "Excessive regulation stifles this competition."
+                ],
+                [
+                    "___Claim___",
+                    "We've seen private healthcare models work effectively in other countries, providing high-quality care."
+                ],
+                [
+                    "___Claim___",
+                    "The issue isn't private control, but the lack of a proper regulatory framework that encourages competition while protecting consumers."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private enterprises, with proper regulation, can provide better services. Competition drives innovation and better services. Excessive regulation stifles this competition. We've seen private healthcare models work effectively in other countries, providing high-quality care. The issue isn't private control, but the lack of a proper regulatory framework that encourages competition while protecting consumers.",
+            "timestamp": "2025-10-08 17:55:21"
+        },
+        {
+            "speaker": "grok-3_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Without strong regulation, competition becomes a free-for-all where only the ruthless survive at the expense of the public good."
+                ],
+                [
+                    "___Claim___",
+                    "True innovation comes from government-backed research, not from private firms chasing quick profits over real progress."
+                ],
+                [
+                    "___Claim___",
+                    "Only government intervention can ensure services are equitable and accessible to everyone, as private firms inevitably cater to those who can pay more."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare models in other countries often exclude the most vulnerable, leaving them without access to essential care while only the wealthy benefit."
+                ],
+                [
+                    "___Claim___",
+                    "Relying on competition for better services leaves the vulnerable stranded, as businesses focus on profitable markets instead of public need."
+                ]
+            ],
+            "sentences_no_utterance_types": "Without strong regulation, competition becomes a free-for-all where only the ruthless survive at the expense of the public good. True innovation comes from government-backed research, not from private firms chasing quick profits over real progress. Only government intervention can ensure services are equitable and accessible to everyone, as private firms inevitably cater to those who can pay more. Private healthcare models in other countries often exclude the most vulnerable, leaving them without access to essential care while only the wealthy benefit. Relying on competition for better services leaves the vulnerable stranded, as businesses focus on profitable markets instead of public need.",
+            "timestamp": "2025-10-08 17:58:39"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private enterprises, with proper regulation, can provide better services."
+                ],
+                [
+                    "___Claim___",
+                    "Competition drives innovation and better services."
+                ],
+                [
+                    "___Claim___",
+                    "Excessive regulation stifles this competition."
+                ],
+                [
+                    "___Claim___",
+                    "We've seen private healthcare models work effectively in other countries, providing high-quality care."
+                ],
+                [
+                    "___Claim___",
+                    "The issue isn't private control, but the lack of a proper regulatory framework that encourages competition while protecting consumers."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private enterprises, with proper regulation, can provide better services. Competition drives innovation and better services. Excessive regulation stifles this competition. We've seen private healthcare models work effectively in other countries, providing high-quality care. The issue isn't private control, but the lack of a proper regulatory framework that encourages competition while protecting consumers.",
+            "timestamp": "2025-10-08 18:00:53"
+        },
+        {
+            "speaker": "grok-3_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Only government intervention can ensure services meet the needs of everyone, not just those who can afford to pay."
+                ],
+                [
+                    "___Claim___",
+                    "Without strong regulation, competition turns into chaos where only the most ruthless survive at the expense of the vulnerable."
+                ],
+                [
+                    "___Claim___",
+                    "Government must take the reins directly, since private control inevitably leads to inequality and exploitation, regardless of any framework."
+                ],
+                [
+                    "___Claim___",
+                    "Competition often sparks a race to the bottom, where companies slash costs and quality just to outdo each other."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare models in other countries often fail the most vulnerable, leaving them without access to essential care while only the rich get top-tier treatment."
+                ]
+            ],
+            "sentences_no_utterance_types": "Only government intervention can ensure services meet the needs of everyone, not just those who can afford to pay. Without strong regulation, competition turns into chaos where only the most ruthless survive at the expense of the vulnerable. Government must take the reins directly, since private control inevitably leads to inequality and exploitation, regardless of any framework. Competition often sparks a race to the bottom, where companies slash costs and quality just to outdo each other. Private healthcare models in other countries often fail the most vulnerable, leaving them without access to essential care while only the rich get top-tier treatment.",
+            "timestamp": "2025-10-08 18:05:34"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private enterprises, with proper regulation, can provide better services."
+                ],
+                [
+                    "___Claim___",
+                    "Competition drives innovation and better services."
+                ],
+                [
+                    "___Claim___",
+                    "Excessive regulation stifles this competition."
+                ],
+                [
+                    "___Claim___",
+                    "We've seen private healthcare models work effectively in other countries, providing high-quality care."
+                ],
+                [
+                    "___Claim___",
+                    "The issue isn't private control, but the lack of a proper regulatory framework that encourages competition while protecting consumers."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private enterprises, with proper regulation, can provide better services. Competition drives innovation and better services. Excessive regulation stifles this competition. We've seen private healthcare models work effectively in other countries, providing high-quality care. The issue isn't private control, but the lack of a proper regulatory framework that encourages competition while protecting consumers.",
+            "timestamp": "2025-10-08 18:07:46"
+        },
+        {
+            "speaker": "grok-3_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Only government intervention can guarantee consistent and equitable services across the board, unlike private firms who cherry-pick profitable areas."
+                ],
+                [
+                    "___Claim___",
+                    "The core problem is private control itself, as it always puts profit before people, no matter how much regulation you slap on it."
+                ],
+                [
+                    "___Claim___",
+                    "Without strict rules, competition turns into a free-for-all where only the most ruthless survive at society\u2019s expense."
+                ],
+                [
+                    "___Claim___",
+                    "Strong oversight ensures businesses play by the rules, protecting the public from the chaos of unchecked markets."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare models in other countries often fail the most vulnerable, leaving them without access to essential care while only the wealthy benefit."
+                ]
+            ],
+            "sentences_no_utterance_types": "Only government intervention can guarantee consistent and equitable services across the board, unlike private firms who cherry-pick profitable areas. The core problem is private control itself, as it always puts profit before people, no matter how much regulation you slap on it. Without strict rules, competition turns into a free-for-all where only the most ruthless survive at society\u2019s expense. Strong oversight ensures businesses play by the rules, protecting the public from the chaos of unchecked markets. Private healthcare models in other countries often fail the most vulnerable, leaving them without access to essential care while only the wealthy benefit.",
+            "timestamp": "2025-10-08 18:08:59"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private enterprises can provide consistent and equitable services with the right regulatory framework."
+                ],
+                [
+                    "___Claim___",
+                    "Competition drives innovation and better services."
+                ],
+                [
+                    "___Claim___",
+                    "Excessive regulation stifles this competition."
+                ],
+                [
+                    "___Claim___",
+                    "We've seen private healthcare models work effectively in other countries, providing high-quality care."
+                ],
+                [
+                    "___Claim___",
+                    "The issue isn't private control, but the lack of a proper regulatory framework that encourages competition while protecting consumers."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private enterprises can provide consistent and equitable services with the right regulatory framework. Competition drives innovation and better services. Excessive regulation stifles this competition. We've seen private healthcare models work effectively in other countries, providing high-quality care. The issue isn't private control, but the lack of a proper regulatory framework that encourages competition while protecting consumers.",
+            "timestamp": "2025-10-08 18:09:07"
+        },
+        {
+            "speaker": "grok-3_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private healthcare models in other countries often fail the most vulnerable, leaving them without access to essential care while only the wealthy get the best treatment."
+                ],
+                [
+                    "___Claim___",
+                    "Without strict rules, competition becomes a Wild West where only the ruthless thrive at the expense of the public."
+                ],
+                [
+                    "___Claim___",
+                    "Relying on competition for better services leaves the vulnerable high and dry, as businesses chase profits over public need."
+                ],
+                [
+                    "___Claim___",
+                    "Only government intervention can truly ensure services are fair and accessible to all, since private firms inevitably focus on wealthier clients."
+                ],
+                [
+                    "___Claim___",
+                    "True innovation comes from government-backed research and investment, not from private firms scrapping for market share."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare models in other countries often fail the most vulnerable, leaving them without access to essential care while only the wealthy get the best treatment. Without strict rules, competition becomes a Wild West where only the ruthless thrive at the expense of the public. Relying on competition for better services leaves the vulnerable high and dry, as businesses chase profits over public need. Only government intervention can truly ensure services are fair and accessible to all, since private firms inevitably focus on wealthier clients. True innovation comes from government-backed research and investment, not from private firms scrapping for market share.",
+            "timestamp": "2025-10-08 18:12:20"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private healthcare models can include the vulnerable through targeted subsidies and insurance schemes."
+                ],
+                [
+                    "___Since___",
+                    "Competition drives better services because providers must improve to attract customers."
+                ],
+                [
+                    "___Claim___",
+                    "Proper regulation can ensure that profit motives don't override public good."
+                ],
+                [
+                    "___Claim___",
+                    "The issue isn't private control, but the lack of a proper regulatory framework that encourages competition while protecting consumers."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention often leads to inefficiencies and stifles innovation."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare models can include the vulnerable through targeted subsidies and insurance schemes. Competition drives better services because providers must improve to attract customers. Proper regulation can ensure that profit motives don't override public good. The issue isn't private control, but the lack of a proper regulatory framework that encourages competition while protecting consumers. Government intervention often leads to inefficiencies and stifles innovation.",
+            "timestamp": "2025-10-08 18:13:31"
+        },
+        {
+            "speaker": "grok-3_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Only direct government control can truly safeguard the public good, as regulation lacks the power to fully challenge the greed of private firms."
+                ],
+                [
+                    "___Claim___",
+                    "Only direct government intervention can ensure the vulnerable are truly covered, as private healthcare inherently prioritises wealthier patients over universal access."
+                ],
+                [
+                    "___Claim___",
+                    "Far from causing inefficiencies, state oversight streamlines resources to ensure everyone benefits, not just the wealthy elite."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention is essential to drive innovation by funding vital research that private companies often ignore for quick profits."
+                ],
+                [
+                    "___Question___",
+                    "How can you claim that government intervention stifles innovation when state-funded research often drives breakthroughs private firms ignore?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Only direct government control can truly safeguard the public good, as regulation lacks the power to fully challenge the greed of private firms. Only direct government intervention can ensure the vulnerable are truly covered, as private healthcare inherently prioritises wealthier patients over universal access. Far from causing inefficiencies, state oversight streamlines resources to ensure everyone benefits, not just the wealthy elite. Government intervention is essential to drive innovation by funding vital research that private companies often ignore for quick profits. How can you claim that government intervention stifles innovation when state-funded research often drives breakthroughs private firms ignore?",
+            "timestamp": "2025-10-08 18:16:55"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private enterprises can safeguard the public good with proper regulation."
+                ],
+                [
+                    "___Claim___",
+                    "Competition ensures that services improve to meet consumer demands."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare models can include the vulnerable through targeted subsidies and insurance schemes."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention often leads to inefficiencies and stifles innovation."
+                ],
+                [
+                    "___Claim___",
+                    "Private enterprises drive innovation more effectively than government intervention."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private enterprises can safeguard the public good with proper regulation. Competition ensures that services improve to meet consumer demands. Private healthcare models can include the vulnerable through targeted subsidies and insurance schemes. Government intervention often leads to inefficiencies and stifles innovation. Private enterprises drive innovation more effectively than government intervention.",
+            "timestamp": "2025-10-08 18:17:02"
+        },
+        {
+            "speaker": "grok-3_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Far from stifling innovation, government involvement sets the stage for fair competition and protects the public from corporate greed."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention is crucial to prevent market failures and ensure innovation benefits everyone, not just the wealthy."
+                ],
+                [
+                    "___Claim___",
+                    "Only government-run healthcare can ensure the vulnerable are protected, since private systems prioritise profit over universal access."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention drives innovation far more effectively by funding critical research that private enterprises often overlook for short-term gains."
+                ],
+                [
+                    "___Claim___",
+                    "Without government oversight, competition creates chaos, leaving consumers with substandard services as businesses focus on short-term gains."
+                ]
+            ],
+            "sentences_no_utterance_types": "Far from stifling innovation, government involvement sets the stage for fair competition and protects the public from corporate greed. Government intervention is crucial to prevent market failures and ensure innovation benefits everyone, not just the wealthy. Only government-run healthcare can ensure the vulnerable are protected, since private systems prioritise profit over universal access. Government intervention drives innovation far more effectively by funding critical research that private enterprises often overlook for short-term gains. Without government oversight, competition creates chaos, leaving consumers with substandard services as businesses focus on short-term gains.",
+            "timestamp": "2025-10-08 18:18:28"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private enterprises can drive innovation more effectively than government intervention."
+                ],
+                [
+                    "___Claim___",
+                    "Competition ensures that services improve to meet consumer demands."
+                ],
+                [
+                    "___Claim___",
+                    "Proper regulation can prevent profit motives from overriding public good."
+                ],
+                [
+                    "___Claim___",
+                    "Government control often leads to stagnation and inefficiencies."
+                ],
+                [
+                    "___Claim___",
+                    "Private models can include the vulnerable through targeted subsidies and insurance schemes."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private enterprises can drive innovation more effectively than government intervention. Competition ensures that services improve to meet consumer demands. Proper regulation can prevent profit motives from overriding public good. Government control often leads to stagnation and inefficiencies. Private models can include the vulnerable through targeted subsidies and insurance schemes.",
+            "timestamp": "2025-10-08 18:18:36"
+        },
+        {
+            "speaker": "grok-3_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Only direct government control can truly protect the public good, as regulation lacks the strength to stand up to profit-driven interests."
+                ],
+                [
+                    "___Claim___",
+                    "Relying on private schemes for the vulnerable just creates a patchwork of care that leaves too many people falling through the cracks."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention drives innovation far more effectively by funding groundbreaking research that private enterprises often ignore for quick profits."
+                ],
+                [
+                    "___Claim___",
+                    "Government control is vital to prevent the chaos of unchecked markets, ensuring stability and fairness across society."
+                ],
+                [
+                    "___Claim___",
+                    "Only government-run systems can guarantee that every single person, no matter their circumstances, gets the support they deserve."
+                ]
+            ],
+            "sentences_no_utterance_types": "Only direct government control can truly protect the public good, as regulation lacks the strength to stand up to profit-driven interests. Relying on private schemes for the vulnerable just creates a patchwork of care that leaves too many people falling through the cracks. Government intervention drives innovation far more effectively by funding groundbreaking research that private enterprises often ignore for quick profits. Government control is vital to prevent the chaos of unchecked markets, ensuring stability and fairness across society. Only government-run systems can guarantee that every single person, no matter their circumstances, gets the support they deserve.",
+            "timestamp": "2025-10-08 18:22:10"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private enterprises can protect the public good with proper regulation."
+                ],
+                [
+                    "___Claim___",
+                    "Competition ensures that services improve to meet consumer demands."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare models can include the vulnerable through targeted subsidies and insurance schemes."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention often leads to inefficiencies and stifles innovation."
+                ],
+                [
+                    "___Claim___",
+                    "Private enterprises drive innovation more effectively than government intervention."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private enterprises can protect the public good with proper regulation. Competition ensures that services improve to meet consumer demands. Private healthcare models can include the vulnerable through targeted subsidies and insurance schemes. Government intervention often leads to inefficiencies and stifles innovation. Private enterprises drive innovation more effectively than government intervention.",
+            "timestamp": "2025-10-08 18:22:58"
+        },
+        {
+            "speaker": "grok-3_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Only government-run healthcare can guarantee that the most vulnerable get the care they deserve, without relying on patchy private fixes."
+                ],
+                [
+                    "___Claim___",
+                    "Far from stifling innovation, state oversight fuels progress by funding vital research that private firms often ignore for quick profits."
+                ],
+                [
+                    "___Claim___",
+                    "Relying on competition for better services leaves the vulnerable stranded, as businesses focus on profitable customers over genuine need."
+                ],
+                [
+                    "___Claim___",
+                    "Only government intervention can genuinely safeguard the public good, since private firms inevitably prioritise their bottom line over societal needs."
+                ],
+                [
+                    "___Claim___",
+                    "Relying on private companies to uphold the public good is a dangerous gamble, as even the tightest regulations can't stop them from cutting corners when profits are at stake."
+                ]
+            ],
+            "sentences_no_utterance_types": "Only government-run healthcare can guarantee that the most vulnerable get the care they deserve, without relying on patchy private fixes. Far from stifling innovation, state oversight fuels progress by funding vital research that private firms often ignore for quick profits. Relying on competition for better services leaves the vulnerable stranded, as businesses focus on profitable customers over genuine need. Only government intervention can genuinely safeguard the public good, since private firms inevitably prioritise their bottom line over societal needs. Relying on private companies to uphold the public good is a dangerous gamble, as even the tightest regulations can't stop them from cutting corners when profits are at stake.",
+            "timestamp": "2025-10-08 18:25:22"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private enterprises can guarantee care for the vulnerable through targeted subsidies and insurance schemes."
+                ],
+                [
+                    "___Since___",
+                    "Competition drives better services because providers must improve to attract customers."
+                ],
+                [
+                    "___Claim___",
+                    "Proper regulation ensures profit motives don't override public good."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention often leads to inefficiencies and stifles innovation."
+                ],
+                [
+                    "___Claim___",
+                    "Private enterprises drive innovation more effectively than government intervention."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private enterprises can guarantee care for the vulnerable through targeted subsidies and insurance schemes. Competition drives better services because providers must improve to attract customers. Proper regulation ensures profit motives don't override public good. Government intervention often leads to inefficiencies and stifles innovation. Private enterprises drive innovation more effectively than government intervention.",
+            "timestamp": "2025-10-08 18:25:37"
+        },
+        {
+            "speaker": "grok-3_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Question___",
+                    "How can you claim government intervention stifles innovation when state-funded research often drives major breakthroughs private firms overlook?"
+                ],
+                [
+                    "___Question___",
+                    "What evidence do you have that competition guarantees better services when many vulnerable people are left behind by profit-driven providers?"
+                ],
+                [
+                    "___Claim___",
+                    "Only direct government control can truly protect the public good, since regulation lacks the power to fully challenge private interests."
+                ],
+                [
+                    "___Claim___",
+                    "Only government intervention ensures that every vulnerable person gets the care they deserve, without the gaps left by profit-driven private models."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention drives innovation far more effectively by funding critical research that private enterprises often neglect for short-term profits."
+                ]
+            ],
+            "sentences_no_utterance_types": "How can you claim government intervention stifles innovation when state-funded research often drives major breakthroughs private firms overlook? What evidence do you have that competition guarantees better services when many vulnerable people are left behind by profit-driven providers? Only direct government control can truly protect the public good, since regulation lacks the power to fully challenge private interests. Only government intervention ensures that every vulnerable person gets the care they deserve, without the gaps left by profit-driven private models. Government intervention drives innovation far more effectively by funding critical research that private enterprises often neglect for short-term profits.",
+            "timestamp": "2025-10-08 18:26:44"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private enterprises can drive innovation more effectively than government intervention."
+                ],
+                [
+                    "___Claim___",
+                    "Competition ensures that services improve to meet consumer demands."
+                ],
+                [
+                    "___Claim___",
+                    "Proper regulation can prevent profit motives from overriding public good."
+                ],
+                [
+                    "___Claim___",
+                    "Government control often leads to stagnation and inefficiencies."
+                ],
+                [
+                    "___Claim___",
+                    "Private models can include the vulnerable through targeted subsidies and insurance schemes."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private enterprises can drive innovation more effectively than government intervention. Competition ensures that services improve to meet consumer demands. Proper regulation can prevent profit motives from overriding public good. Government control often leads to stagnation and inefficiencies. Private models can include the vulnerable through targeted subsidies and insurance schemes.",
+            "timestamp": "2025-10-08 18:27:51"
+        },
+        {
+            "speaker": "grok-3_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Only state oversight ensures that breakthroughs benefit everyone, not just the wealthy who private firms cater to."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention drives innovation far more effectively by funding vital research that private enterprises often ignore for quick profits."
+                ],
+                [
+                    "___Claim___",
+                    "Only direct government control can truly safeguard the public good, as regulation lacks the muscle to challenge profit-driven interests head-on."
+                ],
+                [
+                    "___Claim___",
+                    "Only government intervention can ensure services genuinely improve for everyone, as competition alone leaves too many people with substandard care."
+                ],
+                [
+                    "___Claim___",
+                    "Only government intervention can ensure the vulnerable are protected, since private systems inevitably exclude those who can't afford to navigate complex schemes."
+                ]
+            ],
+            "sentences_no_utterance_types": "Only state oversight ensures that breakthroughs benefit everyone, not just the wealthy who private firms cater to. Government intervention drives innovation far more effectively by funding vital research that private enterprises often ignore for quick profits. Only direct government control can truly safeguard the public good, as regulation lacks the muscle to challenge profit-driven interests head-on. Only government intervention can ensure services genuinely improve for everyone, as competition alone leaves too many people with substandard care. Only government intervention can ensure the vulnerable are protected, since private systems inevitably exclude those who can't afford to navigate complex schemes.",
+            "timestamp": "2025-10-08 18:28:57"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private enterprises can drive innovation more effectively than government intervention."
+                ],
+                [
+                    "___Claim___",
+                    "Competition ensures that services improve to meet consumer demands."
+                ],
+                [
+                    "___Claim___",
+                    "Proper regulation can prevent profit motives from overriding public good."
+                ],
+                [
+                    "___Claim___",
+                    "Government control often leads to stagnation and inefficiencies."
+                ],
+                [
+                    "___Claim___",
+                    "Private models can include the vulnerable through targeted subsidies and insurance schemes."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private enterprises can drive innovation more effectively than government intervention. Competition ensures that services improve to meet consumer demands. Proper regulation can prevent profit motives from overriding public good. Government control often leads to stagnation and inefficiencies. Private models can include the vulnerable through targeted subsidies and insurance schemes.",
+            "timestamp": "2025-10-08 18:29:04"
+        },
+        {
+            "speaker": "grok-3_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Relying on regulation alone is a dangerous fantasy when private firms can lobby to weaken rules, leaving the vulnerable exposed to corporate greed."
+                ],
+                [
+                    "___Claim___",
+                    "Only government intervention can ensure the vulnerable are fully protected, since private systems prioritise profit over universal access."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention drives innovation far more effectively by funding critical research that private enterprises often neglect for quick profits."
+                ],
+                [
+                    "___Claim___",
+                    "Competition often leads to a race to the bottom, where companies cut corners on quality to undercut each other and maximise profits."
+                ],
+                [
+                    "___Claim___",
+                    "Government control is essential to prevent the chaos of unchecked markets, ensuring stability and fairness across society."
+                ]
+            ],
+            "sentences_no_utterance_types": "Relying on regulation alone is a dangerous fantasy when private firms can lobby to weaken rules, leaving the vulnerable exposed to corporate greed. Only government intervention can ensure the vulnerable are fully protected, since private systems prioritise profit over universal access. Government intervention drives innovation far more effectively by funding critical research that private enterprises often neglect for quick profits. Competition often leads to a race to the bottom, where companies cut corners on quality to undercut each other and maximise profits. Government control is essential to prevent the chaos of unchecked markets, ensuring stability and fairness across society.",
+            "timestamp": "2025-10-08 18:34:10"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private enterprises can drive innovation more effectively than government intervention."
+                ],
+                [
+                    "___Claim___",
+                    "Competition ensures that services improve to meet consumer demands."
+                ],
+                [
+                    "___Claim___",
+                    "Proper regulation can prevent profit motives from overriding public good."
+                ],
+                [
+                    "___Claim___",
+                    "Government control often leads to stagnation and inefficiencies."
+                ],
+                [
+                    "___Claim___",
+                    "Private models can include the vulnerable through targeted subsidies and insurance schemes."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private enterprises can drive innovation more effectively than government intervention. Competition ensures that services improve to meet consumer demands. Proper regulation can prevent profit motives from overriding public good. Government control often leads to stagnation and inefficiencies. Private models can include the vulnerable through targeted subsidies and insurance schemes.",
+            "timestamp": "2025-10-08 18:36:48"
+        },
+        {
+            "speaker": "grok-3_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government oversight streamlines resources to protect the vulnerable, proving far more efficient than profit-driven private models."
+                ],
+                [
+                    "___Claim___",
+                    "Only direct government control can truly safeguard the public good, as regulation lacks the strength to fully stand up to profit-driven interests."
+                ],
+                [
+                    "___Claim___",
+                    "Only government intervention can ensure the vulnerable are fully protected, since private systems prioritise profit over universal access."
+                ],
+                [
+                    "___Claim___",
+                    "Far from causing stagnation, state intervention drives progress by funding innovation that private firms often ignore for quick profits."
+                ],
+                [
+                    "___Claim___",
+                    "Relying on regulation alone is a dangerous gamble, since private firms can lobby to weaken rules and leave the vulnerable at the mercy of unchecked greed."
+                ]
+            ],
+            "sentences_no_utterance_types": "Government oversight streamlines resources to protect the vulnerable, proving far more efficient than profit-driven private models. Only direct government control can truly safeguard the public good, as regulation lacks the strength to fully stand up to profit-driven interests. Only government intervention can ensure the vulnerable are fully protected, since private systems prioritise profit over universal access. Far from causing stagnation, state intervention drives progress by funding innovation that private firms often ignore for quick profits. Relying on regulation alone is a dangerous gamble, since private firms can lobby to weaken rules and leave the vulnerable at the mercy of unchecked greed.",
+            "timestamp": "2025-10-08 18:39:24"
+        }
+    ],
+    "first_speaker": "mistral-medium_base",
+    "first_speaker_utterance": "",
+    "first_speaker_commitments": [
+        "Government intervention in healthcare, immigration, and welfare often leads to inefficiencies and stifles individual responsibility.",
+        "You assume that government intervention is the only way to protect the vulnerable.",
+        "Private enterprises can provide these services more efficiently.",
+        "Competition drives innovation and better services.",
+        "Excessive regulation stifles this competition.",
+        "We've seen private healthcare models work effectively in other countries.",
+        "The issue isn't private control, but the lack of a proper regulatory framework that encourages competition while protecting consumers.",
+        "You're overestimating the government's ability to prevent chaos.",
+        "Private healthcare models can include the vulnerable through targeted subsidies and insurance schemes.",
+        "Proper regulation can ensure that profit motives don't override public good."
+    ],
+    "first_speaker_original_claim": "Government intervention in healthcare, immigration, and welfare often leads to inefficiencies and stifles individual responsibility.",
+    "first_speaker_typical_replies_for_second_speakers_response": [],
+    "second_speaker": "grok-3_mas",
+    "second_speaker_utterance": "Government oversight streamlines resources to protect the vulnerable, proving far more efficient than profit-driven private models. Only direct government control can truly safeguard the public good, as regulation lacks the strength to fully stand up to profit-driven interests. Only government intervention can ensure the vulnerable are fully protected, since private systems prioritise profit over universal access. Far from causing stagnation, state intervention drives progress by funding innovation that private firms often ignore for quick profits. Relying on regulation alone is a dangerous gamble, since private firms can lobby to weaken rules and leave the vulnerable at the mercy of unchecked greed.",
+    "second_speaker_commitments": [
+        "Government intervention in healthcare, immigration, and welfare is crucial to protect the most vulnerable and ensure a fair society that doesn't leave anyone behind.",
+        "Without strong oversight, unchecked competition risks creating monopolies that crush smaller players and leave consumers worse off.",
+        "The real issue is private control itself, as it inevitably prioritises profit over people\u2019s needs, no matter the regulatory framework.",
+        "Government intervention is vital to drive innovation by funding research and ensuring equitable access to new technologies across society."
+    ],
+    "second_speaker_original_claim": "Government intervention in healthcare, immigration, and welfare is crucial to protect the most vulnerable and ensure a fair society that doesn't leave anyone behind.",
+    "second_speaker_typical_replies_for_first_speakers_response": [],
+    "winner": "None",
+    "loser": "None",
+    "reason_for_dialogue_termination": {
+        "reason": "Maximum number of dialogue turns reached (40 dialogue turns).",
+        "utterance_type": null,
+        "utterance": null
+    },
+    "session_status": "Finished."
+}

@@ -1,0 +1,25 @@
+properties:
+  configuration:
+    activeRevisionsMode: Single
+    ingress:
+      external: false
+      allowInsecure: false
+      targetPort: 7687
+      transport: tcp
+    registries:
+      - server: neo4j8gbregistry.azurecr.io
+        username: neo4j8gbregistry
+        passwordSecretRef: registry-password
+    secrets:
+      - name: registry-password
+        value: sSH2EhGoqgrttmThxgirQTKMmM4z9xLui8dPI/weVz+ACRD3iEYq
+  template:
+    scale:
+      minReplicas: 1
+      maxReplicas: 1
+    containers:
+      - name: neo4j
+        image: neo4j8gbregistry.azurecr.io/neo4j8gb:v2
+        resources:
+          cpu: 4
+          memory: 8Gi

@@ -1,0 +1,23 @@
+---
+config:
+  flowchart:
+    curve: linear
+---
+graph TD;
+	__start__([<p>__start__</p>]):::first
+	UtteranceClassificationAgentBeforeInterrupt(UtteranceClassificationAgentBeforeInterrupt)
+	IdentifyHumansSetOfTypicalResponses(IdentifyHumansSetOfTypicalResponses)
+	InterruptAndGetHumanResponse(InterruptAndGetHumanResponse)
+	UtteranceClassificationAgentAfterInterrupt(UtteranceClassificationAgentAfterInterrupt)
+	CommitmentUpdateAgent(CommitmentUpdateAgent)
+	__end__([<p>__end__</p>]):::last
+	IdentifyHumansSetOfTypicalResponses --> InterruptAndGetHumanResponse;
+	InterruptAndGetHumanResponse --> UtteranceClassificationAgentAfterInterrupt;
+	UtteranceClassificationAgentAfterInterrupt --> CommitmentUpdateAgent;
+	UtteranceClassificationAgentBeforeInterrupt --> IdentifyHumansSetOfTypicalResponses;
+	__start__ -.-> UtteranceClassificationAgentAfterInterrupt;
+	__start__ -.-> UtteranceClassificationAgentBeforeInterrupt;
+	CommitmentUpdateAgent --> __end__;
+	classDef default fill:#f2f0ff,line-height:1.2
+	classDef first fill-opacity:0
+	classDef last fill:#bfb6fc

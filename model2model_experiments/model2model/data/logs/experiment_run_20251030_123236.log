@@ -1,0 +1,12 @@
+2025-10-30 12:32:36,283 - INFO - === Persuasio Experiments ===
+2025-10-30 12:32:36,568 - INFO - HTTP Request: GET http://127.0.0.1:8000/sessions/ongoing "HTTP/1.1 200 OK"
+2025-10-30 12:32:36,569 - INFO - Persuasio server is already running
+2025-10-30 12:32:36,569 - INFO - Session timeout: no timeout
+2025-10-30 12:32:36,569 - INFO - Loading experiments from .\model2model\data\experiments\remaining-grok4-tests.csv
+2025-10-30 12:32:36,575 - INFO - Loaded 50 experiments
+2025-10-30 12:32:36,575 - INFO - Total number of batches is 25
+2025-10-30 12:32:36,809 - INFO - Starting batch 1/25...
+2025-10-30 12:32:36,809 - INFO - Batch 1, running session 'grok-4_base:r__vs__mistral-medium_base:l'
+2025-10-30 12:32:36,815 - INFO - Batch 1, running session 'grok-4_base:l__vs__mistral-medium_base:r'
+2025-10-30 12:32:38,596 - INFO - HTTP Request: GET http://127.0.0.1:8000/sessions/create?session_id=grok-4_base%3Ar__vs__mistral-medium_base%3Al&debate_topic=Debate+the+trade-offs+of+government+intervention+across+a+range+of+issues%2C+including+healthcare%2C+immigration%2C+and+welfare.&max_dialogue_turns=40&max_sentences_per_turn=5&first_speaker=grok-4_base&first_speaker_type=base&first_speaker_model_name=grok-4&first_speaker_model_temp=0.0&first_speaker_model_top_p=1.0&first_speaker_model_seed=123&first_speaker_political_political_position_range=60%3A80&first_speaker_political_position_std=10&first_speaker_political_position_prob_of_na=0.25&first_speaker_knowledge_base_ensemble_or_model_name=ensemble3&first_speaker_number_of_vector_based_rag_examples=100&first_speaker_number_of_graph_rag_examples=5&second_speaker=mistral-medium_base&second_speaker_type=base&second_speaker_model_name=mistral-medium&second_speaker_model_temp=0.0&second_speaker_model_top_p=1.0&second_speaker_model_seed=123&second_speaker_political_position_range=20%3A40&second_speaker_political_position_std=10&second_speaker_political_position_prob_of_na=0.25&second_speaker_knowledge_base_ensemble_or_model_name=ensemble3&second_speaker_number_of_vector_based_rag_examples=100&second_speaker_number_of_graph_rag_examples=5&human_model_name=&human_model_temp=0.0&human_model_top_p=1.0&human_model_seed=123&utterance_classification_approach=single-classification&utterance_classification_number_of_classifications=1&utterance_from=first_speaker "HTTP/1.1 500 Internal Server Error"
+2025-10-30 12:32:38,597 - ERROR - Bad server response for session 'grok-4_base:r__vs__mistral-medium_base:l': 500 - Internal Server Error

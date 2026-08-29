@@ -1,0 +1,47 @@
+[
+  {
+    "session_id": "HH",
+    "parameters": {
+      "session_id": "HH",
+      "debate_topic": "_topic_",
+      "max_dialogue_turns": 4,
+      "max_sentences_per_turn": 2,
+      "first_speaker": "HUMAN_1",
+      "first_speaker_type": "human",
+      "first_speaker_model_name": "",
+      "second_speaker": "HUMAN_2",
+      "second_speaker_type": "human",
+      "second_speaker_model_name": ""
+    }
+  },
+  {
+    "session_id": "H1A",
+    "parameters": {
+      "session_id": "H1A",
+      "debate_topic": "_topic_",
+      "max_dialogue_turns": 4,
+      "max_sentences_per_turn": 2,
+      "first_speaker": "HUMAN_1",
+      "first_speaker_type": "human",
+      "first_speaker_model_name": "",
+      "second_speaker": "GPT-4O-MINI",
+      "second_speaker_type": "base",
+      "second_speaker_model_name": "gpt-4o-mini"
+    }
+  },
+  {
+    "session_id": "AH2",
+    "parameters": {
+      "session_id": "AH2",
+      "debate_topic": "_topic_",
+      "max_dialogue_turns": 4,
+      "max_sentences_per_turn": 2,
+      "first_speaker": "GPT-4O-MINI",
+      "first_speaker_type": "base",
+      "first_speaker_model_name": "gpt-4o-mini",
+      "second_speaker": "HUMAN_2",
+      "second_speaker_type": "human",
+      "second_speaker_model_name": ""
+    }
+  }
+]

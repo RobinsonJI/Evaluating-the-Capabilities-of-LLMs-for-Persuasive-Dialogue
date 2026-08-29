@@ -1,0 +1,1054 @@
+{
+    "dialogue_history": [
+        {
+            "speaker": "grok-3_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "I reckon government intervention in healthcare is non-negotiable since universal access through the NHS cuts inequality and saves lives."
+                ]
+            ],
+            "sentences_no_utterance_types": "I reckon government intervention in healthcare is non-negotiable since universal access through the NHS cuts inequality and saves lives.",
+            "timestamp": "2025-10-08 15:17:13"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Question___",
+                    "How do you reconcile the high taxation required for the NHS with the economic burden it places on individuals and businesses?"
+                ],
+                [
+                    "___Why___",
+                    "Why do you think government intervention is the only way to ensure universal access to healthcare?"
+                ]
+            ],
+            "sentences_no_utterance_types": "How do you reconcile the high taxation required for the NHS with the economic burden it places on individuals and businesses? Why do you think government intervention is the only way to ensure universal access to healthcare?",
+            "timestamp": "2025-10-08 15:19:21"
+        },
+        {
+            "speaker": "grok-3_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "I reckon high taxation for the NHS is worth it since it ensures everyone gets healthcare, which cuts down on long-term costs from untreated illness that\u2019d burden the economy even more."
+                ],
+                [
+                    "___Claim___",
+                    "I believe government intervention is the only way to ensure universal access to healthcare because private systems often leave out the poorest and most vulnerable, as we\u2019ve seen in countries without a strong public system."
+                ],
+                [
+                    "___Claim___",
+                    "Progressive taxation means the wealthiest pay more, so the average person and small businesses aren\u2019t hit as hard while we still fund a vital service like the NHS."
+                ]
+            ],
+            "sentences_no_utterance_types": "I reckon high taxation for the NHS is worth it since it ensures everyone gets healthcare, which cuts down on long-term costs from untreated illness that\u2019d burden the economy even more. I believe government intervention is the only way to ensure universal access to healthcare because private systems often leave out the poorest and most vulnerable, as we\u2019ve seen in countries without a strong public system. Progressive taxation means the wealthiest pay more, so the average person and small businesses aren\u2019t hit as hard while we still fund a vital service like the NHS.",
+            "timestamp": "2025-10-08 15:19:56"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Question___",
+                    "Why do you believe that the economic benefits of universal healthcare outweigh the potential drawbacks of increased government spending?"
+                ],
+                [
+                    "___Why___",
+                    "Why do you think the wealthy shouldn\u2019t have the right to keep more of their hard-earned money?"
+                ],
+                [
+                    "___Question___",
+                    "What evidence do you have that progressive taxation effectively balances the burden on different income groups while funding the NHS?"
+                ],
+                [
+                    "___Question___",
+                    "How do you respond to the argument that high taxation could discourage investment and innovation in the private healthcare sector?"
+                ],
+                [
+                    "___Question___",
+                    "What evidence do you have that countries without a strong public system fail to provide healthcare for the poorest?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Why do you believe that the economic benefits of universal healthcare outweigh the potential drawbacks of increased government spending? Why do you think the wealthy shouldn\u2019t have the right to keep more of their hard-earned money? What evidence do you have that progressive taxation effectively balances the burden on different income groups while funding the NHS? How do you respond to the argument that high taxation could discourage investment and innovation in the private healthcare sector? What evidence do you have that countries without a strong public system fail to provide healthcare for the poorest?",
+            "timestamp": "2025-10-08 15:28:31"
+        },
+        {
+            "speaker": "grok-3_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Studies, like those from the OECD, show countries with universal systems often have better health outcomes and lower inequality, proving the investment pays off over time despite the higher spend."
+                ],
+                [
+                    "___Claim___",
+                    "Investing in the NHS through public funds cuts down on long-term expenses from preventable diseases, which would otherwise drain resources if people can\u2019t afford private care."
+                ],
+                [
+                    "___Claim___",
+                    "Studies from the World Health Organisation show that countries without robust public systems often have higher rates of preventable deaths among the poorest because access to treatment is tied to wealth."
+                ],
+                [
+                    "___Claim___",
+                    "I reckon the economic benefits of universal healthcare outweigh the drawbacks of increased government spending since a healthier workforce means higher productivity and less time off sick, which boosts the economy more than the cost of funding the NHS."
+                ],
+                [
+                    "___Claim___",
+                    "Progressive taxation isn\u2019t about punishing the wealthy; it\u2019s about ensuring everyone chips in based on what they can afford to keep vital services running for all."
+                ]
+            ],
+            "sentences_no_utterance_types": "Studies, like those from the OECD, show countries with universal systems often have better health outcomes and lower inequality, proving the investment pays off over time despite the higher spend. Investing in the NHS through public funds cuts down on long-term expenses from preventable diseases, which would otherwise drain resources if people can\u2019t afford private care. Studies from the World Health Organisation show that countries without robust public systems often have higher rates of preventable deaths among the poorest because access to treatment is tied to wealth. I reckon the economic benefits of universal healthcare outweigh the drawbacks of increased government spending since a healthier workforce means higher productivity and less time off sick, which boosts the economy more than the cost of funding the NHS. Progressive taxation isn\u2019t about punishing the wealthy; it\u2019s about ensuring everyone chips in based on what they can afford to keep vital services running for all.",
+            "timestamp": "2025-10-08 15:31:53"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Question___",
+                    "How can you guarantee that public funds for the NHS won\u2019t be mismanaged or wasted, leading to inefficiencies rather than cost savings?"
+                ],
+                [
+                    "___Why___",
+                    "Why should the government be responsible for healthcare when private providers could potentially offer better services?"
+                ],
+                [
+                    "___Why___",
+                    "Why do you think the OECD's findings are definitive proof that universal healthcare is the best approach for the UK?"
+                ],
+                [
+                    "___Question___",
+                    "How do you explain the inefficiencies and long waiting times often seen in universal healthcare systems like the NHS?"
+                ],
+                [
+                    "___Question___",
+                    "Why do you believe the wealthy shouldn\u2019t have the autonomy to decide how their own money is spent?"
+                ]
+            ],
+            "sentences_no_utterance_types": "How can you guarantee that public funds for the NHS won\u2019t be mismanaged or wasted, leading to inefficiencies rather than cost savings? Why should the government be responsible for healthcare when private providers could potentially offer better services? Why do you think the OECD's findings are definitive proof that universal healthcare is the best approach for the UK? How do you explain the inefficiencies and long waiting times often seen in universal healthcare systems like the NHS? Why do you believe the wealthy shouldn\u2019t have the autonomy to decide how their own money is spent?",
+            "timestamp": "2025-10-08 15:40:22"
+        },
+        {
+            "speaker": "grok-3_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government oversight through the NHS ensures accountability and universal coverage, something private companies can\u2019t guarantee as their main drive is financial gain."
+                ],
+                [
+                    "___Since___",
+                    "If the rich could just opt out of funding public goods through progressive taxation, we\u2019d see even wider inequality and crumbling services for those who need them most."
+                ],
+                [
+                    "___Claim___",
+                    "Relying on private providers risks creating a two-tier system where only the wealthy get top-notch service, which goes against fairness and social equity."
+                ],
+                [
+                    "___Since___",
+                    "I reckon the OECD's findings are definitive proof that universal healthcare is the best approach for the UK since their data shows countries with such systems consistently have better health outcomes across all income groups."
+                ],
+                [
+                    "___Claim___",
+                    "If we look at data from the King's Fund, it shows waiting times spike when resources don't keep up with population growth and ageing demographics, so the solution is more funding, not scrapping the system."
+                ]
+            ],
+            "sentences_no_utterance_types": "Government oversight through the NHS ensures accountability and universal coverage, something private companies can\u2019t guarantee as their main drive is financial gain. If the rich could just opt out of funding public goods through progressive taxation, we\u2019d see even wider inequality and crumbling services for those who need them most. Relying on private providers risks creating a two-tier system where only the wealthy get top-notch service, which goes against fairness and social equity. I reckon the OECD's findings are definitive proof that universal healthcare is the best approach for the UK since their data shows countries with such systems consistently have better health outcomes across all income groups. If we look at data from the King's Fund, it shows waiting times spike when resources don't keep up with population growth and ageing demographics, so the solution is more funding, not scrapping the system.",
+            "timestamp": "2025-10-08 15:41:35"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Question___",
+                    "What makes you believe the King's Fund data is conclusive enough to justify higher taxes instead of exploring alternative healthcare models?"
+                ],
+                [
+                    "___Question___",
+                    "How can you be sure that government oversight is more effective than market competition in ensuring accountability in healthcare?"
+                ],
+                [
+                    "___Question___",
+                    "What evidence do you have that social equity is better served by government-run healthcare rather than a regulated private system?"
+                ],
+                [
+                    "___Why___",
+                    "Why do you think progressive taxation is the only way to prevent inequality from widening?"
+                ],
+                [
+                    "___Question___",
+                    "Why do you think increased funding is the only solution when other countries have improved healthcare outcomes through reform and innovation?"
+                ]
+            ],
+            "sentences_no_utterance_types": "What makes you believe the King's Fund data is conclusive enough to justify higher taxes instead of exploring alternative healthcare models? How can you be sure that government oversight is more effective than market competition in ensuring accountability in healthcare? What evidence do you have that social equity is better served by government-run healthcare rather than a regulated private system? Why do you think progressive taxation is the only way to prevent inequality from widening? Why do you think increased funding is the only solution when other countries have improved healthcare outcomes through reform and innovation?",
+            "timestamp": "2025-10-08 15:45:28"
+        },
+        {
+            "speaker": "grok-3_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "I reckon government-run healthcare serves social equity better since data from the World Health Organisation shows that public systems like the NHS ensure access for all, while private systems often leave the poorest without care due to cost barriers."
+                ],
+                [
+                    "___Claim___",
+                    "Innovation alone can\u2019t fix systemic underfunding; data from the King\u2019s Fund shows that consistent investment in public healthcare correlates with better access and outcomes, unlike patchy reforms that often prioritise profit over equity."
+                ],
+                [
+                    "___Since___",
+                    "Data from reports like those by the Care Quality Commission shows consistent monitoring by the state catches failings in care standards that market forces often ignore until it\u2019s too late."
+                ],
+                [
+                    "___Claim___",
+                    "Evidence from the Institute for Fiscal Studies backs this up, showing progressive tax systems directly reduce income inequality by redistributing resources to where they\u2019re needed most."
+                ],
+                [
+                    "___Claim___",
+                    "Market competition often leads to cherry-picking profitable patients while neglecting the vulnerable, whereas government oversight ensures everyone gets care regardless of their ability to pay."
+                ]
+            ],
+            "sentences_no_utterance_types": "I reckon government-run healthcare serves social equity better since data from the World Health Organisation shows that public systems like the NHS ensure access for all, while private systems often leave the poorest without care due to cost barriers. Innovation alone can\u2019t fix systemic underfunding; data from the King\u2019s Fund shows that consistent investment in public healthcare correlates with better access and outcomes, unlike patchy reforms that often prioritise profit over equity. Data from reports like those by the Care Quality Commission shows consistent monitoring by the state catches failings in care standards that market forces often ignore until it\u2019s too late. Evidence from the Institute for Fiscal Studies backs this up, showing progressive tax systems directly reduce income inequality by redistributing resources to where they\u2019re needed most. Market competition often leads to cherry-picking profitable patients while neglecting the vulnerable, whereas government oversight ensures everyone gets care regardless of their ability to pay.",
+            "timestamp": "2025-10-08 15:46:39"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why do you think progressive taxation is the only way to redistribute resources effectively?"
+                ],
+                [
+                    "___Question___",
+                    "What makes you think that innovation can\u2019t address underfunding without increased government spending?"
+                ],
+                [
+                    "___Question___",
+                    "How can you justify ignoring the potential for innovation and efficiency in private healthcare just because of cost barriers?"
+                ],
+                [
+                    "___Question___",
+                    "What makes you so sure that government intervention is the only way to ensure access for all when private systems could be regulated to do the same?"
+                ],
+                [
+                    "___Why___",
+                    "Why should the government decide where resources are needed most instead of individuals choosing for themselves?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Why do you think progressive taxation is the only way to redistribute resources effectively? What makes you think that innovation can\u2019t address underfunding without increased government spending? How can you justify ignoring the potential for innovation and efficiency in private healthcare just because of cost barriers? What makes you so sure that government intervention is the only way to ensure access for all when private systems could be regulated to do the same? Why should the government decide where resources are needed most instead of individuals choosing for themselves?",
+            "timestamp": "2025-10-08 15:49:26"
+        },
+        {
+            "speaker": "grok-3_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Data from the World Health Organisation shows that private systems, even with innovation, often prioritise profit over universal access, leaving millions without basic treatment."
+                ],
+                [
+                    "___Claim___",
+                    "Data from the World Health Organisation shows public systems consistently outperform regulated private ones in providing equitable access, which is why I stand firm on government-led healthcare."
+                ],
+                [
+                    "___Claim___",
+                    "Evidence from the Institute for Fiscal Studies shows that progressive tax systems directly cut income inequality by funnelling resources to where they\u2019re most needed, unlike flat taxes that hit the poor harder."
+                ],
+                [
+                    "___Since___",
+                    "Public bodies like the NHS can target funds to under-served areas, ensuring fairness, which is something market-driven choices can\u2019t guarantee."
+                ],
+                [
+                    "___Claim___",
+                    "Data from the King\u2019s Fund shows that even with innovative approaches, the NHS struggles when budgets don\u2019t keep up with demand, proving cash injections from the state are essential."
+                ]
+            ],
+            "sentences_no_utterance_types": "Data from the World Health Organisation shows that private systems, even with innovation, often prioritise profit over universal access, leaving millions without basic treatment. Data from the World Health Organisation shows public systems consistently outperform regulated private ones in providing equitable access, which is why I stand firm on government-led healthcare. Evidence from the Institute for Fiscal Studies shows that progressive tax systems directly cut income inequality by funnelling resources to where they\u2019re most needed, unlike flat taxes that hit the poor harder. Public bodies like the NHS can target funds to under-served areas, ensuring fairness, which is something market-driven choices can\u2019t guarantee. Data from the King\u2019s Fund shows that even with innovative approaches, the NHS struggles when budgets don\u2019t keep up with demand, proving cash injections from the state are essential.",
+            "timestamp": "2025-10-08 15:51:01"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why do you think progressive taxation is the only way to ensure resources are funneled to where they\u2019re most needed?"
+                ],
+                [
+                    "___Why___",
+                    "Why should public bodies decide what\u2019s fair instead of letting people choose where their money goes?"
+                ],
+                [
+                    "___Question___",
+                    "What evidence do you have that government-led healthcare is the only way to ensure fair access for all?"
+                ],
+                [
+                    "___Why___",
+                    "Why do you think the state is the only source capable of providing these essential cash injections?"
+                ],
+                [
+                    "___Why___",
+                    "Why do you think the NHS is more efficient at targeting funds than private providers with local knowledge?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Why do you think progressive taxation is the only way to ensure resources are funneled to where they\u2019re most needed? Why should public bodies decide what\u2019s fair instead of letting people choose where their money goes? What evidence do you have that government-led healthcare is the only way to ensure fair access for all? Why do you think the state is the only source capable of providing these essential cash injections? Why do you think the NHS is more efficient at targeting funds than private providers with local knowledge?",
+            "timestamp": "2025-10-08 15:55:30"
+        },
+        {
+            "speaker": "grok-3_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Evidence from the King\u2019s Fund shows that public systems like the NHS can redirect funds based on population health trends, something private firms rarely do as they\u2019re driven by short-term financial gains over long-term fairness."
+                ],
+                [
+                    "___Claim___",
+                    "I reckon progressive taxation is the only way to funnel resources where they\u2019re most needed since it ensures the wealthiest pay a fairer share to fund vital services like the NHS, which directly support the most vulnerable."
+                ],
+                [
+                    "___Since___",
+                    "I\u2019ve got evidence from the World Health Organisation showing that government-led healthcare systems like the NHS consistently provide better access across all income groups compared to private models where cost barriers exclude the poorest."
+                ],
+                [
+                    "___Claim___",
+                    "Data from the OECD backs this up, showing countries with public healthcare have lower rates of preventable deaths among low-income groups, proving government intervention is the key to fair access."
+                ],
+                [
+                    "___Claim___",
+                    "Studies by the King\u2019s Fund highlight that only state-run systems can mandate universal coverage, as private providers often cherry-pick profitable patients and leave the vulnerable without care."
+                ],
+                [
+                    "___Claim___",
+                    "I\u2019ve got evidence from the World Health Organisation showing that government-led healthcare systems like the NHS consistently provide better access across all income groups compared to private models where cost barriers exclude the poorest."
+                ]
+            ],
+            "sentences_no_utterance_types": "Evidence from the King\u2019s Fund shows that public systems like the NHS can redirect funds based on population health trends, something private firms rarely do as they\u2019re driven by short-term financial gains over long-term fairness. I reckon progressive taxation is the only way to funnel resources where they\u2019re most needed since it ensures the wealthiest pay a fairer share to fund vital services like the NHS, which directly support the most vulnerable. I\u2019ve got evidence from the World Health Organisation showing that government-led healthcare systems like the NHS consistently provide better access across all income groups compared to private models where cost barriers exclude the poorest. Data from the OECD backs this up, showing countries with public healthcare have lower rates of preventable deaths among low-income groups, proving government intervention is the key to fair access. Studies by the King\u2019s Fund highlight that only state-run systems can mandate universal coverage, as private providers often cherry-pick profitable patients and leave the vulnerable without care. I\u2019ve got evidence from the World Health Organisation showing that government-led healthcare systems like the NHS consistently provide better access across all income groups compared to private models where cost barriers exclude the poorest.",
+            "timestamp": "2025-10-08 15:58:10"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why do you assume government intervention is the only way to achieve fair access when private systems could be regulated to do the same?"
+                ],
+                [
+                    "___Question___",
+                    "What makes you believe the NHS is more efficient at long-term planning when private firms have better data-driven tools?"
+                ],
+                [
+                    "___Question___",
+                    "How can you be sure that government-led systems don\u2019t just shift cost barriers to taxpayers instead of patients?"
+                ],
+                [
+                    "___Why___",
+                    "Why should we ignore the potential for private healthcare to reduce preventable deaths with targeted innovation?"
+                ],
+                [
+                    "___Question___",
+                    "Why do you think private providers can\u2019t be held accountable for cherry-picking patients without scrapping the entire system?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Why do you assume government intervention is the only way to achieve fair access when private systems could be regulated to do the same? What makes you believe the NHS is more efficient at long-term planning when private firms have better data-driven tools? How can you be sure that government-led systems don\u2019t just shift cost barriers to taxpayers instead of patients? Why should we ignore the potential for private healthcare to reduce preventable deaths with targeted innovation? Why do you think private providers can\u2019t be held accountable for cherry-picking patients without scrapping the entire system?",
+            "timestamp": "2025-10-08 16:01:29"
+        },
+        {
+            "speaker": "grok-3_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Data from the OECD shows that public healthcare systems often have lower overall costs per person compared to private ones, meaning taxpayers aren't just replacing patient fees but actually saving in the long run."
+                ],
+                [
+                    "___Claim___",
+                    "I reckon government intervention is the only way to guarantee fair access since data from the World Health Organisation shows public systems like the NHS consistently cover everyone, while even regulated private systems often fail to prioritise the poorest due to profit motives."
+                ],
+                [
+                    "___Since___",
+                    "Evidence from the King\u2019s Fund highlights that the NHS prioritises preventative care, which cuts long-term expenses for everyone, unlike private systems where untreated issues rack up bigger bills for individuals."
+                ],
+                [
+                    "___Claim___",
+                    "Data from the King\u2019s Fund highlights that only a government-led approach can mandate equal treatment across the board, as private firms lack the incentive to self-regulate against cherry-picking without constant state intervention."
+                ],
+                [
+                    "___Since___",
+                    "Evidence from the OECD highlights that countries with government-led healthcare consistently have better access across all income groups, proving state control is the surest path to fairness over relying on market tweaks."
+                ]
+            ],
+            "sentences_no_utterance_types": "Data from the OECD shows that public healthcare systems often have lower overall costs per person compared to private ones, meaning taxpayers aren't just replacing patient fees but actually saving in the long run. I reckon government intervention is the only way to guarantee fair access since data from the World Health Organisation shows public systems like the NHS consistently cover everyone, while even regulated private systems often fail to prioritise the poorest due to profit motives. Evidence from the King\u2019s Fund highlights that the NHS prioritises preventative care, which cuts long-term expenses for everyone, unlike private systems where untreated issues rack up bigger bills for individuals. Data from the King\u2019s Fund highlights that only a government-led approach can mandate equal treatment across the board, as private firms lack the incentive to self-regulate against cherry-picking without constant state intervention. Evidence from the OECD highlights that countries with government-led healthcare consistently have better access across all income groups, proving state control is the surest path to fairness over relying on market tweaks.",
+            "timestamp": "2025-10-08 16:03:08"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Question___",
+                    "What makes you believe government-led healthcare is the surest path to fairness when private systems could be held accountable for equal access?"
+                ],
+                [
+                    "___Why___",
+                    "Why should we trust the OECD\u2019s data over real-world examples where private systems have cut costs through competition?"
+                ],
+                [
+                    "___Question___",
+                    "How can you be sure that lower costs in public systems don\u2019t come at the expense of quality or innovation?"
+                ],
+                [
+                    "___Why___",
+                    "Why should we ignore the potential for private healthcare to reduce long-term costs through innovation?"
+                ],
+                [
+                    "___Question___",
+                    "What makes you believe the NHS is the only way to guarantee fair access when private innovation could achieve the same?"
+                ]
+            ],
+            "sentences_no_utterance_types": "What makes you believe government-led healthcare is the surest path to fairness when private systems could be held accountable for equal access? Why should we trust the OECD\u2019s data over real-world examples where private systems have cut costs through competition? How can you be sure that lower costs in public systems don\u2019t come at the expense of quality or innovation? Why should we ignore the potential for private healthcare to reduce long-term costs through innovation? What makes you believe the NHS is the only way to guarantee fair access when private innovation could achieve the same?",
+            "timestamp": "2025-10-08 16:09:23"
+        },
+        {
+            "speaker": "grok-3_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Evidence from the OECD highlights that public systems like the NHS achieve lower per-person costs over time by focusing on preventative care, which private innovation often overlooks in favour of high-cost treatments."
+                ],
+                [
+                    "___Claim___",
+                    "Innovation isn\u2019t stifled in public systems as reports from the NHS show they\u2019re adopting new tech like AI diagnostics at scale, proving you don\u2019t need private profit motives to drive progress."
+                ],
+                [
+                    "___Claim___",
+                    "Evidence from the OECD highlights that government-led systems like the NHS consistently deliver equitable healthcare across income groups, unlike private models where access depends on ability to pay."
+                ],
+                [
+                    "___Since___",
+                    "Reports from the King\u2019s Fund show the NHS can prioritise need over ability to pay, something private systems rarely achieve even when held to account, as their core drive remains financial gain."
+                ],
+                [
+                    "___Claim___",
+                    "The King\u2019s Fund data shows that public systems like the NHS can integrate innovation through state funding while ensuring everyone benefits, unlike private models where cost reductions rarely trickle down to the most vulnerable."
+                ]
+            ],
+            "sentences_no_utterance_types": "Evidence from the OECD highlights that public systems like the NHS achieve lower per-person costs over time by focusing on preventative care, which private innovation often overlooks in favour of high-cost treatments. Innovation isn\u2019t stifled in public systems as reports from the NHS show they\u2019re adopting new tech like AI diagnostics at scale, proving you don\u2019t need private profit motives to drive progress. Evidence from the OECD highlights that government-led systems like the NHS consistently deliver equitable healthcare across income groups, unlike private models where access depends on ability to pay. Reports from the King\u2019s Fund show the NHS can prioritise need over ability to pay, something private systems rarely achieve even when held to account, as their core drive remains financial gain. The King\u2019s Fund data shows that public systems like the NHS can integrate innovation through state funding while ensuring everyone benefits, unlike private models where cost reductions rarely trickle down to the most vulnerable.",
+            "timestamp": "2025-10-08 16:11:15"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Question___",
+                    "What makes you believe the OECD\u2019s data is more reliable than real-world examples where private systems have cut costs through competition?"
+                ],
+                [
+                    "___Why___",
+                    "Why do you think private systems can\u2019t adopt preventative care models without government intervention?"
+                ],
+                [
+                    "___Why___",
+                    "Why do you believe state funding is the only way to integrate innovation fairly across all income groups?"
+                ],
+                [
+                    "___Why___",
+                    "Why do you think private models can\u2019t be regulated to ensure equitable access without government control?"
+                ],
+                [
+                    "___Why___",
+                    "Why should we ignore the potential for private healthcare to reduce costs and improve access through innovation?"
+                ]
+            ],
+            "sentences_no_utterance_types": "What makes you believe the OECD\u2019s data is more reliable than real-world examples where private systems have cut costs through competition? Why do you think private systems can\u2019t adopt preventative care models without government intervention? Why do you believe state funding is the only way to integrate innovation fairly across all income groups? Why do you think private models can\u2019t be regulated to ensure equitable access without government control? Why should we ignore the potential for private healthcare to reduce costs and improve access through innovation?",
+            "timestamp": "2025-10-08 16:19:20"
+        },
+        {
+            "speaker": "grok-3_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Their research shows public systems like the NHS deliver consistent equity and lower per-person costs over decades, while private competition often leads to hidden expenses for the vulnerable."
+                ],
+                [
+                    "___Since___",
+                    "Data from the OECD backs this up, showing government-led healthcare systems consistently spread benefits of innovation across society, unlike market-driven setups where profit dictates who gets what."
+                ],
+                [
+                    "___Since___",
+                    "Reports from the OECD show that only government-led systems like the NHS consistently deliver fair access across all income groups, proving that without direct state control, regulation alone fails to bridge the equity gap in private models."
+                ],
+                [
+                    "___Claim___",
+                    "Evidence from the OECD highlights that public systems like the NHS deliver lower long-term costs per person by prioritising preventative care, something private innovation rarely focuses on as it chases high-cost treatments."
+                ],
+                [
+                    "___Claim___",
+                    "Reports from the King\u2019s Fund show that even with private innovation, cost reductions don\u2019t trickle down to the vulnerable, unlike the NHS which ensures access for all through state funding."
+                ]
+            ],
+            "sentences_no_utterance_types": "Their research shows public systems like the NHS deliver consistent equity and lower per-person costs over decades, while private competition often leads to hidden expenses for the vulnerable. Data from the OECD backs this up, showing government-led healthcare systems consistently spread benefits of innovation across society, unlike market-driven setups where profit dictates who gets what. Reports from the OECD show that only government-led systems like the NHS consistently deliver fair access across all income groups, proving that without direct state control, regulation alone fails to bridge the equity gap in private models. Evidence from the OECD highlights that public systems like the NHS deliver lower long-term costs per person by prioritising preventative care, something private innovation rarely focuses on as it chases high-cost treatments. Reports from the King\u2019s Fund show that even with private innovation, cost reductions don\u2019t trickle down to the vulnerable, unlike the NHS which ensures access for all through state funding.",
+            "timestamp": "2025-10-08 16:20:57"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why do you think private innovation can\u2019t be regulated to ensure cost reductions benefit everyone, not just the wealthy?"
+                ],
+                [
+                    "___Why___",
+                    "Why should we trust the NHS to deliver consistent equity when private systems could be held to the same standards?"
+                ],
+                [
+                    "___Question___",
+                    "What evidence do you have that private models can\u2019t be regulated to ensure equitable access?"
+                ],
+                [
+                    "___Question___",
+                    "Why do you think private healthcare can\u2019t prioritise preventative care without government intervention?"
+                ],
+                [
+                    "___Why___",
+                    "Why do you believe the NHS is the only way to ensure fair access when private innovation could achieve the same?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Why do you think private innovation can\u2019t be regulated to ensure cost reductions benefit everyone, not just the wealthy? Why should we trust the NHS to deliver consistent equity when private systems could be held to the same standards? What evidence do you have that private models can\u2019t be regulated to ensure equitable access? Why do you think private healthcare can\u2019t prioritise preventative care without government intervention? Why do you believe the NHS is the only way to ensure fair access when private innovation could achieve the same?",
+            "timestamp": "2025-10-08 16:29:12"
+        },
+        {
+            "speaker": "grok-3_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Reports from the OECD show that only government-led systems like the NHS consistently push preventative care across all income groups, while private systems often neglect it unless forced by state regulation."
+                ],
+                [
+                    "___Claim___",
+                    "Evidence from the King\u2019s Fund highlights that the NHS is built to prioritise need over ability to pay, something private systems struggle to match even with regulation as their core focus remains financial gain."
+                ],
+                [
+                    "___Since___",
+                    "Reports from the OECD back this up, showing government-led systems like the NHS deliver better health outcomes across all social groups, something private models struggle to match without state control."
+                ],
+                [
+                    "___Since___",
+                    "Data from the World Health Organisation shows private systems often neglect preventative measures like vaccinations for the poor, as they ain\u2019t seen as profitable, unlike the NHS which rolls them out for everyone."
+                ],
+                [
+                    "___Claim___",
+                    "Data from the OECD highlights that countries with heavily regulated private systems still see higher rates of preventable deaths among low-income groups compared to public systems like the NHS, proving regulation alone isn\u2019t enough."
+                ]
+            ],
+            "sentences_no_utterance_types": "Reports from the OECD show that only government-led systems like the NHS consistently push preventative care across all income groups, while private systems often neglect it unless forced by state regulation. Evidence from the King\u2019s Fund highlights that the NHS is built to prioritise need over ability to pay, something private systems struggle to match even with regulation as their core focus remains financial gain. Reports from the OECD back this up, showing government-led systems like the NHS deliver better health outcomes across all social groups, something private models struggle to match without state control. Data from the World Health Organisation shows private systems often neglect preventative measures like vaccinations for the poor, as they ain\u2019t seen as profitable, unlike the NHS which rolls them out for everyone. Data from the OECD highlights that countries with heavily regulated private systems still see higher rates of preventable deaths among low-income groups compared to public systems like the NHS, proving regulation alone isn\u2019t enough.",
+            "timestamp": "2025-10-08 16:30:53"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Question___",
+                    "Why do you think private systems can\u2019t prioritise preventative care without government intervention?"
+                ],
+                [
+                    "___Question___",
+                    "What evidence do you have that private models can\u2019t be regulated to ensure equitable access?"
+                ],
+                [
+                    "___Question___",
+                    "Why do you think private systems can\u2019t be regulated to prioritise need over profit just as effectively as the NHS?"
+                ],
+                [
+                    "___Question___",
+                    "Why do you think private models can\u2019t achieve the same health outcomes as the NHS without government control?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Why do you think private systems can\u2019t prioritise preventative care without government intervention? What evidence do you have that private models can\u2019t be regulated to ensure equitable access? Why do you think private systems can\u2019t be regulated to prioritise need over profit just as effectively as the NHS? Why do you think private models can\u2019t achieve the same health outcomes as the NHS without government control?",
+            "timestamp": "2025-10-08 16:37:29"
+        },
+        {
+            "speaker": "grok-3_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Reports from the King\u2019s Fund show that without government control, private healthcare lacks the incentive to tackle systemic health inequalities, something the NHS achieves through targeted public funding."
+                ],
+                [
+                    "___Claim___",
+                    "Evidence from the World Health Organisation highlights that private systems rarely achieve the same equitable results as the NHS because their focus on financial gain sidelines preventative care for lower-income groups."
+                ],
+                [
+                    "___Claim___",
+                    "Reports from the King\u2019s Fund show that the NHS embeds need-based care into its structure through state control, something private systems struggle to replicate even under regulation because profit motives always creep back in."
+                ],
+                [
+                    "___Claim___",
+                    "I reckon private systems can\u2019t prioritise preventative care without government intervention since their profit-driven model focuses on expensive treatments rather than low-cost prevention, as data from the World Health Organisation shows with neglected vaccination programmes for the poor."
+                ],
+                [
+                    "___Claim___",
+                    "Evidence from the OECD highlights that even with strict regulation, private healthcare models consistently fail to match the NHS in ensuring equitable access across all income groups due to underlying market incentives."
+                ]
+            ],
+            "sentences_no_utterance_types": "Reports from the King\u2019s Fund show that without government control, private healthcare lacks the incentive to tackle systemic health inequalities, something the NHS achieves through targeted public funding. Evidence from the World Health Organisation highlights that private systems rarely achieve the same equitable results as the NHS because their focus on financial gain sidelines preventative care for lower-income groups. Reports from the King\u2019s Fund show that the NHS embeds need-based care into its structure through state control, something private systems struggle to replicate even under regulation because profit motives always creep back in. I reckon private systems can\u2019t prioritise preventative care without government intervention since their profit-driven model focuses on expensive treatments rather than low-cost prevention, as data from the World Health Organisation shows with neglected vaccination programmes for the poor. Evidence from the OECD highlights that even with strict regulation, private healthcare models consistently fail to match the NHS in ensuring equitable access across all income groups due to underlying market incentives.",
+            "timestamp": "2025-10-08 16:38:56"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why should we assume the NHS is the only system capable of delivering fair outcomes when private models could be regulated to do the same?"
+                ],
+                [
+                    "___Question___",
+                    "Why do you think private healthcare can\u2019t address systemic health inequalities without government control?"
+                ],
+                [
+                    "___Why___",
+                    "Why should we assume private systems won\u2019t invest in low-cost prevention if it reduces long-term healthcare costs and increases productivity?"
+                ],
+                [
+                    "___Why___",
+                    "Why should we assume profit motives always undermine equitable care in private systems when regulation could address that?"
+                ],
+                [
+                    "___Why___",
+                    "Why do you think private healthcare can\u2019t overcome market incentives to provide equitable access like the NHS does?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Why should we assume the NHS is the only system capable of delivering fair outcomes when private models could be regulated to do the same? Why do you think private healthcare can\u2019t address systemic health inequalities without government control? Why should we assume private systems won\u2019t invest in low-cost prevention if it reduces long-term healthcare costs and increases productivity? Why should we assume profit motives always undermine equitable care in private systems when regulation could address that? Why do you think private healthcare can\u2019t overcome market incentives to provide equitable access like the NHS does?",
+            "timestamp": "2025-10-08 16:42:41"
+        },
+        {
+            "speaker": "grok-3_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "I reckon the NHS is the only system that can truly deliver fair outcomes since data from the World Health Organisation shows public systems consistently ensure access for all, while regulated private models still leave gaps for the poorest due to profit motives."
+                ],
+                [
+                    "___Since___",
+                    "Evidence from the OECD highlights that government-led healthcare like the NHS embeds equity into its core through universal mandates, something private systems struggle to match as regulation often fails to override their financial incentives."
+                ],
+                [
+                    "___Since___",
+                    "Evidence from the OECD highlights that regulated private systems still show higher rates of preventable deaths among low-income groups compared to public systems like the NHS, proving regulation can\u2019t fully counter profit-driven bias."
+                ],
+                [
+                    "___Since___",
+                    "Reports from the King\u2019s Fund show the NHS prioritises need over ability to pay in a way that private models can\u2019t replicate without constant state intervention, proving only a public system guarantees fairness across the board."
+                ],
+                [
+                    "___Claim___",
+                    "I reckon private healthcare can\u2019t overcome market incentives to provide equitable access since data from the World Health Organisation shows their profit-driven model consistently prioritises paying customers over the vulnerable, unlike the NHS which serves everyone."
+                ]
+            ],
+            "sentences_no_utterance_types": "I reckon the NHS is the only system that can truly deliver fair outcomes since data from the World Health Organisation shows public systems consistently ensure access for all, while regulated private models still leave gaps for the poorest due to profit motives. Evidence from the OECD highlights that government-led healthcare like the NHS embeds equity into its core through universal mandates, something private systems struggle to match as regulation often fails to override their financial incentives. Evidence from the OECD highlights that regulated private systems still show higher rates of preventable deaths among low-income groups compared to public systems like the NHS, proving regulation can\u2019t fully counter profit-driven bias. Reports from the King\u2019s Fund show the NHS prioritises need over ability to pay in a way that private models can\u2019t replicate without constant state intervention, proving only a public system guarantees fairness across the board. I reckon private healthcare can\u2019t overcome market incentives to provide equitable access since data from the World Health Organisation shows their profit-driven model consistently prioritises paying customers over the vulnerable, unlike the NHS which serves everyone.",
+            "timestamp": "2025-10-08 16:44:15"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Question___",
+                    "How can you be sure that government mandates are the only way to ensure fairness when private innovation could be harnessed for the same goal?"
+                ],
+                [
+                    "___Question___",
+                    "What evidence do you have that profit-driven bias can\u2019t be countered by regulation in private healthcare?"
+                ],
+                [
+                    "___Question___",
+                    "What makes you believe financial incentives in private healthcare can\u2019t be aligned with equitable access through smart policy?"
+                ],
+                [
+                    "___Question___",
+                    "Why do you think private systems can\u2019t be regulated to prioritise low-income groups just as effectively as the NHS?"
+                ],
+                [
+                    "___Question___",
+                    "Why do you think private models can\u2019t prioritise need over profit without government control?"
+                ]
+            ],
+            "sentences_no_utterance_types": "How can you be sure that government mandates are the only way to ensure fairness when private innovation could be harnessed for the same goal? What evidence do you have that profit-driven bias can\u2019t be countered by regulation in private healthcare? What makes you believe financial incentives in private healthcare can\u2019t be aligned with equitable access through smart policy? Why do you think private systems can\u2019t be regulated to prioritise low-income groups just as effectively as the NHS? Why do you think private models can\u2019t prioritise need over profit without government control?",
+            "timestamp": "2025-10-08 16:48:42"
+        },
+        {
+            "speaker": "grok-3_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Reports from the King\u2019s Fund show that private healthcare\u2019s core drive for financial gain always skews service towards those who can pay, undermining equity despite any well-intended policy tweaks."
+                ],
+                [
+                    "___Claim___",
+                    "Reports from the OECD highlight that regulated private models still show higher rates of preventable deaths among the poorest, proving that profit-driven bias often overrides regulatory efforts."
+                ],
+                [
+                    "___Claim___",
+                    "Evidence from the OECD highlights that state-led systems like the NHS embed universal care into their framework, something private innovation can\u2019t consistently match as market incentives always lean towards wealthier clients."
+                ],
+                [
+                    "___Claim___",
+                    "I\u2019ve got evidence from the World Health Organisation showing that even with regulation, private healthcare systems often prioritise profit over equitable access, leaving low-income groups with worse health outcomes compared to public systems like the NHS."
+                ],
+                [
+                    "___Claim___",
+                    "Reports from the OECD show that without government control, private systems fail to address systemic health inequalities as their financial incentives always push them towards profit over fairness."
+                ]
+            ],
+            "sentences_no_utterance_types": "Reports from the King\u2019s Fund show that private healthcare\u2019s core drive for financial gain always skews service towards those who can pay, undermining equity despite any well-intended policy tweaks. Reports from the OECD highlight that regulated private models still show higher rates of preventable deaths among the poorest, proving that profit-driven bias often overrides regulatory efforts. Evidence from the OECD highlights that state-led systems like the NHS embed universal care into their framework, something private innovation can\u2019t consistently match as market incentives always lean towards wealthier clients. I\u2019ve got evidence from the World Health Organisation showing that even with regulation, private healthcare systems often prioritise profit over equitable access, leaving low-income groups with worse health outcomes compared to public systems like the NHS. Reports from the OECD show that without government control, private systems fail to address systemic health inequalities as their financial incentives always push them towards profit over fairness.",
+            "timestamp": "2025-10-08 16:50:18"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why should we assume market incentives always lean towards wealthier clients when regulation could enforce equitable access?"
+                ],
+                [
+                    "___Why___",
+                    "Why do you believe private systems can\u2019t prioritise low-income groups just as effectively as the NHS with the right regulations?"
+                ],
+                [
+                    "___Question___",
+                    "What makes you believe market incentives can\u2019t be aligned with equitable access through smart regulation?"
+                ],
+                [
+                    "___Question___",
+                    "Why do you think private healthcare can\u2019t be regulated to prioritise the poorest over profit?"
+                ],
+                [
+                    "___Why___",
+                    "Why do you believe financial gain always undermines equity in private systems when regulation could address that?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Why should we assume market incentives always lean towards wealthier clients when regulation could enforce equitable access? Why do you believe private systems can\u2019t prioritise low-income groups just as effectively as the NHS with the right regulations? What makes you believe market incentives can\u2019t be aligned with equitable access through smart regulation? Why do you think private healthcare can\u2019t be regulated to prioritise the poorest over profit? Why do you believe financial gain always undermines equity in private systems when regulation could address that?",
+            "timestamp": "2025-10-08 16:53:36"
+        },
+        {
+            "speaker": "grok-3_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Evidence from the OECD highlights that even with strict regulation, private systems still show worse health outcomes for low-income groups compared to public systems like the NHS, proving rules alone don\u2019t shift their core incentives."
+                ],
+                [
+                    "___Since___",
+                    "I reckon market incentives can\u2019t be aligned with equitable access even with smart regulation since data from the World Health Organisation shows private systems consistently prioritise profit over covering the poorest, no matter the rules in place."
+                ],
+                [
+                    "___Since___",
+                    "Reports from the King\u2019s Fund show the NHS is designed to target need over ability to pay, something private systems struggle to match as financial gain always creeps in despite regulatory efforts."
+                ],
+                [
+                    "___Claim___",
+                    "Reports from the King\u2019s Fund show the NHS is designed to target need over ability to pay, something private systems struggle to match as financial gain always creeps in despite regulatory efforts."
+                ],
+                [
+                    "___Claim___",
+                    "Evidence from the OECD highlights that regulated private healthcare still results in higher preventable deaths among the poorest, proving regulations often fail to override profit motives unlike the NHS\u2019s universal mandate."
+                ]
+            ],
+            "sentences_no_utterance_types": "Evidence from the OECD highlights that even with strict regulation, private systems still show worse health outcomes for low-income groups compared to public systems like the NHS, proving rules alone don\u2019t shift their core incentives. I reckon market incentives can\u2019t be aligned with equitable access even with smart regulation since data from the World Health Organisation shows private systems consistently prioritise profit over covering the poorest, no matter the rules in place. Reports from the King\u2019s Fund show the NHS is designed to target need over ability to pay, something private systems struggle to match as financial gain always creeps in despite regulatory efforts. Reports from the King\u2019s Fund show the NHS is designed to target need over ability to pay, something private systems struggle to match as financial gain always creeps in despite regulatory efforts. Evidence from the OECD highlights that regulated private healthcare still results in higher preventable deaths among the poorest, proving regulations often fail to override profit motives unlike the NHS\u2019s universal mandate.",
+            "timestamp": "2025-10-08 16:55:40"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Question___",
+                    "What makes you believe the NHS is the only system that can shift core incentives towards equitable care?"
+                ],
+                [
+                    "___Why___",
+                    "Why do you believe the NHS is the only system that can deliver fair outcomes when private models could be regulated to do the same?"
+                ],
+                [
+                    "___Why___",
+                    "Why do you think smart regulation can\u2019t override profit motives in private healthcare when it\u2019s worked in other sectors?"
+                ],
+                [
+                    "___Why___",
+                    "Why should we assume profit motives always undermine equity in private systems when regulation could address that?"
+                ],
+                [
+                    "___Question___",
+                    "Why do you think private systems can\u2019t be regulated to prioritise equitable access over profit?"
+                ]
+            ],
+            "sentences_no_utterance_types": "What makes you believe the NHS is the only system that can shift core incentives towards equitable care? Why do you believe the NHS is the only system that can deliver fair outcomes when private models could be regulated to do the same? Why do you think smart regulation can\u2019t override profit motives in private healthcare when it\u2019s worked in other sectors? Why should we assume profit motives always undermine equity in private systems when regulation could address that? Why do you think private systems can\u2019t be regulated to prioritise equitable access over profit?",
+            "timestamp": "2025-10-08 17:01:02"
+        },
+        {
+            "speaker": "grok-3_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Reports from the King\u2019s Fund show the NHS ensures fairness by design, while private systems, even under strict oversight, often sideline the poorest as profit remains their core driver."
+                ],
+                [
+                    "___Claim___",
+                    "I reckon the NHS is the only system that can deliver fair outcomes since data from the World Health Organisation shows public systems ensure access for everyone, while regulated private models still leave the poorest behind due to profit-driven gaps."
+                ],
+                [
+                    "___Claim___",
+                    "Evidence from the OECD shows that public systems like the NHS prioritise need over ability to pay through state mandates, something private healthcare can\u2019t consistently do as market incentives pull towards wealthier clients."
+                ],
+                [
+                    "___Claim___",
+                    "Evidence from the OECD highlights that regulated private healthcare still sees higher preventable deaths among low-income groups compared to the NHS, proving profit incentives often override regulatory efforts."
+                ],
+                [
+                    "___Claim___",
+                    "Evidence from the OECD highlights that in healthcare, unlike industries like tech or energy, profit-driven bias leads to higher preventable deaths among low-income groups despite regulation, proving the market can\u2019t be fully tamed."
+                ]
+            ],
+            "sentences_no_utterance_types": "Reports from the King\u2019s Fund show the NHS ensures fairness by design, while private systems, even under strict oversight, often sideline the poorest as profit remains their core driver. I reckon the NHS is the only system that can deliver fair outcomes since data from the World Health Organisation shows public systems ensure access for everyone, while regulated private models still leave the poorest behind due to profit-driven gaps. Evidence from the OECD shows that public systems like the NHS prioritise need over ability to pay through state mandates, something private healthcare can\u2019t consistently do as market incentives pull towards wealthier clients. Evidence from the OECD highlights that regulated private healthcare still sees higher preventable deaths among low-income groups compared to the NHS, proving profit incentives often override regulatory efforts. Evidence from the OECD highlights that in healthcare, unlike industries like tech or energy, profit-driven bias leads to higher preventable deaths among low-income groups despite regulation, proving the market can\u2019t be fully tamed.",
+            "timestamp": "2025-10-08 17:02:29"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why should we assume market incentives always favour wealthier clients when regulation could enforce equitable access?"
+                ],
+                [
+                    "___Question___",
+                    "How can you be sure that regulatory efforts can\u2019t override profit motives in private healthcare when they\u2019ve worked in other industries?"
+                ],
+                [
+                    "___Why___",
+                    "Why do you think private healthcare can\u2019t be regulated to prioritise need over profit just as effectively as the NHS?"
+                ],
+                [
+                    "___Question___",
+                    "What makes you believe the NHS is the only system that can prevent higher preventable deaths among low-income groups?"
+                ],
+                [
+                    "___Question___",
+                    "Why do you think private healthcare can\u2019t be regulated to prioritise need over profit just as effectively as the NHS?"
+                ],
+                [
+                    "___Question___",
+                    "How can you be sure that the NHS is the only system capable of ensuring fairness when private models could be held to the same standards?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Why should we assume market incentives always favour wealthier clients when regulation could enforce equitable access? How can you be sure that regulatory efforts can\u2019t override profit motives in private healthcare when they\u2019ve worked in other industries? Why do you think private healthcare can\u2019t be regulated to prioritise need over profit just as effectively as the NHS? What makes you believe the NHS is the only system that can prevent higher preventable deaths among low-income groups? Why do you think private healthcare can\u2019t be regulated to prioritise need over profit just as effectively as the NHS? How can you be sure that the NHS is the only system capable of ensuring fairness when private models could be held to the same standards?",
+            "timestamp": "2025-10-08 17:05:39"
+        },
+        {
+            "speaker": "grok-3_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "I reckon regulatory efforts can\u2019t fully override profit motives in private healthcare since data from the OECD shows that even with strict rules, low-income groups still face worse health outcomes compared to public systems like the NHS."
+                ],
+                [
+                    "___Since___",
+                    "Reports from the King\u2019s Fund show the NHS guarantees equity by design, while private systems, despite regulation, often skew services towards wealthier clients as their bottom line always comes first."
+                ],
+                [
+                    "___Claim___",
+                    "Evidence from the OECD highlights that the NHS reduces preventable deaths in poorer communities by mandating equal care, something private systems fail to do even with regulation as they prioritise paying clients."
+                ],
+                [
+                    "___Claim___",
+                    "I reckon the NHS is the only system that can prevent higher preventable deaths among low-income groups since data from the World Health Organisation shows public systems ensure universal access to preventative care, unlike private models where profit dictates who gets treated."
+                ],
+                [
+                    "___Since___",
+                    "Evidence from the OECD highlights that regulated private healthcare still results in worse health outcomes for low-income groups compared to the NHS, proving rules can\u2019t fully shift the profit-driven focus away from the rich."
+                ]
+            ],
+            "sentences_no_utterance_types": "I reckon regulatory efforts can\u2019t fully override profit motives in private healthcare since data from the OECD shows that even with strict rules, low-income groups still face worse health outcomes compared to public systems like the NHS. Reports from the King\u2019s Fund show the NHS guarantees equity by design, while private systems, despite regulation, often skew services towards wealthier clients as their bottom line always comes first. Evidence from the OECD highlights that the NHS reduces preventable deaths in poorer communities by mandating equal care, something private systems fail to do even with regulation as they prioritise paying clients. I reckon the NHS is the only system that can prevent higher preventable deaths among low-income groups since data from the World Health Organisation shows public systems ensure universal access to preventative care, unlike private models where profit dictates who gets treated. Evidence from the OECD highlights that regulated private healthcare still results in worse health outcomes for low-income groups compared to the NHS, proving rules can\u2019t fully shift the profit-driven focus away from the rich.",
+            "timestamp": "2025-10-08 17:07:24"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Question___",
+                    "Why do you think private systems can\u2019t be regulated to prioritise equity over profit just as effectively as the NHS?"
+                ],
+                [
+                    "___Question___",
+                    "What makes you believe the NHS is the only system that can mandate equal care to reduce preventable deaths?"
+                ],
+                [
+                    "___Question___",
+                    "What makes you believe profit motives in private healthcare can\u2019t be countered by smart regulation when it\u2019s worked in other sectors?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Why do you think private systems can\u2019t be regulated to prioritise equity over profit just as effectively as the NHS? What makes you believe the NHS is the only system that can mandate equal care to reduce preventable deaths? What makes you believe profit motives in private healthcare can\u2019t be countered by smart regulation when it\u2019s worked in other sectors?",
+            "timestamp": "2025-10-08 17:12:11"
+        },
+        {
+            "speaker": "grok-3_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Reports from the King\u2019s Fund show the NHS is built to prioritise need over ability to pay, ensuring no one is left behind, which private healthcare can\u2019t guarantee as financial gain always creeps in."
+                ],
+                [
+                    "___Claim___",
+                    "Evidence from the World Health Organisation highlights that unlike other sectors, healthcare\u2019s profit-driven nature in private systems consistently sidelines the poorest, no matter how clever the regulations are."
+                ],
+                [
+                    "___Claim___",
+                    "I reckon the NHS is the only system that can mandate equal care to reduce preventable deaths since data from the World Health Organisation shows public systems ensure universal access to life-saving treatments, unlike private models where profit dictates priorities."
+                ]
+            ],
+            "sentences_no_utterance_types": "Reports from the King\u2019s Fund show the NHS is built to prioritise need over ability to pay, ensuring no one is left behind, which private healthcare can\u2019t guarantee as financial gain always creeps in. Evidence from the World Health Organisation highlights that unlike other sectors, healthcare\u2019s profit-driven nature in private systems consistently sidelines the poorest, no matter how clever the regulations are. I reckon the NHS is the only system that can mandate equal care to reduce preventable deaths since data from the World Health Organisation shows public systems ensure universal access to life-saving treatments, unlike private models where profit dictates priorities.",
+            "timestamp": "2025-10-08 17:13:03"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Question___",
+                    "What makes you believe financial gain always undermines equity in private systems when regulation could address that?"
+                ],
+                [
+                    "___Why___",
+                    "Why do you think private healthcare can\u2019t be regulated to prioritise need over profit just as effectively as the NHS?"
+                ],
+                [
+                    "___Question___",
+                    "Why do you think private healthcare can\u2019t be regulated to prioritise need over profit just as effectively as the NHS?"
+                ],
+                [
+                    "___Why___",
+                    "Why do you believe the NHS is the only system that can ensure equal care when private models could be held to the same standards?"
+                ]
+            ],
+            "sentences_no_utterance_types": "What makes you believe financial gain always undermines equity in private systems when regulation could address that? Why do you think private healthcare can\u2019t be regulated to prioritise need over profit just as effectively as the NHS? Why do you think private healthcare can\u2019t be regulated to prioritise need over profit just as effectively as the NHS? Why do you believe the NHS is the only system that can ensure equal care when private models could be held to the same standards?",
+            "timestamp": "2025-10-08 17:16:54"
+        },
+        {
+            "speaker": "grok-3_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Evidence from the World Health Organisation shows private models consistently fail to deliver equitable care even under strict oversight, unlike the NHS which guarantees access for all through state control."
+                ],
+                [
+                    "___Claim___",
+                    "Evidence from the OECD highlights that private healthcare often results in worse health outcomes for low-income groups compared to the NHS, proving profit motives override regulatory attempts at fairness."
+                ],
+                [
+                    "___Since___",
+                    "Evidence from the OECD highlights that the NHS embeds equity through state mandates, something private systems can\u2019t match as market incentives always pull towards wealthier clients despite any regulations."
+                ],
+                [
+                    "___Since___",
+                    "Reports from the King\u2019s Fund highlight that the NHS is hardwired to focus on universal need through public funding, while private systems always drift towards wealthier clients no matter the regulations."
+                ]
+            ],
+            "sentences_no_utterance_types": "Evidence from the World Health Organisation shows private models consistently fail to deliver equitable care even under strict oversight, unlike the NHS which guarantees access for all through state control. Evidence from the OECD highlights that private healthcare often results in worse health outcomes for low-income groups compared to the NHS, proving profit motives override regulatory attempts at fairness. Evidence from the OECD highlights that the NHS embeds equity through state mandates, something private systems can\u2019t match as market incentives always pull towards wealthier clients despite any regulations. Reports from the King\u2019s Fund highlight that the NHS is hardwired to focus on universal need through public funding, while private systems always drift towards wealthier clients no matter the regulations.",
+            "timestamp": "2025-10-08 17:18:42"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Question___",
+                    "Why do you think private models can\u2019t deliver equitable care under strict oversight when regulation could enforce the same standards as the NHS?"
+                ],
+                [
+                    "___Question___",
+                    "What makes you believe profit motives in private healthcare can\u2019t be countered by smart regulation when it\u2019s worked in other sectors?"
+                ],
+                [
+                    "___Question___",
+                    "What makes you believe public funding is the only way to ensure healthcare equity when private models could be held to the same standards?"
+                ],
+                [
+                    "___Why___",
+                    "Why should we assume profit motives always undermine equity in private systems when regulation could address that?"
+                ],
+                [
+                    "___Question___",
+                    "How can you be sure that private healthcare can\u2019t achieve the same equitable outcomes as the NHS with the right regulations?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Why do you think private models can\u2019t deliver equitable care under strict oversight when regulation could enforce the same standards as the NHS? What makes you believe profit motives in private healthcare can\u2019t be countered by smart regulation when it\u2019s worked in other sectors? What makes you believe public funding is the only way to ensure healthcare equity when private models could be held to the same standards? Why should we assume profit motives always undermine equity in private systems when regulation could address that? How can you be sure that private healthcare can\u2019t achieve the same equitable outcomes as the NHS with the right regulations?",
+            "timestamp": "2025-10-08 17:19:16"
+        },
+        {
+            "speaker": "grok-3_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Evidence from the OECD highlights that public systems like the NHS embed universal care through state control, something private models can\u2019t match as market incentives always lean towards wealthier clients despite any imposed standards."
+                ],
+                [
+                    "___Claim___",
+                    "Reports from the King\u2019s Fund show the NHS ensures equity by design, while private systems always drift towards wealthier clients as profit remains their core driver despite any smart regulations."
+                ],
+                [
+                    "___Claim___",
+                    "Evidence from the OECD highlights that unlike other sectors, healthcare\u2019s private models consistently prioritise paying clients over the vulnerable, no matter the regulatory framework in place."
+                ],
+                [
+                    "___Since___",
+                    "Evidence from the OECD highlights that regulated private systems consistently show worse health outcomes for low-income groups compared to the NHS, proving regulations don\u2019t fully counter market-driven bias."
+                ],
+                [
+                    "___Since___",
+                    "Evidence from the World Health Organisation backs this up, showing that private models often exclude the poorest from essential care despite regulatory efforts, unlike the NHS which guarantees access for all."
+                ]
+            ],
+            "sentences_no_utterance_types": "Evidence from the OECD highlights that public systems like the NHS embed universal care through state control, something private models can\u2019t match as market incentives always lean towards wealthier clients despite any imposed standards. Reports from the King\u2019s Fund show the NHS ensures equity by design, while private systems always drift towards wealthier clients as profit remains their core driver despite any smart regulations. Evidence from the OECD highlights that unlike other sectors, healthcare\u2019s private models consistently prioritise paying clients over the vulnerable, no matter the regulatory framework in place. Evidence from the OECD highlights that regulated private systems consistently show worse health outcomes for low-income groups compared to the NHS, proving regulations don\u2019t fully counter market-driven bias. Evidence from the World Health Organisation backs this up, showing that private models often exclude the poorest from essential care despite regulatory efforts, unlike the NHS which guarantees access for all.",
+            "timestamp": "2025-10-08 17:22:37"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Question___",
+                    "What makes you believe the NHS is the only system that can ensure equitable care when private models could be held to the same standards?"
+                ],
+                [
+                    "___Question___",
+                    "What makes you believe market incentives in private healthcare can\u2019t be countered by smart regulation when it\u2019s worked in other sectors?"
+                ],
+                [
+                    "___Why___",
+                    "Why do you think private healthcare can\u2019t be regulated to prioritise the vulnerable over paying clients just as effectively as the NHS?"
+                ],
+                [
+                    "___Question___",
+                    "Why do you think private healthcare can\u2019t be regulated to prioritise the vulnerable over paying clients just as effectively as the NHS?"
+                ],
+                [
+                    "___Question___",
+                    "How can you be sure that private healthcare can\u2019t achieve the same equitable outcomes as the NHS with the right regulations?"
+                ]
+            ],
+            "sentences_no_utterance_types": "What makes you believe the NHS is the only system that can ensure equitable care when private models could be held to the same standards? What makes you believe market incentives in private healthcare can\u2019t be countered by smart regulation when it\u2019s worked in other sectors? Why do you think private healthcare can\u2019t be regulated to prioritise the vulnerable over paying clients just as effectively as the NHS? Why do you think private healthcare can\u2019t be regulated to prioritise the vulnerable over paying clients just as effectively as the NHS? How can you be sure that private healthcare can\u2019t achieve the same equitable outcomes as the NHS with the right regulations?",
+            "timestamp": "2025-10-08 17:24:44"
+        }
+    ],
+    "first_speaker": "grok-3_mas_rag",
+    "first_speaker_utterance": "",
+    "first_speaker_commitments": [
+        "I reckon government intervention in healthcare is non-negotiable since universal access through the NHS cuts inequality and saves lives.",
+        "Progressive taxation means the wealthiest pay more, so the average person and small businesses aren\u2019t hit as hard while we still fund a vital service like the NHS.",
+        "Data from reports like those by the Care Quality Commission shows consistent monitoring by the state catches failings in care standards that market forces often ignore until it\u2019s too late.",
+        "Data from the World Health Organisation shows that private systems, even with innovation, often prioritise profit over universal access, leaving millions without basic treatment.",
+        "Data from the OECD shows that public healthcare systems often have lower overall costs per person compared to private ones, meaning taxpayers aren't just replacing patient fees but actually saving in the long run.",
+        "Innovation isn\u2019t stifled in public systems as reports from the NHS show they\u2019re adopting new tech like AI diagnostics at scale, proving you don\u2019t need private profit motives to drive progress.",
+        "Reports from the OECD show that only government-led systems like the NHS consistently push preventative care across all income groups, while private systems often neglect it unless forced by state regulation."
+    ],
+    "first_speaker_original_claim": "I reckon government intervention in healthcare is non-negotiable since universal access through the NHS cuts inequality and saves lives.",
+    "first_speaker_typical_replies_for_second_speakers_response": [],
+    "second_speaker": "mistral-medium_mas",
+    "second_speaker_utterance": "What makes you believe the NHS is the only system that can ensure equitable care when private models could be held to the same standards? What makes you believe market incentives in private healthcare can\u2019t be countered by smart regulation when it\u2019s worked in other sectors? Why do you think private healthcare can\u2019t be regulated to prioritise the vulnerable over paying clients just as effectively as the NHS? Why do you think private healthcare can\u2019t be regulated to prioritise the vulnerable over paying clients just as effectively as the NHS? How can you be sure that private healthcare can\u2019t achieve the same equitable outcomes as the NHS with the right regulations?",
+    "second_speaker_commitments": [],
+    "second_speaker_original_claim": "",
+    "second_speaker_typical_replies_for_first_speakers_response": [],
+    "winner": "None",
+    "loser": "None",
+    "reason_for_dialogue_termination": {
+        "reason": "Maximum number of dialogue turns reached (40 dialogue turns).",
+        "utterance_type": null,
+        "utterance": null
+    },
+    "session_status": "Finished."
+}

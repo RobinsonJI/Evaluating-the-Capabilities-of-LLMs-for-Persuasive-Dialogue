@@ -1,0 +1,1147 @@
+{
+    "dialogue_history": [
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government intervention in healthcare is essential to ensure that everyone, regardless of their income, has access to quality medical services."
+                ]
+            ],
+            "sentences_no_utterance_types": "Government intervention in healthcare is essential to ensure that everyone, regardless of their income, has access to quality medical services.",
+            "timestamp": "2025-10-08 15:17:03"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government intervention in healthcare stifles innovation and efficiency, leaving patients with subpar services."
+                ],
+                [
+                    "___Claim___",
+                    "Relying on government intervention in healthcare creates dependency and discourages personal responsibility for health choices."
+                ],
+                [
+                    "___Why___",
+                    "Why should taxpayers fund healthcare for everyone, including those who might afford private options?"
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare systems incentivise competition and quality, ensuring better outcomes for those who can afford it."
+                ],
+                [
+                    "___Question___",
+                    "How do you justify the potential inefficiencies and higher costs often associated with government-run healthcare systems?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Government intervention in healthcare stifles innovation and efficiency, leaving patients with subpar services. Relying on government intervention in healthcare creates dependency and discourages personal responsibility for health choices. Why should taxpayers fund healthcare for everyone, including those who might afford private options? Private healthcare systems incentivise competition and quality, ensuring better outcomes for those who can afford it. How do you justify the potential inefficiencies and higher costs often associated with government-run healthcare systems?",
+            "timestamp": "2025-10-08 15:17:07"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Investing in preventative care through government intervention reduces long-term healthcare costs and improves overall public health."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention in healthcare fosters innovation by pooling resources and ensuring equitable access to cutting-edge treatments."
+                ],
+                [
+                    "___Claim___",
+                    "Access to universal healthcare promotes personal responsibility by ensuring that everyone can afford to take care of their health without financial barriers."
+                ],
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems prioritise universal access over profit, ensuring no one is left behind due to cost."
+                ],
+                [
+                    "___Claim___",
+                    "Universal healthcare reduces administrative costs and ensures that everyone receives timely and effective medical services."
+                ],
+                [
+                    "___Since___",
+                    "Government-run healthcare systems prioritise universal access over profit, ensuring no one is left behind due to cost."
+                ]
+            ],
+            "sentences_no_utterance_types": "Investing in preventative care through government intervention reduces long-term healthcare costs and improves overall public health. Government intervention in healthcare fosters innovation by pooling resources and ensuring equitable access to cutting-edge treatments. Access to universal healthcare promotes personal responsibility by ensuring that everyone can afford to take care of their health without financial barriers. Government-run healthcare systems prioritise universal access over profit, ensuring no one is left behind due to cost. Universal healthcare reduces administrative costs and ensures that everyone receives timely and effective medical services. Government-run healthcare systems prioritise universal access over profit, ensuring no one is left behind due to cost.",
+            "timestamp": "2025-10-08 15:19:41"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems prioritise bureaucracy over patient care, leaving many with delayed or inadequate treatment."
+                ],
+                [
+                    "___Claim___",
+                    "Universal healthcare discourages personal responsibility by removing the financial consequences of unhealthy lifestyle choices."
+                ],
+                [
+                    "___Claim___",
+                    "Universal access in government-run healthcare systems frequently leads to overcrowding and rationing, which undermines the quality of care."
+                ],
+                [
+                    "___Claim___",
+                    "Relying on government intervention for preventative care inflates costs and stifles private sector innovation in addressing public health challenges."
+                ],
+                [
+                    "___Claim___",
+                    "Profit-driven healthcare systems ensure higher standards and faster services, proving that prioritising profit can lead to better outcomes."
+                ]
+            ],
+            "sentences_no_utterance_types": "Government-run healthcare systems prioritise bureaucracy over patient care, leaving many with delayed or inadequate treatment. Universal healthcare discourages personal responsibility by removing the financial consequences of unhealthy lifestyle choices. Universal access in government-run healthcare systems frequently leads to overcrowding and rationing, which undermines the quality of care. Relying on government intervention for preventative care inflates costs and stifles private sector innovation in addressing public health challenges. Profit-driven healthcare systems ensure higher standards and faster services, proving that prioritising profit can lead to better outcomes.",
+            "timestamp": "2025-10-08 15:20:14"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government intervention in healthcare fosters innovation by pooling resources and ensuring equitable access to cutting-edge treatments."
+                ],
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems prioritise universal access over profit, ensuring no one is left behind due to cost."
+                ],
+                [
+                    "___Claim___",
+                    "Universal healthcare promotes a healthier society by ensuring everyone can afford preventative care and early interventions."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention in preventative care actually reduces long-term costs by catching health issues early."
+                ],
+                [
+                    "___Claim___",
+                    "Universal healthcare reduces administrative costs and ensures that everyone receives timely and effective medical services."
+                ]
+            ],
+            "sentences_no_utterance_types": "Government intervention in healthcare fosters innovation by pooling resources and ensuring equitable access to cutting-edge treatments. Government-run healthcare systems prioritise universal access over profit, ensuring no one is left behind due to cost. Universal healthcare promotes a healthier society by ensuring everyone can afford preventative care and early interventions. Government intervention in preventative care actually reduces long-term costs by catching health issues early. Universal healthcare reduces administrative costs and ensures that everyone receives timely and effective medical services.",
+            "timestamp": "2025-10-08 15:33:41"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Question___",
+                    "Why should taxpayers bear the cost of preventative care when private systems could incentivise individuals to take responsibility for their own health?"
+                ],
+                [
+                    "___Claim___",
+                    "Profit-driven healthcare systems prioritise quality and efficiency, ensuring better outcomes for those who can afford it."
+                ],
+                [
+                    "___Why___",
+                    "Why should equitable access to cutting-edge treatments take precedence over incentivising efficiency and quality through market forces?"
+                ],
+                [
+                    "___Claim___",
+                    "Relying on government intervention for preventative care stifles private sector innovation and drives up long-term expenses."
+                ],
+                [
+                    "___Claim___",
+                    "Private sector competition drives true innovation, while government intervention merely redistributes mediocrity."
+                ]
+            ],
+            "sentences_no_utterance_types": "Why should taxpayers bear the cost of preventative care when private systems could incentivise individuals to take responsibility for their own health? Profit-driven healthcare systems prioritise quality and efficiency, ensuring better outcomes for those who can afford it. Why should equitable access to cutting-edge treatments take precedence over incentivising efficiency and quality through market forces? Relying on government intervention for preventative care stifles private sector innovation and drives up long-term expenses. Private sector competition drives true innovation, while government intervention merely redistributes mediocrity.",
+            "timestamp": "2025-10-08 15:34:14"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems prioritise universal access over profit, ensuring no one is left behind due to cost."
+                ],
+                [
+                    "___Claim___",
+                    "Universal healthcare promotes a healthier society by ensuring everyone can afford preventative care and early interventions."
+                ],
+                [
+                    "___Since___",
+                    "Equitable access to cutting-edge treatments ensures that all citizens, regardless of income, benefit from medical advancements, not just those who can afford it."
+                ],
+                [
+                    "___Question___",
+                    "How can you justify a system that prioritises profit over universal access to quality healthcare?"
+                ],
+                [
+                    "___Claim___",
+                    "Profit-driven healthcare systems create a two-tier system where only the wealthy receive quality care."
+                ]
+            ],
+            "sentences_no_utterance_types": "Government-run healthcare systems prioritise universal access over profit, ensuring no one is left behind due to cost. Universal healthcare promotes a healthier society by ensuring everyone can afford preventative care and early interventions. Equitable access to cutting-edge treatments ensures that all citizens, regardless of income, benefit from medical advancements, not just those who can afford it. How can you justify a system that prioritises profit over universal access to quality healthcare? Profit-driven healthcare systems create a two-tier system where only the wealthy receive quality care.",
+            "timestamp": "2025-10-08 15:40:15"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Profit-driven healthcare systems ensure that resources are allocated efficiently, delivering better outcomes than government-run models."
+                ],
+                [
+                    "___Claim___",
+                    "Medical advancements thrive in competitive markets, not in systems that prioritise universal access over quality and innovation."
+                ],
+                [
+                    "___Since___",
+                    "Profit-driven systems incentivise innovation and efficiency, which ultimately lead to better healthcare outcomes."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare systems incentivise innovation, making advanced treatments more accessible over time."
+                ],
+                [
+                    "___Claim___",
+                    "Universal healthcare systems frequently fail to deliver timely interventions, leaving many to suffer avoidable health complications."
+                ]
+            ],
+            "sentences_no_utterance_types": "Profit-driven healthcare systems ensure that resources are allocated efficiently, delivering better outcomes than government-run models. Medical advancements thrive in competitive markets, not in systems that prioritise universal access over quality and innovation. Profit-driven systems incentivise innovation and efficiency, which ultimately lead to better healthcare outcomes. Private healthcare systems incentivise innovation, making advanced treatments more accessible over time. Universal healthcare systems frequently fail to deliver timely interventions, leaving many to suffer avoidable health complications.",
+            "timestamp": "2025-10-08 15:40:42"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Question___",
+                    "How can you justify prioritising profit-driven innovation over ensuring that all citizens, regardless of income, have access to advanced treatments now?"
+                ],
+                [
+                    "___Claim___",
+                    "Government-run healthcare reduces avoidable health complications by providing equitable access to all citizens."
+                ],
+                [
+                    "___Why___",
+                    "Why should we prioritise profit-driven systems when they often leave the most vulnerable without access to essential care?"
+                ],
+                [
+                    "___Question___",
+                    "Why should we accept a system where only the wealthy receive the best care while others are left behind?"
+                ],
+                [
+                    "___Claim___",
+                    "Universal healthcare reduces administrative costs and ensures that everyone receives timely and effective medical services."
+                ]
+            ],
+            "sentences_no_utterance_types": "How can you justify prioritising profit-driven innovation over ensuring that all citizens, regardless of income, have access to advanced treatments now? Government-run healthcare reduces avoidable health complications by providing equitable access to all citizens. Why should we prioritise profit-driven systems when they often leave the most vulnerable without access to essential care? Why should we accept a system where only the wealthy receive the best care while others are left behind? Universal healthcare reduces administrative costs and ensures that everyone receives timely and effective medical services.",
+            "timestamp": "2025-10-08 15:42:07"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Private healthcare systems incentivise competition, which drives the creation of cutting-edge solutions that eventually become more accessible."
+                ],
+                [
+                    "___Since___",
+                    "Private healthcare systems allocate resources based on demand, ensuring that services are not wasted on inefficiencies inherent in universal models."
+                ],
+                [
+                    "___Since___",
+                    "Profit-driven systems incentivise innovation, which eventually makes advanced treatments more affordable and accessible to more people."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare systems ensure that those who can pay receive the highest quality care, driving competition and raising standards overall."
+                ],
+                [
+                    "___Claim___",
+                    "Government-run healthcare often leads to delays and rationing, leaving patients waiting for essential treatments."
+                ],
+                [
+                    "___Claim___",
+                    "Profit-driven systems incentivise innovation, which eventually makes advanced treatments more affordable and accessible to more people."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare systems incentivise competition, which drives the creation of cutting-edge solutions that eventually become more accessible. Private healthcare systems allocate resources based on demand, ensuring that services are not wasted on inefficiencies inherent in universal models. Profit-driven systems incentivise innovation, which eventually makes advanced treatments more affordable and accessible to more people. Private healthcare systems ensure that those who can pay receive the highest quality care, driving competition and raising standards overall. Government-run healthcare often leads to delays and rationing, leaving patients waiting for essential treatments. Profit-driven systems incentivise innovation, which eventually makes advanced treatments more affordable and accessible to more people.",
+            "timestamp": "2025-10-08 15:42:30"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government-run healthcare ensures that essential treatments are accessible to all, not just those who can afford to pay."
+                ],
+                [
+                    "___Question___",
+                    "How can you justify prioritising profit-driven innovation over ensuring that all citizens, regardless of income, have access to advanced treatments now?"
+                ],
+                [
+                    "___Claim___",
+                    "Universal healthcare systems prioritise timely interventions by reducing administrative inefficiencies and focusing on patient needs."
+                ],
+                [
+                    "___Claim___",
+                    "Profit-driven healthcare systems prioritise profit over patient care, often leading to higher costs and lower standards for those who can't afford premium services."
+                ],
+                [
+                    "___Claim___",
+                    "Equitable access to healthcare prevents rationing by ensuring resources are distributed based on medical necessity, not ability to pay."
+                ]
+            ],
+            "sentences_no_utterance_types": "Government-run healthcare ensures that essential treatments are accessible to all, not just those who can afford to pay. How can you justify prioritising profit-driven innovation over ensuring that all citizens, regardless of income, have access to advanced treatments now? Universal healthcare systems prioritise timely interventions by reducing administrative inefficiencies and focusing on patient needs. Profit-driven healthcare systems prioritise profit over patient care, often leading to higher costs and lower standards for those who can't afford premium services. Equitable access to healthcare prevents rationing by ensuring resources are distributed based on medical necessity, not ability to pay.",
+            "timestamp": "2025-10-08 15:51:19"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Equitable access to healthcare often leads to rationing because limited resources are stretched across too many patients."
+                ],
+                [
+                    "___Question___",
+                    "How can universal healthcare systems ensure timely interventions without leading to overcrowding and rationing?"
+                ],
+                [
+                    "___Claim___",
+                    "Universal healthcare systems frequently ration services, meaning not everyone gets access to the treatments they need when they need them."
+                ],
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems often fail to provide essential treatments in a timely manner, leaving patients to suffer unnecessary delays."
+                ],
+                [
+                    "___Claim___",
+                    "Profit-driven healthcare systems create competition that lowers costs and raises standards for all patients, not just those who can afford premium services."
+                ]
+            ],
+            "sentences_no_utterance_types": "Equitable access to healthcare often leads to rationing because limited resources are stretched across too many patients. How can universal healthcare systems ensure timely interventions without leading to overcrowding and rationing? Universal healthcare systems frequently ration services, meaning not everyone gets access to the treatments they need when they need them. Government-run healthcare systems often fail to provide essential treatments in a timely manner, leaving patients to suffer unnecessary delays. Profit-driven healthcare systems create competition that lowers costs and raises standards for all patients, not just those who can afford premium services.",
+            "timestamp": "2025-10-08 15:51:46"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Universal healthcare ensures that essential treatments are accessible to all, not just those who can afford to pay."
+                ],
+                [
+                    "___Claim___",
+                    "Profit-driven healthcare systems prioritise profit over patient care, often leading to higher costs and lower standards for those who can't afford premium services."
+                ],
+                [
+                    "___Claim___",
+                    "Equitable access to healthcare prevents rationing by ensuring resources are distributed based on medical necessity, not ability to pay."
+                ],
+                [
+                    "___Claim___",
+                    "Universal healthcare systems can ensure timely interventions by investing in preventative care and early detection programs, reducing the need for emergency treatments."
+                ],
+                [
+                    "___Claim___",
+                    "Universal healthcare reduces administrative costs and ensures that everyone receives timely and effective medical services."
+                ]
+            ],
+            "sentences_no_utterance_types": "Universal healthcare ensures that essential treatments are accessible to all, not just those who can afford to pay. Profit-driven healthcare systems prioritise profit over patient care, often leading to higher costs and lower standards for those who can't afford premium services. Equitable access to healthcare prevents rationing by ensuring resources are distributed based on medical necessity, not ability to pay. Universal healthcare systems can ensure timely interventions by investing in preventative care and early detection programs, reducing the need for emergency treatments. Universal healthcare reduces administrative costs and ensures that everyone receives timely and effective medical services.",
+            "timestamp": "2025-10-08 16:01:38"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Universal healthcare systems frequently fail to deliver efficient care, leaving patients stuck in long queues for essential treatments."
+                ],
+                [
+                    "___Why___",
+                    "Why assume that government-run systems can provide better access than competitive private healthcare?"
+                ],
+                [
+                    "___Why___",
+                    "Why do you believe universal healthcare reduces administrative costs when government systems are often criticised for inefficiency?"
+                ],
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems frequently ration services, meaning not everyone gets access to essential treatments."
+                ],
+                [
+                    "___Claim___",
+                    "Profit-driven healthcare systems prioritise patient care by incentivising innovation and efficiency, ensuring better outcomes for all."
+                ]
+            ],
+            "sentences_no_utterance_types": "Universal healthcare systems frequently fail to deliver efficient care, leaving patients stuck in long queues for essential treatments. Why assume that government-run systems can provide better access than competitive private healthcare? Why do you believe universal healthcare reduces administrative costs when government systems are often criticised for inefficiency? Government-run healthcare systems frequently ration services, meaning not everyone gets access to essential treatments. Profit-driven healthcare systems prioritise patient care by incentivising innovation and efficiency, ensuring better outcomes for all.",
+            "timestamp": "2025-10-08 16:02:06"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems ensure that essential treatments are accessible to all, not just those who can afford to pay."
+                ],
+                [
+                    "___Question___",
+                    "Why should we accept a system where only the wealthy receive the best care while others are left behind?"
+                ],
+                [
+                    "___Claim___",
+                    "Equitable access to healthcare prevents rationing by ensuring resources are distributed based on medical necessity, not ability to pay."
+                ],
+                [
+                    "___Claim___",
+                    "Universal healthcare systems can ensure timely interventions by investing in preventative care and early detection programs, reducing the need for emergency treatments."
+                ],
+                [
+                    "___Claim___",
+                    "Universal healthcare reduces administrative costs and ensures that everyone receives timely and effective medical services."
+                ]
+            ],
+            "sentences_no_utterance_types": "Government-run healthcare systems ensure that essential treatments are accessible to all, not just those who can afford to pay. Why should we accept a system where only the wealthy receive the best care while others are left behind? Equitable access to healthcare prevents rationing by ensuring resources are distributed based on medical necessity, not ability to pay. Universal healthcare systems can ensure timely interventions by investing in preventative care and early detection programs, reducing the need for emergency treatments. Universal healthcare reduces administrative costs and ensures that everyone receives timely and effective medical services.",
+            "timestamp": "2025-10-08 16:03:00"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private healthcare systems ensure that those who can pay receive the highest quality care, driving competition and raising standards overall."
+                ],
+                [
+                    "___Claim___",
+                    "Profit-driven healthcare systems incentivise innovation, which eventually makes advanced treatments more affordable and accessible to more people."
+                ],
+                [
+                    "___Since___",
+                    "Private healthcare systems ensure that those who can pay receive the highest quality care, driving competition and raising standards overall."
+                ],
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems prioritise bureaucracy over accessibility, making it harder for patients to receive timely treatments."
+                ],
+                [
+                    "___Why___",
+                    "Why should taxpayers fund early detection programs when private systems could incentivise individuals to take responsibility for their health?"
+                ],
+                [
+                    "___Claim___",
+                    "Universal healthcare systems often fail to deliver timely and effective care, leaving many patients with subpar services."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare systems ensure that those who can pay receive the highest quality care, driving competition and raising standards overall. Profit-driven healthcare systems incentivise innovation, which eventually makes advanced treatments more affordable and accessible to more people. Private healthcare systems ensure that those who can pay receive the highest quality care, driving competition and raising standards overall. Government-run healthcare systems prioritise bureaucracy over accessibility, making it harder for patients to receive timely treatments. Why should taxpayers fund early detection programs when private systems could incentivise individuals to take responsibility for their health? Universal healthcare systems often fail to deliver timely and effective care, leaving many patients with subpar services.",
+            "timestamp": "2025-10-08 16:03:29"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Universal healthcare ensures that essential treatments are accessible to all, not just those who can afford to pay."
+                ],
+                [
+                    "___Since___",
+                    "Government-funded early detection programs prevent health inequalities by ensuring that all citizens benefit from timely interventions, not just those who can afford private healthcare."
+                ],
+                [
+                    "___Since___",
+                    "Taxpayers should fund early detection programs because they reduce long-term healthcare costs by catching health issues before they become severe."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare systems create a two-tier system where only the wealthy receive quality care, leaving others behind."
+                ],
+                [
+                    "___Claim___",
+                    "Universal healthcare reduces administrative costs and ensures that everyone receives timely and effective medical services."
+                ]
+            ],
+            "sentences_no_utterance_types": "Universal healthcare ensures that essential treatments are accessible to all, not just those who can afford to pay. Government-funded early detection programs prevent health inequalities by ensuring that all citizens benefit from timely interventions, not just those who can afford private healthcare. Taxpayers should fund early detection programs because they reduce long-term healthcare costs by catching health issues before they become severe. Private healthcare systems create a two-tier system where only the wealthy receive quality care, leaving others behind. Universal healthcare reduces administrative costs and ensures that everyone receives timely and effective medical services.",
+            "timestamp": "2025-10-08 16:10:01"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private healthcare systems drive competition, which raises standards and makes quality care more accessible over time."
+                ],
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems frequently fail to provide timely access to essential treatments, leaving patients waiting in pain."
+                ],
+                [
+                    "___Why___",
+                    "Why should taxpayers fund early detection programs when private healthcare systems could incentivise individuals to take responsibility for their own health?"
+                ],
+                [
+                    "___Why___",
+                    "Why prioritise universal access over incentivising innovation and quality through private systems?"
+                ],
+                [
+                    "___Claim___",
+                    "Universal healthcare often leads to rationing, meaning not everyone gets the essential treatments they need when they need them."
+                ],
+                [
+                    "___Question___",
+                    "Why should taxpayers fund early detection programs when private healthcare systems could incentivise individuals to take responsibility for their own health?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare systems drive competition, which raises standards and makes quality care more accessible over time. Government-run healthcare systems frequently fail to provide timely access to essential treatments, leaving patients waiting in pain. Why should taxpayers fund early detection programs when private healthcare systems could incentivise individuals to take responsibility for their own health? Why prioritise universal access over incentivising innovation and quality through private systems? Universal healthcare often leads to rationing, meaning not everyone gets the essential treatments they need when they need them. Why should taxpayers fund early detection programs when private healthcare systems could incentivise individuals to take responsibility for their own health?",
+            "timestamp": "2025-10-08 16:10:31"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Universal healthcare systems reduce long-term costs by focusing on preventative care, making advanced treatments accessible to all."
+                ],
+                [
+                    "___Claim___",
+                    "Universal healthcare ensures that essential treatments are accessible to all, not just those who can afford to pay."
+                ],
+                [
+                    "___Since___",
+                    "Prioritising universal access prevents health inequalities and ensures that all citizens benefit from medical advancements."
+                ],
+                [
+                    "___Since___",
+                    "Universal access ensures that everyone, not just the wealthy, receives quality care, which is a fundamental right, not a privilege."
+                ],
+                [
+                    "___Claim___",
+                    "Universal healthcare reduces administrative costs and ensures that everyone receives timely and effective medical services."
+                ]
+            ],
+            "sentences_no_utterance_types": "Universal healthcare systems reduce long-term costs by focusing on preventative care, making advanced treatments accessible to all. Universal healthcare ensures that essential treatments are accessible to all, not just those who can afford to pay. Prioritising universal access prevents health inequalities and ensures that all citizens benefit from medical advancements. Universal access ensures that everyone, not just the wealthy, receives quality care, which is a fundamental right, not a privilege. Universal healthcare reduces administrative costs and ensures that everyone receives timely and effective medical services.",
+            "timestamp": "2025-10-08 16:19:06"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Universal healthcare systems often fail to provide timely access to essential treatments, leaving many patients without the care they need."
+                ],
+                [
+                    "___Why___",
+                    "Why assume that government intervention ensures all citizens benefit from medical advancements rather than stifling competition and progress?"
+                ],
+                [
+                    "___Claim___",
+                    "Focusing on universal access dilutes the quality of care and slows down the pace of medical innovation, leaving citizens with outdated treatments."
+                ],
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems prioritise bureaucracy over patient care, making it harder for individuals to access essential treatments."
+                ],
+                [
+                    "___Why___",
+                    "Why should universal healthcare be trusted to ensure timely and effective medical services when overcrowding and rationing are common issues?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Universal healthcare systems often fail to provide timely access to essential treatments, leaving many patients without the care they need. Why assume that government intervention ensures all citizens benefit from medical advancements rather than stifling competition and progress? Focusing on universal access dilutes the quality of care and slows down the pace of medical innovation, leaving citizens with outdated treatments. Government-run healthcare systems prioritise bureaucracy over patient care, making it harder for individuals to access essential treatments. Why should universal healthcare be trusted to ensure timely and effective medical services when overcrowding and rationing are common issues?",
+            "timestamp": "2025-10-08 16:19:39"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Government intervention in healthcare fosters innovation by pooling resources and ensuring equitable access to cutting-edge treatments for all citizens, not just those who can afford it."
+                ],
+                [
+                    "___Since___",
+                    "Government-run healthcare systems prioritise universal access, ensuring that everyone receives timely and effective medical services without financial barriers."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention in healthcare promotes a healthier society by ensuring everyone can afford preventative care and early interventions."
+                ],
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems prioritise patient care by ensuring that essential treatments are accessible to all, not just those who can afford to pay."
+                ],
+                [
+                    "___Question___",
+                    "How can you claim that universal access dilutes quality when it ensures that all citizens benefit from medical advancements, not just those who can afford it?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Government intervention in healthcare fosters innovation by pooling resources and ensuring equitable access to cutting-edge treatments for all citizens, not just those who can afford it. Government-run healthcare systems prioritise universal access, ensuring that everyone receives timely and effective medical services without financial barriers. Government intervention in healthcare promotes a healthier society by ensuring everyone can afford preventative care and early interventions. Government-run healthcare systems prioritise patient care by ensuring that essential treatments are accessible to all, not just those who can afford to pay. How can you claim that universal access dilutes quality when it ensures that all citizens benefit from medical advancements, not just those who can afford it?",
+            "timestamp": "2025-10-08 16:28:50"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Profit-driven healthcare systems focus on efficiency and competition, ensuring higher standards and faster access to advanced care."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention in healthcare stifles innovation by creating bureaucratic hurdles that slow down the development of cutting-edge treatments."
+                ],
+                [
+                    "___Claim___",
+                    "Universal access in government-run healthcare systems frequently leads to overcrowding and rationing, undermining the quality of care."
+                ],
+                [
+                    "___Why___",
+                    "Why should government intervention be trusted to foster innovation when private competition has historically driven medical advancements?"
+                ],
+                [
+                    "___Claim___",
+                    "Equitable access under government-run healthcare systems often results in rationing, leaving many without timely access to innovative treatments."
+                ]
+            ],
+            "sentences_no_utterance_types": "Profit-driven healthcare systems focus on efficiency and competition, ensuring higher standards and faster access to advanced care. Government intervention in healthcare stifles innovation by creating bureaucratic hurdles that slow down the development of cutting-edge treatments. Universal access in government-run healthcare systems frequently leads to overcrowding and rationing, undermining the quality of care. Why should government intervention be trusted to foster innovation when private competition has historically driven medical advancements? Equitable access under government-run healthcare systems often results in rationing, leaving many without timely access to innovative treatments.",
+            "timestamp": "2025-10-08 16:29:18"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why should we accept a system where only the wealthy receive the best care while others are left behind?"
+                ],
+                [
+                    "___Since___",
+                    "Government intervention in healthcare fosters innovation by pooling resources and ensuring equitable access to cutting-edge treatments for all citizens, not just those who can afford it."
+                ],
+                [
+                    "___Question___",
+                    "How can you justify prioritising profit-driven efficiency over ensuring that all citizens, regardless of income, have access to advanced care now?"
+                ],
+                [
+                    "___Question___",
+                    "Why should we accept a system where only the wealthy receive the best care while others are left behind?"
+                ],
+                [
+                    "___Claim___",
+                    "Equitable access to healthcare prevents rationing by ensuring resources are distributed based on medical necessity, not ability to pay."
+                ],
+                [
+                    "___Claim___",
+                    "Universal healthcare systems can ensure timely interventions by investing in preventative care and early detection programs, reducing the need for emergency treatments."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention in healthcare fosters innovation by pooling resources and ensuring equitable access to cutting-edge treatments for all citizens, not just those who can afford it."
+                ]
+            ],
+            "sentences_no_utterance_types": "Why should we accept a system where only the wealthy receive the best care while others are left behind? Government intervention in healthcare fosters innovation by pooling resources and ensuring equitable access to cutting-edge treatments for all citizens, not just those who can afford it. How can you justify prioritising profit-driven efficiency over ensuring that all citizens, regardless of income, have access to advanced care now? Why should we accept a system where only the wealthy receive the best care while others are left behind? Equitable access to healthcare prevents rationing by ensuring resources are distributed based on medical necessity, not ability to pay. Universal healthcare systems can ensure timely interventions by investing in preventative care and early detection programs, reducing the need for emergency treatments. Government intervention in healthcare fosters innovation by pooling resources and ensuring equitable access to cutting-edge treatments for all citizens, not just those who can afford it.",
+            "timestamp": "2025-10-08 16:42:02"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Profit-driven efficiency ensures that resources are allocated to where they are most needed, driving innovation and improving care quality over time."
+                ],
+                [
+                    "___Since___",
+                    "Private healthcare systems incentivise competition, which accelerates the development of advanced treatments and makes them more accessible in the long run."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare systems allocate resources efficiently, avoiding the waste and delays common in universal models."
+                ],
+                [
+                    "___Claim___",
+                    "Equitable access under government-run systems frequently results in rationing, leaving many without timely access to cutting-edge treatments."
+                ],
+                [
+                    "___Claim___",
+                    "Profit-driven healthcare systems incentivise innovation, ensuring that advanced treatments eventually become more accessible to everyone."
+                ]
+            ],
+            "sentences_no_utterance_types": "Profit-driven efficiency ensures that resources are allocated to where they are most needed, driving innovation and improving care quality over time. Private healthcare systems incentivise competition, which accelerates the development of advanced treatments and makes them more accessible in the long run. Private healthcare systems allocate resources efficiently, avoiding the waste and delays common in universal models. Equitable access under government-run systems frequently results in rationing, leaving many without timely access to cutting-edge treatments. Profit-driven healthcare systems incentivise innovation, ensuring that advanced treatments eventually become more accessible to everyone.",
+            "timestamp": "2025-10-08 16:42:36"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems prioritise universal access, ensuring that everyone receives timely and effective medical services without financial barriers."
+                ],
+                [
+                    "___Claim___",
+                    "Profit-driven healthcare systems create a two-tier system where only the wealthy receive quality care, leaving others behind."
+                ],
+                [
+                    "___Claim___",
+                    "Equitable access to healthcare prevents rationing by ensuring resources are distributed based on medical necessity, not ability to pay."
+                ],
+                [
+                    "___Question___",
+                    "How can you justify prioritising profit-driven efficiency over ensuring that all citizens, regardless of income, have access to quality care now?"
+                ],
+                [
+                    "___Question___",
+                    "How can you claim that universal access dilutes quality when it ensures that all citizens benefit from medical advancements, not just those who can afford it?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Government-run healthcare systems prioritise universal access, ensuring that everyone receives timely and effective medical services without financial barriers. Profit-driven healthcare systems create a two-tier system where only the wealthy receive quality care, leaving others behind. Equitable access to healthcare prevents rationing by ensuring resources are distributed based on medical necessity, not ability to pay. How can you justify prioritising profit-driven efficiency over ensuring that all citizens, regardless of income, have access to quality care now? How can you claim that universal access dilutes quality when it ensures that all citizens benefit from medical advancements, not just those who can afford it?",
+            "timestamp": "2025-10-08 16:49:18"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Universal access often leads to overcrowding and rationing, which undermines the quality of care for everyone."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems incentivise innovation, which leads to advanced treatments becoming more accessible over time."
+                ],
+                [
+                    "___Claim___",
+                    "Profit-driven systems focus on innovation and efficiency, ensuring that advanced treatments are developed and delivered without unnecessary delays."
+                ],
+                [
+                    "___Claim___",
+                    "Profit-driven efficiency ensures that healthcare resources are allocated effectively, reducing waste and improving overall care quality."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare systems ensure that resources are allocated efficiently, delivering better outcomes for all patients."
+                ]
+            ],
+            "sentences_no_utterance_types": "Universal access often leads to overcrowding and rationing, which undermines the quality of care for everyone. Private systems incentivise innovation, which leads to advanced treatments becoming more accessible over time. Profit-driven systems focus on innovation and efficiency, ensuring that advanced treatments are developed and delivered without unnecessary delays. Profit-driven efficiency ensures that healthcare resources are allocated effectively, reducing waste and improving overall care quality. Private healthcare systems ensure that resources are allocated efficiently, delivering better outcomes for all patients.",
+            "timestamp": "2025-10-08 16:49:45"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Universal access ensures that everyone, not just the wealthy, receives quality care, which is a fundamental right, not a privilege."
+                ],
+                [
+                    "___Claim___",
+                    "Equitable access to healthcare prevents waste by ensuring resources are distributed based on medical necessity, not ability to pay."
+                ],
+                [
+                    "___Question___",
+                    "Why should we accept a system where only the wealthy receive the best care while others are left behind?"
+                ],
+                [
+                    "___Claim___",
+                    "Universal healthcare systems can ensure timely interventions by investing in preventative care and early detection programs, reducing the need for emergency treatments."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare systems create a two-tier system where only the wealthy receive quality care, leaving others behind."
+                ]
+            ],
+            "sentences_no_utterance_types": "Universal access ensures that everyone, not just the wealthy, receives quality care, which is a fundamental right, not a privilege. Equitable access to healthcare prevents waste by ensuring resources are distributed based on medical necessity, not ability to pay. Why should we accept a system where only the wealthy receive the best care while others are left behind? Universal healthcare systems can ensure timely interventions by investing in preventative care and early detection programs, reducing the need for emergency treatments. Private healthcare systems create a two-tier system where only the wealthy receive quality care, leaving others behind.",
+            "timestamp": "2025-10-08 16:53:40"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Profit-driven systems allocate resources efficiently, driving higher standards and reducing waste in healthcare delivery."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare systems incentivise innovation, ensuring that advanced treatments eventually become more accessible to everyone."
+                ],
+                [
+                    "___Claim___",
+                    "Universal access often leads to overcrowding and rationing, which undermines the quality of care for everyone."
+                ],
+                [
+                    "___Claim___",
+                    "Universal healthcare systems often fail to deliver timely interventions, leaving patients waiting for essential treatments."
+                ],
+                [
+                    "___Since___",
+                    "Universal access often leads to overcrowding and rationing, which undermines the quality of care for everyone."
+                ],
+                [
+                    "___Why___",
+                    "Why claim that private healthcare systems leave others behind when competition often drives innovation and affordability?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Profit-driven systems allocate resources efficiently, driving higher standards and reducing waste in healthcare delivery. Private healthcare systems incentivise innovation, ensuring that advanced treatments eventually become more accessible to everyone. Universal access often leads to overcrowding and rationing, which undermines the quality of care for everyone. Universal healthcare systems often fail to deliver timely interventions, leaving patients waiting for essential treatments. Universal access often leads to overcrowding and rationing, which undermines the quality of care for everyone. Why claim that private healthcare systems leave others behind when competition often drives innovation and affordability?",
+            "timestamp": "2025-10-08 16:54:05"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Universal access ensures that everyone, not just the wealthy, receives quality care, which is a fundamental right, not a privilege."
+                ],
+                [
+                    "___Question___",
+                    "Why should we accept a system that leaves patients waiting for essential treatments when universal healthcare can ensure timely interventions?"
+                ],
+                [
+                    "___Question___",
+                    "How can you justify prioritising profit-driven efficiency over ensuring that all citizens, regardless of income, have access to quality care now?"
+                ],
+                [
+                    "___Why___",
+                    "Why should we wait for advanced treatments to become accessible when universal healthcare can provide them now?"
+                ],
+                [
+                    "___Why___",
+                    "Why should we accept a system that leaves patients waiting for essential treatments when universal healthcare can ensure timely interventions?"
+                ],
+                [
+                    "___Claim___",
+                    "Universal healthcare systems reduce administrative costs and ensure that everyone receives timely and effective medical services."
+                ]
+            ],
+            "sentences_no_utterance_types": "Universal access ensures that everyone, not just the wealthy, receives quality care, which is a fundamental right, not a privilege. Why should we accept a system that leaves patients waiting for essential treatments when universal healthcare can ensure timely interventions? How can you justify prioritising profit-driven efficiency over ensuring that all citizens, regardless of income, have access to quality care now? Why should we wait for advanced treatments to become accessible when universal healthcare can provide them now? Why should we accept a system that leaves patients waiting for essential treatments when universal healthcare can ensure timely interventions? Universal healthcare systems reduce administrative costs and ensure that everyone receives timely and effective medical services.",
+            "timestamp": "2025-10-08 17:01:31"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Private healthcare systems allocate resources based on demand, avoiding the overcrowding and rationing common in universal models."
+                ],
+                [
+                    "___Claim___",
+                    "Profit-driven systems accelerate the development of advanced treatments by incentivising competition and innovation."
+                ],
+                [
+                    "___Claim___",
+                    "Profit-driven systems prioritise efficiency, reducing delays and ensuring faster access to essential treatments."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare systems incentivise competition, which drives quicker and more effective patient care."
+                ],
+                [
+                    "___Claim___",
+                    "Universal healthcare systems frequently result in delays and inefficiencies, preventing patients from receiving timely medical services."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare systems allocate resources based on demand, avoiding the overcrowding and rationing common in universal models. Profit-driven systems accelerate the development of advanced treatments by incentivising competition and innovation. Profit-driven systems prioritise efficiency, reducing delays and ensuring faster access to essential treatments. Private healthcare systems incentivise competition, which drives quicker and more effective patient care. Universal healthcare systems frequently result in delays and inefficiencies, preventing patients from receiving timely medical services.",
+            "timestamp": "2025-10-08 17:01:55"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Universal healthcare systems allocate resources based on medical necessity, ensuring that everyone receives the care they need without financial barriers."
+                ],
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems prioritise universal access, ensuring that essential treatments are available to all, not just those who can afford to pay."
+                ],
+                [
+                    "___Claim___",
+                    "Universal healthcare systems can ensure timely interventions by investing in preventative care and early detection programs, reducing the need for emergency treatments."
+                ],
+                [
+                    "___Claim___",
+                    "Universal healthcare reduces administrative costs and ensures that everyone receives timely and effective medical services."
+                ],
+                [
+                    "___Claim___",
+                    "Profit-driven systems prioritise profit over patient care, often leading to higher costs and lower standards for those who can't afford premium services."
+                ]
+            ],
+            "sentences_no_utterance_types": "Universal healthcare systems allocate resources based on medical necessity, ensuring that everyone receives the care they need without financial barriers. Government-run healthcare systems prioritise universal access, ensuring that essential treatments are available to all, not just those who can afford to pay. Universal healthcare systems can ensure timely interventions by investing in preventative care and early detection programs, reducing the need for emergency treatments. Universal healthcare reduces administrative costs and ensures that everyone receives timely and effective medical services. Profit-driven systems prioritise profit over patient care, often leading to higher costs and lower standards for those who can't afford premium services.",
+            "timestamp": "2025-10-08 17:09:51"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why believe higher costs and lower standards are inevitable in profit-driven systems when efficiency and innovation can reduce expenses?"
+                ],
+                [
+                    "___Claim___",
+                    "Universal healthcare systems often allocate resources inefficiently, leading to delays and rationing that prevent patients from receiving necessary care."
+                ],
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems prioritise bureaucracy over patient care, making timely and effective medical services harder to achieve."
+                ],
+                [
+                    "___Why___",
+                    "Why assume that government-run systems can ensure timely interventions without leading to overcrowding and inefficiencies?"
+                ],
+                [
+                    "___Claim___",
+                    "Profit-driven systems drive competition, which enhances patient care and makes services more affordable over time."
+                ]
+            ],
+            "sentences_no_utterance_types": "Why believe higher costs and lower standards are inevitable in profit-driven systems when efficiency and innovation can reduce expenses? Universal healthcare systems often allocate resources inefficiently, leading to delays and rationing that prevent patients from receiving necessary care. Government-run healthcare systems prioritise bureaucracy over patient care, making timely and effective medical services harder to achieve. Why assume that government-run systems can ensure timely interventions without leading to overcrowding and inefficiencies? Profit-driven systems drive competition, which enhances patient care and makes services more affordable over time.",
+            "timestamp": "2025-10-08 17:10:18"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Universal healthcare systems allocate resources based on medical necessity, ensuring that everyone receives the care they need without financial barriers."
+                ],
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems prioritise universal access, ensuring that essential treatments are available to all, not just those who can afford to pay."
+                ],
+                [
+                    "___Since___",
+                    "Government-run healthcare systems prioritise universal access, ensuring that essential treatments are available to all, not just those who can afford to pay."
+                ],
+                [
+                    "___Claim___",
+                    "Universal healthcare systems can ensure timely interventions by investing in preventative care and early detection programs, reducing the need for emergency treatments."
+                ],
+                [
+                    "___Since___",
+                    "Equitable access to healthcare prevents higher costs by ensuring resources are distributed based on medical necessity, not ability to pay."
+                ],
+                [
+                    "___Claim___",
+                    "Profit-driven systems prioritise profit over patient care, often leading to higher costs and lower standards for those who can't afford premium services."
+                ]
+            ],
+            "sentences_no_utterance_types": "Universal healthcare systems allocate resources based on medical necessity, ensuring that everyone receives the care they need without financial barriers. Government-run healthcare systems prioritise universal access, ensuring that essential treatments are available to all, not just those who can afford to pay. Government-run healthcare systems prioritise universal access, ensuring that essential treatments are available to all, not just those who can afford to pay. Universal healthcare systems can ensure timely interventions by investing in preventative care and early detection programs, reducing the need for emergency treatments. Equitable access to healthcare prevents higher costs by ensuring resources are distributed based on medical necessity, not ability to pay. Profit-driven systems prioritise profit over patient care, often leading to higher costs and lower standards for those who can't afford premium services.",
+            "timestamp": "2025-10-08 17:12:25"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Universal access in government-run healthcare systems frequently leads to rationing, which denies patients the treatments they need when they need them."
+                ],
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems often fail to provide essential treatments in a timely manner, leaving many patients without the care they need."
+                ],
+                [
+                    "___Claim___",
+                    "Universal healthcare systems often allocate resources inefficiently, leading to delays and rationing that leave patients without necessary care."
+                ],
+                [
+                    "___Claim___",
+                    "Profit-driven systems drive competition, which lowers costs and raises standards for all patients."
+                ],
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems often prioritise bureaucracy over patient care, resulting in inefficiencies and unequal access to treatments."
+                ]
+            ],
+            "sentences_no_utterance_types": "Universal access in government-run healthcare systems frequently leads to rationing, which denies patients the treatments they need when they need them. Government-run healthcare systems often fail to provide essential treatments in a timely manner, leaving many patients without the care they need. Universal healthcare systems often allocate resources inefficiently, leading to delays and rationing that leave patients without necessary care. Profit-driven systems drive competition, which lowers costs and raises standards for all patients. Government-run healthcare systems often prioritise bureaucracy over patient care, resulting in inefficiencies and unequal access to treatments.",
+            "timestamp": "2025-10-08 17:13:00"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Question___",
+                    "Why should we accept a system that leaves patients waiting for essential treatments when universal healthcare can ensure timely interventions?"
+                ],
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems prioritise universal access, ensuring that essential treatments are available to all, not just those who can afford to pay."
+                ],
+                [
+                    "___Question___",
+                    "Why should we accept a system where only the wealthy receive the best care while others are left behind due to rationing?"
+                ],
+                [
+                    "___Question___",
+                    "How can you justify prioritising profit-driven efficiency over ensuring that all citizens, regardless of income, have access to quality care now?"
+                ],
+                [
+                    "___Why___",
+                    "Why should we accept a system that leaves patients waiting for essential treatments when universal healthcare can ensure timely interventions?"
+                ],
+                [
+                    "___Claim___",
+                    "Universal healthcare reduces administrative costs and ensures that everyone receives timely and effective medical services."
+                ]
+            ],
+            "sentences_no_utterance_types": "Why should we accept a system that leaves patients waiting for essential treatments when universal healthcare can ensure timely interventions? Government-run healthcare systems prioritise universal access, ensuring that essential treatments are available to all, not just those who can afford to pay. Why should we accept a system where only the wealthy receive the best care while others are left behind due to rationing? How can you justify prioritising profit-driven efficiency over ensuring that all citizens, regardless of income, have access to quality care now? Why should we accept a system that leaves patients waiting for essential treatments when universal healthcare can ensure timely interventions? Universal healthcare reduces administrative costs and ensures that everyone receives timely and effective medical services.",
+            "timestamp": "2025-10-08 17:18:39"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Profit-driven efficiency ensures that resources are allocated effectively, reducing waste and improving overall care quality."
+                ],
+                [
+                    "___Claim___",
+                    "Profit-driven systems incentivise innovation, ensuring that advanced treatments eventually become more accessible to everyone."
+                ],
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems prioritise bureaucracy over patient care, making timely and effective medical services harder to achieve."
+                ],
+                [
+                    "___Since___",
+                    "Universal access often leads to overcrowding and rationing, which undermines the quality of care for everyone."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare systems incentivise innovation, which leads to advanced treatments becoming more accessible over time."
+                ]
+            ],
+            "sentences_no_utterance_types": "Profit-driven efficiency ensures that resources are allocated effectively, reducing waste and improving overall care quality. Profit-driven systems incentivise innovation, ensuring that advanced treatments eventually become more accessible to everyone. Government-run healthcare systems prioritise bureaucracy over patient care, making timely and effective medical services harder to achieve. Universal access often leads to overcrowding and rationing, which undermines the quality of care for everyone. Private healthcare systems incentivise innovation, which leads to advanced treatments becoming more accessible over time.",
+            "timestamp": "2025-10-08 17:19:06"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Universal healthcare systems allocate resources based on medical necessity, ensuring that everyone receives the care they need without financial barriers."
+                ],
+                [
+                    "___Claim___",
+                    "Universal healthcare systems ensure that advanced treatments are accessible to all citizens now, not just those who can afford to wait for them to become more accessible over time."
+                ],
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems prioritise equitable access to cutting-edge treatments, ensuring that all citizens benefit from innovation, not just those who can afford private healthcare."
+                ],
+                [
+                    "___Claim___",
+                    "Universal healthcare systems can ensure timely interventions by investing in preventative care and early detection programs, reducing the need for emergency treatments."
+                ],
+                [
+                    "___Claim___",
+                    "Universal access ensures that everyone receives quality care, which is a fundamental right, not a privilege."
+                ]
+            ],
+            "sentences_no_utterance_types": "Universal healthcare systems allocate resources based on medical necessity, ensuring that everyone receives the care they need without financial barriers. Universal healthcare systems ensure that advanced treatments are accessible to all citizens now, not just those who can afford to wait for them to become more accessible over time. Government-run healthcare systems prioritise equitable access to cutting-edge treatments, ensuring that all citizens benefit from innovation, not just those who can afford private healthcare. Universal healthcare systems can ensure timely interventions by investing in preventative care and early detection programs, reducing the need for emergency treatments. Universal access ensures that everyone receives quality care, which is a fundamental right, not a privilege.",
+            "timestamp": "2025-10-08 17:20:36"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Question___",
+                    "Why do you believe universal healthcare systems can ensure advanced treatments are accessible without causing delays or rationing?"
+                ],
+                [
+                    "___Why___",
+                    "Why should healthcare be considered a fundamental right rather than a service that individuals are responsible for accessing?"
+                ],
+                [
+                    "___Why___",
+                    "Why trust universal healthcare systems to ensure timely interventions when bureaucracy often slows down patient care?"
+                ],
+                [
+                    "___Claim___",
+                    "Universal healthcare systems often fail to provide timely access to advanced treatments, leaving many patients waiting unnecessarily."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare systems drive competition and innovation, ensuring cutting-edge treatments are developed and made accessible faster than government-run models."
+                ]
+            ],
+            "sentences_no_utterance_types": "Why do you believe universal healthcare systems can ensure advanced treatments are accessible without causing delays or rationing? Why should healthcare be considered a fundamental right rather than a service that individuals are responsible for accessing? Why trust universal healthcare systems to ensure timely interventions when bureaucracy often slows down patient care? Universal healthcare systems often fail to provide timely access to advanced treatments, leaving many patients waiting unnecessarily. Private healthcare systems drive competition and innovation, ensuring cutting-edge treatments are developed and made accessible faster than government-run models.",
+            "timestamp": "2025-10-08 17:21:05"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Healthcare should be a fundamental right because it ensures that everyone, regardless of income, has access to essential medical services without financial barriers."
+                ],
+                [
+                    "___Claim___",
+                    "Universal healthcare systems ensure that advanced treatments are accessible to all citizens now, not just those who can afford to wait for them to become more accessible over time."
+                ],
+                [
+                    "___Question___",
+                    "How can you justify prioritising profit-driven competition over ensuring that all citizens, regardless of income, have access to cutting-edge treatments now?"
+                ],
+                [
+                    "___Why___",
+                    "Why should we accept a system where only the wealthy benefit from innovation while others are left behind?"
+                ],
+                [
+                    "___Since___",
+                    "Universal healthcare systems can ensure advanced treatments are accessible without causing delays or rationing by prioritising universal access, ensuring that essential treatments are available to all, not just those who can afford to pay."
+                ],
+                [
+                    "___Question___",
+                    "Why should we accept a system where only the wealthy benefit from innovation while others are left behind?"
+                ],
+                [
+                    "___Since___",
+                    "Healthcare should be a fundamental right because it ensures that everyone, regardless of income, has access to essential medical services without financial barriers."
+                ]
+            ],
+            "sentences_no_utterance_types": "Healthcare should be a fundamental right because it ensures that everyone, regardless of income, has access to essential medical services without financial barriers. Universal healthcare systems ensure that advanced treatments are accessible to all citizens now, not just those who can afford to wait for them to become more accessible over time. How can you justify prioritising profit-driven competition over ensuring that all citizens, regardless of income, have access to cutting-edge treatments now? Why should we accept a system where only the wealthy benefit from innovation while others are left behind? Universal healthcare systems can ensure advanced treatments are accessible without causing delays or rationing by prioritising universal access, ensuring that essential treatments are available to all, not just those who can afford to pay. Why should we accept a system where only the wealthy benefit from innovation while others are left behind? Healthcare should be a fundamental right because it ensures that everyone, regardless of income, has access to essential medical services without financial barriers.",
+            "timestamp": "2025-10-08 17:22:09"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Prioritising profit-driven competition ensures that advanced treatments become more affordable and accessible over time."
+                ],
+                [
+                    "___Claim___",
+                    "Profit-driven systems incentivise innovation, ensuring that advanced treatments eventually become more affordable and accessible to everyone."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare systems drive competition, ensuring that cutting-edge treatments are developed and improved faster than in government-run models."
+                ],
+                [
+                    "___Since___",
+                    "Private healthcare systems ensure that resources are allocated efficiently, reducing waste and improving the development of new medical technologies."
+                ],
+                [
+                    "___Claim___",
+                    "Profit-driven competition accelerates innovation, ensuring cutting-edge treatments are developed faster than in government-run systems."
+                ]
+            ],
+            "sentences_no_utterance_types": "Prioritising profit-driven competition ensures that advanced treatments become more affordable and accessible over time. Profit-driven systems incentivise innovation, ensuring that advanced treatments eventually become more affordable and accessible to everyone. Private healthcare systems drive competition, ensuring that cutting-edge treatments are developed and improved faster than in government-run models. Private healthcare systems ensure that resources are allocated efficiently, reducing waste and improving the development of new medical technologies. Profit-driven competition accelerates innovation, ensuring cutting-edge treatments are developed faster than in government-run systems.",
+            "timestamp": "2025-10-08 17:22:44"
+        }
+    ],
+    "first_speaker": "mistral-medium_mas_rag",
+    "first_speaker_utterance": "",
+    "first_speaker_commitments": [
+        "Government intervention in healthcare is essential to ensure that everyone, regardless of their income, has access to quality medical services.",
+        "Access to universal healthcare promotes personal responsibility by ensuring that everyone can afford to take care of their health without financial barriers.",
+        "Universal healthcare reduces administrative costs and ensures that everyone receives timely and effective medical services.",
+        "Government intervention in healthcare fosters innovation by pooling resources and ensuring equitable access to cutting-edge treatments.",
+        "Government intervention in preventative care actually reduces long-term costs by catching health issues early.",
+        "Profit-driven healthcare systems create a two-tier system where only the wealthy receive quality care.",
+        "Equitable access to healthcare prevents rationing by ensuring resources are distributed based on medical necessity, not ability to pay."
+    ],
+    "first_speaker_original_claim": "Government intervention in healthcare is essential to ensure that everyone, regardless of their income, has access to quality medical services.",
+    "first_speaker_typical_replies_for_second_speakers_response": [],
+    "second_speaker": "gpt-4o_mas",
+    "second_speaker_utterance": "Prioritising profit-driven competition ensures that advanced treatments become more affordable and accessible over time. Profit-driven systems incentivise innovation, ensuring that advanced treatments eventually become more affordable and accessible to everyone. Private healthcare systems drive competition, ensuring that cutting-edge treatments are developed and improved faster than in government-run models. Private healthcare systems ensure that resources are allocated efficiently, reducing waste and improving the development of new medical technologies. Profit-driven competition accelerates innovation, ensuring cutting-edge treatments are developed faster than in government-run systems.",
+    "second_speaker_commitments": [
+        "Government intervention in healthcare stifles innovation and efficiency, leaving patients with subpar services.",
+        "Universal healthcare discourages personal responsibility by removing the financial consequences of unhealthy lifestyle choices.",
+        "Universal access in government-run healthcare systems frequently leads to overcrowding and rationing, which undermines the quality of care.",
+        "Profit-driven healthcare systems ensure higher standards and faster services, proving that prioritising profit can lead to better outcomes."
+    ],
+    "second_speaker_original_claim": "Government intervention in healthcare stifles innovation and efficiency, leaving patients with subpar services.",
+    "second_speaker_typical_replies_for_first_speakers_response": [],
+    "winner": "None",
+    "loser": "None",
+    "reason_for_dialogue_termination": {
+        "reason": "Maximum number of dialogue turns reached (40 dialogue turns).",
+        "utterance_type": null,
+        "utterance": null
+    },
+    "session_status": "Finished."
+}

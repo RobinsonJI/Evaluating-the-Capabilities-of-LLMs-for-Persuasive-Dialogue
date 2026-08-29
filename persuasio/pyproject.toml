@@ -1,0 +1,67 @@
+[project]
+name = "persuasio"
+version = "0.1.1"
+description = "An API backend for debating Large Language Models using a formal system for persuasion dialogues. "
+
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "asyncpg>=0.30.0",
+    "fastapi[standard]>=0.116.2",
+    "langchain-community>=0.3.29",
+    "langgraph>=0.6.7",
+    "langgraph-checkpoint-postgres>=2.0.23",
+    "neo4j>=5.28.2",
+    "openai>=1.107.3",
+    "pandas>=2.3.2",
+    "psycopg[binary,pool]>=3.2.10",
+    "psycopg2>=2.9.11",
+    "pydantic>=2.11.9",
+    "sentence-transformers>=5.1.0",
+    "torch>=2.9.0",
+    "transformers>=4.56.1",
+    "uvicorn>=0.35.0",
+    "langchain-classic"
+]
+
+[project.optional-dependencies]
+cpu = ["torch==2.9.0"]
+cu130 = ["torch==2.9.0"]
+
+[tool.setuptools.packages.find]
+where = ["."]
+
+# [tool.setuptools]
+# py-modules = ["persuasio", "persuasio_production"] 
+
+[project.scripts]
+dev = "persuasio.persuasio:main"
+prod = "persuasio.persuasio_production:main"
+
+[tool.uv]
+package = true
+# The cpu and cu120 extras are mutually exclusive, you can't use both at the same time
+conflicts = [[{ extra = "cpu" }, { extra = "cu130" }]]
+
+[tool.uv.sources]
+# The torch, torchvision, and torchaudio packages are installed from the pytorch-cpu and pytorch-cu130 indexes
+torch = [
+  { index = "pytorch-cpu", extra = "cpu" },
+  { index = "pytorch-cu130", extra = "cu130" },
+]
+
+[[tool.uv.index]]
+# The pytorch-cpu index is used to install the torch package
+name = "pytorch-cpu"
+url = "https://download.pytorch.org/whl/cpu"
+explicit = true
+
+[[tool.uv.index]]
+name = "pytorch-cu130"
+url = "https://download.pytorch.org/whl/cu130"
+explicit = true
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.1.0",
+]

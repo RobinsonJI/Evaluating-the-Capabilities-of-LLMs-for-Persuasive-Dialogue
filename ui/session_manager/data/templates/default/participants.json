@@ -1,0 +1,202 @@
+[
+  {
+    "participant_id": "human_1",
+    "participant_type": "human",
+    "auth_code": "S3O63Y",
+    "is_authenticated": false,
+    "current_session": null,
+    "is_admin": false,
+    "last_activity": null,
+    "message_count": 0
+  },
+  {
+    "participant_id": "human_2",
+    "participant_type": "human",
+    "auth_code": "B9P222",
+    "is_authenticated": false,
+    "current_session": null,
+    "is_admin": false,
+    "last_activity": null,
+    "message_count": 0
+  },
+  {
+    "participant_id": "human_3",
+    "participant_type": "human",
+    "auth_code": "O1EBDZ",
+    "is_authenticated": false,
+    "current_session": null,
+    "is_admin": false,
+    "last_activity": null,
+    "message_count": 0
+  },
+  {
+    "participant_id": "human_4",
+    "participant_type": "human",
+    "auth_code": "O2G98P",
+    "is_authenticated": false,
+    "current_session": null,
+    "is_admin": false,
+    "last_activity": null,
+    "message_count": 0
+  },
+  {
+    "participant_id": "human_5",
+    "participant_type": "human",
+    "auth_code": "27P8QW",
+    "is_authenticated": false,
+    "current_session": null,
+    "is_admin": false,
+    "last_activity": null,
+    "message_count": 0
+  },
+  {
+    "participant_id": "human_6",
+    "participant_type": "human",
+    "auth_code": "9J27GM",
+    "is_authenticated": false,
+    "current_session": null,
+    "is_admin": false,
+    "last_activity": null,
+    "message_count": 0
+  },
+  {
+    "participant_id": "human_7",
+    "participant_type": "human",
+    "auth_code": "GGJOHU",
+    "is_authenticated": false,
+    "current_session": null,
+    "is_admin": false,
+    "last_activity": null,
+    "message_count": 0
+  },
+  {
+    "participant_id": "human_8",
+    "participant_type": "human",
+    "auth_code": "UT4Q5Z",
+    "is_authenticated": false,
+    "current_session": null,
+    "is_admin": false,
+    "last_activity": null,
+    "message_count": 0
+  },
+  {
+    "participant_id": "human_9",
+    "participant_type": "human",
+    "auth_code": "VV4Z9Y",
+    "is_authenticated": false,
+    "current_session": null,
+    "is_admin": false,
+    "last_activity": null,
+    "message_count": 0
+  },
+  {
+    "participant_id": "human_10",
+    "participant_type": "human",
+    "auth_code": "5YO2ZL",
+    "is_authenticated": false,
+    "current_session": null,
+    "is_admin": false,
+    "last_activity": null,
+    "message_count": 0
+  },
+  {
+    "participant_id": "human_11",
+    "participant_type": "human",
+    "auth_code": "QQO14K",
+    "is_authenticated": false,
+    "current_session": null,
+    "is_admin": false,
+    "last_activity": null,
+    "message_count": 0
+  },
+  {
+    "participant_id": "human_12",
+    "participant_type": "human",
+    "auth_code": "S5M3C8",
+    "is_authenticated": false,
+    "current_session": null,
+    "is_admin": false,
+    "last_activity": null,
+    "message_count": 0
+  },
+  {
+    "participant_id": "human_13",
+    "participant_type": "human",
+    "auth_code": "10PETZ",
+    "is_authenticated": false,
+    "current_session": null,
+    "is_admin": false,
+    "last_activity": null,
+    "message_count": 0
+  },
+  {
+    "participant_id": "gpt-4o_base",
+    "participant_type": "base",
+    "auth_code": null,
+    "is_authenticated": false,
+    "current_session": null,
+    "is_admin": false,
+    "last_activity": null,
+    "message_count": 0
+  },
+  {
+    "participant_id": "gpt-4o_mas",
+    "participant_type": "mas",
+    "auth_code": null,
+    "is_authenticated": false,
+    "current_session": null,
+    "is_admin": false,
+    "last_activity": null,
+    "message_count": 0
+  },
+  {
+    "participant_id": "gpt-4o_mas_rag",
+    "participant_type": "mas_rag",
+    "auth_code": null,
+    "is_authenticated": false,
+    "current_session": null,
+    "is_admin": false,
+    "last_activity": null,
+    "message_count": 0
+  },
+  {
+    "participant_id": "grok-3_base",
+    "participant_type": "base",
+    "auth_code": null,
+    "is_authenticated": false,
+    "current_session": null,
+    "is_admin": false,
+    "last_activity": null,
+    "message_count": 0
+  },
+  {
+    "participant_id": "grok-3_mas",
+    "participant_type": "mas",
+    "auth_code": null,
+    "is_authenticated": false,
+    "current_session": null,
+    "is_admin": false,
+    "last_activity": null,
+    "message_count": 0
+  },
+  {
+    "participant_id": "grok-3_mas_rag",
+    "participant_type": "mas_rag",
+    "auth_code": null,
+    "is_authenticated": false,
+    "current_session": null,
+    "is_admin": false,
+    "last_activity": null,
+    "message_count": 0
+  },
+  {
+    "participant_id": "ADMIN",
+    "participant_type": "human",
+    "auth_code": "<4DM1N>",
+    "is_authenticated": false,
+    "current_session": null,
+    "is_admin": true,
+    "last_activity": null,
+    "message_count": 0
+  }
+]

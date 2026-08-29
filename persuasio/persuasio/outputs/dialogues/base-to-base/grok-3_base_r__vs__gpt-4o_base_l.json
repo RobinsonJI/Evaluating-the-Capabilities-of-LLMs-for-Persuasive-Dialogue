@@ -1,0 +1,1142 @@
+{
+    "loser": "None",
+    "winner": "None",
+    "session_id": "grok-3_base:r__vs__gpt-4o_base:l",
+    "debate_topic": "Debate the trade-offs of government intervention across a range of issues, including healthcare, immigration, and welfare.",
+    "next_speaker": "second_speaker",
+    "first_speaker": "grok-3_base",
+    "second_speaker": "gpt-4o_base",
+    "current_speaker": "first_speaker",
+    "dialogue_history": [
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-03 23:40:44",
+            "sentences_no_utterance_types": "I believe the government should take a step back from excessive intervention in healthcare, immigration, and welfare, as it often leads to inefficiency and dependency.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "I believe the government should take a step back from excessive intervention in healthcare, immigration, and welfare, as it often leads to inefficiency and dependency."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-03 23:40:46",
+            "sentences_no_utterance_types": "I disagree. Government intervention in healthcare, immigration, and welfare is essential to ensure fairness, protect vulnerable groups, and address systemic inequalities that the private sector often ignores.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "I disagree."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention in healthcare, immigration, and welfare is essential to ensure fairness, protect vulnerable groups, and address systemic inequalities that the private sector often ignores."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-03 23:40:57",
+            "sentences_no_utterance_types": "Why do you think government intervention always ensures fairness? I reckon it often creates bloated systems that waste taxpayer money and fail to deliver real results. Look at the NHS\u2014constant funding increases, yet waiting lists are still a nightmare. Private sector competition could drive efficiency if we let it. Can you honestly say the state always gets it right?",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why do you think government intervention always ensures fairness?"
+                ],
+                [
+                    "___Claim___",
+                    "I reckon it often creates bloated systems that waste taxpayer money and fail to deliver real results."
+                ],
+                [
+                    "___Claim___",
+                    "Look at the NHS\u2014constant funding increases, yet waiting lists are still a nightmare."
+                ],
+                [
+                    "___Claim___",
+                    "Private sector competition could drive efficiency if we let it."
+                ],
+                [
+                    "___Question___",
+                    "Can you honestly say the state always gets it right?"
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-03 23:41:05",
+            "sentences_no_utterance_types": "Government intervention ensures fairness since it prioritises universal access over profit motives. The NHS, despite its challenges, guarantees healthcare for everyone regardless of income, which private systems often fail to do. Private sector competition might drive efficiency, but it also risks creating inequality where only those who can afford care receive it. The state may not always get it right, but its focus on equity and protection for the vulnerable outweighs the inefficiencies. Without intervention, systemic inequalities would worsen, leaving the most disadvantaged behind.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Government intervention ensures fairness since it prioritises universal access over profit motives."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS, despite its challenges, guarantees healthcare for everyone regardless of income, which private systems often fail to do."
+                ],
+                [
+                    "___Claim___",
+                    "Private sector competition might drive efficiency, but it also risks creating inequality where only those who can afford care receive it."
+                ],
+                [
+                    "___Claim___",
+                    "The state may not always get it right, but its focus on equity and protection for the vulnerable outweighs the inefficiencies."
+                ],
+                [
+                    "___Claim___",
+                    "Without intervention, systemic inequalities would worsen, leaving the most disadvantaged behind."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-03 23:41:16",
+            "sentences_no_utterance_types": "Why do you assume universal access through the state is the only way to avoid inequality? I reckon the NHS\u2019s guarantee of care comes at the cost of endless delays and rationing, which hits the vulnerable hardest when they can\u2019t get timely treatment. Private competition can offer faster, better services if regulated properly, without leaving anyone behind. You\u2019re ignoring how government overreach often creates more problems than it solves. Can you really say the state\u2019s inefficiencies don\u2019t harm the very people it claims to protect?",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why do you assume universal access through the state is the only way to avoid inequality?"
+                ],
+                [
+                    "___Claim___",
+                    "I reckon the NHS\u2019s guarantee of care comes at the cost of endless delays and rationing, which hits the vulnerable hardest when they can\u2019t get timely treatment."
+                ],
+                [
+                    "___Claim___",
+                    "Private competition can offer faster, better services if regulated properly, without leaving anyone behind."
+                ],
+                [
+                    "___Claim___",
+                    "You\u2019re ignoring how government overreach often creates more problems than it solves."
+                ],
+                [
+                    "___Question___",
+                    "Can you really say the state\u2019s inefficiencies don\u2019t harm the very people it claims to protect?"
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-03 23:41:22",
+            "sentences_no_utterance_types": "Universal access through the state avoids inequality since it ensures that healthcare is not dependent on one's ability to pay. Delays and rationing in the NHS are issues of management and funding, not the principle of universal care itself. Private competition might offer faster services, but it often prioritises profit over equity, leaving those who can't afford care behind. Government intervention addresses systemic inequalities that the private sector cannot, even if inefficiencies exist. Without state involvement, the most vulnerable would face even greater barriers to accessing essential services.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Universal access through the state avoids inequality since it ensures that healthcare is not dependent on one's ability to pay."
+                ],
+                [
+                    "___Claim___",
+                    "Delays and rationing in the NHS are issues of management and funding, not the principle of universal care itself."
+                ],
+                [
+                    "___Claim___",
+                    "Private competition might offer faster services, but it often prioritises profit over equity, leaving those who can't afford care behind."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention addresses systemic inequalities that the private sector cannot, even if inefficiencies exist."
+                ],
+                [
+                    "___Claim___",
+                    "Without state involvement, the most vulnerable would face even greater barriers to accessing essential services."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-03 23:41:32",
+            "sentences_no_utterance_types": "Why do you keep insisting that state-run universal access is the only way to avoid inequality? I reckon the NHS\u2019s delays and rationing aren\u2019t just management issues\u2014they\u2019re baked into a system that\u2019s too bloated to respond quickly, leaving the vulnerable waiting far too long. Private competition, with proper oversight, can deliver faster care without abandoning equity. You\u2019re dodging the fact that government intervention often wastes resources and fails to prioritise effectively. Can you honestly claim the state\u2019s track record proves it\u2019s the best protector of the vulnerable?",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why do you keep insisting that state-run universal access is the only way to avoid inequality?"
+                ],
+                [
+                    "___Claim___",
+                    "I reckon the NHS\u2019s delays and rationing aren\u2019t just management issues\u2014they\u2019re baked into a system that\u2019s too bloated to respond quickly, leaving the vulnerable waiting far too long."
+                ],
+                [
+                    "___Claim___",
+                    "Private competition, with proper oversight, can deliver faster care without abandoning equity."
+                ],
+                [
+                    "___Claim___",
+                    "You\u2019re dodging the fact that government intervention often wastes resources and fails to prioritise effectively."
+                ],
+                [
+                    "___Question___",
+                    "Can you honestly claim the state\u2019s track record proves it\u2019s the best protector of the vulnerable?"
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-03 23:41:39",
+            "sentences_no_utterance_types": "The state-run universal access avoids inequality since it guarantees care for everyone, regardless of income, which private systems often fail to achieve. Delays and rationing in the NHS are symptoms of underfunding and mismanagement, not the principle of universal care itself. Private competition, even with oversight, prioritises profit and risks creating a tiered system where the wealthy get faster care while the vulnerable are left behind. Government intervention may not be perfect, but its focus on equity and protection for the disadvantaged outweighs the inefficiencies. Without it, systemic inequalities would deepen, leaving the most vulnerable worse off.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "The state-run universal access avoids inequality since it guarantees care for everyone, regardless of income, which private systems often fail to achieve."
+                ],
+                [
+                    "___Claim___",
+                    "Delays and rationing in the NHS are symptoms of underfunding and mismanagement, not the principle of universal care itself."
+                ],
+                [
+                    "___Claim___",
+                    "Private competition, even with oversight, prioritises profit and risks creating a tiered system where the wealthy get faster care while the vulnerable are left behind."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention may not be perfect, but its focus on equity and protection for the disadvantaged outweighs the inefficiencies."
+                ],
+                [
+                    "___Claim___",
+                    "Without it, systemic inequalities would deepen, leaving the most vulnerable worse off."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-03 23:41:49",
+            "sentences_no_utterance_types": "Why do you keep claiming state-run systems are the only way to guarantee care for all? I reckon the NHS\u2019s delays and rationing aren\u2019t just about funding\u2014they\u2019re proof a monolithic state system can\u2019t adapt or prioritise effectively, leaving the vulnerable suffering longest. Private competition, with strict regulation, can cut waiting times and improve quality without creating tiers of care. You\u2019re brushing off how government waste and inefficiency often hurt the very people you say it protects. Can you really argue the state\u2019s track record shows it\u2019s the best option?",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why do you keep claiming state-run systems are the only way to guarantee care for all?"
+                ],
+                [
+                    "___Claim___",
+                    "I reckon the NHS\u2019s delays and rationing aren\u2019t just about funding\u2014they\u2019re proof a monolithic state system can\u2019t adapt or prioritise effectively, leaving the vulnerable suffering longest."
+                ],
+                [
+                    "___Claim___",
+                    "Private competition, with strict regulation, can cut waiting times and improve quality without creating tiers of care."
+                ],
+                [
+                    "___Claim___",
+                    "You\u2019re brushing off how government waste and inefficiency often hurt the very people you say it protects."
+                ],
+                [
+                    "___Question___",
+                    "Can you really argue the state\u2019s track record shows it\u2019s the best option?"
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-03 23:41:56",
+            "sentences_no_utterance_types": "State-run systems guarantee care for all since they remove the profit motive that often excludes the poorest. The NHS\u2019s delays and rationing stem from chronic underfunding and political neglect, not the principle of universal care. Private competition, even with regulation, risks creating a system where those with money get priority, leaving the vulnerable behind. Government inefficiencies exist, but they are outweighed by the equity and protection provided to those who would otherwise be marginalised. The state\u2019s track record, despite flaws, shows it is the only option that consistently prioritises fairness over profit.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "State-run systems guarantee care for all since they remove the profit motive that often excludes the poorest."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS\u2019s delays and rationing stem from chronic underfunding and political neglect, not the principle of universal care."
+                ],
+                [
+                    "___Claim___",
+                    "Private competition, even with regulation, risks creating a system where those with money get priority, leaving the vulnerable behind."
+                ],
+                [
+                    "___Claim___",
+                    "Government inefficiencies exist, but they are outweighed by the equity and protection provided to those who would otherwise be marginalised."
+                ],
+                [
+                    "___Claim___",
+                    "The state\u2019s track record, despite flaws, shows it is the only option that consistently prioritises fairness over profit."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-03 23:42:07",
+            "sentences_no_utterance_types": "Why do you keep saying the state is the only option to prioritise fairness? I reckon the NHS\u2019s delays and rationing aren\u2019t just about underfunding\u2014they show a system too rigid to adapt, leaving the vulnerable stuck waiting. Private competition, with tight rules, can speed up care and raise standards without letting the rich jump the queue. You\u2019re ignoring how state inefficiencies often waste money that could help the poorest. Can you truly claim the state\u2019s clumsy approach always beats a regulated market?",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why do you keep saying the state is the only option to prioritise fairness?"
+                ],
+                [
+                    "___Claim___",
+                    "I reckon the NHS\u2019s delays and rationing aren\u2019t just about underfunding\u2014they show a system too rigid to adapt, leaving the vulnerable stuck waiting."
+                ],
+                [
+                    "___Claim___",
+                    "Private competition, with tight rules, can speed up care and raise standards without letting the rich jump the queue."
+                ],
+                [
+                    "___Claim___",
+                    "You\u2019re ignoring how state inefficiencies often waste money that could help the poorest."
+                ],
+                [
+                    "___Question___",
+                    "Can you truly claim the state\u2019s clumsy approach always beats a regulated market?"
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-03 23:42:13",
+            "sentences_no_utterance_types": "The state is the only option to prioritise fairness since it ensures healthcare is a right, not a privilege tied to income. The NHS\u2019s rigidity is a result of political neglect and underfunding, not the concept of universal care itself. Private competition, even with tight rules, introduces profit motives that inevitably lead to inequality, as those with money will always find ways to gain priority. State inefficiencies can be addressed through better management and funding, whereas a regulated market cannot eliminate the inherent inequality of a profit-driven system. The state\u2019s approach, despite its flaws, remains the most reliable way to protect the vulnerable and ensure equity.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "The state is the only option to prioritise fairness since it ensures healthcare is a right, not a privilege tied to income."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS\u2019s rigidity is a result of political neglect and underfunding, not the concept of universal care itself."
+                ],
+                [
+                    "___Claim___",
+                    "Private competition, even with tight rules, introduces profit motives that inevitably lead to inequality, as those with money will always find ways to gain priority."
+                ],
+                [
+                    "___Claim___",
+                    "State inefficiencies can be addressed through better management and funding, whereas a regulated market cannot eliminate the inherent inequality of a profit-driven system."
+                ],
+                [
+                    "___Claim___",
+                    "The state\u2019s approach, despite its flaws, remains the most reliable way to protect the vulnerable and ensure equity."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-03 23:42:23",
+            "sentences_no_utterance_types": "Why do you insist the state is the only way to ensure fairness? I reckon the NHS\u2019s rigidity isn\u2019t just about neglect or funding\u2014it\u2019s a sign that a top-heavy system can\u2019t keep up with demand, leaving the vulnerable in the lurch. Private competition, with proper safeguards, can slash waiting times and boost quality without letting the wealthy dominate. You\u2019re glossing over how state waste squanders funds that could directly help the poorest. Can you really say a creaking state system is always better than a tightly controlled market?",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why do you insist the state is the only way to ensure fairness?"
+                ],
+                [
+                    "___Claim___",
+                    "I reckon the NHS\u2019s rigidity isn\u2019t just about neglect or funding\u2014it\u2019s a sign that a top-heavy system can\u2019t keep up with demand, leaving the vulnerable in the lurch."
+                ],
+                [
+                    "___Claim___",
+                    "Private competition, with proper safeguards, can slash waiting times and boost quality without letting the wealthy dominate."
+                ],
+                [
+                    "___Claim___",
+                    "You\u2019re glossing over how state waste squanders funds that could directly help the poorest."
+                ],
+                [
+                    "___Question___",
+                    "Can you really say a creaking state system is always better than a tightly controlled market?"
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-03 23:42:30",
+            "sentences_no_utterance_types": "The state is the only way to ensure fairness because it guarantees healthcare as a right, not a commodity. The NHS\u2019s rigidity is a symptom of political mismanagement and chronic underfunding, not the principle of universal care. Private competition, even with safeguards, cannot eliminate the profit motive that leads to inequality, as those with money will always find ways to gain priority. State waste can be reduced through better governance, but a market-driven system inherently prioritises profit over equity. A creaking state system still prioritises fairness, while a tightly controlled market inevitably creates tiers of care that leave the poorest behind.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "The state is the only way to ensure fairness because it guarantees healthcare as a right, not a commodity."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS\u2019s rigidity is a symptom of political mismanagement and chronic underfunding, not the principle of universal care."
+                ],
+                [
+                    "___Claim___",
+                    "Private competition, even with safeguards, cannot eliminate the profit motive that leads to inequality, as those with money will always find ways to gain priority."
+                ],
+                [
+                    "___Claim___",
+                    "State waste can be reduced through better governance, but a market-driven system inherently prioritises profit over equity."
+                ],
+                [
+                    "___Claim___",
+                    "A creaking state system still prioritises fairness, while a tightly controlled market inevitably creates tiers of care that leave the poorest behind."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-03 23:42:39",
+            "sentences_no_utterance_types": "Why do you keep banging on about the state being the only way to ensure fairness? I reckon the NHS\u2019s rigidity isn\u2019t just mismanagement\u2014it\u2019s a bloated system that can\u2019t keep pace, leaving the vulnerable stuck in endless queues. Private competition, with strict controls, can cut delays and raise standards without letting the rich take over. You\u2019re dodging how state waste burns through cash that could actually help the poorest. Can you honestly say a sluggish state setup is always better than a well-regulated market?",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why do you keep banging on about the state being the only way to ensure fairness?"
+                ],
+                [
+                    "___Claim___",
+                    "I reckon the NHS\u2019s rigidity isn\u2019t just mismanagement\u2014it\u2019s a bloated system that can\u2019t keep pace, leaving the vulnerable stuck in endless queues."
+                ],
+                [
+                    "___Claim___",
+                    "Private competition, with strict controls, can cut delays and raise standards without letting the rich take over."
+                ],
+                [
+                    "___Claim___",
+                    "You\u2019re dodging how state waste burns through cash that could actually help the poorest."
+                ],
+                [
+                    "___Question___",
+                    "Can you honestly say a sluggish state setup is always better than a well-regulated market?"
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-03 23:42:46",
+            "sentences_no_utterance_types": "The state setup is better than a market-driven system because it prioritises equity over profit. The NHS\u2019s issues stem from underfunding and poor governance, not the principle of universal care. Private competition, even with strict controls, introduces profit motives that inevitably lead to inequality, as those with money will always find ways to gain priority. State waste can be tackled through better management, but a market system inherently favours those who can pay more. A sluggish state system still ensures fairness, while a regulated market risks leaving the poorest behind.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "The state setup is better than a market-driven system because it prioritises equity over profit."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS\u2019s issues stem from underfunding and poor governance, not the principle of universal care."
+                ],
+                [
+                    "___Claim___",
+                    "Private competition, even with strict controls, introduces profit motives that inevitably lead to inequality, as those with money will always find ways to gain priority."
+                ],
+                [
+                    "___Claim___",
+                    "State waste can be tackled through better management, but a market system inherently favours those who can pay more."
+                ],
+                [
+                    "___Claim___",
+                    "A sluggish state system still ensures fairness, while a regulated market risks leaving the poorest behind."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-03 23:42:55",
+            "sentences_no_utterance_types": "Why do you keep claiming the state setup is inherently fairer? I reckon the NHS\u2019s issues aren\u2019t just underfunding\u2014they show a system too clunky to deliver for the vulnerable who wait forever. Private competition, with ironclad rules, can speed things up and improve care without letting the rich hog the benefits. You\u2019re sidestepping how state waste eats up funds that could directly support the poorest. Can you really say a lumbering state machine always trumps a regulated market?",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why do you keep claiming the state setup is inherently fairer?"
+                ],
+                [
+                    "___Claim___",
+                    "I reckon the NHS\u2019s issues aren\u2019t just underfunding\u2014they show a system too clunky to deliver for the vulnerable who wait forever."
+                ],
+                [
+                    "___Claim___",
+                    "Private competition, with ironclad rules, can speed things up and improve care without letting the rich hog the benefits."
+                ],
+                [
+                    "___Claim___",
+                    "You\u2019re sidestepping how state waste eats up funds that could directly support the poorest."
+                ],
+                [
+                    "___Question___",
+                    "Can you really say a lumbering state machine always trumps a regulated market?"
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-03 23:43:02",
+            "sentences_no_utterance_types": "The state setup is inherently fairer because it removes the profit motive that creates inequality. The NHS\u2019s clunkiness is a result of political neglect and underfunding, not the principle of universal care. Private competition, even with ironclad rules, cannot escape the reality that profit-driven systems favour those who can pay more. State waste can be reduced with better governance, while a market system will always prioritise profit over equity. A regulated market might speed things up, but it risks leaving the poorest behind in a tiered system.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "The state setup is inherently fairer because it removes the profit motive that creates inequality."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS\u2019s clunkiness is a result of political neglect and underfunding, not the principle of universal care."
+                ],
+                [
+                    "___Claim___",
+                    "Private competition, even with ironclad rules, cannot escape the reality that profit-driven systems favour those who can pay more."
+                ],
+                [
+                    "___Claim___",
+                    "State waste can be reduced with better governance, while a market system will always prioritise profit over equity."
+                ],
+                [
+                    "___Claim___",
+                    "A regulated market might speed things up, but it risks leaving the poorest behind in a tiered system."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-03 23:43:12",
+            "sentences_no_utterance_types": "Why do you keep saying the state setup is inherently fairer when it so often fails to deliver? I reckon the NHS\u2019s clunkiness isn\u2019t just about neglect\u2014it\u2019s a system too weighed down by bureaucracy to help the vulnerable in time. Private competition, with rock-solid oversight, can slash delays and lift standards without letting the rich take over. You\u2019re ignoring how state waste gobbles up money that could go straight to the poorest. Can you seriously claim a creaky state system always beats a properly controlled market?",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why do you keep saying the state setup is inherently fairer when it so often fails to deliver?"
+                ],
+                [
+                    "___Claim___",
+                    "I reckon the NHS\u2019s clunkiness isn\u2019t just about neglect\u2014it\u2019s a system too weighed down by bureaucracy to help the vulnerable in time."
+                ],
+                [
+                    "___Claim___",
+                    "Private competition, with rock-solid oversight, can slash delays and lift standards without letting the rich take over."
+                ],
+                [
+                    "___Claim___",
+                    "You\u2019re ignoring how state waste gobbles up money that could go straight to the poorest."
+                ],
+                [
+                    "___Question___",
+                    "Can you seriously claim a creaky state system always beats a properly controlled market?"
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-03 23:43:19",
+            "sentences_no_utterance_types": "The state setup is inherently fairer because it guarantees healthcare as a right, not a privilege tied to income. The NHS\u2019s bureaucracy is a symptom of political mismanagement, not the principle of universal care. Private competition, even with rock-solid oversight, cannot eliminate the profit motive that leads to inequality, as those with money will always find ways to gain priority. State waste can be reduced through better governance, while a market-driven system will always favour those who can pay more. A creaky state system still prioritises fairness, while a controlled market risks creating tiers of care that leave the poorest behind.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "The state setup is inherently fairer because it guarantees healthcare as a right, not a privilege tied to income."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS\u2019s bureaucracy is a symptom of political mismanagement, not the principle of universal care."
+                ],
+                [
+                    "___Claim___",
+                    "Private competition, even with rock-solid oversight, cannot eliminate the profit motive that leads to inequality, as those with money will always find ways to gain priority."
+                ],
+                [
+                    "___Claim___",
+                    "State waste can be reduced through better governance, while a market-driven system will always favour those who can pay more."
+                ],
+                [
+                    "___Claim___",
+                    "A creaky state system still prioritises fairness, while a controlled market risks creating tiers of care that leave the poorest behind."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-03 23:43:30",
+            "sentences_no_utterance_types": "Why do you keep insisting the state setup is inherently fairer when it so often leaves people waiting in misery? I reckon the NHS\u2019s bureaucracy isn\u2019t just mismanagement\u2014it\u2019s a system too slow and cumbersome to serve the vulnerable when they need it most. Private competition, with strict controls, can cut through the red tape and deliver better care without letting the rich take over. You\u2019re dodging how state waste burns through cash that could actually help the poorest. Can you really say a creaky state system always outdoes a well-regulated market?",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why do you keep insisting the state setup is inherently fairer when it so often leaves people waiting in misery?"
+                ],
+                [
+                    "___Claim___",
+                    "I reckon the NHS\u2019s bureaucracy isn\u2019t just mismanagement\u2014it\u2019s a system too slow and cumbersome to serve the vulnerable when they need it most."
+                ],
+                [
+                    "___Claim___",
+                    "Private competition, with strict controls, can cut through the red tape and deliver better care without letting the rich take over."
+                ],
+                [
+                    "___Claim___",
+                    "You\u2019re dodging how state waste burns through cash that could actually help the poorest."
+                ],
+                [
+                    "___Question___",
+                    "Can you really say a creaky state system always outdoes a well-regulated market?"
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-03 23:43:37",
+            "sentences_no_utterance_types": "The state setup is inherently fairer because it ensures healthcare is a right, not a privilege tied to income. The NHS\u2019s bureaucracy is a result of political neglect and underfunding, not the principle of universal care. Private competition, even with strict controls, cannot escape the profit motive that creates inequality, as those with money will always find ways to gain priority. State waste can be reduced through better governance, while a market-driven system will always favour those who can pay more. A creaky state system still prioritises fairness, while a regulated market risks leaving the poorest behind in a tiered system.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The state setup is inherently fairer because it ensures healthcare is a right, not a privilege tied to income."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS\u2019s bureaucracy is a result of political neglect and underfunding, not the principle of universal care."
+                ],
+                [
+                    "___Claim___",
+                    "Private competition, even with strict controls, cannot escape the profit motive that creates inequality, as those with money will always find ways to gain priority."
+                ],
+                [
+                    "___Claim___",
+                    "State waste can be reduced through better governance, while a market-driven system will always favour those who can pay more."
+                ],
+                [
+                    "___Claim___",
+                    "A creaky state system still prioritises fairness, while a regulated market risks leaving the poorest behind in a tiered system."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-03 23:43:46",
+            "sentences_no_utterance_types": "Why do you keep claiming the state setup is inherently fairer when it so often fails the very people it\u2019s meant to help? I reckon the NHS\u2019s bureaucracy isn\u2019t just about neglect\u2014it\u2019s a clunky beast that can\u2019t deliver timely care, leaving the vulnerable in limbo. Private competition, with proper rules, can slash waiting times and up the quality without letting the rich hog everything. You\u2019re dodging how state waste chews up funds that could go straight to the poorest. Can you honestly say a creaky state system always beats a tightly regulated market?",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why do you keep claiming the state setup is inherently fairer when it so often fails the very people it\u2019s meant to help?"
+                ],
+                [
+                    "___Claim___",
+                    "I reckon the NHS\u2019s bureaucracy isn\u2019t just about neglect\u2014it\u2019s a clunky beast that can\u2019t deliver timely care, leaving the vulnerable in limbo."
+                ],
+                [
+                    "___Claim___",
+                    "Private competition, with proper rules, can slash waiting times and up the quality without letting the rich hog everything."
+                ],
+                [
+                    "___Claim___",
+                    "You\u2019re dodging how state waste chews up funds that could go straight to the poorest."
+                ],
+                [
+                    "___Question___",
+                    "Can you honestly say a creaky state system always beats a tightly regulated market?"
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-03 23:43:53",
+            "sentences_no_utterance_types": "The state setup is inherently fairer because it guarantees healthcare as a right, not a commodity. The NHS\u2019s bureaucracy is a symptom of political mismanagement, not the principle of universal care. Private competition, even with proper rules, cannot eliminate the profit motive that leads to inequality, as those with money will always find ways to gain priority. State waste can be reduced through better governance, while a market-driven system will always favour those who can pay more. A creaky state system still prioritises fairness, while a regulated market risks creating tiers of care that leave the poorest behind.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The state setup is inherently fairer because it guarantees healthcare as a right, not a commodity."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS\u2019s bureaucracy is a symptom of political mismanagement, not the principle of universal care."
+                ],
+                [
+                    "___Claim___",
+                    "Private competition, even with proper rules, cannot eliminate the profit motive that leads to inequality, as those with money will always find ways to gain priority."
+                ],
+                [
+                    "___Claim___",
+                    "State waste can be reduced through better governance, while a market-driven system will always favour those who can pay more."
+                ],
+                [
+                    "___Claim___",
+                    "A creaky state system still prioritises fairness, while a regulated market risks creating tiers of care that leave the poorest behind."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-03 23:44:05",
+            "sentences_no_utterance_types": "Why do you keep saying the state setup is inherently fairer when it so often fails to deliver for those who need it most? I reckon the NHS\u2019s bureaucracy isn\u2019t just mismanagement\u2014it\u2019s a system too bogged down to get care to the vulnerable in time. Private competition, with solid rules, can cut through the nonsense and deliver better, faster services without letting the rich take over. You\u2019re dodging how state waste eats up money that could actually help the poorest. Can you really claim a creaky state system always trumps a well-regulated market?",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why do you keep saying the state setup is inherently fairer when it so often fails to deliver for those who need it most?"
+                ],
+                [
+                    "___Claim___",
+                    "I reckon the NHS\u2019s bureaucracy isn\u2019t just mismanagement\u2014it\u2019s a system too bogged down to get care to the vulnerable in time."
+                ],
+                [
+                    "___Claim___",
+                    "Private competition, with solid rules, can cut through the nonsense and deliver better, faster services without letting the rich take over."
+                ],
+                [
+                    "___Claim___",
+                    "You\u2019re dodging how state waste eats up money that could actually help the poorest."
+                ],
+                [
+                    "___Question___",
+                    "Can you really claim a creaky state system always trumps a well-regulated market?"
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-03 23:44:13",
+            "sentences_no_utterance_types": "The state setup is inherently fairer because it guarantees healthcare as a right, not a privilege tied to income. The NHS\u2019s bureaucracy is a symptom of political neglect and underfunding, not the principle of universal care. Private competition, even with solid rules, cannot escape the profit motive that creates inequality, as those with money will always find ways to gain priority. State waste can be reduced through better governance, while a market-driven system will always favour those who can pay more. A creaky state system still prioritises fairness, while a regulated market risks leaving the poorest behind in a tiered system.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The state setup is inherently fairer because it guarantees healthcare as a right, not a privilege tied to income."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS\u2019s bureaucracy is a symptom of political neglect and underfunding, not the principle of universal care."
+                ],
+                [
+                    "___Claim___",
+                    "Private competition, even with solid rules, cannot escape the profit motive that creates inequality, as those with money will always find ways to gain priority."
+                ],
+                [
+                    "___Claim___",
+                    "State waste can be reduced through better governance, while a market-driven system will always favour those who can pay more."
+                ],
+                [
+                    "___Claim___",
+                    "A creaky state system still prioritises fairness, while a regulated market risks leaving the poorest behind in a tiered system."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-03 23:44:22",
+            "sentences_no_utterance_types": "Why do you keep hammering on about the state setup being fairer when it so often leaves the vulnerable waiting in agony? I reckon the NHS\u2019s bureaucracy isn\u2019t just neglect\u2014it\u2019s a system too tangled to deliver care when it\u2019s needed most. Private competition, with strict oversight, can slash delays and boost quality without letting the rich run the show. You\u2019re dodging how state waste burns cash that could directly help the poorest. Can you honestly say a creaky state system always beats a properly regulated market?",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why do you keep hammering on about the state setup being fairer when it so often leaves the vulnerable waiting in agony?"
+                ],
+                [
+                    "___Claim___",
+                    "I reckon the NHS\u2019s bureaucracy isn\u2019t just neglect\u2014it\u2019s a system too tangled to deliver care when it\u2019s needed most."
+                ],
+                [
+                    "___Claim___",
+                    "Private competition, with strict oversight, can slash delays and boost quality without letting the rich run the show."
+                ],
+                [
+                    "___Claim___",
+                    "You\u2019re dodging how state waste burns cash that could directly help the poorest."
+                ],
+                [
+                    "___Question___",
+                    "Can you honestly say a creaky state system always beats a properly regulated market?"
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-03 23:44:31",
+            "sentences_no_utterance_types": "The state setup is fairer because it ensures healthcare is a right, not a privilege tied to income. The NHS\u2019s bureaucracy is a result of political neglect and underfunding, not the principle of universal care. Private competition, even with strict oversight, cannot escape the profit motive that creates inequality, as those with money will always find ways to gain priority. State waste can be reduced through better governance, while a market-driven system will always favour those who can pay more. A creaky state system still prioritises fairness, while a regulated market risks leaving the poorest behind in a tiered system.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "The state setup is fairer because it ensures healthcare is a right, not a privilege tied to income."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS\u2019s bureaucracy is a result of political neglect and underfunding, not the principle of universal care."
+                ],
+                [
+                    "___Claim___",
+                    "Private competition, even with strict oversight, cannot escape the profit motive that creates inequality, as those with money will always find ways to gain priority."
+                ],
+                [
+                    "___Claim___",
+                    "State waste can be reduced through better governance, while a market-driven system will always favour those who can pay more."
+                ],
+                [
+                    "___Claim___",
+                    "A creaky state system still prioritises fairness, while a regulated market risks leaving the poorest behind in a tiered system."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-03 23:44:40",
+            "sentences_no_utterance_types": "Why do you keep claiming the state setup is fairer when it so often fails to deliver for the vulnerable stuck in endless queues? I reckon the NHS\u2019s bureaucracy isn\u2019t just about neglect\u2014it\u2019s a clunky system that can\u2019t get care to people fast enough. Private competition, with tough rules, can cut waiting times and improve services without letting the rich take over. You\u2019re dodging how state waste eats up cash that could go straight to the poorest. Can you really say a creaky state system always beats a well-regulated market?",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why do you keep claiming the state setup is fairer when it so often fails to deliver for the vulnerable stuck in endless queues?"
+                ],
+                [
+                    "___Claim___",
+                    "I reckon the NHS\u2019s bureaucracy isn\u2019t just about neglect\u2014it\u2019s a clunky system that can\u2019t get care to people fast enough."
+                ],
+                [
+                    "___Claim___",
+                    "Private competition, with tough rules, can cut waiting times and improve services without letting the rich take over."
+                ],
+                [
+                    "___Claim___",
+                    "You\u2019re dodging how state waste eats up cash that could go straight to the poorest."
+                ],
+                [
+                    "___Question___",
+                    "Can you really say a creaky state system always beats a well-regulated market?"
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-03 23:44:48",
+            "sentences_no_utterance_types": "The state setup is fairer because it guarantees healthcare as a right, not a privilege tied to income. The NHS\u2019s bureaucracy is a symptom of political mismanagement and underfunding, not the principle of universal care. Private competition, even with tough rules, cannot eliminate the profit motive that creates inequality, as those with money will always find ways to gain priority. State waste can be reduced through better governance, while a market-driven system will always favour those who can pay more. A creaky state system still prioritises fairness, while a regulated market risks leaving the poorest behind in a tiered system.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "The state setup is fairer because it guarantees healthcare as a right, not a privilege tied to income."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS\u2019s bureaucracy is a symptom of political mismanagement and underfunding, not the principle of universal care."
+                ],
+                [
+                    "___Claim___",
+                    "Private competition, even with tough rules, cannot eliminate the profit motive that creates inequality, as those with money will always find ways to gain priority."
+                ],
+                [
+                    "___Claim___",
+                    "State waste can be reduced through better governance, while a market-driven system will always favour those who can pay more."
+                ],
+                [
+                    "___Claim___",
+                    "A creaky state system still prioritises fairness, while a regulated market risks leaving the poorest behind in a tiered system."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-03 23:44:58",
+            "sentences_no_utterance_types": "Why do you keep saying the state setup is fairer when it so often leaves the vulnerable waiting forever for care? I reckon the NHS\u2019s bureaucracy isn\u2019t just mismanagement\u2014it\u2019s a system too slow and unwieldy to help people when they need it most. Private competition, with strict rules, can cut delays and raise standards without letting the rich take over. You\u2019re dodging how state waste burns through money that could actually help the poorest. Can you really claim a creaky state system always beats a well-regulated market?",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why do you keep saying the state setup is fairer when it so often leaves the vulnerable waiting forever for care?"
+                ],
+                [
+                    "___Claim___",
+                    "I reckon the NHS\u2019s bureaucracy isn\u2019t just mismanagement\u2014it\u2019s a system too slow and unwieldy to help people when they need it most."
+                ],
+                [
+                    "___Claim___",
+                    "Private competition, with strict rules, can cut delays and raise standards without letting the rich take over."
+                ],
+                [
+                    "___Claim___",
+                    "You\u2019re dodging how state waste burns through money that could actually help the poorest."
+                ],
+                [
+                    "___Question___",
+                    "Can you really claim a creaky state system always beats a well-regulated market?"
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-03 23:45:04",
+            "sentences_no_utterance_types": "The state setup is fairer because it ensures healthcare is accessible to everyone, regardless of their financial situation. The NHS\u2019s bureaucracy is a consequence of underfunding and poor management, not the concept of universal care itself. Private competition, even with strict rules, cannot remove the profit-driven nature that leads to inequality, as those with wealth will always find ways to gain an advantage. State waste can be tackled through better governance, while a market-driven system inherently prioritises profit over equity. A creaky state system still strives to protect the vulnerable, whereas a regulated market risks creating a divide that leaves the poorest struggling to access essential care.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "The state setup is fairer because it ensures healthcare is accessible to everyone, regardless of their financial situation."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS\u2019s bureaucracy is a consequence of underfunding and poor management, not the concept of universal care itself."
+                ],
+                [
+                    "___Claim___",
+                    "Private competition, even with strict rules, cannot remove the profit-driven nature that leads to inequality, as those with wealth will always find ways to gain an advantage."
+                ],
+                [
+                    "___Claim___",
+                    "State waste can be tackled through better governance, while a market-driven system inherently prioritises profit over equity."
+                ],
+                [
+                    "___Claim___",
+                    "A creaky state system still strives to protect the vulnerable, whereas a regulated market risks creating a divide that leaves the poorest struggling to access essential care."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-03 23:45:14",
+            "sentences_no_utterance_types": "Why do you keep insisting the state setup is fairer when it so often fails to get care to the vulnerable in time? I reckon the NHS\u2019s bureaucracy isn\u2019t just about underfunding\u2014it\u2019s a clunky mess that leaves people suffering in long queues. Private competition, with proper oversight, can slash waiting times and improve care without letting the rich take over. You\u2019re dodging how state waste eats up cash that could directly help the poorest. Can you really say a creaky state system always beats a well-regulated market?",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why do you keep insisting the state setup is fairer when it so often fails to get care to the vulnerable in time?"
+                ],
+                [
+                    "___Claim___",
+                    "I reckon the NHS\u2019s bureaucracy isn\u2019t just about underfunding\u2014it\u2019s a clunky mess that leaves people suffering in long queues."
+                ],
+                [
+                    "___Claim___",
+                    "Private competition, with proper oversight, can slash waiting times and improve care without letting the rich take over."
+                ],
+                [
+                    "___Claim___",
+                    "You\u2019re dodging how state waste eats up cash that could directly help the poorest."
+                ],
+                [
+                    "___Question___",
+                    "Can you really say a creaky state system always beats a well-regulated market?"
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-03 23:45:23",
+            "sentences_no_utterance_types": "The state setup is fairer because it ensures healthcare is accessible to everyone, regardless of income. The NHS\u2019s bureaucracy is a result of political neglect and underfunding, not the principle of universal care. Private competition, even with proper oversight, cannot escape the profit motive that creates inequality, as those with money will always find ways to gain priority. State waste can be reduced through better governance, while a market-driven system inherently favours those who can pay more. A creaky state system still prioritises fairness, while a regulated market risks leaving the poorest behind in a tiered system.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "The state setup is fairer because it ensures healthcare is accessible to everyone, regardless of income."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS\u2019s bureaucracy is a result of political neglect and underfunding, not the principle of universal care."
+                ],
+                [
+                    "___Claim___",
+                    "Private competition, even with proper oversight, cannot escape the profit motive that creates inequality, as those with money will always find ways to gain priority."
+                ],
+                [
+                    "___Claim___",
+                    "State waste can be reduced through better governance, while a market-driven system inherently favours those who can pay more."
+                ],
+                [
+                    "___Claim___",
+                    "A creaky state system still prioritises fairness, while a regulated market risks leaving the poorest behind in a tiered system."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-03 23:45:31",
+            "sentences_no_utterance_types": "Why do you keep claiming the state setup is fairer when it so often leaves the vulnerable stuck in endless waiting lists? I reckon the NHS\u2019s bureaucracy isn\u2019t just about neglect\u2014it\u2019s a clunky system that fails to deliver care when people need it most. Private competition, with strict rules, can cut delays and improve services without letting the rich take over. You\u2019re dodging how state waste eats up cash that could go straight to the poorest. Can you really say a creaky state system always beats a well-regulated market?",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why do you keep claiming the state setup is fairer when it so often leaves the vulnerable stuck in endless waiting lists?"
+                ],
+                [
+                    "___Claim___",
+                    "I reckon the NHS\u2019s bureaucracy isn\u2019t just about neglect\u2014it\u2019s a clunky system that fails to deliver care when people need it most."
+                ],
+                [
+                    "___Claim___",
+                    "Private competition, with strict rules, can cut delays and improve services without letting the rich take over."
+                ],
+                [
+                    "___Claim___",
+                    "You\u2019re dodging how state waste eats up cash that could go straight to the poorest."
+                ],
+                [
+                    "___Question___",
+                    "Can you really say a creaky state system always beats a well-regulated market?"
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-03 23:45:39",
+            "sentences_no_utterance_types": "The state setup is fairer because it ensures healthcare is accessible to everyone, regardless of income. The NHS\u2019s bureaucracy is a result of underfunding and poor governance, not the principle of universal care. Private competition, even with strict rules, cannot eliminate the profit motive that creates inequality, as those with money will always find ways to gain priority. State waste can be reduced through better management, while a market-driven system inherently favours those who can pay more. A creaky state system still prioritises fairness, while a regulated market risks leaving the poorest behind in a tiered system.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The state setup is fairer because it ensures healthcare is accessible to everyone, regardless of income."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS\u2019s bureaucracy is a result of underfunding and poor governance, not the principle of universal care."
+                ],
+                [
+                    "___Claim___",
+                    "Private competition, even with strict rules, cannot eliminate the profit motive that creates inequality, as those with money will always find ways to gain priority."
+                ],
+                [
+                    "___Claim___",
+                    "State waste can be reduced through better management, while a market-driven system inherently favours those who can pay more."
+                ],
+                [
+                    "___Claim___",
+                    "A creaky state system still prioritises fairness, while a regulated market risks leaving the poorest behind in a tiered system."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-03 23:45:48",
+            "sentences_no_utterance_types": "Why do you keep saying the state setup is fairer when it so often fails to deliver care on time to those who need it most? I reckon the NHS\u2019s bureaucracy isn\u2019t just about underfunding\u2014it\u2019s a clunky system that leaves the vulnerable rotting in queues. Private competition, with proper rules, can slash waiting times and improve care without letting the rich take over. You\u2019re dodging how state waste eats up cash that could actually help the poorest. Can you really claim a creaky state system always beats a well-regulated market?",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why do you keep saying the state setup is fairer when it so often fails to deliver care on time to those who need it most?"
+                ],
+                [
+                    "___Claim___",
+                    "I reckon the NHS\u2019s bureaucracy isn\u2019t just about underfunding\u2014it\u2019s a clunky system that leaves the vulnerable rotting in queues."
+                ],
+                [
+                    "___Claim___",
+                    "Private competition, with proper rules, can slash waiting times and improve care without letting the rich take over."
+                ],
+                [
+                    "___Claim___",
+                    "You\u2019re dodging how state waste eats up cash that could actually help the poorest."
+                ],
+                [
+                    "___Question___",
+                    "Can you really claim a creaky state system always beats a well-regulated market?"
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-03 23:45:55",
+            "sentences_no_utterance_types": "The state setup is fairer because it ensures healthcare is accessible to everyone, regardless of income. The NHS\u2019s bureaucracy is a symptom of underfunding and poor governance, not the principle of universal care. Private competition, even with proper rules, cannot escape the profit motive that creates inequality, as those with money will always find ways to gain priority. State waste can be reduced through better management, while a market-driven system inherently favours those who can pay more. A creaky state system still prioritises fairness, while a regulated market risks leaving the poorest behind in a tiered system.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The state setup is fairer because it ensures healthcare is accessible to everyone, regardless of income."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS\u2019s bureaucracy is a symptom of underfunding and poor governance, not the principle of universal care."
+                ],
+                [
+                    "___Claim___",
+                    "Private competition, even with proper rules, cannot escape the profit motive that creates inequality, as those with money will always find ways to gain priority."
+                ],
+                [
+                    "___Claim___",
+                    "State waste can be reduced through better management, while a market-driven system inherently favours those who can pay more."
+                ],
+                [
+                    "___Claim___",
+                    "A creaky state system still prioritises fairness, while a regulated market risks leaving the poorest behind in a tiered system."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-03 23:46:03",
+            "sentences_no_utterance_types": "Why do you keep claiming the state setup is fairer when it so often leaves the vulnerable stuck waiting for care? I reckon the NHS\u2019s bureaucracy isn\u2019t just about underfunding\u2014it\u2019s a clunky mess that fails to get help to people fast enough. Private competition, with strict oversight, can cut through the delays and deliver better care without letting the rich take over. You\u2019re dodging how state waste eats up cash that could go straight to the poorest. Can you really say a creaky state system always beats a well-regulated market?",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why do you keep claiming the state setup is fairer when it so often leaves the vulnerable stuck waiting for care?"
+                ],
+                [
+                    "___Claim___",
+                    "I reckon the NHS\u2019s bureaucracy isn\u2019t just about underfunding\u2014it\u2019s a clunky mess that fails to get help to people fast enough."
+                ],
+                [
+                    "___Claim___",
+                    "Private competition, with strict oversight, can cut through the delays and deliver better care without letting the rich take over."
+                ],
+                [
+                    "___Claim___",
+                    "You\u2019re dodging how state waste eats up cash that could go straight to the poorest."
+                ],
+                [
+                    "___Question___",
+                    "Can you really say a creaky state system always beats a well-regulated market?"
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-03 23:46:09",
+            "sentences_no_utterance_types": "The state setup is fairer because it ensures healthcare is accessible to everyone, regardless of income. The NHS\u2019s bureaucracy is a symptom of underfunding and poor governance, not the principle of universal care. Private competition, even with strict oversight, cannot escape the profit motive that creates inequality, as those with money will always find ways to gain priority. State waste can be reduced through better management, while a market-driven system inherently favours those who can pay more. A creaky state system still prioritises fairness, while a regulated market risks leaving the poorest behind in a tiered system.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The state setup is fairer because it ensures healthcare is accessible to everyone, regardless of income."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS\u2019s bureaucracy is a symptom of underfunding and poor governance, not the principle of universal care."
+                ],
+                [
+                    "___Claim___",
+                    "Private competition, even with strict oversight, cannot escape the profit motive that creates inequality, as those with money will always find ways to gain priority."
+                ],
+                [
+                    "___Claim___",
+                    "State waste can be reduced through better management, while a market-driven system inherently favours those who can pay more."
+                ],
+                [
+                    "___Claim___",
+                    "A creaky state system still prioritises fairness, while a regulated market risks leaving the poorest behind in a tiered system."
+                ]
+            ]
+        }
+    ],
+    "human_model_name": "",
+    "human_model_seed": 123,
+    "human_model_temp": 0.0,
+    "human_model_top_p": 1.0,
+    "first_speaker_type": "base",
+    "max_dialogue_turns": 40,
+    "second_speaker_type": "base",
+    "max_sentences_per_turn": 5,
+    "first_speaker_utterance": "",
+    "first_speaker_model_name": "grok-3",
+    "first_speaker_model_seed": 123,
+    "first_speaker_model_temp": 0.0,
+    "second_speaker_utterance": "The state setup is fairer because it ensures healthcare is accessible to everyone, regardless of income. The NHS\u2019s bureaucracy is a symptom of underfunding and poor governance, not the principle of universal care. Private competition, even with strict oversight, cannot escape the profit motive that creates inequality, as those with money will always find ways to gain priority. State waste can be reduced through better management, while a market-driven system inherently favours those who can pay more. A creaky state system still prioritises fairness, while a regulated market risks leaving the poorest behind in a tiered system.",
+    "first_speaker_commitments": [
+        "I believe the government should take a step back from excessive intervention in healthcare, immigration, and welfare, as it often leads to inefficiency and dependency.",
+        "Private competition can offer faster, better services if regulated properly, without leaving anyone behind.",
+        "You\u2019re dodging how state waste burns through cash that could actually help the poorest."
+    ],
+    "first_speaker_model_top_p": 1.0,
+    "second_speaker_model_name": "gpt-4o",
+    "second_speaker_model_seed": 123,
+    "second_speaker_model_temp": 0.0,
+    "second_speaker_commitments": [
+        "I disagree.",
+        "Government intervention in healthcare, immigration, and welfare is essential to ensure fairness, protect vulnerable groups, and address systemic inequalities that the private sector often ignores.",
+        "Delays and rationing in the NHS are issues of management and funding, not the principle of universal care itself.",
+        "Private competition, even with tight rules, introduces profit motives that inevitably lead to inequality, as those with money will always find ways to gain priority.",
+        "State waste can be reduced through better governance, but a market-driven system inherently prioritises profit over equity."
+    ],
+    "second_speaker_model_top_p": 1.0,
+    "first_speaker_original_claim": "I believe the government should take a step back from excessive intervention in healthcare, immigration, and welfare, as it often leads to inefficiency and dependency.",
+    "second_speaker_original_claim": "I disagree.",
+    "reason_for_dialogue_termination": {
+        "reason": "Maximum number of dialogue turns reached (40 dialogue turns).",
+        "utterance": null,
+        "utterance_type": null
+    },
+    "first_speaker_graph_rag_examples": [],
+    "second_speaker_graph_rag_examples": [],
+    "utterance_classification_approach": "single-classification",
+    "first_speaker_political_position_std": 10,
+    "second_speaker_political_position_std": 10,
+    "first_speaker_intermediate_generations": [],
+    "first_speaker_political_position_range": "60:80",
+    "second_speaker_intermediate_generations": [],
+    "second_speaker_political_position_range": "20:40",
+    "first_speaker_number_of_graph_rag_examples": 5,
+    "first_speaker_political_position_prob_of_na": 0.25,
+    "second_speaker_number_of_graph_rag_examples": 5,
+    "second_speaker_political_position_prob_of_na": 0.25,
+    "first_speaker_utterance_with_corresponding_types": [],
+    "first_speaker_number_of_vector_based_rag_examples": 100,
+    "second_speaker_utterance_with_corresponding_types": [
+        [
+            "___Claim___",
+            "The state setup is fairer because it ensures healthcare is accessible to everyone, regardless of income."
+        ],
+        [
+            "___Claim___",
+            "The NHS\u2019s bureaucracy is a symptom of underfunding and poor governance, not the principle of universal care."
+        ],
+        [
+            "___Claim___",
+            "Private competition, even with strict oversight, cannot escape the profit motive that creates inequality, as those with money will always find ways to gain priority."
+        ],
+        [
+            "___Claim___",
+            "State waste can be reduced through better management, while a market-driven system inherently favours those who can pay more."
+        ],
+        [
+            "___Claim___",
+            "A creaky state system still prioritises fairness, while a regulated market risks leaving the poorest behind in a tiered system."
+        ]
+    ],
+    "second_speaker_number_of_vector_based_rag_examples": 100,
+    "utterance_classification_number_of_classifications": 1,
+    "first_speaker_knowledge_base_ensemble_or_model_name": "",
+    "second_speaker_knowledge_base_ensemble_or_model_name": ""
+}

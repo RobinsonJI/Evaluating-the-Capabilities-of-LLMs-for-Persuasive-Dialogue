@@ -1,0 +1,515 @@
+{
+    "dialogue_history": [
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government intervention in healthcare is essential to ensure that everyone, regardless of their income, has access to quality medical services."
+                ]
+            ],
+            "sentences_no_utterance_types": "Government intervention in healthcare is essential to ensure that everyone, regardless of their income, has access to quality medical services.",
+            "timestamp": "2025-10-08 15:18:24"
+        },
+        {
+            "speaker": "grok-3_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "I reckon government intervention in healthcare often does more harm than good by creating inefficiencies and stifling innovation."
+                ],
+                [
+                    "___Claim___",
+                    "While I get the intent behind ensuring access for all, heavy-handed state control tends to balloon costs and reduce the quality of care through bureaucracy."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems, with proper regulation, can deliver better outcomes for most people."
+                ],
+                [
+                    "___Why___",
+                    "Why do you think the government can manage something as complex as healthcare better than the market?"
+                ]
+            ],
+            "sentences_no_utterance_types": "I reckon government intervention in healthcare often does more harm than good by creating inefficiencies and stifling innovation. While I get the intent behind ensuring access for all, heavy-handed state control tends to balloon costs and reduce the quality of care through bureaucracy. Private systems, with proper regulation, can deliver better outcomes for most people. Why do you think the government can manage something as complex as healthcare better than the market?",
+            "timestamp": "2025-10-08 15:18:35"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Publicly funded healthcare systems have been proven to reduce overall costs and improve health outcomes for the population."
+                ],
+                [
+                    "___Claim___",
+                    "A centrally managed healthcare system can leverage economies of scale to negotiate better prices for medications and treatments, making care more affordable for everyone."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention in healthcare is crucial for ensuring that everyone, regardless of their income, receives the medical attention they need."
+                ],
+                [
+                    "___Claim___",
+                    "Public healthcare systems have proven to deliver better overall outcomes, as seen in countries with strong government intervention."
+                ],
+                [
+                    "___Claim___",
+                    "Public healthcare systems prioritise patient outcomes over profits, ensuring that medical decisions are made based on need rather than financial gain."
+                ]
+            ],
+            "sentences_no_utterance_types": "Publicly funded healthcare systems have been proven to reduce overall costs and improve health outcomes for the population. A centrally managed healthcare system can leverage economies of scale to negotiate better prices for medications and treatments, making care more affordable for everyone. Government intervention in healthcare is crucial for ensuring that everyone, regardless of their income, receives the medical attention they need. Public healthcare systems have proven to deliver better overall outcomes, as seen in countries with strong government intervention. Public healthcare systems prioritise patient outcomes over profits, ensuring that medical decisions are made based on need rather than financial gain.",
+            "timestamp": "2025-10-08 15:32:03"
+        },
+        {
+            "speaker": "grok-3_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "I hear your points on economies of scale and prioritising need, but I still reckon government-run healthcare creates more problems than it solves."
+                ],
+                [
+                    "___Claim___",
+                    "The data might show some cost reductions in certain countries, but state control often leads to long waiting times and rationed care, which hits patients hard."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems, with the right oversight, can respond faster to individual needs and drive innovation through competition."
+                ],
+                [
+                    "___Why___",
+                    "Why do you think a government, which struggles to manage even basic services efficiently, can handle something as intricate as healthcare without massive waste?"
+                ]
+            ],
+            "sentences_no_utterance_types": "I hear your points on economies of scale and prioritising need, but I still reckon government-run healthcare creates more problems than it solves. The data might show some cost reductions in certain countries, but state control often leads to long waiting times and rationed care, which hits patients hard. Private systems, with the right oversight, can respond faster to individual needs and drive innovation through competition. Why do you think a government, which struggles to manage even basic services efficiently, can handle something as intricate as healthcare without massive waste?",
+            "timestamp": "2025-10-08 15:32:13"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems can handle complex services efficiently because they prioritise public health over profit, ensuring resources are allocated based on need rather than financial gain."
+                ],
+                [
+                    "___Claim___",
+                    "Centralised healthcare management allows for better coordination and resource allocation, reducing duplication and waste that often plagues private systems."
+                ],
+                [
+                    "___Since___",
+                    "Public healthcare systems can invest in training and retaining skilled professionals to ensure high-quality care."
+                ],
+                [
+                    "___Claim___",
+                    "Public healthcare systems have proven to be more cost-effective and equitable, as seen in countries with strong government intervention, ensuring better health outcomes for all citizens."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems often prioritise profit over patient care, leading to unequal access and higher costs for those most in need."
+                ]
+            ],
+            "sentences_no_utterance_types": "Government-run healthcare systems can handle complex services efficiently because they prioritise public health over profit, ensuring resources are allocated based on need rather than financial gain. Centralised healthcare management allows for better coordination and resource allocation, reducing duplication and waste that often plagues private systems. Public healthcare systems can invest in training and retaining skilled professionals to ensure high-quality care. Public healthcare systems have proven to be more cost-effective and equitable, as seen in countries with strong government intervention, ensuring better health outcomes for all citizens. Private systems often prioritise profit over patient care, leading to unequal access and higher costs for those most in need.",
+            "timestamp": "2025-10-08 15:39:41"
+        },
+        {
+            "speaker": "grok-3_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "I get that you think centralised systems can cut waste and prioritise need, yet I still reckon government-run healthcare falls short in practice."
+                ],
+                [
+                    "___Claim___",
+                    "The reality is, state control often breeds inefficiency with endless red tape, meaning patients wait ages for care while resources get mismanaged."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems, when regulated properly, can cut through that mess by focusing on competition to deliver faster, better services."
+                ],
+                [
+                    "___Why___",
+                    "Why do you reckon a government that can barely run public transport on time can magically get healthcare right without massive delays and cock-ups?"
+                ]
+            ],
+            "sentences_no_utterance_types": "I get that you think centralised systems can cut waste and prioritise need, yet I still reckon government-run healthcare falls short in practice. The reality is, state control often breeds inefficiency with endless red tape, meaning patients wait ages for care while resources get mismanaged. Private systems, when regulated properly, can cut through that mess by focusing on competition to deliver faster, better services. Why do you reckon a government that can barely run public transport on time can magically get healthcare right without massive delays and cock-ups?",
+            "timestamp": "2025-10-08 15:40:12"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems can handle complex services efficiently because they prioritise public health over profit, ensuring resources are allocated based on need rather than financial gain."
+                ],
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems have robust mechanisms for accountability and continuous improvement, ensuring that issues are addressed promptly and efficiently."
+                ],
+                [
+                    "___Since___",
+                    "Government healthcare systems have proven to be more efficient and effective in countries like the UK, where the NHS consistently delivers high-quality care despite challenges."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems, even with regulation, often prioritise profit over patient care, leading to unequal access and higher costs for those most in need."
+                ],
+                [
+                    "___Claim___",
+                    "Public healthcare systems benefit from economies of scale and centralised planning, which streamline operations and reduce inefficiencies seen in fragmented private systems."
+                ]
+            ],
+            "sentences_no_utterance_types": "Government-run healthcare systems can handle complex services efficiently because they prioritise public health over profit, ensuring resources are allocated based on need rather than financial gain. Government-run healthcare systems have robust mechanisms for accountability and continuous improvement, ensuring that issues are addressed promptly and efficiently. Government healthcare systems have proven to be more efficient and effective in countries like the UK, where the NHS consistently delivers high-quality care despite challenges. Private systems, even with regulation, often prioritise profit over patient care, leading to unequal access and higher costs for those most in need. Public healthcare systems benefit from economies of scale and centralised planning, which streamline operations and reduce inefficiencies seen in fragmented private systems.",
+            "timestamp": "2025-10-08 15:41:27"
+        },
+        {
+            "speaker": "grok-3_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "I still reckon government-run healthcare like the NHS creates more headaches than solutions, despite your points on accountability and economies of scale."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS might have its moments, yet waiting lists are through the roof and patients suffer while bureaucrats faff about."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems, with solid regulation, can slash those delays and deliver tailored care through market competition."
+                ],
+                [
+                    "___Why___",
+                    "Why do you think a government that can\u2019t even sort out potholes on time can manage a beast like healthcare without constant foul-ups?"
+                ]
+            ],
+            "sentences_no_utterance_types": "I still reckon government-run healthcare like the NHS creates more headaches than solutions, despite your points on accountability and economies of scale. The NHS might have its moments, yet waiting lists are through the roof and patients suffer while bureaucrats faff about. Private systems, with solid regulation, can slash those delays and deliver tailored care through market competition. Why do you think a government that can\u2019t even sort out potholes on time can manage a beast like healthcare without constant foul-ups?",
+            "timestamp": "2025-10-08 15:41:37"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems can handle complex services efficiently because they prioritise public health over profit, ensuring resources are allocated based on need rather than financial gain."
+                ],
+                [
+                    "___Since___",
+                    "Government intervention in healthcare is crucial for ensuring that everyone, regardless of their income, receives the medical attention they need."
+                ],
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems have proven to be more efficient and effective in countries like the UK, where the NHS consistently delivers high-quality care despite challenges."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention in healthcare is crucial for ensuring that everyone, regardless of their income, receives the medical attention they need."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems, even with regulation, often prioritise profit over patient care, leading to unequal access and higher costs for those most in need."
+                ],
+                [
+                    "___Claim___",
+                    "Public healthcare systems benefit from economies of scale and centralised planning, which streamline operations and reduce inefficiencies seen in fragmented private systems."
+                ]
+            ],
+            "sentences_no_utterance_types": "Government-run healthcare systems can handle complex services efficiently because they prioritise public health over profit, ensuring resources are allocated based on need rather than financial gain. Government intervention in healthcare is crucial for ensuring that everyone, regardless of their income, receives the medical attention they need. Government-run healthcare systems have proven to be more efficient and effective in countries like the UK, where the NHS consistently delivers high-quality care despite challenges. Government intervention in healthcare is crucial for ensuring that everyone, regardless of their income, receives the medical attention they need. Private systems, even with regulation, often prioritise profit over patient care, leading to unequal access and higher costs for those most in need. Public healthcare systems benefit from economies of scale and centralised planning, which streamline operations and reduce inefficiencies seen in fragmented private systems.",
+            "timestamp": "2025-10-08 15:46:10"
+        },
+        {
+            "speaker": "grok-3_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "I still reckon government-run healthcare like the NHS is more trouble than it's worth, despite your points on prioritising need and centralised planning."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS might deliver for some, yet the endless waiting lists and underfunded services leave patients stranded."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems, with proper rules in place, can cut through that nonsense and get people treated quicker through competition."
+                ],
+                [
+                    "___Why___",
+                    "Why do you think a government that mucks up basic infrastructure can handle healthcare without constant delays and disasters?"
+                ]
+            ],
+            "sentences_no_utterance_types": "I still reckon government-run healthcare like the NHS is more trouble than it's worth, despite your points on prioritising need and centralised planning. The NHS might deliver for some, yet the endless waiting lists and underfunded services leave patients stranded. Private systems, with proper rules in place, can cut through that nonsense and get people treated quicker through competition. Why do you think a government that mucks up basic infrastructure can handle healthcare without constant delays and disasters?",
+            "timestamp": "2025-10-08 15:46:19"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Centralised planning in healthcare systems like the NHS reduces overall costs and improves health outcomes for the entire population."
+                ],
+                [
+                    "___Since___",
+                    "Government intervention in healthcare is crucial for ensuring that everyone, regardless of their income, receives the medical attention they need."
+                ],
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems can handle complex services efficiently because they prioritise public health over profit, ensuring resources are allocated based on need rather than financial gain."
+                ],
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems have robust mechanisms for accountability and continuous improvement, ensuring that issues are addressed promptly and efficiently."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention in healthcare is crucial for ensuring that everyone, regardless of their income, receives the medical attention they need."
+                ],
+                [
+                    "___Claim___",
+                    "Competition in private healthcare can lead to unequal access, with only the wealthy getting quick treatment."
+                ],
+                [
+                    "___Since___",
+                    "Government-run healthcare systems have robust mechanisms for accountability and continuous improvement, ensuring that issues are addressed promptly and efficiently."
+                ]
+            ],
+            "sentences_no_utterance_types": "Centralised planning in healthcare systems like the NHS reduces overall costs and improves health outcomes for the entire population. Government intervention in healthcare is crucial for ensuring that everyone, regardless of their income, receives the medical attention they need. Government-run healthcare systems can handle complex services efficiently because they prioritise public health over profit, ensuring resources are allocated based on need rather than financial gain. Government-run healthcare systems have robust mechanisms for accountability and continuous improvement, ensuring that issues are addressed promptly and efficiently. Government intervention in healthcare is crucial for ensuring that everyone, regardless of their income, receives the medical attention they need. Competition in private healthcare can lead to unequal access, with only the wealthy getting quick treatment. Government-run healthcare systems have robust mechanisms for accountability and continuous improvement, ensuring that issues are addressed promptly and efficiently.",
+            "timestamp": "2025-10-08 15:49:37"
+        },
+        {
+            "speaker": "grok-3_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "I still reckon government-run healthcare like the NHS is a mess despite your points on centralised planning and accountability."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS might aim to cut costs and help everyone, yet in reality, patients are stuck on waiting lists for ages while the system creaks under mismanagement."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems, with decent regulation, can sort this out by using competition to speed up treatment and improve quality."
+                ],
+                [
+                    "___Why___",
+                    "Why do you think a government that can\u2019t even fix the roads properly can run healthcare without endless delays and wasted cash?"
+                ]
+            ],
+            "sentences_no_utterance_types": "I still reckon government-run healthcare like the NHS is a mess despite your points on centralised planning and accountability. The NHS might aim to cut costs and help everyone, yet in reality, patients are stuck on waiting lists for ages while the system creaks under mismanagement. Private systems, with decent regulation, can sort this out by using competition to speed up treatment and improve quality. Why do you think a government that can\u2019t even fix the roads properly can run healthcare without endless delays and wasted cash?",
+            "timestamp": "2025-10-08 15:51:47"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems can handle complex services efficiently because they prioritise public health over profit, ensuring resources are allocated based on need rather than financial gain."
+                ],
+                [
+                    "___Since___",
+                    "Government intervention in healthcare is crucial for ensuring that everyone, regardless of their income, receives the medical attention they need."
+                ],
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems have proven to be more efficient and effective in countries like the UK, where the NHS consistently delivers high-quality care despite challenges."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention in healthcare is crucial for ensuring that everyone, regardless of their income, receives the medical attention they need."
+                ],
+                [
+                    "___Claim___",
+                    "Government-run healthcare like the NHS is a lifeline for millions, providing essential services that private systems often neglect."
+                ],
+                [
+                    "___Since___",
+                    "Public healthcare systems benefit from economies of scale and centralised planning, which streamline operations and reduce inefficiencies seen in fragmented private systems."
+                ],
+                [
+                    "___Since___",
+                    "Government-run healthcare systems have proven to be more efficient and effective in countries like the UK, where the NHS consistently delivers high-quality care despite challenges."
+                ],
+                [
+                    "___Claim___",
+                    "Public healthcare systems benefit from economies of scale and centralised planning, which streamline operations and reduce inefficiencies seen in fragmented private systems."
+                ]
+            ],
+            "sentences_no_utterance_types": "Government-run healthcare systems can handle complex services efficiently because they prioritise public health over profit, ensuring resources are allocated based on need rather than financial gain. Government intervention in healthcare is crucial for ensuring that everyone, regardless of their income, receives the medical attention they need. Government-run healthcare systems have proven to be more efficient and effective in countries like the UK, where the NHS consistently delivers high-quality care despite challenges. Government intervention in healthcare is crucial for ensuring that everyone, regardless of their income, receives the medical attention they need. Government-run healthcare like the NHS is a lifeline for millions, providing essential services that private systems often neglect. Public healthcare systems benefit from economies of scale and centralised planning, which streamline operations and reduce inefficiencies seen in fragmented private systems. Government-run healthcare systems have proven to be more efficient and effective in countries like the UK, where the NHS consistently delivers high-quality care despite challenges. Public healthcare systems benefit from economies of scale and centralised planning, which streamline operations and reduce inefficiencies seen in fragmented private systems.",
+            "timestamp": "2025-10-08 15:56:50"
+        },
+        {
+            "speaker": "grok-3_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "I still reckon government-run healthcare like the NHS is a disaster waiting to happen, no matter how much you bang on about efficiency and need."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS might look good on paper, yet patients are left rotting on waiting lists while the system drowns in red tape."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems, with proper checks, can deliver faster care and better results through competition."
+                ],
+                [
+                    "___Why___",
+                    "Why do you think a government that can\u2019t even sort out bin collections can manage healthcare without cocking it up every step of the way?"
+                ]
+            ],
+            "sentences_no_utterance_types": "I still reckon government-run healthcare like the NHS is a disaster waiting to happen, no matter how much you bang on about efficiency and need. The NHS might look good on paper, yet patients are left rotting on waiting lists while the system drowns in red tape. Private systems, with proper checks, can deliver faster care and better results through competition. Why do you think a government that can\u2019t even sort out bin collections can manage healthcare without cocking it up every step of the way?",
+            "timestamp": "2025-10-08 15:57:00"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Government intervention in healthcare is crucial for ensuring that everyone, regardless of their income, receives the medical attention they need."
+                ],
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems have robust mechanisms for accountability and continuous improvement, ensuring that issues are addressed promptly and efficiently."
+                ],
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems have proven to be more efficient and effective in countries like the UK, where the NHS consistently delivers high-quality care despite challenges."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention in healthcare is crucial for ensuring that everyone, regardless of their income, receives the medical attention they need."
+                ],
+                [
+                    "___Claim___",
+                    "Government-run healthcare like the NHS is a lifeline for millions, providing essential services that private systems often neglect."
+                ],
+                [
+                    "___Since___",
+                    "Public healthcare systems benefit from economies of scale and centralised planning, which streamline operations and reduce inefficiencies seen in fragmented private systems."
+                ],
+                [
+                    "___Since___",
+                    "Government-run healthcare systems have robust mechanisms for accountability and continuous improvement, ensuring that issues are addressed promptly and efficiently."
+                ],
+                [
+                    "___Claim___",
+                    "Public healthcare systems benefit from economies of scale and centralised planning, which streamline operations and reduce inefficiencies seen in fragmented private systems."
+                ]
+            ],
+            "sentences_no_utterance_types": "Government intervention in healthcare is crucial for ensuring that everyone, regardless of their income, receives the medical attention they need. Government-run healthcare systems have robust mechanisms for accountability and continuous improvement, ensuring that issues are addressed promptly and efficiently. Government-run healthcare systems have proven to be more efficient and effective in countries like the UK, where the NHS consistently delivers high-quality care despite challenges. Government intervention in healthcare is crucial for ensuring that everyone, regardless of their income, receives the medical attention they need. Government-run healthcare like the NHS is a lifeline for millions, providing essential services that private systems often neglect. Public healthcare systems benefit from economies of scale and centralised planning, which streamline operations and reduce inefficiencies seen in fragmented private systems. Government-run healthcare systems have robust mechanisms for accountability and continuous improvement, ensuring that issues are addressed promptly and efficiently. Public healthcare systems benefit from economies of scale and centralised planning, which streamline operations and reduce inefficiencies seen in fragmented private systems.",
+            "timestamp": "2025-10-08 16:00:39"
+        },
+        {
+            "speaker": "grok-3_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "I still reckon government-run healthcare like the NHS is a shambles, no matter how much you rave about accountability and economies of scale."
+                ],
+                [
+                    "___Claim___",
+                    "Patients are stuck on waiting lists for donkey's years while the system stumbles under its own weight."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems, with proper oversight, can get people treated quicker and push for better care through competition."
+                ],
+                [
+                    "___Why___",
+                    "Why do you think a government that can\u2019t even manage the trains can run healthcare without endless balls-ups?"
+                ]
+            ],
+            "sentences_no_utterance_types": "I still reckon government-run healthcare like the NHS is a shambles, no matter how much you rave about accountability and economies of scale. Patients are stuck on waiting lists for donkey's years while the system stumbles under its own weight. Private systems, with proper oversight, can get people treated quicker and push for better care through competition. Why do you think a government that can\u2019t even manage the trains can run healthcare without endless balls-ups?",
+            "timestamp": "2025-10-08 16:00:48"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems can handle complex services efficiently because they prioritise public health over profit, ensuring resources are allocated based on need rather than financial gain."
+                ],
+                [
+                    "___Question___",
+                    "How can you be sure that private healthcare won\u2019t just cherry-pick the easiest cases, leaving the most complex and costly ones to struggle in an underfunded public system?"
+                ],
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems have robust mechanisms for accountability and continuous improvement, ensuring that issues are addressed promptly and efficiently."
+                ],
+                [
+                    "___Since___",
+                    "Government-run healthcare systems can handle complex services efficiently because they prioritise public health over profit, ensuring resources are allocated based on need rather than financial gain."
+                ],
+                [
+                    "___Claim___",
+                    "Government-run healthcare like the NHS is a lifeline for millions, providing essential services that private systems often neglect."
+                ],
+                [
+                    "___Since___",
+                    "Public healthcare systems benefit from economies of scale and centralised planning, which streamline operations and reduce inefficiencies seen in fragmented private systems."
+                ],
+                [
+                    "___Since___",
+                    "Government-run healthcare systems have robust mechanisms for accountability and continuous improvement, ensuring that issues are addressed promptly and efficiently."
+                ],
+                [
+                    "___Claim___",
+                    "Public healthcare systems benefit from economies of scale and centralised planning, which streamline operations and reduce inefficiencies seen in fragmented private systems."
+                ]
+            ],
+            "sentences_no_utterance_types": "Government-run healthcare systems can handle complex services efficiently because they prioritise public health over profit, ensuring resources are allocated based on need rather than financial gain. How can you be sure that private healthcare won\u2019t just cherry-pick the easiest cases, leaving the most complex and costly ones to struggle in an underfunded public system? Government-run healthcare systems have robust mechanisms for accountability and continuous improvement, ensuring that issues are addressed promptly and efficiently. Government-run healthcare systems can handle complex services efficiently because they prioritise public health over profit, ensuring resources are allocated based on need rather than financial gain. Government-run healthcare like the NHS is a lifeline for millions, providing essential services that private systems often neglect. Public healthcare systems benefit from economies of scale and centralised planning, which streamline operations and reduce inefficiencies seen in fragmented private systems. Government-run healthcare systems have robust mechanisms for accountability and continuous improvement, ensuring that issues are addressed promptly and efficiently. Public healthcare systems benefit from economies of scale and centralised planning, which streamline operations and reduce inefficiencies seen in fragmented private systems.",
+            "timestamp": "2025-10-08 16:01:49"
+        },
+        {
+            "speaker": "grok-3_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "I still reckon government-run healthcare like the NHS is a proper mess, no matter how much you go on about accountability and centralised planning."
+                ],
+                [
+                    "___Concede___",
+                    "On your point about private systems cherry-picking easy cases, that\u2019s why we need tough regulation to ensure they can\u2019t dodge the hard stuff."
+                ],
+                [
+                    "___Claim___",
+                    "Private setups, when forced to play fair, can still deliver quicker care and innovation through competition."
+                ],
+                [
+                    "___Why___",
+                    "Why do you think a government that can\u2019t even sort out housing can magically handle healthcare without leaving patients in the lurch?"
+                ]
+            ],
+            "sentences_no_utterance_types": "I still reckon government-run healthcare like the NHS is a proper mess, no matter how much you go on about accountability and centralised planning. On your point about private systems cherry-picking easy cases, that\u2019s why we need tough regulation to ensure they can\u2019t dodge the hard stuff. Private setups, when forced to play fair, can still deliver quicker care and innovation through competition. Why do you think a government that can\u2019t even sort out housing can magically handle healthcare without leaving patients in the lurch?",
+            "timestamp": "2025-10-08 16:02:05"
+        }
+    ],
+    "first_speaker": "mistral-medium_mas_rag",
+    "first_speaker_utterance": "",
+    "first_speaker_commitments": [
+        "Government intervention in healthcare is essential to ensure that everyone, regardless of their income, has access to quality medical services.",
+        "Publicly funded healthcare systems have been proven to reduce overall costs and improve health outcomes for the population.",
+        "Government-run healthcare systems can handle complex services efficiently because they prioritise public health over profit, ensuring resources are allocated based on need rather than financial gain.",
+        "Public healthcare systems can invest in training and retaining skilled professionals to ensure high-quality care.",
+        "Private systems often prioritise profit over patient care, leading to unequal access and higher costs for those most in need.",
+        "Government-run healthcare systems have robust mechanisms for accountability and continuous improvement, ensuring that issues are addressed promptly and efficiently.",
+        "Public healthcare systems benefit from economies of scale and centralised planning, which streamline operations and reduce inefficiencies seen in fragmented private systems."
+    ],
+    "first_speaker_original_claim": "Government intervention in healthcare is essential to ensure that everyone, regardless of their income, has access to quality medical services.",
+    "first_speaker_typical_replies_for_second_speakers_response": [],
+    "second_speaker": "grok-3_base",
+    "second_speaker_utterance": "I still reckon government-run healthcare like the NHS is a proper mess, no matter how much you go on about accountability and centralised planning. On your point about private systems cherry-picking easy cases, that\u2019s why we need tough regulation to ensure they can\u2019t dodge the hard stuff. Private setups, when forced to play fair, can still deliver quicker care and innovation through competition. Why do you think a government that can\u2019t even sort out housing can magically handle healthcare without leaving patients in the lurch?",
+    "second_speaker_commitments": [
+        "I reckon government intervention in healthcare often does more harm than good by creating inefficiencies and stifling innovation.",
+        "Private systems, with proper regulation, can deliver better outcomes for most people."
+    ],
+    "second_speaker_original_claim": "I reckon government intervention in healthcare often does more harm than good by creating inefficiencies and stifling innovation.",
+    "second_speaker_typical_replies_for_first_speakers_response": [],
+    "winner": "mistral-medium_mas_rag",
+    "loser": "grok-3_base",
+    "reason_for_dialogue_termination": {
+        "reason": "grok-3_base conceded to mistral-medium_mas_rag's original claim, where mistral-medium_mas_rag's original claim was: 'Government intervention in healthcare is essential to ensure that everyone, regardless of their income, has access to quality medical services.'",
+        "utterance_type": "___Concede___",
+        "utterance": "On your point about private systems cherry-picking easy cases, that\u2019s why we need tough regulation to ensure they can\u2019t dodge the hard stuff."
+    },
+    "session_status": "Finished."
+}

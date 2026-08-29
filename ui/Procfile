@@ -1,0 +1,3 @@
+persuasio: exec sh -c 'cd ../persuasio && exec uv run uvicorn persuasio.app:app --reload --port 8080 2>&1 | cat'
+session_manager: exec sh -c 'cd session_manager && exec uv run uvicorn session_manager.app:app --reload --port 8000 2>&1 | cat'
+client: exec sh -c 'cd client && exec uv run python -m client.app 2>&1 | cat'

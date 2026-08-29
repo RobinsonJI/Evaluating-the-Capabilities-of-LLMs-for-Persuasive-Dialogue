@@ -1,0 +1,1105 @@
+{
+    "dialogue_history": [
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government intervention in healthcare is essential to ensure universal access and prevent inequality in treatment."
+                ]
+            ],
+            "sentences_no_utterance_types": "Government intervention in healthcare is essential to ensure universal access and prevent inequality in treatment.",
+            "timestamp": "2025-10-08 19:25:33"
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government intervention in healthcare leads to inefficiency and stifles innovation."
+                ],
+                [
+                    "___Claim___",
+                    "Private competition ensures better quality and faster access to treatment."
+                ],
+                [
+                    "___Claim___",
+                    "Universal access can still be achieved through regulated private systems without the drawbacks of state control."
+                ]
+            ],
+            "sentences_no_utterance_types": "Government intervention in healthcare leads to inefficiency and stifles innovation. Private competition ensures better quality and faster access to treatment. Universal access can still be achieved through regulated private systems without the drawbacks of state control.",
+            "timestamp": "2025-10-08 19:25:35"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government intervention in healthcare ensures that resources are allocated based on need rather than profit, which drives efficiency."
+                ],
+                [
+                    "___Why___",
+                    "Why do you think private competition guarantees better quality when profit motives can lead to cost-cutting at the expense of patient care?"
+                ],
+                [
+                    "___Question___",
+                    "How can faster access to treatment be ensured for low-income individuals in a private system without universal coverage?"
+                ],
+                [
+                    "___Claim___",
+                    "Private competition prioritises profit over patient care, leading to unequal access to treatment."
+                ],
+                [
+                    "___Why___",
+                    "Why would universal access through regulated private systems avoid inequality when profit-driven models often prioritise those who can pay more?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Government intervention in healthcare ensures that resources are allocated based on need rather than profit, which drives efficiency. Why do you think private competition guarantees better quality when profit motives can lead to cost-cutting at the expense of patient care? How can faster access to treatment be ensured for low-income individuals in a private system without universal coverage? Private competition prioritises profit over patient care, leading to unequal access to treatment. Why would universal access through regulated private systems avoid inequality when profit-driven models often prioritise those who can pay more?",
+            "timestamp": "2025-10-08 19:25:59"
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Private competition guarantees better quality since providers must compete to attract patients, which drives innovation and improves services."
+                ],
+                [
+                    "___Since___",
+                    "Faster access for low-income individuals can be ensured through subsidies or vouchers funded by the government, allowing them to access private care without compromising quality."
+                ],
+                [
+                    "___Since___",
+                    "Profit motives do not inherently lead to cost-cutting at the expense of care; they incentivise efficiency and better outcomes to maintain reputation and attract more patients."
+                ],
+                [
+                    "___Since___",
+                    "Universal access through regulated private systems avoids inequality by setting standards and ensuring affordability while maintaining the benefits of competition."
+                ],
+                [
+                    "___Claim___",
+                    "State-run systems often fail to allocate resources efficiently, leading to long waiting times and subpar care."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private competition guarantees better quality since providers must compete to attract patients, which drives innovation and improves services. Faster access for low-income individuals can be ensured through subsidies or vouchers funded by the government, allowing them to access private care without compromising quality. Profit motives do not inherently lead to cost-cutting at the expense of care; they incentivise efficiency and better outcomes to maintain reputation and attract more patients. Universal access through regulated private systems avoids inequality by setting standards and ensuring affordability while maintaining the benefits of competition. State-run systems often fail to allocate resources efficiently, leading to long waiting times and subpar care.",
+            "timestamp": "2025-10-08 19:26:05"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why should attracting patients through competition be seen as a better driver of quality than ensuring equitable access through universal healthcare?"
+                ],
+                [
+                    "___Why___",
+                    "Why should competition in healthcare be prioritised over universal access when it risks creating disparities in treatment quality?"
+                ],
+                [
+                    "___Question___",
+                    "How can you justify the claim that state-run systems inherently lead to subpar care when universal healthcare models in other countries show high levels of patient satisfaction?"
+                ],
+                [
+                    "___Claim___",
+                    "Profit motives inherently prioritise financial gain over patient welfare, often leading to corners being cut in care delivery."
+                ],
+                [
+                    "___Claim___",
+                    "State-run healthcare systems deliver comprehensive care without the financial barriers that private systems impose on vulnerable populations."
+                ]
+            ],
+            "sentences_no_utterance_types": "Why should attracting patients through competition be seen as a better driver of quality than ensuring equitable access through universal healthcare? Why should competition in healthcare be prioritised over universal access when it risks creating disparities in treatment quality? How can you justify the claim that state-run systems inherently lead to subpar care when universal healthcare models in other countries show high levels of patient satisfaction? Profit motives inherently prioritise financial gain over patient welfare, often leading to corners being cut in care delivery. State-run healthcare systems deliver comprehensive care without the financial barriers that private systems impose on vulnerable populations.",
+            "timestamp": "2025-10-08 19:26:46"
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Attracting patients through competition drives quality because providers must innovate and improve to stay ahead, unlike state-run systems where there's no incentive to excel."
+                ],
+                [
+                    "___Claim___",
+                    "Universal healthcare may aim for equitable access, but it often results in rationing and long waiting times, which undermine the quality of care."
+                ],
+                [
+                    "___Claim___",
+                    "State-run systems can show high satisfaction in some cases, but they often fail to adapt quickly to changing demands or technological advancements."
+                ],
+                [
+                    "___Since___",
+                    "Profit motives incentivise efficiency and better outcomes to maintain reputation, not cutting corners, as poor care would drive patients away."
+                ],
+                [
+                    "___Since___",
+                    "Financial barriers in private systems can be mitigated through targeted subsidies or vouchers, ensuring vulnerable populations access high-quality care without the inefficiencies of universal state control."
+                ]
+            ],
+            "sentences_no_utterance_types": "Attracting patients through competition drives quality because providers must innovate and improve to stay ahead, unlike state-run systems where there's no incentive to excel. Universal healthcare may aim for equitable access, but it often results in rationing and long waiting times, which undermine the quality of care. State-run systems can show high satisfaction in some cases, but they often fail to adapt quickly to changing demands or technological advancements. Profit motives incentivise efficiency and better outcomes to maintain reputation, not cutting corners, as poor care would drive patients away. Financial barriers in private systems can be mitigated through targeted subsidies or vouchers, ensuring vulnerable populations access high-quality care without the inefficiencies of universal state control.",
+            "timestamp": "2025-10-08 19:26:53"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Rationing and waiting times in universal healthcare are often exaggerated, as many countries with such systems achieve high levels of patient satisfaction and outcomes."
+                ],
+                [
+                    "___Why___",
+                    "Why should the potential for long waiting times outweigh the benefits of equitable access to healthcare for all citizens?"
+                ],
+                [
+                    "___Claim___",
+                    "The quality of care in universal healthcare systems is upheld by prioritising medical need over profit, ensuring fairness and efficiency."
+                ],
+                [
+                    "___Claim___",
+                    "Universal healthcare ensures that everyone receives necessary treatment without the financial barriers that private systems impose."
+                ],
+                [
+                    "___Why___",
+                    "Why do you believe private systems would avoid rationing when profit-driven models often limit access for those who cannot afford care?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Rationing and waiting times in universal healthcare are often exaggerated, as many countries with such systems achieve high levels of patient satisfaction and outcomes. Why should the potential for long waiting times outweigh the benefits of equitable access to healthcare for all citizens? The quality of care in universal healthcare systems is upheld by prioritising medical need over profit, ensuring fairness and efficiency. Universal healthcare ensures that everyone receives necessary treatment without the financial barriers that private systems impose. Why do you believe private systems would avoid rationing when profit-driven models often limit access for those who cannot afford care?",
+            "timestamp": "2025-10-08 19:27:33"
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Long waiting times are not exaggerated; they are a documented issue in many universal healthcare systems, where demand often outstrips supply."
+                ],
+                [
+                    "___Claim___",
+                    "Equitable access is undermined when patients are forced to wait months for critical treatments, which can lead to worse health outcomes."
+                ],
+                [
+                    "___Since___",
+                    "Private systems avoid rationing by allowing providers to scale services based on demand, supported by competition and innovation."
+                ],
+                [
+                    "___Claim___",
+                    "Profit-driven models do not inherently limit access; subsidies or vouchers can ensure affordability for those who cannot pay, while maintaining high-quality care."
+                ],
+                [
+                    "___Claim___",
+                    "Universal healthcare's focus on medical need over profit often leads to inefficiencies and resource misallocation, which private systems are better equipped to address."
+                ]
+            ],
+            "sentences_no_utterance_types": "Long waiting times are not exaggerated; they are a documented issue in many universal healthcare systems, where demand often outstrips supply. Equitable access is undermined when patients are forced to wait months for critical treatments, which can lead to worse health outcomes. Private systems avoid rationing by allowing providers to scale services based on demand, supported by competition and innovation. Profit-driven models do not inherently limit access; subsidies or vouchers can ensure affordability for those who cannot pay, while maintaining high-quality care. Universal healthcare's focus on medical need over profit often leads to inefficiencies and resource misallocation, which private systems are better equipped to address.",
+            "timestamp": "2025-10-08 19:27:39"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Universal healthcare ensures that no one is denied critical treatment due to financial barriers, which is a far greater risk to health outcomes than waiting times."
+                ],
+                [
+                    "___Claim___",
+                    "Universal healthcare's emphasis on medical need over profit leads to better health outcomes and a more equitable society."
+                ],
+                [
+                    "___Why___",
+                    "Why should the potential for delays in treatment outweigh the benefits of ensuring everyone can access care regardless of their income?"
+                ],
+                [
+                    "___Claim___",
+                    "Profit-driven models inherently limit access because they prioritise financial gain over equitable care."
+                ],
+                [
+                    "___Claim___",
+                    "Long waiting times are a symptom of underfunding, not an inherent flaw of universal healthcare, and can be addressed with proper investment."
+                ]
+            ],
+            "sentences_no_utterance_types": "Universal healthcare ensures that no one is denied critical treatment due to financial barriers, which is a far greater risk to health outcomes than waiting times. Universal healthcare's emphasis on medical need over profit leads to better health outcomes and a more equitable society. Why should the potential for delays in treatment outweigh the benefits of ensuring everyone can access care regardless of their income? Profit-driven models inherently limit access because they prioritise financial gain over equitable care. Long waiting times are a symptom of underfunding, not an inherent flaw of universal healthcare, and can be addressed with proper investment.",
+            "timestamp": "2025-10-08 19:28:19"
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Long waiting times are not just a symptom of underfunding; they are a structural issue in universal healthcare systems where demand consistently exceeds supply."
+                ],
+                [
+                    "___Claim___",
+                    "Delays in treatment can lead to irreversible health consequences, which undermines the claim of better health outcomes."
+                ],
+                [
+                    "___Claim___",
+                    "Profit-driven models do not inherently limit access when mechanisms like subsidies or vouchers are in place to ensure affordability for all income levels."
+                ],
+                [
+                    "___Claim___",
+                    "Universal healthcare's focus on medical need often results in inefficiencies and misallocation of resources, which private systems are better equipped to manage."
+                ],
+                [
+                    "___Claim___",
+                    "Equitable access can be achieved without universal healthcare by leveraging competition and innovation to deliver timely, high-quality care."
+                ]
+            ],
+            "sentences_no_utterance_types": "Long waiting times are not just a symptom of underfunding; they are a structural issue in universal healthcare systems where demand consistently exceeds supply. Delays in treatment can lead to irreversible health consequences, which undermines the claim of better health outcomes. Profit-driven models do not inherently limit access when mechanisms like subsidies or vouchers are in place to ensure affordability for all income levels. Universal healthcare's focus on medical need often results in inefficiencies and misallocation of resources, which private systems are better equipped to manage. Equitable access can be achieved without universal healthcare by leveraging competition and innovation to deliver timely, high-quality care.",
+            "timestamp": "2025-10-08 19:28:25"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why should demand consistently exceeding supply in universal healthcare be seen as a flaw rather than a sign of its necessity?"
+                ],
+                [
+                    "___Claim___",
+                    "Universal healthcare avoids the misallocation of resources by prioritising equitable access and public health outcomes over financial incentives."
+                ],
+                [
+                    "___Claim___",
+                    "Universal healthcare systems can meet demand effectively when properly funded and managed, proving that waiting times are not inevitable."
+                ],
+                [
+                    "___Claim___",
+                    "Timely, high-quality care is only guaranteed when healthcare is based on need rather than the ability to pay, which universal healthcare ensures."
+                ],
+                [
+                    "___Claim___",
+                    "Equitable access cannot be achieved without universal healthcare because competition inherently favours those who can pay more."
+                ]
+            ],
+            "sentences_no_utterance_types": "Why should demand consistently exceeding supply in universal healthcare be seen as a flaw rather than a sign of its necessity? Universal healthcare avoids the misallocation of resources by prioritising equitable access and public health outcomes over financial incentives. Universal healthcare systems can meet demand effectively when properly funded and managed, proving that waiting times are not inevitable. Timely, high-quality care is only guaranteed when healthcare is based on need rather than the ability to pay, which universal healthcare ensures. Equitable access cannot be achieved without universal healthcare because competition inherently favours those who can pay more.",
+            "timestamp": "2025-10-08 19:29:08"
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Demand consistently exceeding supply in universal healthcare highlights its inability to scale effectively, which is a structural flaw."
+                ],
+                [
+                    "___Claim___",
+                    "Misallocation of resources is common in universal systems because prioritising need over efficiency often leads to waste and bottlenecks."
+                ],
+                [
+                    "___Claim___",
+                    "Proper funding does not eliminate waiting times; it merely masks the inefficiencies inherent in state-run models."
+                ],
+                [
+                    "___Claim___",
+                    "Timely, high-quality care can be achieved through regulated private systems that balance affordability with competition-driven innovation."
+                ],
+                [
+                    "___Claim___",
+                    "Equitable access does not require universal healthcare when subsidies and vouchers can ensure affordability for all income levels without sacrificing quality or efficiency."
+                ]
+            ],
+            "sentences_no_utterance_types": "Demand consistently exceeding supply in universal healthcare highlights its inability to scale effectively, which is a structural flaw. Misallocation of resources is common in universal systems because prioritising need over efficiency often leads to waste and bottlenecks. Proper funding does not eliminate waiting times; it merely masks the inefficiencies inherent in state-run models. Timely, high-quality care can be achieved through regulated private systems that balance affordability with competition-driven innovation. Equitable access does not require universal healthcare when subsidies and vouchers can ensure affordability for all income levels without sacrificing quality or efficiency.",
+            "timestamp": "2025-10-08 19:29:14"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "With proper funding, state-run healthcare systems can reduce waiting times and improve efficiency, as evidenced by successful universal healthcare systems globally."
+                ],
+                [
+                    "___Claim___",
+                    "Regulated private systems prioritise profit over patient care, which undermines the delivery of timely, high-quality care."
+                ],
+                [
+                    "___Claim___",
+                    "Universal systems achieve efficiency by focusing on equitable access and preventative care, which minimises bottlenecks and long-term costs."
+                ],
+                [
+                    "___Claim___",
+                    "Universal healthcare is the only way to ensure equitable access as subsidies and vouchers often fail to cover the full cost of care for the most vulnerable."
+                ],
+                [
+                    "___Claim___",
+                    "The inability to meet demand in healthcare is a result of political choices and underinvestment, not an inherent flaw in universal systems."
+                ]
+            ],
+            "sentences_no_utterance_types": "With proper funding, state-run healthcare systems can reduce waiting times and improve efficiency, as evidenced by successful universal healthcare systems globally. Regulated private systems prioritise profit over patient care, which undermines the delivery of timely, high-quality care. Universal systems achieve efficiency by focusing on equitable access and preventative care, which minimises bottlenecks and long-term costs. Universal healthcare is the only way to ensure equitable access as subsidies and vouchers often fail to cover the full cost of care for the most vulnerable. The inability to meet demand in healthcare is a result of political choices and underinvestment, not an inherent flaw in universal systems.",
+            "timestamp": "2025-10-08 19:29:57"
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Proper funding cannot fix the structural inefficiencies of state-run healthcare systems, which are inherently prone to bottlenecks and mismanagement."
+                ],
+                [
+                    "___Claim___",
+                    "Regulated private systems do not prioritise profit over patient care; they use competition to drive innovation and improve outcomes."
+                ],
+                [
+                    "___Claim___",
+                    "Universal systems often fail to achieve true efficiency, as equitable access does not guarantee timely or high-quality care."
+                ],
+                [
+                    "___Claim___",
+                    "Subsidies and vouchers can be tailored to cover the full cost of care for vulnerable populations, ensuring affordability without the drawbacks of universal healthcare."
+                ],
+                [
+                    "___Claim___",
+                    "The inability to meet demand in healthcare is a systemic issue in universal models, not just a result of underinvestment."
+                ]
+            ],
+            "sentences_no_utterance_types": "Proper funding cannot fix the structural inefficiencies of state-run healthcare systems, which are inherently prone to bottlenecks and mismanagement. Regulated private systems do not prioritise profit over patient care; they use competition to drive innovation and improve outcomes. Universal systems often fail to achieve true efficiency, as equitable access does not guarantee timely or high-quality care. Subsidies and vouchers can be tailored to cover the full cost of care for vulnerable populations, ensuring affordability without the drawbacks of universal healthcare. The inability to meet demand in healthcare is a systemic issue in universal models, not just a result of underinvestment.",
+            "timestamp": "2025-10-08 19:30:02"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Universal healthcare systems consistently deliver better outcomes and patient satisfaction compared to profit-driven models."
+                ],
+                [
+                    "___Claim___",
+                    "Universal healthcare systems can meet demand effectively when properly funded and managed, proving that structural inefficiencies are not inevitable."
+                ],
+                [
+                    "___Claim___",
+                    "Regulated private systems inherently prioritise profit over patient care, often compromising equitable access."
+                ],
+                [
+                    "___Claim___",
+                    "Equitable access in universal systems ensures timely and high-quality care by prioritising medical need over profit."
+                ],
+                [
+                    "___Claim___",
+                    "Underinvestment in universal healthcare is a political choice that creates bottlenecks, not a systemic issue within the model itself."
+                ]
+            ],
+            "sentences_no_utterance_types": "Universal healthcare systems consistently deliver better outcomes and patient satisfaction compared to profit-driven models. Universal healthcare systems can meet demand effectively when properly funded and managed, proving that structural inefficiencies are not inevitable. Regulated private systems inherently prioritise profit over patient care, often compromising equitable access. Equitable access in universal systems ensures timely and high-quality care by prioritising medical need over profit. Underinvestment in universal healthcare is a political choice that creates bottlenecks, not a systemic issue within the model itself.",
+            "timestamp": "2025-10-08 19:30:43"
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Universal healthcare systems may aim for better outcomes, but they often fail to deliver timely care due to structural inefficiencies that funding alone cannot resolve."
+                ],
+                [
+                    "___Claim___",
+                    "Regulated private systems do not compromise equitable access when subsidies and vouchers are in place to ensure affordability for all."
+                ],
+                [
+                    "___Claim___",
+                    "Equitable access in universal systems often comes at the cost of long waiting times and rationing, which undermines the quality of care."
+                ],
+                [
+                    "___Claim___",
+                    "Profit-driven models incentivise efficiency and innovation, ensuring better outcomes and faster access to treatment."
+                ],
+                [
+                    "___Claim___",
+                    "Underinvestment may exacerbate bottlenecks, but the inability to scale effectively is a fundamental flaw in universal healthcare systems."
+                ]
+            ],
+            "sentences_no_utterance_types": "Universal healthcare systems may aim for better outcomes, but they often fail to deliver timely care due to structural inefficiencies that funding alone cannot resolve. Regulated private systems do not compromise equitable access when subsidies and vouchers are in place to ensure affordability for all. Equitable access in universal systems often comes at the cost of long waiting times and rationing, which undermines the quality of care. Profit-driven models incentivise efficiency and innovation, ensuring better outcomes and faster access to treatment. Underinvestment may exacerbate bottlenecks, but the inability to scale effectively is a fundamental flaw in universal healthcare systems.",
+            "timestamp": "2025-10-08 19:30:49"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Long waiting times and rationing are symptoms of underfunding, not inherent flaws in universal systems, and can be resolved with proper investment."
+                ],
+                [
+                    "___Claim___",
+                    "Universal systems deliver equitable access without compromising quality, as evidenced by high patient satisfaction and outcomes in many countries."
+                ],
+                [
+                    "___Question___",
+                    "Why should profit-driven models be trusted to prioritise patient welfare when their primary goal is financial gain?"
+                ],
+                [
+                    "___Why___",
+                    "Why should structural inefficiencies in universal healthcare be seen as insurmountable when proper funding and management have proven effective in other countries?"
+                ],
+                [
+                    "___Claim___",
+                    "Universal healthcare systems prioritise equitable access and preventative care, which reduces long-term costs and ensures timely treatment for all."
+                ]
+            ],
+            "sentences_no_utterance_types": "Long waiting times and rationing are symptoms of underfunding, not inherent flaws in universal systems, and can be resolved with proper investment. Universal systems deliver equitable access without compromising quality, as evidenced by high patient satisfaction and outcomes in many countries. Why should profit-driven models be trusted to prioritise patient welfare when their primary goal is financial gain? Why should structural inefficiencies in universal healthcare be seen as insurmountable when proper funding and management have proven effective in other countries? Universal healthcare systems prioritise equitable access and preventative care, which reduces long-term costs and ensures timely treatment for all.",
+            "timestamp": "2025-10-08 19:31:29"
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Long waiting times and rationing are not just symptoms of underfunding; they are structural issues caused by the inability of universal systems to scale effectively."
+                ],
+                [
+                    "___Claim___",
+                    "High patient satisfaction does not negate the inefficiencies and delays that harm health outcomes."
+                ],
+                [
+                    "___Since___",
+                    "Profit-driven models prioritise patient welfare because delivering poor care would damage reputation and reduce demand, which directly impacts financial success."
+                ],
+                [
+                    "___Claim___",
+                    "Structural inefficiencies in universal healthcare persist even with funding, as the lack of competition stifles innovation and adaptability."
+                ],
+                [
+                    "___Claim___",
+                    "Preventative care and equitable access can be achieved more effectively through regulated private systems that balance affordability with efficiency."
+                ]
+            ],
+            "sentences_no_utterance_types": "Long waiting times and rationing are not just symptoms of underfunding; they are structural issues caused by the inability of universal systems to scale effectively. High patient satisfaction does not negate the inefficiencies and delays that harm health outcomes. Profit-driven models prioritise patient welfare because delivering poor care would damage reputation and reduce demand, which directly impacts financial success. Structural inefficiencies in universal healthcare persist even with funding, as the lack of competition stifles innovation and adaptability. Preventative care and equitable access can be achieved more effectively through regulated private systems that balance affordability with efficiency.",
+            "timestamp": "2025-10-08 19:31:35"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Competition in healthcare often leads to fragmented services and inequitable access, which universal systems avoid by focusing on comprehensive care."
+                ],
+                [
+                    "___Question___",
+                    "Why should regulated private systems be trusted to prioritise equitable access when profit motives often favour those who can pay more?"
+                ],
+                [
+                    "___Why___",
+                    "Why should inefficiencies and delays in universal healthcare outweigh the benefits of equitable access and high patient satisfaction?"
+                ],
+                [
+                    "___Claim___",
+                    "The inability to meet demand in healthcare is a result of deliberate underfunding, not an inherent limitation of universal systems."
+                ],
+                [
+                    "___Claim___",
+                    "Preventative care and equitable access are best achieved through universal systems that prioritise need over profit."
+                ]
+            ],
+            "sentences_no_utterance_types": "Competition in healthcare often leads to fragmented services and inequitable access, which universal systems avoid by focusing on comprehensive care. Why should regulated private systems be trusted to prioritise equitable access when profit motives often favour those who can pay more? Why should inefficiencies and delays in universal healthcare outweigh the benefits of equitable access and high patient satisfaction? The inability to meet demand in healthcare is a result of deliberate underfunding, not an inherent limitation of universal systems. Preventative care and equitable access are best achieved through universal systems that prioritise need over profit.",
+            "timestamp": "2025-10-08 19:32:15"
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Fragmented services in private systems are a myth when regulation ensures standards and coordination across providers."
+                ],
+                [
+                    "___Since___",
+                    "Regulated private systems prioritise equitable access through mechanisms like subsidies and vouchers, which make care affordable for all income levels."
+                ],
+                [
+                    "___Claim___",
+                    "Inefficiencies and delays in universal healthcare directly harm health outcomes, making equitable access meaningless if patients cannot get timely treatment."
+                ],
+                [
+                    "___Claim___",
+                    "Deliberate underfunding may worsen issues, but universal systems inherently struggle to scale due to their rigid structure and lack of competition."
+                ],
+                [
+                    "___Claim___",
+                    "Preventative care and equitable access can be achieved more effectively in private systems that innovate and adapt to meet demand."
+                ]
+            ],
+            "sentences_no_utterance_types": "Fragmented services in private systems are a myth when regulation ensures standards and coordination across providers. Regulated private systems prioritise equitable access through mechanisms like subsidies and vouchers, which make care affordable for all income levels. Inefficiencies and delays in universal healthcare directly harm health outcomes, making equitable access meaningless if patients cannot get timely treatment. Deliberate underfunding may worsen issues, but universal systems inherently struggle to scale due to their rigid structure and lack of competition. Preventative care and equitable access can be achieved more effectively in private systems that innovate and adapt to meet demand.",
+            "timestamp": "2025-10-08 19:32:21"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why should inefficiencies and delays in universal healthcare outweigh the benefits of equitable access for all citizens?"
+                ],
+                [
+                    "___Claim___",
+                    "Rigid structures in universal systems ensure equitable access and prevent the inefficiencies caused by profit-driven competition."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems often fail to deliver equitable access because profit motives inherently favour those who can pay more."
+                ],
+                [
+                    "___Claim___",
+                    "Preventative care and equitable access are best achieved through universal systems that prioritise need over profit."
+                ],
+                [
+                    "___Claim___",
+                    "Equitable access in universal healthcare ensures that no one is denied treatment due to financial barriers, which is far more critical to health outcomes than occasional delays."
+                ]
+            ],
+            "sentences_no_utterance_types": "Why should inefficiencies and delays in universal healthcare outweigh the benefits of equitable access for all citizens? Rigid structures in universal systems ensure equitable access and prevent the inefficiencies caused by profit-driven competition. Private systems often fail to deliver equitable access because profit motives inherently favour those who can pay more. Preventative care and equitable access are best achieved through universal systems that prioritise need over profit. Equitable access in universal healthcare ensures that no one is denied treatment due to financial barriers, which is far more critical to health outcomes than occasional delays.",
+            "timestamp": "2025-10-08 19:33:00"
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Inefficiencies and delays in universal healthcare directly harm patients, making equitable access meaningless if treatment isn't timely."
+                ],
+                [
+                    "___Claim___",
+                    "Rigid structures in universal systems may ensure access, but they fail to adapt to changing demands, leading to bottlenecks and wasted resources."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems prioritise equitable access through subsidies and vouchers, ensuring affordability without sacrificing quality or efficiency."
+                ],
+                [
+                    "___Claim___",
+                    "Preventative care and equitable access are better achieved in private systems that innovate and scale to meet demand."
+                ],
+                [
+                    "___Claim___",
+                    "Financial barriers can be mitigated in private systems, while universal healthcare often sacrifices quality and timeliness for the sake of access."
+                ]
+            ],
+            "sentences_no_utterance_types": "Inefficiencies and delays in universal healthcare directly harm patients, making equitable access meaningless if treatment isn't timely. Rigid structures in universal systems may ensure access, but they fail to adapt to changing demands, leading to bottlenecks and wasted resources. Private systems prioritise equitable access through subsidies and vouchers, ensuring affordability without sacrificing quality or efficiency. Preventative care and equitable access are better achieved in private systems that innovate and scale to meet demand. Financial barriers can be mitigated in private systems, while universal healthcare often sacrifices quality and timeliness for the sake of access.",
+            "timestamp": "2025-10-08 19:33:06"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Universal systems prevent bottlenecks and wasted resources by prioritising need over profit and focusing on preventative care."
+                ],
+                [
+                    "___Claim___",
+                    "Equitable access in universal healthcare ensures that all patients receive necessary treatment, which is far more meaningful than prioritising speed at the expense of fairness."
+                ],
+                [
+                    "___Question___",
+                    "How can universal healthcare be said to sacrifice quality and timeliness when many countries with such systems report high patient satisfaction and outcomes?"
+                ],
+                [
+                    "___Claim___",
+                    "Universal healthcare eliminates financial barriers entirely, ensuring access for all without the need for subsidies or vouchers."
+                ],
+                [
+                    "___Claim___",
+                    "The adaptability of universal systems is proven by their ability to deliver high-quality care in countries with well-managed healthcare models."
+                ]
+            ],
+            "sentences_no_utterance_types": "Universal systems prevent bottlenecks and wasted resources by prioritising need over profit and focusing on preventative care. Equitable access in universal healthcare ensures that all patients receive necessary treatment, which is far more meaningful than prioritising speed at the expense of fairness. How can universal healthcare be said to sacrifice quality and timeliness when many countries with such systems report high patient satisfaction and outcomes? Universal healthcare eliminates financial barriers entirely, ensuring access for all without the need for subsidies or vouchers. The adaptability of universal systems is proven by their ability to deliver high-quality care in countries with well-managed healthcare models.",
+            "timestamp": "2025-10-08 19:33:47"
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Prioritising need over profit in universal systems often leads to inefficiencies and delays, which directly harm patients waiting for critical care."
+                ],
+                [
+                    "___Claim___",
+                    "High patient satisfaction does not erase the structural flaws that result in rationing and long waiting times."
+                ],
+                [
+                    "___Claim___",
+                    "Eliminating financial barriers is commendable, but it often comes at the cost of quality and timeliness, which private systems address through competition and innovation."
+                ],
+                [
+                    "___Claim___",
+                    "Subsidies and vouchers ensure affordability while maintaining efficiency and adaptability, which universal systems struggle to achieve."
+                ],
+                [
+                    "___Claim___",
+                    "The adaptability of private systems is superior because they are driven to innovate and scale to meet demand, unlike rigid universal models."
+                ]
+            ],
+            "sentences_no_utterance_types": "Prioritising need over profit in universal systems often leads to inefficiencies and delays, which directly harm patients waiting for critical care. High patient satisfaction does not erase the structural flaws that result in rationing and long waiting times. Eliminating financial barriers is commendable, but it often comes at the cost of quality and timeliness, which private systems address through competition and innovation. Subsidies and vouchers ensure affordability while maintaining efficiency and adaptability, which universal systems struggle to achieve. The adaptability of private systems is superior because they are driven to innovate and scale to meet demand, unlike rigid universal models.",
+            "timestamp": "2025-10-08 19:33:52"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private systems prioritise profit over patient care, often leading to disparities in access and quality rather than addressing them."
+                ],
+                [
+                    "___Claim___",
+                    "Universal systems reduce inefficiencies by focusing on preventative care and equitable access, which lowers long-term costs and improves outcomes."
+                ],
+                [
+                    "___Claim___",
+                    "Universal systems maintain efficiency and adaptability by focusing on equitable access and preventative care rather than profit-driven motives."
+                ],
+                [
+                    "___Claim___",
+                    "Prioritising need over profit in universal systems ensures that patients receive care based on urgency rather than their ability to pay."
+                ],
+                [
+                    "___Why___",
+                    "Why should eliminating financial barriers be seen as a trade-off when universal systems ensure equitable access for all citizens?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Private systems prioritise profit over patient care, often leading to disparities in access and quality rather than addressing them. Universal systems reduce inefficiencies by focusing on preventative care and equitable access, which lowers long-term costs and improves outcomes. Universal systems maintain efficiency and adaptability by focusing on equitable access and preventative care rather than profit-driven motives. Prioritising need over profit in universal systems ensures that patients receive care based on urgency rather than their ability to pay. Why should eliminating financial barriers be seen as a trade-off when universal systems ensure equitable access for all citizens?",
+            "timestamp": "2025-10-08 19:34:33"
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private systems do not prioritise profit over patient care when regulation ensures standards and affordability through subsidies and vouchers."
+                ],
+                [
+                    "___Claim___",
+                    "Universal systems often fail to reduce inefficiencies, as their rigid structures lead to bottlenecks and delays that harm patient outcomes."
+                ],
+                [
+                    "___Claim___",
+                    "Focusing on urgency over efficiency in universal systems results in resource misallocation and longer waiting times."
+                ],
+                [
+                    "___Claim___",
+                    "Eliminating financial barriers is not a trade-off in private systems, as affordability can be achieved without sacrificing quality or timeliness."
+                ],
+                [
+                    "___Claim___",
+                    "Universal systems struggle to adapt and innovate, which private systems excel at through competition and responsiveness to demand."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private systems do not prioritise profit over patient care when regulation ensures standards and affordability through subsidies and vouchers. Universal systems often fail to reduce inefficiencies, as their rigid structures lead to bottlenecks and delays that harm patient outcomes. Focusing on urgency over efficiency in universal systems results in resource misallocation and longer waiting times. Eliminating financial barriers is not a trade-off in private systems, as affordability can be achieved without sacrificing quality or timeliness. Universal systems struggle to adapt and innovate, which private systems excel at through competition and responsiveness to demand.",
+            "timestamp": "2025-10-08 19:34:39"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Universal systems are designed to respond to public health demands efficiently, ensuring equitable access and comprehensive care for all citizens."
+                ],
+                [
+                    "___Claim___",
+                    "Universal systems reduce resource misallocation by addressing urgent needs first, preventing long-term health complications and higher costs."
+                ],
+                [
+                    "___Claim___",
+                    "Universal systems achieve efficiency and adaptability when properly funded, as evidenced by their success in delivering high-quality care in many countries."
+                ],
+                [
+                    "___Claim___",
+                    "Universal systems reduce inefficiencies by prioritising equitable access and preventative care, which lowers long-term costs and improves patient outcomes."
+                ],
+                [
+                    "___Why___",
+                    "Why should longer waiting times outweigh the benefits of equitable access and preventative care that universal systems provide?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Universal systems are designed to respond to public health demands efficiently, ensuring equitable access and comprehensive care for all citizens. Universal systems reduce resource misallocation by addressing urgent needs first, preventing long-term health complications and higher costs. Universal systems achieve efficiency and adaptability when properly funded, as evidenced by their success in delivering high-quality care in many countries. Universal systems reduce inefficiencies by prioritising equitable access and preventative care, which lowers long-term costs and improves patient outcomes. Why should longer waiting times outweigh the benefits of equitable access and preventative care that universal systems provide?",
+            "timestamp": "2025-10-08 19:35:20"
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Longer waiting times directly harm patients by delaying critical treatments, which undermines the claim of better health outcomes."
+                ],
+                [
+                    "___Claim___",
+                    "Universal systems may aim to address urgent needs, but their rigid structures often lead to bottlenecks and inefficiencies."
+                ],
+                [
+                    "___Claim___",
+                    "Proper funding cannot fix the inherent inability of universal systems to scale effectively to meet demand."
+                ],
+                [
+                    "___Claim___",
+                    "Regulated private systems achieve equitable access and preventative care through competition and innovation, ensuring timely and high-quality treatment."
+                ],
+                [
+                    "___Claim___",
+                    "Universal systems sacrifice adaptability and responsiveness, which are essential for delivering efficient healthcare."
+                ]
+            ],
+            "sentences_no_utterance_types": "Longer waiting times directly harm patients by delaying critical treatments, which undermines the claim of better health outcomes. Universal systems may aim to address urgent needs, but their rigid structures often lead to bottlenecks and inefficiencies. Proper funding cannot fix the inherent inability of universal systems to scale effectively to meet demand. Regulated private systems achieve equitable access and preventative care through competition and innovation, ensuring timely and high-quality treatment. Universal systems sacrifice adaptability and responsiveness, which are essential for delivering efficient healthcare.",
+            "timestamp": "2025-10-08 19:35:27"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Efficient healthcare is achieved in universal systems through strategic planning and equitable resource allocation, not sacrificed."
+                ],
+                [
+                    "___Claim___",
+                    "Delays in treatment are a symptom of underfunding, not an inherent flaw in universal systems, and can be resolved with proper investment."
+                ],
+                [
+                    "___Claim___",
+                    "Preventative care and equitable access are best achieved through universal systems that focus on need rather than profit motives."
+                ],
+                [
+                    "___Question___",
+                    "How can universal systems be said to sacrifice efficiency when many countries with such models achieve high patient satisfaction and outcomes?"
+                ],
+                [
+                    "___Claim___",
+                    "Universal systems achieve adaptability and efficiency when properly funded, proving that bottlenecks are not inevitable."
+                ]
+            ],
+            "sentences_no_utterance_types": "Efficient healthcare is achieved in universal systems through strategic planning and equitable resource allocation, not sacrificed. Delays in treatment are a symptom of underfunding, not an inherent flaw in universal systems, and can be resolved with proper investment. Preventative care and equitable access are best achieved through universal systems that focus on need rather than profit motives. How can universal systems be said to sacrifice efficiency when many countries with such models achieve high patient satisfaction and outcomes? Universal systems achieve adaptability and efficiency when properly funded, proving that bottlenecks are not inevitable.",
+            "timestamp": "2025-10-08 19:36:06"
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Delays in treatment are not just a symptom of underfunding."
+                ],
+                [
+                    "___Claim___",
+                    "They are a structural issue in universal systems where demand consistently exceeds supply."
+                ],
+                [
+                    "___Claim___",
+                    "High patient satisfaction does not erase the inefficiencies and bottlenecks that harm health outcomes."
+                ],
+                [
+                    "___Claim___",
+                    "Preventative care and equitable access can be achieved more effectively in private systems that innovate and adapt to meet demand."
+                ],
+                [
+                    "___Claim___",
+                    "Universal systems lack the flexibility and competition needed to deliver truly efficient healthcare."
+                ]
+            ],
+            "sentences_no_utterance_types": "Delays in treatment are not just a symptom of underfunding. They are a structural issue in universal systems where demand consistently exceeds supply. High patient satisfaction does not erase the inefficiencies and bottlenecks that harm health outcomes. Preventative care and equitable access can be achieved more effectively in private systems that innovate and adapt to meet demand. Universal systems lack the flexibility and competition needed to deliver truly efficient healthcare.",
+            "timestamp": "2025-10-08 19:36:11"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Proper investment in universal healthcare would eliminate delays, proving they are a funding issue rather than a systemic one."
+                ],
+                [
+                    "___Question___",
+                    "Why should private systems be trusted to prioritise equitable access when profit motives often favour those who can pay more?"
+                ],
+                [
+                    "___Claim___",
+                    "High patient satisfaction demonstrates that universal systems effectively address inefficiencies and bottlenecks to improve health outcomes."
+                ],
+                [
+                    "___Claim___",
+                    "Universal systems achieve efficiency by prioritising equitable access and preventative care over profit-driven competition."
+                ],
+                [
+                    "___Claim___",
+                    "Demand exceeding supply in universal systems is a result of deliberate underfunding, not an inherent structural issue."
+                ]
+            ],
+            "sentences_no_utterance_types": "Proper investment in universal healthcare would eliminate delays, proving they are a funding issue rather than a systemic one. Why should private systems be trusted to prioritise equitable access when profit motives often favour those who can pay more? High patient satisfaction demonstrates that universal systems effectively address inefficiencies and bottlenecks to improve health outcomes. Universal systems achieve efficiency by prioritising equitable access and preventative care over profit-driven competition. Demand exceeding supply in universal systems is a result of deliberate underfunding, not an inherent structural issue.",
+            "timestamp": "2025-10-08 19:36:54"
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Delays in universal healthcare are not solely a funding issue."
+                ],
+                [
+                    "___Claim___",
+                    "They stem from structural inefficiencies where demand consistently outpaces supply, regardless of investment levels."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems prioritise equitable access through regulation, subsidies, and vouchers, ensuring affordability without sacrificing quality or efficiency."
+                ],
+                [
+                    "___Claim___",
+                    "High patient satisfaction does not negate the fact that universal systems often fail to deliver timely care."
+                ],
+                [
+                    "___Claim___",
+                    "Profit-driven competition drives innovation and adaptability, which universal systems lack due to their rigid structures."
+                ]
+            ],
+            "sentences_no_utterance_types": "Delays in universal healthcare are not solely a funding issue. They stem from structural inefficiencies where demand consistently outpaces supply, regardless of investment levels. Private systems prioritise equitable access through regulation, subsidies, and vouchers, ensuring affordability without sacrificing quality or efficiency. High patient satisfaction does not negate the fact that universal systems often fail to deliver timely care. Profit-driven competition drives innovation and adaptability, which universal systems lack due to their rigid structures.",
+            "timestamp": "2025-10-08 19:36:59"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Proper investment in universal healthcare would eliminate delays, proving they are a funding issue rather than a structural one."
+                ],
+                [
+                    "___Why___",
+                    "Why should universal systems be criticised for delays when underfunding is the primary cause of bottlenecks, not the model itself?"
+                ],
+                [
+                    "___Claim___",
+                    "Universal systems consistently achieve timely care when adequately funded and managed, as evidenced by their success in many countries."
+                ],
+                [
+                    "___Claim___",
+                    "Profit-driven competition fragments healthcare services and prioritises financial gain over patient welfare, which universal systems avoid by focusing on equitable access."
+                ],
+                [
+                    "___Claim___",
+                    "Proper investment and management have proven that universal systems can scale effectively to meet demand."
+                ]
+            ],
+            "sentences_no_utterance_types": "Proper investment in universal healthcare would eliminate delays, proving they are a funding issue rather than a structural one. Why should universal systems be criticised for delays when underfunding is the primary cause of bottlenecks, not the model itself? Universal systems consistently achieve timely care when adequately funded and managed, as evidenced by their success in many countries. Profit-driven competition fragments healthcare services and prioritises financial gain over patient welfare, which universal systems avoid by focusing on equitable access. Proper investment and management have proven that universal systems can scale effectively to meet demand.",
+            "timestamp": "2025-10-08 19:37:40"
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Delays in universal healthcare are not just about funding."
+                ],
+                [
+                    "___Claim___",
+                    "They are a structural issue caused by the inability to scale effectively when demand consistently exceeds supply."
+                ],
+                [
+                    "___Claim___",
+                    "Profit-driven competition does not fragment services when regulation ensures coordination and standards across providers."
+                ],
+                [
+                    "___Claim___",
+                    "Universal systems may aim for equitable access, but they often sacrifice timeliness and adaptability, which private systems achieve through innovation and responsiveness."
+                ],
+                [
+                    "___Claim___",
+                    "Proper investment cannot fix the inherent inefficiencies of universal models that lack the flexibility to meet changing demands."
+                ]
+            ],
+            "sentences_no_utterance_types": "Delays in universal healthcare are not just about funding. They are a structural issue caused by the inability to scale effectively when demand consistently exceeds supply. Profit-driven competition does not fragment services when regulation ensures coordination and standards across providers. Universal systems may aim for equitable access, but they often sacrifice timeliness and adaptability, which private systems achieve through innovation and responsiveness. Proper investment cannot fix the inherent inefficiencies of universal models that lack the flexibility to meet changing demands.",
+            "timestamp": "2025-10-08 19:37:45"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Universal systems deliver equitable access and timely care by focusing on need rather than competition-driven motives."
+                ],
+                [
+                    "___Question___",
+                    "Why should universal models be considered inherently inefficient when many countries with such systems achieve high patient satisfaction and outcomes?"
+                ],
+                [
+                    "___Claim___",
+                    "Proper investment in universal healthcare eliminates delays, proving funding is the root issue."
+                ],
+                [
+                    "___Question___",
+                    "How can you claim that profit-driven competition does not fragment services when private providers often focus on lucrative treatments over comprehensive care?"
+                ],
+                [
+                    "___Claim___",
+                    "The inefficiencies in universal healthcare are a result of underfunding and mismanagement, not a fundamental flaw in the model itself."
+                ]
+            ],
+            "sentences_no_utterance_types": "Universal systems deliver equitable access and timely care by focusing on need rather than competition-driven motives. Why should universal models be considered inherently inefficient when many countries with such systems achieve high patient satisfaction and outcomes? Proper investment in universal healthcare eliminates delays, proving funding is the root issue. How can you claim that profit-driven competition does not fragment services when private providers often focus on lucrative treatments over comprehensive care? The inefficiencies in universal healthcare are a result of underfunding and mismanagement, not a fundamental flaw in the model itself.",
+            "timestamp": "2025-10-08 19:38:24"
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Universal systems may focus on need, but they often fail to deliver timely care due to structural bottlenecks that funding alone cannot resolve."
+                ],
+                [
+                    "___Claim___",
+                    "High patient satisfaction does not erase the inefficiencies and delays that harm health outcomes."
+                ],
+                [
+                    "___Claim___",
+                    "Profit-driven competition does not fragment services when regulation ensures comprehensive care and coordination across providers."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems are better equipped to adapt and scale to meet demand, which universal models struggle with due to their rigid structures."
+                ],
+                [
+                    "___Claim___",
+                    "Underfunding may exacerbate issues, but the inability to scale effectively is a fundamental flaw in universal healthcare."
+                ]
+            ],
+            "sentences_no_utterance_types": "Universal systems may focus on need, but they often fail to deliver timely care due to structural bottlenecks that funding alone cannot resolve. High patient satisfaction does not erase the inefficiencies and delays that harm health outcomes. Profit-driven competition does not fragment services when regulation ensures comprehensive care and coordination across providers. Private systems are better equipped to adapt and scale to meet demand, which universal models struggle with due to their rigid structures. Underfunding may exacerbate issues, but the inability to scale effectively is a fundamental flaw in universal healthcare.",
+            "timestamp": "2025-10-08 19:38:29"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why should structural bottlenecks in universal systems be seen as insurmountable when proper funding and management have proven effective in other countries?"
+                ],
+                [
+                    "___Claim___",
+                    "Universal systems achieve high patient satisfaction precisely because they minimise inefficiencies and delays through equitable care."
+                ],
+                [
+                    "___Question___",
+                    "Why should structural bottlenecks in universal systems be seen as insurmountable when proper funding and management have proven effective in other countries?"
+                ],
+                [
+                    "___Question___",
+                    "Why should inefficiencies and delays in universal healthcare outweigh the benefits of equitable access and high patient satisfaction?"
+                ],
+                [
+                    "___Claim___",
+                    "Universal healthcare systems have proven their ability to scale effectively when properly funded and managed, as seen in countries with high-performing models."
+                ],
+                [
+                    "___Claim___",
+                    "Universal systems deliver timely care when properly funded, proving that bottlenecks are not inevitable."
+                ]
+            ],
+            "sentences_no_utterance_types": "Why should structural bottlenecks in universal systems be seen as insurmountable when proper funding and management have proven effective in other countries? Universal systems achieve high patient satisfaction precisely because they minimise inefficiencies and delays through equitable care. Why should structural bottlenecks in universal systems be seen as insurmountable when proper funding and management have proven effective in other countries? Why should inefficiencies and delays in universal healthcare outweigh the benefits of equitable access and high patient satisfaction? Universal healthcare systems have proven their ability to scale effectively when properly funded and managed, as seen in countries with high-performing models. Universal systems deliver timely care when properly funded, proving that bottlenecks are not inevitable.",
+            "timestamp": "2025-10-08 19:39:09"
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Structural bottlenecks in universal systems persist even with proper funding because their rigid frameworks cannot adapt to fluctuating demand."
+                ],
+                [
+                    "___Claim___",
+                    "High patient satisfaction does not eliminate the reality of delays and inefficiencies that harm health outcomes."
+                ],
+                [
+                    "___Claim___",
+                    "Equitable access is meaningless if patients cannot receive timely care, which private systems achieve through competition and innovation."
+                ],
+                [
+                    "___Claim___",
+                    "Universal systems may deliver timely care in isolated cases, but they consistently struggle to scale effectively due to their lack of flexibility."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems are better equipped to balance affordability, quality, and efficiency without the structural flaws of universal models."
+                ]
+            ],
+            "sentences_no_utterance_types": "Structural bottlenecks in universal systems persist even with proper funding because their rigid frameworks cannot adapt to fluctuating demand. High patient satisfaction does not eliminate the reality of delays and inefficiencies that harm health outcomes. Equitable access is meaningless if patients cannot receive timely care, which private systems achieve through competition and innovation. Universal systems may deliver timely care in isolated cases, but they consistently struggle to scale effectively due to their lack of flexibility. Private systems are better equipped to balance affordability, quality, and efficiency without the structural flaws of universal models.",
+            "timestamp": "2025-10-08 19:39:15"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Rigid frameworks in universal systems ensure consistent and fair resource allocation, which prevents inefficiencies caused by profit-driven competition."
+                ],
+                [
+                    "___Claim___",
+                    "Universal systems consistently deliver timely care when properly funded, proving scalability is achievable."
+                ],
+                [
+                    "___Claim___",
+                    "Equitable access is the foundation of meaningful healthcare, and universal systems ensure it without the financial barriers inherent in private systems."
+                ],
+                [
+                    "___Claim___",
+                    "Delays and inefficiencies are symptoms of underfunding, not inherent flaws, and patient satisfaction proves universal systems can deliver quality care."
+                ],
+                [
+                    "___Why___",
+                    "Why should equitable access be considered meaningless when universal systems ensure no one is denied care due to financial barriers?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Rigid frameworks in universal systems ensure consistent and fair resource allocation, which prevents inefficiencies caused by profit-driven competition. Universal systems consistently deliver timely care when properly funded, proving scalability is achievable. Equitable access is the foundation of meaningful healthcare, and universal systems ensure it without the financial barriers inherent in private systems. Delays and inefficiencies are symptoms of underfunding, not inherent flaws, and patient satisfaction proves universal systems can deliver quality care. Why should equitable access be considered meaningless when universal systems ensure no one is denied care due to financial barriers?",
+            "timestamp": "2025-10-08 19:39:58"
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Equitable access is meaningless if patients face delays for critical treatments, which harm health outcomes."
+                ],
+                [
+                    "___Claim___",
+                    "Rigid frameworks in universal systems may ensure fairness, but they fail to adapt to changing demands, leading to bottlenecks."
+                ],
+                [
+                    "___Claim___",
+                    "Proper funding cannot resolve the structural inefficiencies that prevent universal systems from scaling effectively."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems eliminate financial barriers through subsidies and vouchers while maintaining quality and timeliness."
+                ],
+                [
+                    "___Claim___",
+                    "High patient satisfaction does not erase the reality of delays and inefficiencies that universal systems struggle to overcome."
+                ]
+            ],
+            "sentences_no_utterance_types": "Equitable access is meaningless if patients face delays for critical treatments, which harm health outcomes. Rigid frameworks in universal systems may ensure fairness, but they fail to adapt to changing demands, leading to bottlenecks. Proper funding cannot resolve the structural inefficiencies that prevent universal systems from scaling effectively. Private systems eliminate financial barriers through subsidies and vouchers while maintaining quality and timeliness. High patient satisfaction does not erase the reality of delays and inefficiencies that universal systems struggle to overcome.",
+            "timestamp": "2025-10-08 19:40:04"
+        }
+    ],
+    "first_speaker": "gpt-4o_mas_rag",
+    "first_speaker_utterance": "",
+    "first_speaker_commitments": [
+        "Government intervention in healthcare is essential to ensure universal access and prevent inequality in treatment.",
+        "Profit motives inherently prioritise financial gain over patient welfare, often leading to corners being cut in care delivery.",
+        "Rationing and waiting times in universal healthcare are often exaggerated, as many countries with such systems achieve high levels of patient satisfaction and outcomes.",
+        "Underinvestment in universal healthcare is a political choice that creates bottlenecks, not a systemic issue within the model itself.",
+        "Universal healthcare systems prioritise equitable access and preventative care, which reduces long-term costs and ensures timely treatment for all.",
+        "Competition in healthcare often leads to fragmented services and inequitable access, which universal systems avoid by focusing on comprehensive care.",
+        "The adaptability of universal systems is proven by their ability to deliver high-quality care in countries with well-managed healthcare models.",
+        "Rigid frameworks in universal systems ensure consistent and fair resource allocation, which prevents inefficiencies caused by profit-driven competition."
+    ],
+    "first_speaker_original_claim": "Government intervention in healthcare is essential to ensure universal access and prevent inequality in treatment.",
+    "first_speaker_typical_replies_for_second_speakers_response": [],
+    "second_speaker": "gpt-4o_base",
+    "second_speaker_utterance": "Equitable access is meaningless if patients face delays for critical treatments, which harm health outcomes. Rigid frameworks in universal systems may ensure fairness, but they fail to adapt to changing demands, leading to bottlenecks. Proper funding cannot resolve the structural inefficiencies that prevent universal systems from scaling effectively. Private systems eliminate financial barriers through subsidies and vouchers while maintaining quality and timeliness. High patient satisfaction does not erase the reality of delays and inefficiencies that universal systems struggle to overcome.",
+    "second_speaker_commitments": [
+        "Government intervention in healthcare leads to inefficiency and stifles innovation.",
+        "Private competition ensures better quality and faster access to treatment.",
+        "Faster access for low-income individuals can be ensured through subsidies or vouchers funded by the government, allowing them to access private care without compromising quality.",
+        "Profit motives do not inherently lead to cost-cutting at the expense of care; they incentivise efficiency and better outcomes to maintain reputation and attract more patients.",
+        "Universal access through regulated private systems avoids inequality by setting standards and ensuring affordability while maintaining the benefits of competition.",
+        "Universal healthcare may aim for equitable access, but it often results in rationing and long waiting times, which undermine the quality of care.",
+        "State-run systems can show high satisfaction in some cases, but they often fail to adapt quickly to changing demands or technological advancements.",
+        "Delays in treatment can lead to irreversible health consequences, which undermines the claim of better health outcomes.",
+        "Demand consistently exceeding supply in universal healthcare highlights its inability to scale effectively, which is a structural flaw.",
+        "Fragmented services in private systems are a myth when regulation ensures standards and coordination across providers.",
+        "Preventative care and equitable access can be achieved more effectively in private systems that innovate and adapt to meet demand.",
+        "Focusing on urgency over efficiency in universal systems results in resource misallocation and longer waiting times.",
+        "Delays in treatment are not just a symptom of underfunding."
+    ],
+    "second_speaker_original_claim": "Government intervention in healthcare leads to inefficiency and stifles innovation.",
+    "second_speaker_typical_replies_for_first_speakers_response": [],
+    "winner": "None",
+    "loser": "None",
+    "reason_for_dialogue_termination": {
+        "reason": "Maximum number of dialogue turns reached (40 dialogue turns).",
+        "utterance_type": null,
+        "utterance": null
+    },
+    "session_status": "Finished."
+}

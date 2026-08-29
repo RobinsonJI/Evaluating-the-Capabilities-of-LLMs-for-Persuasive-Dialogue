@@ -1,0 +1,11 @@
+repetitions: 5
+
+models:
+  - "mistral-medium"
+  - "gpt-4o"
+  - "grok-3"
+  - "grok-4"
+
+temperature: 0
+top_p: 1
+seed: 123

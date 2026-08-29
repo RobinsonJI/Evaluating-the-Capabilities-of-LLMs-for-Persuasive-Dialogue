@@ -1,0 +1,1143 @@
+{
+    "session_id": "mistral-medium_base:r__vs__grok-4_base:l",
+    "debate_topic": "Debate the trade-offs of government intervention across a range of issues, including healthcare, immigration, and welfare.",
+    "max_dialogue_turns": 40,
+    "max_sentences_per_turn": 5,
+    "first_speaker": "mistral-medium_base",
+    "first_speaker_type": "base",
+    "first_speaker_model_name": "mistral-medium",
+    "first_speaker_model_temp": 0.0,
+    "first_speaker_model_top_p": 1.0,
+    "first_speaker_model_seed": 123,
+    "first_speaker_utterance": "",
+    "first_speaker_utterance_with_corresponding_types": [],
+    "first_speaker_commitments": [
+        "Government intervention in healthcare, immigration, and welfare often leads to inefficiencies and stifles individual responsibility.",
+        "Markets drive innovation and efficiency.",
+        "Immigration policies should prioritise skills and economic contribution.",
+        "Private healthcare fosters competition, driving down costs and improving quality."
+    ],
+    "first_speaker_original_claim": "Government intervention in healthcare, immigration, and welfare often leads to inefficiencies and stifles individual responsibility.",
+    "first_speaker_political_position_range": "60:80",
+    "first_speaker_political_position_std": 10,
+    "first_speaker_political_position_prob_of_na": 0.25,
+    "first_speaker_knowledge_base_ensemble_or_model_name": "",
+    "first_speaker_number_of_vector_based_rag_examples": 100,
+    "first_speaker_number_of_graph_rag_examples": 5,
+    "second_speaker": "grok-4_base",
+    "second_speaker_type": "base",
+    "second_speaker_model_name": "grok-4",
+    "second_speaker_model_temp": 0.0,
+    "second_speaker_model_top_p": 1.0,
+    "second_speaker_model_seed": 123,
+    "second_speaker_utterance": "Private healthcare only drives down costs for the rich, leaving everyone else without access and worsening inequality. Government intervention cuts waiting times by funding more services for all, ensuring quality care reaches the vulnerable too. Immigration policies that prioritise economic gain ignore human suffering and create divided societies; compassionate approaches build real sustainability. Welfare systems empower people with skills and support, sparking initiative instead of letting markets abandon the needy. Government bureaucracies deliver fair safety nets that prevent collapse, while markets just exploit the poor for profit.",
+    "second_speaker_utterance_with_corresponding_types": [
+        [
+            "___Claim___",
+            "Private healthcare only drives down costs for the rich, leaving everyone else without access and worsening inequality."
+        ],
+        [
+            "___Claim___",
+            "Government intervention cuts waiting times by funding more services for all, ensuring quality care reaches the vulnerable too."
+        ],
+        [
+            "___Claim___",
+            "Immigration policies that prioritise economic gain ignore human suffering and create divided societies; compassionate approaches build real sustainability."
+        ],
+        [
+            "___Claim___",
+            "Welfare systems empower people with skills and support, sparking initiative instead of letting markets abandon the needy."
+        ],
+        [
+            "___Claim___",
+            "Government bureaucracies deliver fair safety nets that prevent collapse, while markets just exploit the poor for profit."
+        ]
+    ],
+    "second_speaker_commitments": [
+        "Government intervention in healthcare, immigration, and welfare is essential to protect vulnerable people and ensure fairness in society."
+    ],
+    "second_speaker_original_claim": "Government intervention in healthcare, immigration, and welfare is essential to protect vulnerable people and ensure fairness in society.",
+    "second_speaker_political_position_range": "20:40",
+    "second_speaker_political_position_std": 10,
+    "second_speaker_political_position_prob_of_na": 0.25,
+    "second_speaker_knowledge_base_ensemble_or_model_name": "",
+    "second_speaker_number_of_vector_based_rag_examples": 100,
+    "second_speaker_number_of_graph_rag_examples": 5,
+    "current_speaker": "first_speaker",
+    "next_speaker": "second_speaker",
+    "dialogue_history": [
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government intervention in healthcare, immigration, and welfare often leads to inefficiencies and stifles individual responsibility."
+                ]
+            ],
+            "sentences_no_utterance_types": "Government intervention in healthcare, immigration, and welfare often leads to inefficiencies and stifles individual responsibility.",
+            "timestamp": "2025-11-04 12:14:45"
+        },
+        {
+            "speaker": "grok-4_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government intervention in healthcare, immigration, and welfare is essential to protect vulnerable people and ensure fairness in society."
+                ],
+                [
+                    "___Claim___",
+                    "Without it, inequalities widen and basic needs go unmet."
+                ],
+                [
+                    "___Claim___",
+                    "Your view ignores how markets alone fail to provide universal access to these services."
+                ]
+            ],
+            "sentences_no_utterance_types": "Government intervention in healthcare, immigration, and welfare is essential to protect vulnerable people and ensure fairness in society. Without it, inequalities widen and basic needs go unmet. Your view ignores how markets alone fail to provide universal access to these services.",
+            "timestamp": "2025-11-04 12:14:50"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Markets drive innovation and efficiency."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention often creates bureaucratic hurdles that slow down progress."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare can offer better services through competition."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration policies should prioritise skills and economic contribution."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems can become bloated and unsustainable without market mechanisms."
+                ]
+            ],
+            "sentences_no_utterance_types": "Markets drive innovation and efficiency. Government intervention often creates bureaucratic hurdles that slow down progress. Private healthcare can offer better services through competition. Immigration policies should prioritise skills and economic contribution. Welfare systems can become bloated and unsustainable without market mechanisms.",
+            "timestamp": "2025-11-04 12:15:04"
+        },
+        {
+            "speaker": "grok-4_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Markets might innovate, but they leave the poorest behind without government intervention to ensure everyone gets healthcare."
+                ],
+                [
+                    "___Claim___",
+                    "Bureaucratic hurdles exist, yet they prevent profiteering that would make services unaffordable for many."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare creates a two-tier system where only the wealthy thrive, widening inequality."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration needs compassionate policies to protect refugees, not just chase economic gain."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare prevents poverty traps; without it, society crumbles under desperation and crime."
+                ]
+            ],
+            "sentences_no_utterance_types": "Markets might innovate, but they leave the poorest behind without government intervention to ensure everyone gets healthcare. Bureaucratic hurdles exist, yet they prevent profiteering that would make services unaffordable for many. Private healthcare creates a two-tier system where only the wealthy thrive, widening inequality. Immigration needs compassionate policies to protect refugees, not just chase economic gain. Welfare prevents poverty traps; without it, society crumbles under desperation and crime.",
+            "timestamp": "2025-11-04 12:15:12"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private healthcare fosters competition, driving down costs and improving quality."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention often leads to long waiting times and reduced quality of care."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration policies must focus on economic contribution to ensure sustainability."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems can create dependency, stifling individual initiative."
+                ],
+                [
+                    "___Claim___",
+                    "Market mechanisms can provide safety nets more efficiently than government bureaucracies."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare fosters competition, driving down costs and improving quality. Government intervention often leads to long waiting times and reduced quality of care. Immigration policies must focus on economic contribution to ensure sustainability. Welfare systems can create dependency, stifling individual initiative. Market mechanisms can provide safety nets more efficiently than government bureaucracies.",
+            "timestamp": "2025-11-04 12:15:29"
+        },
+        {
+            "speaker": "grok-4_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private healthcare drives down costs for the rich, but leaves millions without access, creating a divided society."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention ensures everyone gets care, even if there are waits; without it, the poor suffer most."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration policies ignoring refugees lead to humanitarian crises, not just economic ones."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare breaks dependency cycles by providing real opportunities, unlike markets that punish the unlucky."
+                ],
+                [
+                    "___Claim___",
+                    "Government bureaucracies build sustainable safety nets that markets exploit for profit."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare drives down costs for the rich, but leaves millions without access, creating a divided society. Government intervention ensures everyone gets care, even if there are waits; without it, the poor suffer most. Immigration policies ignoring refugees lead to humanitarian crises, not just economic ones. Welfare breaks dependency cycles by providing real opportunities, unlike markets that punish the unlucky. Government bureaucracies build sustainable safety nets that markets exploit for profit.",
+            "timestamp": "2025-11-04 12:15:37"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private healthcare improves quality and reduces costs through competition."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention creates long waiting times and reduces the quality of care."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration policies must prioritise economic contribution to ensure sustainability."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems can create dependency and stifle individual initiative."
+                ],
+                [
+                    "___Claim___",
+                    "Market mechanisms can provide safety nets more efficiently than government bureaucracies."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare improves quality and reduces costs through competition. Government intervention creates long waiting times and reduces the quality of care. Immigration policies must prioritise economic contribution to ensure sustainability. Welfare systems can create dependency and stifle individual initiative. Market mechanisms can provide safety nets more efficiently than government bureaucracies.",
+            "timestamp": "2025-11-04 12:15:45"
+        },
+        {
+            "speaker": "grok-4_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private healthcare boosts quality for those who can pay, but it leaves the vulnerable without care and drives up costs for everyone else."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention tackles waiting times by expanding access, ensuring quality care reaches all, not just the wealthy."
+                ],
+                [
+                    "___Claim___",
+                    "Prioritising economic contribution in immigration ignores human rights and leads to exploitation; fair policies protect everyone for a stronger society."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare empowers people out of poverty, fostering initiative through education and support, while markets alone trap the poor in cycles of despair."
+                ],
+                [
+                    "___Claim___",
+                    "Government bureaucracies deliver reliable safety nets that prevent societal collapse, unlike profit-driven markets that fail the needy."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare boosts quality for those who can pay, but it leaves the vulnerable without care and drives up costs for everyone else. Government intervention tackles waiting times by expanding access, ensuring quality care reaches all, not just the wealthy. Prioritising economic contribution in immigration ignores human rights and leads to exploitation; fair policies protect everyone for a stronger society. Welfare empowers people out of poverty, fostering initiative through education and support, while markets alone trap the poor in cycles of despair. Government bureaucracies deliver reliable safety nets that prevent societal collapse, unlike profit-driven markets that fail the needy.",
+            "timestamp": "2025-11-04 12:15:53"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private healthcare fosters competition, driving down costs and improving quality."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention often leads to long waiting times and reduced quality of care."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration policies must prioritise economic contribution to ensure sustainability."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems can create dependency and stifle individual initiative."
+                ],
+                [
+                    "___Claim___",
+                    "Market mechanisms can provide safety nets more efficiently than government bureaucracies."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare fosters competition, driving down costs and improving quality. Government intervention often leads to long waiting times and reduced quality of care. Immigration policies must prioritise economic contribution to ensure sustainability. Welfare systems can create dependency and stifle individual initiative. Market mechanisms can provide safety nets more efficiently than government bureaucracies.",
+            "timestamp": "2025-11-04 12:16:03"
+        },
+        {
+            "speaker": "grok-4_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private healthcare only drives down costs for the well-off, leaving the rest of us in the lurch with no access to quality care."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention cuts waiting times by funding more services for everyone, boosting overall quality instead of letting profits dictate who lives or dies."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration policies that chase economic gain ignore desperate refugees, creating unstable societies full of resentment and unrest."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems lift people up with real support, sparking initiative through skills and jobs, while markets just kick the vulnerable when they're down."
+                ],
+                [
+                    "___Claim___",
+                    "Government bureaucracies craft fair safety nets that hold society together, far better than market tricks that line pockets at the expense of the poor."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare only drives down costs for the well-off, leaving the rest of us in the lurch with no access to quality care. Government intervention cuts waiting times by funding more services for everyone, boosting overall quality instead of letting profits dictate who lives or dies. Immigration policies that chase economic gain ignore desperate refugees, creating unstable societies full of resentment and unrest. Welfare systems lift people up with real support, sparking initiative through skills and jobs, while markets just kick the vulnerable when they're down. Government bureaucracies craft fair safety nets that hold society together, far better than market tricks that line pockets at the expense of the poor.",
+            "timestamp": "2025-11-04 12:16:11"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private healthcare fosters competition, driving down costs and improving quality for everyone."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention creates long waiting times and reduces the quality of care."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration policies must prioritise economic contribution to ensure sustainability."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems can create dependency and stifle individual initiative."
+                ],
+                [
+                    "___Claim___",
+                    "Market mechanisms can provide safety nets more efficiently than government bureaucracies."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare fosters competition, driving down costs and improving quality for everyone. Government intervention creates long waiting times and reduces the quality of care. Immigration policies must prioritise economic contribution to ensure sustainability. Welfare systems can create dependency and stifle individual initiative. Market mechanisms can provide safety nets more efficiently than government bureaucracies.",
+            "timestamp": "2025-11-04 12:16:19"
+        },
+        {
+            "speaker": "grok-4_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private healthcare only improves quality for those who can afford it, leaving everyone else with nothing."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention tackles waiting times by investing in more staff and facilities, ensuring quality care for all without the rich getting priority."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration policies that ignore economic contribution alone protect vulnerable people fleeing danger, building a compassionate society that boosts long-term stability."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems spark initiative by offering training and support, preventing the despair that markets ignore."
+                ],
+                [
+                    "___Claim___",
+                    "Government bureaucracies create fair, accountable safety nets that markets can't match without exploiting the poor."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare only improves quality for those who can afford it, leaving everyone else with nothing. Government intervention tackles waiting times by investing in more staff and facilities, ensuring quality care for all without the rich getting priority. Immigration policies that ignore economic contribution alone protect vulnerable people fleeing danger, building a compassionate society that boosts long-term stability. Welfare systems spark initiative by offering training and support, preventing the despair that markets ignore. Government bureaucracies create fair, accountable safety nets that markets can't match without exploiting the poor.",
+            "timestamp": "2025-11-04 12:16:26"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private healthcare fosters competition, driving down costs and improving quality for everyone."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention creates long waiting times and reduces the quality of care."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration policies must prioritise economic contribution to ensure sustainability."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems can create dependency and stifle individual initiative."
+                ],
+                [
+                    "___Claim___",
+                    "Market mechanisms can provide safety nets more efficiently than government bureaucracies."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare fosters competition, driving down costs and improving quality for everyone. Government intervention creates long waiting times and reduces the quality of care. Immigration policies must prioritise economic contribution to ensure sustainability. Welfare systems can create dependency and stifle individual initiative. Market mechanisms can provide safety nets more efficiently than government bureaucracies.",
+            "timestamp": "2025-11-04 12:16:34"
+        },
+        {
+            "speaker": "grok-4_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private healthcare only drives down costs for the wealthy, leaving everyone else without proper care and worsening inequality."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention reduces waiting times by funding more services for all, ensuring quality care reaches the vulnerable too."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration policies that prioritise economic gain ignore human suffering and create divided societies; compassionate approaches build real sustainability."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems empower people with skills and support, sparking initiative instead of letting markets abandon the needy."
+                ],
+                [
+                    "___Claim___",
+                    "Government bureaucracies deliver fair safety nets that prevent collapse, while markets just exploit the poor for profit."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare only drives down costs for the wealthy, leaving everyone else without proper care and worsening inequality. Government intervention reduces waiting times by funding more services for all, ensuring quality care reaches the vulnerable too. Immigration policies that prioritise economic gain ignore human suffering and create divided societies; compassionate approaches build real sustainability. Welfare systems empower people with skills and support, sparking initiative instead of letting markets abandon the needy. Government bureaucracies deliver fair safety nets that prevent collapse, while markets just exploit the poor for profit.",
+            "timestamp": "2025-11-04 12:16:43"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private healthcare fosters competition, driving down costs and improving quality for everyone."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention creates long waiting times and reduces the quality of care."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration policies must prioritise economic contribution to ensure sustainability."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems can create dependency and stifle individual initiative."
+                ],
+                [
+                    "___Claim___",
+                    "Market mechanisms can provide safety nets more efficiently than government bureaucracies."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare fosters competition, driving down costs and improving quality for everyone. Government intervention creates long waiting times and reduces the quality of care. Immigration policies must prioritise economic contribution to ensure sustainability. Welfare systems can create dependency and stifle individual initiative. Market mechanisms can provide safety nets more efficiently than government bureaucracies.",
+            "timestamp": "2025-11-04 12:16:50"
+        },
+        {
+            "speaker": "grok-4_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private healthcare only drives down costs for the rich, leaving everyone else without access and worsening inequality."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention cuts waiting times by funding more services for all, ensuring quality care reaches the vulnerable too."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration policies that prioritise economic gain ignore human suffering and create divided societies; compassionate approaches build real sustainability."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems empower people with skills and support, sparking initiative instead of letting markets abandon the needy."
+                ],
+                [
+                    "___Claim___",
+                    "Government bureaucracies deliver fair safety nets that prevent collapse, while markets just exploit the poor for profit."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare only drives down costs for the rich, leaving everyone else without access and worsening inequality. Government intervention cuts waiting times by funding more services for all, ensuring quality care reaches the vulnerable too. Immigration policies that prioritise economic gain ignore human suffering and create divided societies; compassionate approaches build real sustainability. Welfare systems empower people with skills and support, sparking initiative instead of letting markets abandon the needy. Government bureaucracies deliver fair safety nets that prevent collapse, while markets just exploit the poor for profit.",
+            "timestamp": "2025-11-04 12:16:59"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private healthcare fosters competition, driving down costs and improving quality for everyone."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention creates long waiting times and reduces the quality of care."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration policies must prioritise economic contribution to ensure sustainability."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems can create dependency and stifle individual initiative."
+                ],
+                [
+                    "___Claim___",
+                    "Market mechanisms can provide safety nets more efficiently than government bureaucracies."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare fosters competition, driving down costs and improving quality for everyone. Government intervention creates long waiting times and reduces the quality of care. Immigration policies must prioritise economic contribution to ensure sustainability. Welfare systems can create dependency and stifle individual initiative. Market mechanisms can provide safety nets more efficiently than government bureaucracies.",
+            "timestamp": "2025-11-04 12:17:23"
+        },
+        {
+            "speaker": "grok-4_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private healthcare only drives down costs for the rich, leaving everyone else without access and worsening inequality."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention cuts waiting times by funding more services for all, ensuring quality care reaches the vulnerable too."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration policies that prioritise economic gain ignore human suffering and create divided societies; compassionate approaches build real sustainability."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems empower people with skills and support, sparking initiative instead of letting markets abandon the needy."
+                ],
+                [
+                    "___Claim___",
+                    "Government bureaucracies deliver fair safety nets that prevent collapse, while markets just exploit the poor for profit."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare only drives down costs for the rich, leaving everyone else without access and worsening inequality. Government intervention cuts waiting times by funding more services for all, ensuring quality care reaches the vulnerable too. Immigration policies that prioritise economic gain ignore human suffering and create divided societies; compassionate approaches build real sustainability. Welfare systems empower people with skills and support, sparking initiative instead of letting markets abandon the needy. Government bureaucracies deliver fair safety nets that prevent collapse, while markets just exploit the poor for profit.",
+            "timestamp": "2025-11-04 12:17:31"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private healthcare fosters competition, driving down costs and improving quality for everyone."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention creates long waiting times and reduces the quality of care."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration policies must prioritise economic contribution to ensure sustainability."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems can create dependency and stifle individual initiative."
+                ],
+                [
+                    "___Claim___",
+                    "Market mechanisms can provide safety nets more efficiently than government bureaucracies."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare fosters competition, driving down costs and improving quality for everyone. Government intervention creates long waiting times and reduces the quality of care. Immigration policies must prioritise economic contribution to ensure sustainability. Welfare systems can create dependency and stifle individual initiative. Market mechanisms can provide safety nets more efficiently than government bureaucracies.",
+            "timestamp": "2025-11-04 12:17:44"
+        },
+        {
+            "speaker": "grok-4_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private healthcare only drives down costs for the rich, leaving everyone else without access and worsening inequality."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention cuts waiting times by funding more services for all, ensuring quality care reaches the vulnerable too."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration policies that prioritise economic gain ignore human suffering and create divided societies; compassionate approaches build real sustainability."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems empower people with skills and support, sparking initiative instead of letting markets abandon the needy."
+                ],
+                [
+                    "___Claim___",
+                    "Government bureaucracies deliver fair safety nets that prevent collapse, while markets just exploit the poor for profit."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare only drives down costs for the rich, leaving everyone else without access and worsening inequality. Government intervention cuts waiting times by funding more services for all, ensuring quality care reaches the vulnerable too. Immigration policies that prioritise economic gain ignore human suffering and create divided societies; compassionate approaches build real sustainability. Welfare systems empower people with skills and support, sparking initiative instead of letting markets abandon the needy. Government bureaucracies deliver fair safety nets that prevent collapse, while markets just exploit the poor for profit.",
+            "timestamp": "2025-11-04 12:17:52"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private healthcare fosters competition, driving down costs and improving quality for everyone."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention creates long waiting times and reduces the quality of care."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration policies must prioritise economic contribution to ensure sustainability."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems can create dependency and stifle individual initiative."
+                ],
+                [
+                    "___Claim___",
+                    "Market mechanisms can provide safety nets more efficiently than government bureaucracies."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare fosters competition, driving down costs and improving quality for everyone. Government intervention creates long waiting times and reduces the quality of care. Immigration policies must prioritise economic contribution to ensure sustainability. Welfare systems can create dependency and stifle individual initiative. Market mechanisms can provide safety nets more efficiently than government bureaucracies.",
+            "timestamp": "2025-11-04 12:18:04"
+        },
+        {
+            "speaker": "grok-4_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private healthcare only drives down costs for the rich, leaving everyone else without access and worsening inequality."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention cuts waiting times by funding more services for all, ensuring quality care reaches the vulnerable too."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration policies that prioritise economic gain ignore human suffering and create divided societies; compassionate approaches build real sustainability."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems empower people with skills and support, sparking initiative instead of letting markets abandon the needy."
+                ],
+                [
+                    "___Claim___",
+                    "Government bureaucracies deliver fair safety nets that prevent collapse, while markets just exploit the poor for profit."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare only drives down costs for the rich, leaving everyone else without access and worsening inequality. Government intervention cuts waiting times by funding more services for all, ensuring quality care reaches the vulnerable too. Immigration policies that prioritise economic gain ignore human suffering and create divided societies; compassionate approaches build real sustainability. Welfare systems empower people with skills and support, sparking initiative instead of letting markets abandon the needy. Government bureaucracies deliver fair safety nets that prevent collapse, while markets just exploit the poor for profit.",
+            "timestamp": "2025-11-04 12:18:13"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private healthcare fosters competition, driving down costs and improving quality for everyone."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention creates long waiting times and reduces the quality of care."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration policies must prioritise economic contribution to ensure sustainability."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems can create dependency and stifle individual initiative."
+                ],
+                [
+                    "___Claim___",
+                    "Market mechanisms can provide safety nets more efficiently than government bureaucracies."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare fosters competition, driving down costs and improving quality for everyone. Government intervention creates long waiting times and reduces the quality of care. Immigration policies must prioritise economic contribution to ensure sustainability. Welfare systems can create dependency and stifle individual initiative. Market mechanisms can provide safety nets more efficiently than government bureaucracies.",
+            "timestamp": "2025-11-04 12:19:23"
+        },
+        {
+            "speaker": "grok-4_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private healthcare only drives down costs for the rich, leaving everyone else without access and worsening inequality."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention cuts waiting times by funding more services for all, ensuring quality care reaches the vulnerable too."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration policies that prioritise economic gain ignore human suffering and create divided societies; compassionate approaches build real sustainability."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems empower people with skills and support, sparking initiative instead of letting markets abandon the needy."
+                ],
+                [
+                    "___Claim___",
+                    "Government bureaucracies deliver fair safety nets that prevent collapse, while markets just exploit the poor for profit."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare only drives down costs for the rich, leaving everyone else without access and worsening inequality. Government intervention cuts waiting times by funding more services for all, ensuring quality care reaches the vulnerable too. Immigration policies that prioritise economic gain ignore human suffering and create divided societies; compassionate approaches build real sustainability. Welfare systems empower people with skills and support, sparking initiative instead of letting markets abandon the needy. Government bureaucracies deliver fair safety nets that prevent collapse, while markets just exploit the poor for profit.",
+            "timestamp": "2025-11-04 12:19:31"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private healthcare fosters competition, driving down costs and improving quality for everyone."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention creates long waiting times and reduces the quality of care."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration policies must prioritise economic contribution to ensure sustainability."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems can create dependency and stifle individual initiative."
+                ],
+                [
+                    "___Claim___",
+                    "Market mechanisms can provide safety nets more efficiently than government bureaucracies."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare fosters competition, driving down costs and improving quality for everyone. Government intervention creates long waiting times and reduces the quality of care. Immigration policies must prioritise economic contribution to ensure sustainability. Welfare systems can create dependency and stifle individual initiative. Market mechanisms can provide safety nets more efficiently than government bureaucracies.",
+            "timestamp": "2025-11-04 12:19:42"
+        },
+        {
+            "speaker": "grok-4_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private healthcare only drives down costs for the rich, leaving everyone else without access and worsening inequality."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention cuts waiting times by funding more services for all, ensuring quality care reaches the vulnerable too."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration policies that prioritise economic gain ignore human suffering and create divided societies; compassionate approaches build real sustainability."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems empower people with skills and support, sparking initiative instead of letting markets abandon the needy."
+                ],
+                [
+                    "___Claim___",
+                    "Government bureaucracies deliver fair safety nets that prevent collapse, while markets just exploit the poor for profit."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare only drives down costs for the rich, leaving everyone else without access and worsening inequality. Government intervention cuts waiting times by funding more services for all, ensuring quality care reaches the vulnerable too. Immigration policies that prioritise economic gain ignore human suffering and create divided societies; compassionate approaches build real sustainability. Welfare systems empower people with skills and support, sparking initiative instead of letting markets abandon the needy. Government bureaucracies deliver fair safety nets that prevent collapse, while markets just exploit the poor for profit.",
+            "timestamp": "2025-11-04 12:19:50"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private healthcare fosters competition, driving down costs and improving quality for everyone."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention creates long waiting times and reduces the quality of care."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration policies must prioritise economic contribution to ensure sustainability."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems can create dependency and stifle individual initiative."
+                ],
+                [
+                    "___Claim___",
+                    "Market mechanisms can provide safety nets more efficiently than government bureaucracies."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare fosters competition, driving down costs and improving quality for everyone. Government intervention creates long waiting times and reduces the quality of care. Immigration policies must prioritise economic contribution to ensure sustainability. Welfare systems can create dependency and stifle individual initiative. Market mechanisms can provide safety nets more efficiently than government bureaucracies.",
+            "timestamp": "2025-11-04 12:19:57"
+        },
+        {
+            "speaker": "grok-4_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private healthcare only drives down costs for the rich, leaving everyone else without access and worsening inequality."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention cuts waiting times by funding more services for all, ensuring quality care reaches the vulnerable too."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration policies that prioritise economic gain ignore human suffering and create divided societies; compassionate approaches build real sustainability."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems empower people with skills and support, sparking initiative instead of letting markets abandon the needy."
+                ],
+                [
+                    "___Claim___",
+                    "Government bureaucracies deliver fair safety nets that prevent collapse, while markets just exploit the poor for profit."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare only drives down costs for the rich, leaving everyone else without access and worsening inequality. Government intervention cuts waiting times by funding more services for all, ensuring quality care reaches the vulnerable too. Immigration policies that prioritise economic gain ignore human suffering and create divided societies; compassionate approaches build real sustainability. Welfare systems empower people with skills and support, sparking initiative instead of letting markets abandon the needy. Government bureaucracies deliver fair safety nets that prevent collapse, while markets just exploit the poor for profit.",
+            "timestamp": "2025-11-04 12:20:04"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private healthcare fosters competition, driving down costs and improving quality for everyone."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention creates long waiting times and reduces the quality of care."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration policies must prioritise economic contribution to ensure sustainability."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems can create dependency and stifle individual initiative."
+                ],
+                [
+                    "___Claim___",
+                    "Market mechanisms can provide safety nets more efficiently than government bureaucracies."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare fosters competition, driving down costs and improving quality for everyone. Government intervention creates long waiting times and reduces the quality of care. Immigration policies must prioritise economic contribution to ensure sustainability. Welfare systems can create dependency and stifle individual initiative. Market mechanisms can provide safety nets more efficiently than government bureaucracies.",
+            "timestamp": "2025-11-04 12:20:15"
+        },
+        {
+            "speaker": "grok-4_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private healthcare only drives down costs for the rich, leaving everyone else without access and worsening inequality."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention cuts waiting times by funding more services for all, ensuring quality care reaches the vulnerable too."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration policies that prioritise economic gain ignore human suffering and create divided societies; compassionate approaches build real sustainability."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems empower people with skills and support, sparking initiative instead of letting markets abandon the needy."
+                ],
+                [
+                    "___Claim___",
+                    "Government bureaucracies deliver fair safety nets that prevent collapse, while markets just exploit the poor for profit."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare only drives down costs for the rich, leaving everyone else without access and worsening inequality. Government intervention cuts waiting times by funding more services for all, ensuring quality care reaches the vulnerable too. Immigration policies that prioritise economic gain ignore human suffering and create divided societies; compassionate approaches build real sustainability. Welfare systems empower people with skills and support, sparking initiative instead of letting markets abandon the needy. Government bureaucracies deliver fair safety nets that prevent collapse, while markets just exploit the poor for profit.",
+            "timestamp": "2025-11-04 12:20:23"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private healthcare fosters competition, driving down costs and improving quality for everyone."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention creates long waiting times and reduces the quality of care."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration policies must prioritise economic contribution to ensure sustainability."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems can create dependency and stifle individual initiative."
+                ],
+                [
+                    "___Claim___",
+                    "Market mechanisms can provide safety nets more efficiently than government bureaucracies."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare fosters competition, driving down costs and improving quality for everyone. Government intervention creates long waiting times and reduces the quality of care. Immigration policies must prioritise economic contribution to ensure sustainability. Welfare systems can create dependency and stifle individual initiative. Market mechanisms can provide safety nets more efficiently than government bureaucracies.",
+            "timestamp": "2025-11-04 12:20:34"
+        },
+        {
+            "speaker": "grok-4_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private healthcare only drives down costs for the rich, leaving everyone else without access and worsening inequality."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention cuts waiting times by funding more services for all, ensuring quality care reaches the vulnerable too."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration policies that prioritise economic gain ignore human suffering and create divided societies; compassionate approaches build real sustainability."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems empower people with skills and support, sparking initiative instead of letting markets abandon the needy."
+                ],
+                [
+                    "___Claim___",
+                    "Government bureaucracies deliver fair safety nets that prevent collapse, while markets just exploit the poor for profit."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare only drives down costs for the rich, leaving everyone else without access and worsening inequality. Government intervention cuts waiting times by funding more services for all, ensuring quality care reaches the vulnerable too. Immigration policies that prioritise economic gain ignore human suffering and create divided societies; compassionate approaches build real sustainability. Welfare systems empower people with skills and support, sparking initiative instead of letting markets abandon the needy. Government bureaucracies deliver fair safety nets that prevent collapse, while markets just exploit the poor for profit.",
+            "timestamp": "2025-11-04 12:20:41"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private healthcare fosters competition, driving down costs and improving quality for everyone."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention creates long waiting times and reduces the quality of care."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration policies must prioritise economic contribution to ensure sustainability."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems can create dependency and stifle individual initiative."
+                ],
+                [
+                    "___Claim___",
+                    "Market mechanisms can provide safety nets more efficiently than government bureaucracies."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare fosters competition, driving down costs and improving quality for everyone. Government intervention creates long waiting times and reduces the quality of care. Immigration policies must prioritise economic contribution to ensure sustainability. Welfare systems can create dependency and stifle individual initiative. Market mechanisms can provide safety nets more efficiently than government bureaucracies.",
+            "timestamp": "2025-11-04 12:20:52"
+        },
+        {
+            "speaker": "grok-4_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private healthcare only drives down costs for the rich, leaving everyone else without access and worsening inequality."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention cuts waiting times by funding more services for all, ensuring quality care reaches the vulnerable too."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration policies that prioritise economic gain ignore human suffering and create divided societies; compassionate approaches build real sustainability."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems empower people with skills and support, sparking initiative instead of letting markets abandon the needy."
+                ],
+                [
+                    "___Claim___",
+                    "Government bureaucracies deliver fair safety nets that prevent collapse, while markets just exploit the poor for profit."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare only drives down costs for the rich, leaving everyone else without access and worsening inequality. Government intervention cuts waiting times by funding more services for all, ensuring quality care reaches the vulnerable too. Immigration policies that prioritise economic gain ignore human suffering and create divided societies; compassionate approaches build real sustainability. Welfare systems empower people with skills and support, sparking initiative instead of letting markets abandon the needy. Government bureaucracies deliver fair safety nets that prevent collapse, while markets just exploit the poor for profit.",
+            "timestamp": "2025-11-04 12:20:59"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private healthcare fosters competition, driving down costs and improving quality for everyone."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention creates long waiting times and reduces the quality of care."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration policies must prioritise economic contribution to ensure sustainability."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems can create dependency and stifle individual initiative."
+                ],
+                [
+                    "___Claim___",
+                    "Market mechanisms can provide safety nets more efficiently than government bureaucracies."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare fosters competition, driving down costs and improving quality for everyone. Government intervention creates long waiting times and reduces the quality of care. Immigration policies must prioritise economic contribution to ensure sustainability. Welfare systems can create dependency and stifle individual initiative. Market mechanisms can provide safety nets more efficiently than government bureaucracies.",
+            "timestamp": "2025-11-04 12:21:07"
+        },
+        {
+            "speaker": "grok-4_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private healthcare only drives down costs for the rich, leaving everyone else without access and worsening inequality."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention cuts waiting times by funding more services for all, ensuring quality care reaches the vulnerable too."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration policies that prioritise economic gain ignore human suffering and create divided societies; compassionate approaches build real sustainability."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems empower people with skills and support, sparking initiative instead of letting markets abandon the needy."
+                ],
+                [
+                    "___Claim___",
+                    "Government bureaucracies deliver fair safety nets that prevent collapse, while markets just exploit the poor for profit."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare only drives down costs for the rich, leaving everyone else without access and worsening inequality. Government intervention cuts waiting times by funding more services for all, ensuring quality care reaches the vulnerable too. Immigration policies that prioritise economic gain ignore human suffering and create divided societies; compassionate approaches build real sustainability. Welfare systems empower people with skills and support, sparking initiative instead of letting markets abandon the needy. Government bureaucracies deliver fair safety nets that prevent collapse, while markets just exploit the poor for profit.",
+            "timestamp": "2025-11-04 12:21:14"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private healthcare fosters competition, driving down costs and improving quality for everyone."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention creates long waiting times and reduces the quality of care."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration policies must prioritise economic contribution to ensure sustainability."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems can create dependency and stifle individual initiative."
+                ],
+                [
+                    "___Claim___",
+                    "Market mechanisms can provide safety nets more efficiently than government bureaucracies."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare fosters competition, driving down costs and improving quality for everyone. Government intervention creates long waiting times and reduces the quality of care. Immigration policies must prioritise economic contribution to ensure sustainability. Welfare systems can create dependency and stifle individual initiative. Market mechanisms can provide safety nets more efficiently than government bureaucracies.",
+            "timestamp": "2025-11-04 12:21:22"
+        },
+        {
+            "speaker": "grok-4_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private healthcare only drives down costs for the rich, leaving everyone else without access and worsening inequality."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention cuts waiting times by funding more services for all, ensuring quality care reaches the vulnerable too."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration policies that prioritise economic gain ignore human suffering and create divided societies; compassionate approaches build real sustainability."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems empower people with skills and support, sparking initiative instead of letting markets abandon the needy."
+                ],
+                [
+                    "___Claim___",
+                    "Government bureaucracies deliver fair safety nets that prevent collapse, while markets just exploit the poor for profit."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare only drives down costs for the rich, leaving everyone else without access and worsening inequality. Government intervention cuts waiting times by funding more services for all, ensuring quality care reaches the vulnerable too. Immigration policies that prioritise economic gain ignore human suffering and create divided societies; compassionate approaches build real sustainability. Welfare systems empower people with skills and support, sparking initiative instead of letting markets abandon the needy. Government bureaucracies deliver fair safety nets that prevent collapse, while markets just exploit the poor for profit.",
+            "timestamp": "2025-11-04 12:21:30"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private healthcare fosters competition, driving down costs and improving quality for everyone."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention creates long waiting times and reduces the quality of care."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration policies must prioritise economic contribution to ensure sustainability."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems can create dependency and stifle individual initiative."
+                ],
+                [
+                    "___Claim___",
+                    "Market mechanisms can provide safety nets more efficiently than government bureaucracies."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare fosters competition, driving down costs and improving quality for everyone. Government intervention creates long waiting times and reduces the quality of care. Immigration policies must prioritise economic contribution to ensure sustainability. Welfare systems can create dependency and stifle individual initiative. Market mechanisms can provide safety nets more efficiently than government bureaucracies.",
+            "timestamp": "2025-11-04 12:21:47"
+        },
+        {
+            "speaker": "grok-4_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private healthcare only drives down costs for the rich, leaving everyone else without access and worsening inequality."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention cuts waiting times by funding more services for all, ensuring quality care reaches the vulnerable too."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration policies that prioritise economic gain ignore human suffering and create divided societies; compassionate approaches build real sustainability."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems empower people with skills and support, sparking initiative instead of letting markets abandon the needy."
+                ],
+                [
+                    "___Claim___",
+                    "Government bureaucracies deliver fair safety nets that prevent collapse, while markets just exploit the poor for profit."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare only drives down costs for the rich, leaving everyone else without access and worsening inequality. Government intervention cuts waiting times by funding more services for all, ensuring quality care reaches the vulnerable too. Immigration policies that prioritise economic gain ignore human suffering and create divided societies; compassionate approaches build real sustainability. Welfare systems empower people with skills and support, sparking initiative instead of letting markets abandon the needy. Government bureaucracies deliver fair safety nets that prevent collapse, while markets just exploit the poor for profit.",
+            "timestamp": "2025-11-04 12:21:54"
+        }
+    ],
+    "winner": "None",
+    "loser": "None",
+    "reason_for_dialogue_termination": {
+        "reason": "Maximum number of dialogue turns reached (40 dialogue turns).",
+        "utterance_type": null,
+        "utterance": null
+    },
+    "human_model_name": "",
+    "human_model_temp": 0.0,
+    "human_model_top_p": 1.0,
+    "human_model_seed": 123,
+    "utterance_classification_approach": "single-classification",
+    "utterance_classification_number_of_classifications": 1,
+    "first_speaker_intermediate_generations": [],
+    "second_speaker_intermediate_generations": [],
+    "first_speaker_graph_rag_examples": [],
+    "second_speaker_graph_rag_examples": []
+}

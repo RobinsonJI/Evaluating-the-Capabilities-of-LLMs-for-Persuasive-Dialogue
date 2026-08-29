@@ -1,0 +1,1145 @@
+{
+    "loser": "None",
+    "winner": "None",
+    "session_id": "gpt-4o_base:l__vs__grok-4_base:r",
+    "debate_topic": "Debate the trade-offs of government intervention across a range of issues, including healthcare, immigration, and welfare.",
+    "next_speaker": "second_speaker",
+    "first_speaker": "gpt-4o_base",
+    "second_speaker": "grok-4_base",
+    "current_speaker": "first_speaker",
+    "dialogue_history": [
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-03 20:32:12",
+            "sentences_no_utterance_types": "Government intervention is essential in healthcare, immigration, and welfare to ensure fairness and protect the most vulnerable in society.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government intervention is essential in healthcare, immigration, and welfare to ensure fairness and protect the most vulnerable in society."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-4_base",
+            "timestamp": "2025-10-03 20:32:21",
+            "sentences_no_utterance_types": "Government intervention in healthcare, immigration, and welfare often creates inefficiencies and stifles individual initiative. Excessive state control leads to higher taxes and reduced personal freedoms without guaranteeing better outcomes. For instance, in healthcare, nationalised systems result in long waiting times and rationing. On immigration, heavy government involvement distorts labour markets and burdens public services. Welfare programs can trap people in dependency rather than encouraging self-reliance.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government intervention in healthcare, immigration, and welfare often creates inefficiencies and stifles individual initiative."
+                ],
+                [
+                    "___Claim___",
+                    "Excessive state control leads to higher taxes and reduced personal freedoms without guaranteeing better outcomes."
+                ],
+                [
+                    "___Claim___",
+                    "For instance, in healthcare, nationalised systems result in long waiting times and rationing."
+                ],
+                [
+                    "___Claim___",
+                    "On immigration, heavy government involvement distorts labour markets and burdens public services."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare programs can trap people in dependency rather than encouraging self-reliance."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-03 20:32:27",
+            "sentences_no_utterance_types": "Government intervention is not about stifling initiative or creating inefficiencies. It is about ensuring that everyone, regardless of their circumstances, has access to basic rights like healthcare, fair immigration policies, and welfare support. Nationalised healthcare systems may have waiting times, but they ensure that no one is denied treatment due to inability to pay. Immigration policies managed by the government can prevent exploitation and ensure fair opportunities for all workers. Welfare programs are designed to provide a safety net, helping people get back on their feet rather than leaving them to struggle alone.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government intervention is not about stifling initiative or creating inefficiencies."
+                ],
+                [
+                    "___Claim___",
+                    "It is about ensuring that everyone, regardless of their circumstances, has access to basic rights like healthcare, fair immigration policies, and welfare support."
+                ],
+                [
+                    "___Claim___",
+                    "Nationalised healthcare systems may have waiting times, but they ensure that no one is denied treatment due to inability to pay."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration policies managed by the government can prevent exploitation and ensure fair opportunities for all workers."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare programs are designed to provide a safety net, helping people get back on their feet rather than leaving them to struggle alone."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-4_base",
+            "timestamp": "2025-10-03 20:32:35",
+            "sentences_no_utterance_types": "Your view ignores the real costs of government intervention. In healthcare, those waiting times mean people suffer or die while the state bureaucracy expands. Government-managed immigration often leads to uncontrolled borders and strained resources, exploiting the system rather than workers. Welfare safety nets frequently create dependency cycles, discouraging work and innovation. True fairness comes from empowering individuals, not propping up inefficient state programs.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Your view ignores the real costs of government intervention."
+                ],
+                [
+                    "___Claim___",
+                    "In healthcare, those waiting times mean people suffer or die while the state bureaucracy expands."
+                ],
+                [
+                    "___Claim___",
+                    "Government-managed immigration often leads to uncontrolled borders and strained resources, exploiting the system rather than workers."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare safety nets frequently create dependency cycles, discouraging work and innovation."
+                ],
+                [
+                    "___Claim___",
+                    "True fairness comes from empowering individuals, not propping up inefficient state programs."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-03 20:32:41",
+            "sentences_no_utterance_types": "Waiting times in healthcare are a challenge, but they are not a result of government intervention itself. They stem from underfunding and mismanagement, which can be addressed without abandoning the principle of universal healthcare. Uncontrolled borders are not a product of government-managed immigration but rather a lack of effective policies and enforcement. Welfare systems do not inherently create dependency; they provide a lifeline for those in need and can be structured to encourage self-reliance through education and job training. Empowering individuals is important, but it requires a foundation of support that only government intervention can provide.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Waiting times in healthcare are a challenge, but they are not a result of government intervention itself."
+                ],
+                [
+                    "___Claim___",
+                    "They stem from underfunding and mismanagement, which can be addressed without abandoning the principle of universal healthcare."
+                ],
+                [
+                    "___Claim___",
+                    "Uncontrolled borders are not a product of government-managed immigration but rather a lack of effective policies and enforcement."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems do not inherently create dependency; they provide a lifeline for those in need and can be structured to encourage self-reliance through education and job training."
+                ],
+                [
+                    "___Claim___",
+                    "Empowering individuals is important, but it requires a foundation of support that only government intervention can provide."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-4_base",
+            "timestamp": "2025-10-03 20:32:49",
+            "sentences_no_utterance_types": "Underfunding and mismanagement are exactly what government intervention breeds in healthcare, as centralised control stifles innovation and efficiency that private options could deliver. Effective policies for immigration demand less bureaucracy, not more, to avoid the chaos of state overreach that overwhelms our borders and services. Welfare systems, no matter how they're structured, too often foster dependency by removing incentives for personal responsibility and hard work. True empowerment comes from reducing government interference, allowing individuals to thrive through their own efforts and market-driven opportunities. Relying on the state as a foundation just perpetuates the very problems you downplay.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Underfunding and mismanagement are exactly what government intervention breeds in healthcare, as centralised control stifles innovation and efficiency that private options could deliver."
+                ],
+                [
+                    "___Claim___",
+                    "Effective policies for immigration demand less bureaucracy, not more, to avoid the chaos of state overreach that overwhelms our borders and services."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems, no matter how they're structured, too often foster dependency by removing incentives for personal responsibility and hard work."
+                ],
+                [
+                    "___Claim___",
+                    "True empowerment comes from reducing government interference, allowing individuals to thrive through their own efforts and market-driven opportunities."
+                ],
+                [
+                    "___Claim___",
+                    "Relying on the state as a foundation just perpetuates the very problems you downplay."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-03 20:32:55",
+            "sentences_no_utterance_types": "Centralised control in healthcare does not inherently stifle innovation or efficiency. It ensures equitable access and can incorporate private sector innovations without sacrificing universal coverage. Immigration policies need effective management to balance resources and opportunities, not a reduction in oversight that leads to exploitation and inequality. Welfare systems can be designed to incentivise work and personal responsibility while still providing essential support for those in need. Market-driven opportunities alone cannot address systemic inequalities or protect the vulnerable, which is why government intervention remains crucial.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Centralised control in healthcare does not inherently stifle innovation or efficiency."
+                ],
+                [
+                    "___Claim___",
+                    "It ensures equitable access and can incorporate private sector innovations without sacrificing universal coverage."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration policies need effective management to balance resources and opportunities, not a reduction in oversight that leads to exploitation and inequality."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems can be designed to incentivise work and personal responsibility while still providing essential support for those in need."
+                ],
+                [
+                    "___Since___",
+                    "Market-driven opportunities alone cannot address systemic inequalities or protect the vulnerable, which is why government intervention remains crucial."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-4_base",
+            "timestamp": "2025-10-03 20:33:01",
+            "sentences_no_utterance_types": "Centralised control in healthcare inevitably leads to rationing and delays, even if it claims to incorporate private innovations, because the state can't match the pace of market-driven progress. Reducing oversight in immigration would cut through the red tape that currently overwhelms our systems and invites exploitation by failing to enforce real borders. Welfare designs that incentivise work sound good, but in practice, they still disincentivise effort by making state support too easy to rely on. Market-driven opportunities have lifted more people out of poverty than any government program, addressing inequalities through real choice and competition. Government intervention just entrenches the problems it pretends to solve, leaving the vulnerable worse off in the long run.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Centralised control in healthcare inevitably leads to rationing and delays, even if it claims to incorporate private innovations, because the state can't match the pace of market-driven progress."
+                ],
+                [
+                    "___Claim___",
+                    "Reducing oversight in immigration would cut through the red tape that currently overwhelms our systems and invites exploitation by failing to enforce real borders."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare designs that incentivise work sound good, but in practice, they still disincentivise effort by making state support too easy to rely on."
+                ],
+                [
+                    "___Claim___",
+                    "Market-driven opportunities have lifted more people out of poverty than any government program, addressing inequalities through real choice and competition."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention just entrenches the problems it pretends to solve, leaving the vulnerable worse off in the long run."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-03 20:33:07",
+            "sentences_no_utterance_types": "Rationing and delays in healthcare are not inevitable outcomes of centralised control. They are symptoms of underinvestment and can be mitigated by better funding and management while maintaining universal access. Cutting oversight in immigration does not solve exploitation; it creates a free-for-all that worsens inequality and strains resources. Welfare systems can be structured to balance support with incentives for work, ensuring people are helped without fostering dependency. Market-driven opportunities may lift some out of poverty, but they fail to address systemic barriers that government intervention is uniquely positioned to tackle.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Rationing and delays in healthcare are not inevitable outcomes of centralised control."
+                ],
+                [
+                    "___Claim___",
+                    "They are symptoms of underinvestment and can be mitigated by better funding and management while maintaining universal access."
+                ],
+                [
+                    "___Claim___",
+                    "Cutting oversight in immigration does not solve exploitation; it creates a free-for-all that worsens inequality and strains resources."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems can be structured to balance support with incentives for work, ensuring people are helped without fostering dependency."
+                ],
+                [
+                    "___Claim___",
+                    "Market-driven opportunities may lift some out of poverty, but they fail to address systemic barriers that government intervention is uniquely positioned to tackle."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-4_base",
+            "timestamp": "2025-10-03 20:33:15",
+            "sentences_no_utterance_types": "Underinvestment is baked into centralised healthcare because governments always promise more than they can deliver, leading to endless rationing no matter the funding. Less oversight in immigration would streamline processes and deter exploitation by enforcing clear rules without bureaucratic bloat that strains everything. Welfare incentives rarely work as intended; they just prolong dependency by making state handouts the easier path than self-reliance. Markets break down systemic barriers through innovation and choice, something government meddling only worsens by distorting incentives and creating more inequality. Your faith in state fixes overlooks how it perpetuates the very problems it claims to solve.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Underinvestment is baked into centralised healthcare because governments always promise more than they can deliver, leading to endless rationing no matter the funding."
+                ],
+                [
+                    "___Claim___",
+                    "Less oversight in immigration would streamline processes and deter exploitation by enforcing clear rules without bureaucratic bloat that strains everything."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare incentives rarely work as intended; they just prolong dependency by making state handouts the easier path than self-reliance."
+                ],
+                [
+                    "___Claim___",
+                    "Markets break down systemic barriers through innovation and choice, something government meddling only worsens by distorting incentives and creating more inequality."
+                ],
+                [
+                    "___Claim___",
+                    "Your faith in state fixes overlooks how it perpetuates the very problems it claims to solve."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-03 20:33:21",
+            "sentences_no_utterance_types": "Underinvestment in healthcare is not an inherent flaw of centralised systems; it is a political choice that can be reversed with proper prioritisation and funding. Reducing oversight in immigration does not deter exploitation; it opens the door to unchecked abuses and worsens inequality. Welfare systems can be designed to encourage self-reliance through targeted support and education, rather than leaving people to fend for themselves in a market that favours the privileged. Markets alone do not break down systemic barriers; they often reinforce them by prioritising profit over fairness. Government intervention is the only mechanism capable of addressing these inequalities and ensuring protection for the most vulnerable.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Underinvestment in healthcare is not an inherent flaw of centralised systems; it is a political choice that can be reversed with proper prioritisation and funding."
+                ],
+                [
+                    "___Claim___",
+                    "Reducing oversight in immigration does not deter exploitation; it opens the door to unchecked abuses and worsens inequality."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems can be designed to encourage self-reliance through targeted support and education, rather than leaving people to fend for themselves in a market that favours the privileged."
+                ],
+                [
+                    "___Claim___",
+                    "Markets alone do not break down systemic barriers; they often reinforce them by prioritising profit over fairness."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention is the only mechanism capable of addressing these inequalities and ensuring protection for the most vulnerable."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-4_base",
+            "timestamp": "2025-10-03 20:33:31",
+            "sentences_no_utterance_types": "Political choices in centralised healthcare always lead to underinvestment because governments juggle too many priorities and can't allocate resources as efficiently as markets. Reducing oversight in immigration would enforce real borders and cut exploitation by eliminating the bureaucratic mess that invites abuse and inequality. Welfare systems, even with targeted support, still trap people in dependency by undermining the drive for self-reliance that markets reward. Markets break down barriers through competition and innovation, creating opportunities for all, while government intervention reinforces privilege by favouring connected interests over true fairness. Your reliance on the state ignores how it fails the vulnerable by distorting the very systems that could empower them.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Political choices in centralised healthcare always lead to underinvestment because governments juggle too many priorities and can't allocate resources as efficiently as markets."
+                ],
+                [
+                    "___Claim___",
+                    "Reducing oversight in immigration would enforce real borders and cut exploitation by eliminating the bureaucratic mess that invites abuse and inequality."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems, even with targeted support, still trap people in dependency by undermining the drive for self-reliance that markets reward."
+                ],
+                [
+                    "___Claim___",
+                    "Markets break down barriers through competition and innovation, creating opportunities for all, while government intervention reinforces privilege by favouring connected interests over true fairness."
+                ],
+                [
+                    "___Claim___",
+                    "Your reliance on the state ignores how it fails the vulnerable by distorting the very systems that could empower them."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-03 20:33:36",
+            "sentences_no_utterance_types": "Governments can prioritise healthcare funding effectively when the political will exists, unlike markets that prioritise profit over equitable access. Reducing oversight in immigration does not enforce borders; it creates loopholes for exploitation and chaos. Welfare systems do not inherently trap people in dependency; they can be structured to provide education and job opportunities that foster self-reliance. Markets do not inherently break down barriers; they often entrench inequality by favouring those already advantaged. Government intervention is the only tool capable of addressing systemic inequalities and ensuring fairness for all.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Governments can prioritise healthcare funding effectively when the political will exists, unlike markets that prioritise profit over equitable access."
+                ],
+                [
+                    "___Claim___",
+                    "Reducing oversight in immigration does not enforce borders; it creates loopholes for exploitation and chaos."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems do not inherently trap people in dependency; they can be structured to provide education and job opportunities that foster self-reliance."
+                ],
+                [
+                    "___Claim___",
+                    "Markets do not inherently break down barriers; they often entrench inequality by favouring those already advantaged."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention is the only tool capable of addressing systemic inequalities and ensuring fairness for all."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-4_base",
+            "timestamp": "2025-10-03 20:33:43",
+            "sentences_no_utterance_types": "Political will in governments rarely delivers effective healthcare funding because it gets diluted by competing demands and inefficiency, while markets drive real innovation for better access. Reducing oversight in immigration would actually tighten borders by cutting the red tape that creates those loopholes and chaos you mention. Welfare systems, even with education add-ons, still breed dependency by making government support the default path over personal effort. Markets break down barriers by rewarding merit and creating opportunities for everyone, not just the advantaged, unlike state interventions that lock in inequalities through bureaucracy. Your trust in government as the sole fairness tool overlooks how it consistently fails to deliver on those promises.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Political will in governments rarely delivers effective healthcare funding because it gets diluted by competing demands and inefficiency, while markets drive real innovation for better access."
+                ],
+                [
+                    "___Claim___",
+                    "Reducing oversight in immigration would actually tighten borders by cutting the red tape that creates those loopholes and chaos you mention."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems, even with education add-ons, still breed dependency by making government support the default path over personal effort."
+                ],
+                [
+                    "___Claim___",
+                    "Markets break down barriers by rewarding merit and creating opportunities for everyone, not just the advantaged, unlike state interventions that lock in inequalities through bureaucracy."
+                ],
+                [
+                    "___Claim___",
+                    "Your trust in government as the sole fairness tool overlooks how it consistently fails to deliver on those promises."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-03 20:33:50",
+            "sentences_no_utterance_types": "Governments can deliver effective healthcare funding when they prioritise it, unlike markets that often exclude those who can't afford access. Reducing oversight in immigration does not tighten borders; it creates gaps that exploit workers and strain resources. Welfare systems can be structured to encourage personal effort while providing a safety net for those who need it most. Markets reward merit for those who already have advantages, leaving many behind and deepening inequality. Government intervention is essential to address these systemic failures and ensure fairness for everyone, not just the privileged few.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Governments can deliver effective healthcare funding when they prioritise it, unlike markets that often exclude those who can't afford access."
+                ],
+                [
+                    "___Claim___",
+                    "Reducing oversight in immigration does not tighten borders; it creates gaps that exploit workers and strain resources."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems can be structured to encourage personal effort while providing a safety net for those who need it most."
+                ],
+                [
+                    "___Claim___",
+                    "Markets reward merit for those who already have advantages, leaving many behind and deepening inequality."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention is essential to address these systemic failures and ensure fairness for everyone, not just the privileged few."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-4_base",
+            "timestamp": "2025-10-03 20:33:58",
+            "sentences_no_utterance_types": "Governments rarely prioritise healthcare funding effectively because political pressures always divert resources elsewhere, unlike markets that expand access through competition and innovation for all who contribute. Reducing oversight in immigration would eliminate the bureaucratic gaps that currently exploit workers and overwhelm resources with clearer, faster enforcement. Welfare systems, no matter how structured, undermine personal effort by offering a safety net that's too comfortable, trapping people in reliance on the state. Markets reward true merit and create ladders for everyone willing to climb, breaking inequality far better than government handouts that favour the connected. Your insistence on state intervention just props up failures that leave the vulnerable dependent and ignored.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Governments rarely prioritise healthcare funding effectively because political pressures always divert resources elsewhere, unlike markets that expand access through competition and innovation for all who contribute."
+                ],
+                [
+                    "___Claim___",
+                    "Reducing oversight in immigration would eliminate the bureaucratic gaps that currently exploit workers and overwhelm resources with clearer, faster enforcement."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems, no matter how structured, undermine personal effort by offering a safety net that's too comfortable, trapping people in reliance on the state."
+                ],
+                [
+                    "___Claim___",
+                    "Markets reward true merit and create ladders for everyone willing to climb, breaking inequality far better than government handouts that favour the connected."
+                ],
+                [
+                    "___Claim___",
+                    "Your insistence on state intervention just props up failures that leave the vulnerable dependent and ignored."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-03 20:34:04",
+            "sentences_no_utterance_types": "Political pressures divert resources because of misplaced priorities, not because governments are inherently inefficient. Markets do not expand access for all; they exclude those who cannot afford to contribute, leaving the most vulnerable behind. Reducing oversight in immigration does not eliminate exploitation; it creates a system where workers are left unprotected and resources are stretched thin. Welfare systems can be designed to encourage personal effort while still providing essential support, which markets fail to do. Government intervention is the only way to ensure fairness and protect those who would otherwise be ignored by profit-driven systems.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Political pressures divert resources because of misplaced priorities, not because governments are inherently inefficient."
+                ],
+                [
+                    "___Claim___",
+                    "Markets do not expand access for all; they exclude those who cannot afford to contribute, leaving the most vulnerable behind."
+                ],
+                [
+                    "___Claim___",
+                    "Reducing oversight in immigration does not eliminate exploitation; it creates a system where workers are left unprotected and resources are stretched thin."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems can be designed to encourage personal effort while still providing essential support, which markets fail to do."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention is the only way to ensure fairness and protect those who would otherwise be ignored by profit-driven systems."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-4_base",
+            "timestamp": "2025-10-03 20:34:10",
+            "sentences_no_utterance_types": "Misplaced priorities are the hallmark of government inefficiency, as politicians chase votes instead of delivering real results in healthcare. Markets expand access by driving down costs through competition, helping even the vulnerable afford better options without state handouts. Reducing oversight in immigration would cut the red tape that enables exploitation, enforcing strict borders to protect workers and resources properly. Welfare designs always fall short because they sap the motivation for personal effort that markets naturally foster. Government intervention doesn't ensure fairness; it just creates more dependency and ignores the profit-driven innovations that truly protect everyone.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Misplaced priorities are the hallmark of government inefficiency, as politicians chase votes instead of delivering real results in healthcare."
+                ],
+                [
+                    "___Since___",
+                    "Markets expand access by driving down costs through competition, helping even the vulnerable afford better options without state handouts."
+                ],
+                [
+                    "___Claim___",
+                    "Reducing oversight in immigration would cut the red tape that enables exploitation, enforcing strict borders to protect workers and resources properly."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare designs always fall short because they sap the motivation for personal effort that markets naturally foster."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention doesn't ensure fairness; it just creates more dependency and ignores the profit-driven innovations that truly protect everyone."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-03 20:34:15",
+            "sentences_no_utterance_types": "Politicians chasing votes is a symptom of flawed priorities, not an inherent inefficiency of government systems. Markets driving down costs often sacrifice quality and still exclude those who can't afford even the reduced prices. Reducing oversight in immigration doesn't enforce strict borders; it creates gaps that exploit workers and destabilise resources. Welfare systems can be designed to balance support with incentives for personal effort, which markets fail to achieve. Government intervention is the only way to ensure fairness and protect those who would otherwise be left behind by profit-driven systems.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Politicians chasing votes is a symptom of flawed priorities, not an inherent inefficiency of government systems."
+                ],
+                [
+                    "___Claim___",
+                    "Markets driving down costs often sacrifice quality and still exclude those who can't afford even the reduced prices."
+                ],
+                [
+                    "___Claim___",
+                    "Reducing oversight in immigration doesn't enforce strict borders; it creates gaps that exploit workers and destabilise resources."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems can be designed to balance support with incentives for personal effort, which markets fail to achieve."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention is the only way to ensure fairness and protect those who would otherwise be left behind by profit-driven systems."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-4_base",
+            "timestamp": "2025-10-03 20:34:24",
+            "sentences_no_utterance_types": "Flawed priorities are baked into government systems because politicians always chase votes over real efficiency in healthcare. Markets drive down costs without sacrificing quality, expanding access to even the lowest earners through innovation that governments can't match. Reducing oversight in immigration would slash the bureaucracy creating those gaps, enforcing strict borders to protect workers and stabilise resources. Welfare systems never truly balance support with incentives; they erode personal effort by making state reliance too appealing, unlike markets that reward hard work. Government intervention doesn't ensure fairness; it just perpetuates dependency and leaves the vulnerable worse off in profit-ignoring bureaucracies.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Flawed priorities are baked into government systems because politicians always chase votes over real efficiency in healthcare."
+                ],
+                [
+                    "___Claim___",
+                    "Markets drive down costs without sacrificing quality, expanding access to even the lowest earners through innovation that governments can't match."
+                ],
+                [
+                    "___Claim___",
+                    "Reducing oversight in immigration would slash the bureaucracy creating those gaps, enforcing strict borders to protect workers and stabilise resources."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems never truly balance support with incentives; they erode personal effort by making state reliance too appealing, unlike markets that reward hard work."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention doesn't ensure fairness; it just perpetuates dependency and leaves the vulnerable worse off in profit-ignoring bureaucracies."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-03 20:34:30",
+            "sentences_no_utterance_types": "Politicians chasing votes is a symptom of political pressures, not an inherent flaw in government systems. Markets driving down costs often compromise quality and still exclude those who can't afford even the lowest prices. Reducing oversight in immigration does not enforce strict borders; it creates loopholes that exploit workers and destabilise resources. Welfare systems can be structured to encourage personal effort while providing essential support, which markets fail to achieve. Government intervention is the only mechanism capable of addressing systemic inequalities and ensuring fairness for all.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Politicians chasing votes is a symptom of political pressures, not an inherent flaw in government systems."
+                ],
+                [
+                    "___Claim___",
+                    "Markets driving down costs often compromise quality and still exclude those who can't afford even the lowest prices."
+                ],
+                [
+                    "___Claim___",
+                    "Reducing oversight in immigration does not enforce strict borders; it creates loopholes that exploit workers and destabilise resources."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems can be structured to encourage personal effort while providing essential support, which markets fail to achieve."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention is the only mechanism capable of addressing systemic inequalities and ensuring fairness for all."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-4_base",
+            "timestamp": "2025-10-03 20:34:36",
+            "sentences_no_utterance_types": "Political pressures are exactly what make government systems inherently flawed, as they force inefficient resource allocation in healthcare that markets avoid through pure competition. Markets drive down costs while improving quality, providing affordable options that reach even the poorest without excluding them like state rationing does. Reducing oversight in immigration would close those loopholes by streamlining enforcement for strict borders that protect workers and resources from chaos. Welfare systems always fail to encourage real personal effort because they make dependency too easy, unlike markets that demand and reward hard work. Government intervention doesn't address inequalities; it deepens them by stifling the market innovations that truly ensure fairness for everyone.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Political pressures are exactly what make government systems inherently flawed, as they force inefficient resource allocation in healthcare that markets avoid through pure competition."
+                ],
+                [
+                    "___Claim___",
+                    "Markets drive down costs while improving quality, providing affordable options that reach even the poorest without excluding them like state rationing does."
+                ],
+                [
+                    "___Claim___",
+                    "Reducing oversight in immigration would close those loopholes by streamlining enforcement for strict borders that protect workers and resources from chaos."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems always fail to encourage real personal effort because they make dependency too easy, unlike markets that demand and reward hard work."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention doesn't address inequalities; it deepens them by stifling the market innovations that truly ensure fairness for everyone."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-03 20:34:42",
+            "sentences_no_utterance_types": "Political pressures do not make government systems inherently flawed; they highlight the need for better governance and accountability. Markets may drive down costs, but they often do so at the expense of quality and still exclude those who cannot afford even the cheapest options. Reducing oversight in immigration does not streamline enforcement; it creates gaps that exploit workers and destabilise resources. Welfare systems can be designed to encourage personal effort while providing essential support, which markets fail to achieve. Government intervention is the only mechanism capable of addressing systemic inequalities and ensuring fairness for all.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Political pressures do not make government systems inherently flawed; they highlight the need for better governance and accountability."
+                ],
+                [
+                    "___Claim___",
+                    "Markets may drive down costs, but they often do so at the expense of quality and still exclude those who cannot afford even the cheapest options."
+                ],
+                [
+                    "___Claim___",
+                    "Reducing oversight in immigration does not streamline enforcement; it creates gaps that exploit workers and destabilise resources."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems can be designed to encourage personal effort while providing essential support, which markets fail to achieve."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention is the only mechanism capable of addressing systemic inequalities and ensuring fairness for all."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-4_base",
+            "timestamp": "2025-10-03 20:34:48",
+            "sentences_no_utterance_types": "Political pressures expose the inherent flaws in government systems, as better governance is just a pipe dream amid constant vote-chasing that starves healthcare of real efficiency. Markets drive down costs while boosting quality through competition, offering affordable options that reach everyone without the exclusion of state rationing. Reducing oversight in immigration would streamline enforcement by slashing bureaucracy, closing gaps that exploit workers and stabilise resources with strict borders. Welfare systems never truly encourage personal effort; they foster dependency by making state support too tempting, unlike markets that reward hard work. Government intervention doesn't address inequalities; it worsens them by blocking market innovations that deliver true fairness for all.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Political pressures expose the inherent flaws in government systems, as better governance is just a pipe dream amid constant vote-chasing that starves healthcare of real efficiency."
+                ],
+                [
+                    "___Claim___",
+                    "Markets drive down costs while boosting quality through competition, offering affordable options that reach everyone without the exclusion of state rationing."
+                ],
+                [
+                    "___Since___",
+                    "Reducing oversight in immigration would streamline enforcement by slashing bureaucracy, closing gaps that exploit workers and stabilise resources with strict borders."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems never truly encourage personal effort; they foster dependency by making state support too tempting, unlike markets that reward hard work."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention doesn't address inequalities; it worsens them by blocking market innovations that deliver true fairness for all."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-03 20:34:54",
+            "sentences_no_utterance_types": "Political pressures do not expose inherent flaws in government systems. They highlight the need for prioritisation and accountability, which can be achieved with the right leadership. Markets may boost quality for those who can afford it, but they still leave the poorest excluded and vulnerable. Reducing oversight in immigration does not stabilise resources; it creates chaos and exploitation by removing necessary protections. Welfare systems can be structured to balance support with incentives for work, something markets fail to achieve while deepening inequality.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Political pressures do not expose inherent flaws in government systems."
+                ],
+                [
+                    "___Claim___",
+                    "They highlight the need for prioritisation and accountability, which can be achieved with the right leadership."
+                ],
+                [
+                    "___Claim___",
+                    "Markets may boost quality for those who can afford it, but they still leave the poorest excluded and vulnerable."
+                ],
+                [
+                    "___Claim___",
+                    "Reducing oversight in immigration does not stabilise resources; it creates chaos and exploitation by removing necessary protections."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems can be structured to balance support with incentives for work, something markets fail to achieve while deepening inequality."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-4_base",
+            "timestamp": "2025-10-03 20:35:03",
+            "sentences_no_utterance_types": "Political pressures always expose the inherent flaws in government systems, as no leadership can fix the core inefficiency that starves healthcare of real progress. Markets boost quality and affordability for everyone, including the poorest, through competition that governments can't replicate without excluding the vulnerable via rationing. Reducing oversight in immigration would stabilise resources by cutting bureaucracy that breeds chaos and exploitation, enforcing protections through streamlined borders. Welfare systems never balance support with real incentives; they deepen dependency and inequality, unlike markets that reward effort and lift people up. Your faith in government fixes just ignores how it fails the vulnerable while markets deliver true opportunity.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Political pressures always expose the inherent flaws in government systems, as no leadership can fix the core inefficiency that starves healthcare of real progress."
+                ],
+                [
+                    "___Claim___",
+                    "Markets boost quality and affordability for everyone, including the poorest, through competition that governments can't replicate without excluding the vulnerable via rationing."
+                ],
+                [
+                    "___Since___",
+                    "Reducing oversight in immigration would stabilise resources by cutting bureaucracy that breeds chaos and exploitation, enforcing protections through streamlined borders."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems never balance support with real incentives; they deepen dependency and inequality, unlike markets that reward effort and lift people up."
+                ],
+                [
+                    "___Claim___",
+                    "Your faith in government fixes just ignores how it fails the vulnerable while markets deliver true opportunity."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-03 20:35:08",
+            "sentences_no_utterance_types": "Political pressures do not expose inherent flaws in government systems. They show the need for better leadership and accountability, which can deliver progress in healthcare without excluding the vulnerable. Markets do not boost affordability for everyone; they prioritise profit, leaving the poorest behind. Reducing oversight in immigration does not stabilise resources. It creates exploitation and chaos by removing protections that only government policies can enforce effectively.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Political pressures do not expose inherent flaws in government systems."
+                ],
+                [
+                    "___Claim___",
+                    "They show the need for better leadership and accountability, which can deliver progress in healthcare without excluding the vulnerable."
+                ],
+                [
+                    "___Claim___",
+                    "Markets do not boost affordability for everyone; they prioritise profit, leaving the poorest behind."
+                ],
+                [
+                    "___Claim___",
+                    "Reducing oversight in immigration does not stabilise resources."
+                ],
+                [
+                    "___Claim___",
+                    "It creates exploitation and chaos by removing protections that only government policies can enforce effectively."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-4_base",
+            "timestamp": "2025-10-03 20:35:14",
+            "sentences_no_utterance_types": "Political pressures always expose the inherent flaws in government systems, as no amount of better leadership can overcome the inefficiency that hampers healthcare progress and excludes the vulnerable through rationing. Markets boost affordability for everyone by prioritising profit-driven innovation that lowers costs and reaches the poorest, unlike state systems that leave them waiting. Reducing oversight in immigration stabilises resources by slashing bureaucracy that causes chaos, enforcing protections through efficient borders that government overreach fails to deliver. Your belief in government policies ignores how they create the very exploitation they claim to prevent.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Political pressures always expose the inherent flaws in government systems, as no amount of better leadership can overcome the inefficiency that hampers healthcare progress and excludes the vulnerable through rationing."
+                ],
+                [
+                    "___Since___",
+                    "Markets boost affordability for everyone by prioritising profit-driven innovation that lowers costs and reaches the poorest, unlike state systems that leave them waiting."
+                ],
+                [
+                    "___Since___",
+                    "Reducing oversight in immigration stabilises resources by slashing bureaucracy that causes chaos, enforcing protections through efficient borders that government overreach fails to deliver."
+                ],
+                [
+                    "___Claim___",
+                    "Your belief in government policies ignores how they create the very exploitation they claim to prevent."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-03 20:35:19",
+            "sentences_no_utterance_types": "Political pressures do not expose inherent flaws in government systems. They highlight the need for prioritisation and accountability, which can overcome inefficiencies with the right governance. Markets prioritise profit over people, leaving the poorest unable to access affordable healthcare. Reducing oversight in immigration does not enforce protections; it removes safeguards and creates opportunities for exploitation. Government policies are the only way to ensure fairness and protect the vulnerable from systemic inequalities.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Political pressures do not expose inherent flaws in government systems."
+                ],
+                [
+                    "___Claim___",
+                    "They highlight the need for prioritisation and accountability, which can overcome inefficiencies with the right governance."
+                ],
+                [
+                    "___Claim___",
+                    "Markets prioritise profit over people, leaving the poorest unable to access affordable healthcare."
+                ],
+                [
+                    "___Claim___",
+                    "Reducing oversight in immigration does not enforce protections; it removes safeguards and creates opportunities for exploitation."
+                ],
+                [
+                    "___Claim___",
+                    "Government policies are the only way to ensure fairness and protect the vulnerable from systemic inequalities."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-4_base",
+            "timestamp": "2025-10-03 20:35:26",
+            "sentences_no_utterance_types": "Political pressures always expose the inherent flaws in government systems, as no governance can truly overcome the inefficiencies that plague healthcare. Markets prioritise profit to drive innovation that makes healthcare affordable for everyone, including the poorest, unlike state systems that ration care and leave people waiting. Reducing oversight in immigration enforces real protections by streamlining borders and cutting the bureaucracy that creates exploitation opportunities. Government policies don't ensure fairness; they entrench systemic inequalities by stifling market solutions that actually protect the vulnerable.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Political pressures always expose the inherent flaws in government systems, as no governance can truly overcome the inefficiencies that plague healthcare."
+                ],
+                [
+                    "___Claim___",
+                    "Markets prioritise profit to drive innovation that makes healthcare affordable for everyone, including the poorest, unlike state systems that ration care and leave people waiting."
+                ],
+                [
+                    "___Claim___",
+                    "Reducing oversight in immigration enforces real protections by streamlining borders and cutting the bureaucracy that creates exploitation opportunities."
+                ],
+                [
+                    "___Claim___",
+                    "Government policies don't ensure fairness; they entrench systemic inequalities by stifling market solutions that actually protect the vulnerable."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-03 20:35:32",
+            "sentences_no_utterance_types": "Political pressures do not expose inherent flaws in government systems. They highlight the need for better governance and prioritisation, which can deliver efficient healthcare without rationing or exclusion. Markets prioritise profit, which often leads to cutting corners and leaving the poorest without access to essential care. Reducing oversight in immigration does not enforce protections; it removes safeguards and creates exploitation opportunities. Government policies are the only way to address systemic inequalities and ensure fairness for all, especially the vulnerable.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Political pressures do not expose inherent flaws in government systems."
+                ],
+                [
+                    "___Claim___",
+                    "They highlight the need for better governance and prioritisation, which can deliver efficient healthcare without rationing or exclusion."
+                ],
+                [
+                    "___Claim___",
+                    "Markets prioritise profit, which often leads to cutting corners and leaving the poorest without access to essential care."
+                ],
+                [
+                    "___Claim___",
+                    "Reducing oversight in immigration does not enforce protections; it removes safeguards and creates exploitation opportunities."
+                ],
+                [
+                    "___Claim___",
+                    "Government policies are the only way to address systemic inequalities and ensure fairness for all, especially the vulnerable."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-4_base",
+            "timestamp": "2025-10-03 20:35:38",
+            "sentences_no_utterance_types": "Political pressures always expose the inherent flaws in government systems, as no better governance can fix the core inefficiencies that lead to rationing and exclusion in healthcare. Markets prioritise profit to fuel innovation that cuts costs and delivers quality care to everyone, including the poorest, without the failures of state control. Reducing oversight in immigration enforces real protections by streamlining borders and eliminating the bureaucratic loopholes that breed exploitation. Government policies don't address inequalities; they amplify them by blocking market solutions that truly ensure fairness for the vulnerable.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Political pressures always expose the inherent flaws in government systems, as no better governance can fix the core inefficiencies that lead to rationing and exclusion in healthcare."
+                ],
+                [
+                    "___Claim___",
+                    "Markets prioritise profit to fuel innovation that cuts costs and delivers quality care to everyone, including the poorest, without the failures of state control."
+                ],
+                [
+                    "___Claim___",
+                    "Reducing oversight in immigration enforces real protections by streamlining borders and eliminating the bureaucratic loopholes that breed exploitation."
+                ],
+                [
+                    "___Claim___",
+                    "Government policies don't address inequalities; they amplify them by blocking market solutions that truly ensure fairness for the vulnerable."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-03 20:35:44",
+            "sentences_no_utterance_types": "Political pressures do not expose inherent flaws in government systems. They show the need for better leadership and prioritisation, which can eliminate inefficiencies and ensure healthcare access without exclusion. Markets prioritise profit, which often results in cutting corners and leaving the poorest without adequate care. Reducing oversight in immigration does not enforce protections. It removes safeguards and creates opportunities for exploitation and resource strain, which only government policies can effectively address to ensure fairness and protect the vulnerable.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Political pressures do not expose inherent flaws in government systems."
+                ],
+                [
+                    "___Claim___",
+                    "They show the need for better leadership and prioritisation, which can eliminate inefficiencies and ensure healthcare access without exclusion."
+                ],
+                [
+                    "___Claim___",
+                    "Markets prioritise profit, which often results in cutting corners and leaving the poorest without adequate care."
+                ],
+                [
+                    "___Claim___",
+                    "Reducing oversight in immigration does not enforce protections."
+                ],
+                [
+                    "___Claim___",
+                    "It removes safeguards and creates opportunities for exploitation and resource strain, which only government policies can effectively address to ensure fairness and protect the vulnerable."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-4_base",
+            "timestamp": "2025-10-03 20:35:49",
+            "sentences_no_utterance_types": "Political pressures always expose the inherent flaws in government systems, as no better leadership can eliminate the inefficiencies that ration healthcare and exclude the vulnerable through endless waiting lists. Markets prioritise profit to spark innovation that cuts costs and delivers quality care to everyone, including the poorest, without the corner-cutting of underfunded state monopolies. Reducing oversight in immigration enforces real protections by streamlining borders and closing the bureaucratic gaps that breed exploitation and strain resources. Government policies don't address fairness; they create more dependency and inequality by blocking market-driven solutions that truly safeguard the vulnerable.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Political pressures always expose the inherent flaws in government systems, as no better leadership can eliminate the inefficiencies that ration healthcare and exclude the vulnerable through endless waiting lists."
+                ],
+                [
+                    "___Claim___",
+                    "Markets prioritise profit to spark innovation that cuts costs and delivers quality care to everyone, including the poorest, without the corner-cutting of underfunded state monopolies."
+                ],
+                [
+                    "___Claim___",
+                    "Reducing oversight in immigration enforces real protections by streamlining borders and closing the bureaucratic gaps that breed exploitation and strain resources."
+                ],
+                [
+                    "___Claim___",
+                    "Government policies don't address fairness; they create more dependency and inequality by blocking market-driven solutions that truly safeguard the vulnerable."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-03 20:35:55",
+            "sentences_no_utterance_types": "Political pressures do not expose inherent flaws in government systems. They highlight the need for prioritisation and accountability, which can eliminate inefficiencies and ensure healthcare access for all without exclusion. Markets prioritise profit, and while they may spark innovation, they often leave the poorest unable to afford care and deepen inequality. Reducing oversight in immigration does not enforce protections. It removes safeguards, creating exploitation and resource strain that only government policies can effectively address to protect the vulnerable and ensure fairness.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Political pressures do not expose inherent flaws in government systems."
+                ],
+                [
+                    "___Claim___",
+                    "They highlight the need for prioritisation and accountability, which can eliminate inefficiencies and ensure healthcare access for all without exclusion."
+                ],
+                [
+                    "___Claim___",
+                    "Markets prioritise profit, and while they may spark innovation, they often leave the poorest unable to afford care and deepen inequality."
+                ],
+                [
+                    "___Claim___",
+                    "Reducing oversight in immigration does not enforce protections."
+                ],
+                [
+                    "___Claim___",
+                    "It removes safeguards, creating exploitation and resource strain that only government policies can effectively address to protect the vulnerable and ensure fairness."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-4_base",
+            "timestamp": "2025-10-03 20:36:01",
+            "sentences_no_utterance_types": "Political pressures always expose the inherent flaws in government systems, as no amount of prioritisation or accountability can eliminate the inefficiencies that ration healthcare and exclude the vulnerable through waiting lists. Markets prioritise profit to drive innovation that makes care affordable for everyone, including the poorest, without deepening inequality like state failures do. Reducing oversight in immigration enforces real protections by streamlining borders and closing the gaps that create exploitation and strain resources. Government policies don't protect the vulnerable; they amplify problems by adding bureaucracy that markets solve through efficiency. Your reliance on state fixes just perpetuates the dependency that leaves people worse off.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Political pressures always expose the inherent flaws in government systems, as no amount of prioritisation or accountability can eliminate the inefficiencies that ration healthcare and exclude the vulnerable through waiting lists."
+                ],
+                [
+                    "___Claim___",
+                    "Markets prioritise profit to drive innovation that makes care affordable for everyone, including the poorest, without deepening inequality like state failures do."
+                ],
+                [
+                    "___Claim___",
+                    "Reducing oversight in immigration enforces real protections by streamlining borders and closing the gaps that create exploitation and strain resources."
+                ],
+                [
+                    "___Claim___",
+                    "Government policies don't protect the vulnerable; they amplify problems by adding bureaucracy that markets solve through efficiency."
+                ],
+                [
+                    "___Claim___",
+                    "Your reliance on state fixes just perpetuates the dependency that leaves people worse off."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-03 20:36:06",
+            "sentences_no_utterance_types": "Political pressures do not expose inherent flaws in government systems. They highlight the need for better leadership and prioritisation, which can eliminate inefficiencies and ensure healthcare access for all without exclusion. Markets prioritise profit, and while they may drive innovation, they often leave the poorest unable to afford care and deepen inequality. Reducing oversight in immigration does not enforce protections. It removes safeguards, creating exploitation and resource strain that only government policies can effectively address to protect the vulnerable and ensure fairness.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Political pressures do not expose inherent flaws in government systems."
+                ],
+                [
+                    "___Claim___",
+                    "They highlight the need for better leadership and prioritisation, which can eliminate inefficiencies and ensure healthcare access for all without exclusion."
+                ],
+                [
+                    "___Claim___",
+                    "Markets prioritise profit, and while they may drive innovation, they often leave the poorest unable to afford care and deepen inequality."
+                ],
+                [
+                    "___Claim___",
+                    "Reducing oversight in immigration does not enforce protections."
+                ],
+                [
+                    "___Claim___",
+                    "It removes safeguards, creating exploitation and resource strain that only government policies can effectively address to protect the vulnerable and ensure fairness."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-4_base",
+            "timestamp": "2025-10-03 20:36:13",
+            "sentences_no_utterance_types": "Political pressures always expose the inherent flaws in government systems, as no better leadership can eliminate the inefficiencies that ration healthcare and leave the vulnerable excluded. Markets drive innovation that makes care affordable for everyone, including the poorest, without deepening inequality like state failures do. Reducing oversight in immigration enforces real protections by streamlining borders and closing the gaps that create exploitation and strain resources. Government policies don't address fairness; they amplify problems by adding bureaucracy that markets solve through efficiency. Your reliance on state fixes just perpetuates the dependency that leaves people worse off.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Political pressures always expose the inherent flaws in government systems, as no better leadership can eliminate the inefficiencies that ration healthcare and leave the vulnerable excluded."
+                ],
+                [
+                    "___Claim___",
+                    "Markets drive innovation that makes care affordable for everyone, including the poorest, without deepening inequality like state failures do."
+                ],
+                [
+                    "___Claim___",
+                    "Reducing oversight in immigration enforces real protections by streamlining borders and closing the gaps that create exploitation and strain resources."
+                ],
+                [
+                    "___Claim___",
+                    "Government policies don't address fairness; they amplify problems by adding bureaucracy that markets solve through efficiency."
+                ],
+                [
+                    "___Claim___",
+                    "Your reliance on state fixes just perpetuates the dependency that leaves people worse off."
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-03 20:36:18",
+            "sentences_no_utterance_types": "Political pressures do not expose inherent flaws in government systems. They highlight the need for prioritisation and accountability, which can eliminate inefficiencies and ensure healthcare access for all without exclusion. Markets may drive innovation, but they often leave the poorest unable to afford care and deepen inequality. Reducing oversight in immigration does not enforce protections. It removes safeguards, creating exploitation and resource strain that only government policies can effectively address to protect the vulnerable and ensure fairness.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Political pressures do not expose inherent flaws in government systems."
+                ],
+                [
+                    "___Claim___",
+                    "They highlight the need for prioritisation and accountability, which can eliminate inefficiencies and ensure healthcare access for all without exclusion."
+                ],
+                [
+                    "___Claim___",
+                    "Markets may drive innovation, but they often leave the poorest unable to afford care and deepen inequality."
+                ],
+                [
+                    "___Claim___",
+                    "Reducing oversight in immigration does not enforce protections."
+                ],
+                [
+                    "___Claim___",
+                    "It removes safeguards, creating exploitation and resource strain that only government policies can effectively address to protect the vulnerable and ensure fairness."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-4_base",
+            "timestamp": "2025-10-03 20:36:25",
+            "sentences_no_utterance_types": "Political pressures always expose the inherent flaws in government systems, as no prioritisation or accountability can eliminate the inefficiencies that ration healthcare and exclude the vulnerable. Markets drive innovation that makes care affordable for everyone, including the poorest, without deepening inequality like state failures do. Reducing oversight in immigration enforces real protections by streamlining borders and closing the gaps that create exploitation and strain resources. Government policies don't address fairness; they amplify problems by adding bureaucracy that markets solve through efficiency. Your reliance on state fixes just perpetuates the dependency that leaves people worse off.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Political pressures always expose the inherent flaws in government systems, as no prioritisation or accountability can eliminate the inefficiencies that ration healthcare and exclude the vulnerable."
+                ],
+                [
+                    "___Claim___",
+                    "Markets drive innovation that makes care affordable for everyone, including the poorest, without deepening inequality like state failures do."
+                ],
+                [
+                    "___Claim___",
+                    "Reducing oversight in immigration enforces real protections by streamlining borders and closing the gaps that create exploitation and strain resources."
+                ],
+                [
+                    "___Claim___",
+                    "Government policies don't address fairness; they amplify problems by adding bureaucracy that markets solve through efficiency."
+                ],
+                [
+                    "___Claim___",
+                    "Your reliance on state fixes just perpetuates the dependency that leaves people worse off."
+                ]
+            ]
+        }
+    ],
+    "human_model_name": "",
+    "human_model_seed": 123,
+    "human_model_temp": 0.0,
+    "human_model_top_p": 1.0,
+    "first_speaker_type": "base",
+    "max_dialogue_turns": 40,
+    "second_speaker_type": "base",
+    "max_sentences_per_turn": 5,
+    "first_speaker_utterance": "",
+    "first_speaker_model_name": "gpt-4o",
+    "first_speaker_model_seed": 123,
+    "first_speaker_model_temp": 0.0,
+    "second_speaker_utterance": "Political pressures always expose the inherent flaws in government systems, as no prioritisation or accountability can eliminate the inefficiencies that ration healthcare and exclude the vulnerable. Markets drive innovation that makes care affordable for everyone, including the poorest, without deepening inequality like state failures do. Reducing oversight in immigration enforces real protections by streamlining borders and closing the gaps that create exploitation and strain resources. Government policies don't address fairness; they amplify problems by adding bureaucracy that markets solve through efficiency. Your reliance on state fixes just perpetuates the dependency that leaves people worse off.",
+    "first_speaker_commitments": [
+        "Government intervention is essential in healthcare, immigration, and welfare to ensure fairness and protect the most vulnerable in society.",
+        "Government intervention is not about stifling initiative or creating inefficiencies.",
+        "Waiting times in healthcare are a challenge, but they are not a result of government intervention itself.",
+        "Uncontrolled borders are not a product of government-managed immigration but rather a lack of effective policies and enforcement.",
+        "Welfare systems do not inherently create dependency; they provide a lifeline for those in need and can be structured to encourage self-reliance through education and job training.",
+        "It ensures equitable access and can incorporate private sector innovations without sacrificing universal coverage.",
+        "They are symptoms of underinvestment and can be mitigated by better funding and management while maintaining universal access.",
+        "Cutting oversight in immigration does not solve exploitation; it creates a free-for-all that worsens inequality and strains resources.",
+        "Markets alone do not break down systemic barriers; they often reinforce them by prioritising profit over fairness.",
+        "Political pressures divert resources because of misplaced priorities, not because governments are inherently inefficient.",
+        "Political pressures do not expose inherent flaws in government systems.",
+        "They highlight the need for prioritisation and accountability, which can be achieved with the right leadership."
+    ],
+    "first_speaker_model_top_p": 1.0,
+    "second_speaker_model_name": "grok-4",
+    "second_speaker_model_seed": 123,
+    "second_speaker_model_temp": 0.0,
+    "second_speaker_commitments": [
+        "Government intervention in healthcare, immigration, and welfare often creates inefficiencies and stifles individual initiative.",
+        "Your view ignores the real costs of government intervention.",
+        "Reducing oversight in immigration would close those loopholes by streamlining enforcement for strict borders that protect workers and resources from chaos."
+    ],
+    "second_speaker_model_top_p": 1.0,
+    "first_speaker_original_claim": "Government intervention is essential in healthcare, immigration, and welfare to ensure fairness and protect the most vulnerable in society.",
+    "second_speaker_original_claim": "Government intervention in healthcare, immigration, and welfare often creates inefficiencies and stifles individual initiative.",
+    "reason_for_dialogue_termination": {
+        "reason": "Maximum number of dialogue turns reached (40 dialogue turns).",
+        "utterance": null,
+        "utterance_type": null
+    },
+    "first_speaker_graph_rag_examples": [],
+    "second_speaker_graph_rag_examples": [],
+    "utterance_classification_approach": "single-classification",
+    "first_speaker_political_position_std": 10,
+    "second_speaker_political_position_std": 10,
+    "first_speaker_intermediate_generations": [],
+    "first_speaker_political_position_range": "20:40",
+    "second_speaker_intermediate_generations": [],
+    "second_speaker_political_position_range": "60:80",
+    "first_speaker_number_of_graph_rag_examples": 5,
+    "first_speaker_political_position_prob_of_na": 0.25,
+    "second_speaker_number_of_graph_rag_examples": 5,
+    "second_speaker_political_position_prob_of_na": 0.25,
+    "first_speaker_utterance_with_corresponding_types": [],
+    "first_speaker_number_of_vector_based_rag_examples": 100,
+    "second_speaker_utterance_with_corresponding_types": [
+        [
+            "___Since___",
+            "Political pressures always expose the inherent flaws in government systems, as no prioritisation or accountability can eliminate the inefficiencies that ration healthcare and exclude the vulnerable."
+        ],
+        [
+            "___Claim___",
+            "Markets drive innovation that makes care affordable for everyone, including the poorest, without deepening inequality like state failures do."
+        ],
+        [
+            "___Claim___",
+            "Reducing oversight in immigration enforces real protections by streamlining borders and closing the gaps that create exploitation and strain resources."
+        ],
+        [
+            "___Claim___",
+            "Government policies don't address fairness; they amplify problems by adding bureaucracy that markets solve through efficiency."
+        ],
+        [
+            "___Claim___",
+            "Your reliance on state fixes just perpetuates the dependency that leaves people worse off."
+        ]
+    ],
+    "second_speaker_number_of_vector_based_rag_examples": 100,
+    "utterance_classification_number_of_classifications": 1,
+    "first_speaker_knowledge_base_ensemble_or_model_name": "",
+    "second_speaker_knowledge_base_ensemble_or_model_name": ""
+}

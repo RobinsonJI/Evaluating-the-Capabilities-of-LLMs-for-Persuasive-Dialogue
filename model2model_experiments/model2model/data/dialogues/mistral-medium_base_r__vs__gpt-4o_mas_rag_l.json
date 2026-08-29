@@ -1,0 +1,1112 @@
+{
+    "dialogue_history": [
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government intervention in healthcare, immigration, and welfare often leads to inefficiencies and stifles individual responsibility."
+                ]
+            ],
+            "sentences_no_utterance_types": "Government intervention in healthcare, immigration, and welfare often leads to inefficiencies and stifles individual responsibility.",
+            "timestamp": "2025-10-08 19:25:41"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government intervention in healthcare ensures equitable access and prevents the exploitation of vulnerable individuals by profit-driven systems."
+                ],
+                [
+                    "___Why___",
+                    "Why should inefficiencies in government intervention outweigh the moral obligation to support vulnerable populations through welfare?"
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems supported by government intervention are essential to protect those in poverty and provide a safety net that private charity alone cannot sustain."
+                ],
+                [
+                    "___Question___",
+                    "How do you propose balancing individual responsibility with the need for equitable healthcare and immigration policies?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Government intervention in healthcare ensures equitable access and prevents the exploitation of vulnerable individuals by profit-driven systems. Why should inefficiencies in government intervention outweigh the moral obligation to support vulnerable populations through welfare? Welfare systems supported by government intervention are essential to protect those in poverty and provide a safety net that private charity alone cannot sustain. How do you propose balancing individual responsibility with the need for equitable healthcare and immigration policies?",
+            "timestamp": "2025-10-08 19:25:55"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Inefficiencies in government intervention are a significant concern because they often lead to wasted resources and bureaucratic red tape."
+                ],
+                [
+                    "___Claim___",
+                    "Private charity and individual responsibility can indeed provide a more efficient and personalised safety net."
+                ],
+                [
+                    "___Claim___",
+                    "Equitable healthcare can be achieved through market-driven solutions that encourage competition and innovation."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration policies should focus on attracting skilled workers who can contribute to the economy."
+                ],
+                [
+                    "___Claim___",
+                    "Balancing individual responsibility with equitable policies means empowering people to take control of their own lives rather than relying on government handouts."
+                ]
+            ],
+            "sentences_no_utterance_types": "Inefficiencies in government intervention are a significant concern because they often lead to wasted resources and bureaucratic red tape. Private charity and individual responsibility can indeed provide a more efficient and personalised safety net. Equitable healthcare can be achieved through market-driven solutions that encourage competition and innovation. Immigration policies should focus on attracting skilled workers who can contribute to the economy. Balancing individual responsibility with equitable policies means empowering people to take control of their own lives rather than relying on government handouts.",
+            "timestamp": "2025-10-08 19:26:03"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private charity and individual responsibility lack the scale and consistency to address systemic poverty effectively."
+                ],
+                [
+                    "___Claim___",
+                    "Relying solely on individual responsibility ignores the structural barriers that many face, which only government policies can effectively address."
+                ],
+                [
+                    "___Claim___",
+                    "Market-driven solutions prioritise profit over patient care, leaving the most vulnerable without access to essential services."
+                ],
+                [
+                    "___Claim___",
+                    "Empowering people to take control of their own lives is impossible without a robust safety net provided by government welfare systems."
+                ],
+                [
+                    "___Claim___",
+                    "Restricting immigration to skilled workers undermines the diversity and inclusivity that enrich society as a whole."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private charity and individual responsibility lack the scale and consistency to address systemic poverty effectively. Relying solely on individual responsibility ignores the structural barriers that many face, which only government policies can effectively address. Market-driven solutions prioritise profit over patient care, leaving the most vulnerable without access to essential services. Empowering people to take control of their own lives is impossible without a robust safety net provided by government welfare systems. Restricting immigration to skilled workers undermines the diversity and inclusivity that enrich society as a whole.",
+            "timestamp": "2025-10-08 19:26:43"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Private charity has historically played a significant role in addressing poverty and can be scaled up with the right incentives."
+                ],
+                [
+                    "___Claim___",
+                    "Structural barriers can be overcome through community initiatives and private sector innovation."
+                ],
+                [
+                    "___Claim___",
+                    "Market-driven solutions can balance profit with patient care through regulation and competition."
+                ],
+                [
+                    "___Claim___",
+                    "Empowering individuals is about providing opportunities, not just safety nets."
+                ],
+                [
+                    "___Claim___",
+                    "Diversity and inclusivity can be achieved through policies that attract a range of skilled workers."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private charity has historically played a significant role in addressing poverty and can be scaled up with the right incentives. Structural barriers can be overcome through community initiatives and private sector innovation. Market-driven solutions can balance profit with patient care through regulation and competition. Empowering individuals is about providing opportunities, not just safety nets. Diversity and inclusivity can be achieved through policies that attract a range of skilled workers.",
+            "timestamp": "2025-10-08 19:29:43"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "True inclusivity comes from embracing humanitarian values, not reducing immigration to a narrow economic calculation."
+                ],
+                [
+                    "___Claim___",
+                    "Patient care should never be subjected to the whims of profit-driven systems that inherently value financial gain over human wellbeing."
+                ],
+                [
+                    "___Claim___",
+                    "Structural barriers require government intervention to dismantle entrenched inequalities that community initiatives alone cannot address."
+                ],
+                [
+                    "___Claim___",
+                    "Empowering individuals requires both opportunities and safety nets to ensure no one is left behind in times of hardship."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention is the only way to ensure consistent and equitable support for those in poverty, unlike the sporadic nature of private charity."
+                ]
+            ],
+            "sentences_no_utterance_types": "True inclusivity comes from embracing humanitarian values, not reducing immigration to a narrow economic calculation. Patient care should never be subjected to the whims of profit-driven systems that inherently value financial gain over human wellbeing. Structural barriers require government intervention to dismantle entrenched inequalities that community initiatives alone cannot address. Empowering individuals requires both opportunities and safety nets to ensure no one is left behind in times of hardship. Government intervention is the only way to ensure consistent and equitable support for those in poverty, unlike the sporadic nature of private charity.",
+            "timestamp": "2025-10-08 19:30:23"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Humanitarian values can coexist with economic pragmatism in immigration policies."
+                ],
+                [
+                    "___Claim___",
+                    "Market-driven healthcare can be regulated to ensure patient care isn't compromised."
+                ],
+                [
+                    "___Claim___",
+                    "Community initiatives and private sector innovation can effectively tackle structural barriers."
+                ],
+                [
+                    "___Claim___",
+                    "Empowering individuals means focusing on opportunities rather than just safety nets."
+                ],
+                [
+                    "___Claim___",
+                    "Private charity, with proper incentives, can provide consistent support for those in poverty."
+                ]
+            ],
+            "sentences_no_utterance_types": "Humanitarian values can coexist with economic pragmatism in immigration policies. Market-driven healthcare can be regulated to ensure patient care isn't compromised. Community initiatives and private sector innovation can effectively tackle structural barriers. Empowering individuals means focusing on opportunities rather than just safety nets. Private charity, with proper incentives, can provide consistent support for those in poverty.",
+            "timestamp": "2025-10-08 19:31:01"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why should patient care be subjected to market forces when universal healthcare guarantees equitable access?"
+                ],
+                [
+                    "___Claim___",
+                    "Immigration policies focused on economic pragmatism fail to address the moral obligation to protect vulnerable individuals seeking refuge."
+                ],
+                [
+                    "___Claim___",
+                    "Structural barriers are deeply entrenched and require government intervention to dismantle them effectively."
+                ],
+                [
+                    "___Claim___",
+                    "Empowering individuals requires both opportunities and safety nets to ensure no one is left behind in times of hardship."
+                ],
+                [
+                    "___Claim___",
+                    "Market-driven healthcare inherently compromises patient care by valuing financial gain over equitable access."
+                ]
+            ],
+            "sentences_no_utterance_types": "Why should patient care be subjected to market forces when universal healthcare guarantees equitable access? Immigration policies focused on economic pragmatism fail to address the moral obligation to protect vulnerable individuals seeking refuge. Structural barriers are deeply entrenched and require government intervention to dismantle them effectively. Empowering individuals requires both opportunities and safety nets to ensure no one is left behind in times of hardship. Market-driven healthcare inherently compromises patient care by valuing financial gain over equitable access.",
+            "timestamp": "2025-10-08 19:31:37"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Market forces in healthcare can drive innovation and efficiency, ensuring high-quality care."
+                ],
+                [
+                    "___Since___",
+                    "Economic pragmatism in immigration can still uphold humanitarian values by focusing on skilled workers who contribute to society."
+                ],
+                [
+                    "___Since___",
+                    "Structural barriers can be tackled through community-driven solutions and private sector initiatives."
+                ],
+                [
+                    "___Claim___",
+                    "Empowering individuals means providing opportunities for self-sufficiency."
+                ],
+                [
+                    "___Since___",
+                    "Private charity, with the right incentives, can offer consistent support for those in need."
+                ]
+            ],
+            "sentences_no_utterance_types": "Market forces in healthcare can drive innovation and efficiency, ensuring high-quality care. Economic pragmatism in immigration can still uphold humanitarian values by focusing on skilled workers who contribute to society. Structural barriers can be tackled through community-driven solutions and private sector initiatives. Empowering individuals means providing opportunities for self-sufficiency. Private charity, with the right incentives, can offer consistent support for those in need.",
+            "timestamp": "2025-10-08 19:31:45"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government intervention is the only way to ensure equitable and sustained support for those in need."
+                ],
+                [
+                    "___Question___",
+                    "Why should the responsibility of supporting those in need fall on private charity rather than a guaranteed government safety net?"
+                ],
+                [
+                    "___Claim___",
+                    "Innovation and efficiency in healthcare should be driven by public investment, not profit-driven motives that compromise equitable access."
+                ],
+                [
+                    "___Claim___",
+                    "Empowering individuals requires both opportunities and safety nets to ensure no one is left behind in times of hardship."
+                ],
+                [
+                    "___Claim___",
+                    "Economic pragmatism in immigration often sacrifices humanitarian values by prioritising economic contributions over human dignity."
+                ]
+            ],
+            "sentences_no_utterance_types": "Government intervention is the only way to ensure equitable and sustained support for those in need. Why should the responsibility of supporting those in need fall on private charity rather than a guaranteed government safety net? Innovation and efficiency in healthcare should be driven by public investment, not profit-driven motives that compromise equitable access. Empowering individuals requires both opportunities and safety nets to ensure no one is left behind in times of hardship. Economic pragmatism in immigration often sacrifices humanitarian values by prioritising economic contributions over human dignity.",
+            "timestamp": "2025-10-08 19:32:22"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private charity can be more responsive and personalised than government programmes."
+                ],
+                [
+                    "___Claim___",
+                    "Market-driven healthcare can be regulated to ensure equitable access while driving innovation."
+                ],
+                [
+                    "___Claim___",
+                    "Community initiatives can provide safety nets without the inefficiencies of government bureaucracy."
+                ],
+                [
+                    "___Since___",
+                    "Immigration policies can balance economic needs with humanitarian values by focusing on skilled workers who contribute to society."
+                ],
+                [
+                    "___Claim___",
+                    "Empowering individuals means providing opportunities for self-sufficiency, not just safety nets."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private charity can be more responsive and personalised than government programmes. Market-driven healthcare can be regulated to ensure equitable access while driving innovation. Community initiatives can provide safety nets without the inefficiencies of government bureaucracy. Immigration policies can balance economic needs with humanitarian values by focusing on skilled workers who contribute to society. Empowering individuals means providing opportunities for self-sufficiency, not just safety nets.",
+            "timestamp": "2025-10-08 19:33:42"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government intervention is essential to address systemic issues that community initiatives alone cannot resolve."
+                ],
+                [
+                    "___Claim___",
+                    "Innovation in healthcare should be driven by public investment, not by market forces that inherently favour profitability over accessibility."
+                ],
+                [
+                    "___Question___",
+                    "Why should equitable access to healthcare depend on market-driven systems when universal healthcare guarantees it without profit motives?"
+                ],
+                [
+                    "___Claim___",
+                    "Empowering individuals requires both opportunities and safety nets to ensure no one is left behind in times of hardship."
+                ],
+                [
+                    "___Why___",
+                    "Why should immigration policies prioritise economic contributions over the moral obligation to protect vulnerable individuals?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Government intervention is essential to address systemic issues that community initiatives alone cannot resolve. Innovation in healthcare should be driven by public investment, not by market forces that inherently favour profitability over accessibility. Why should equitable access to healthcare depend on market-driven systems when universal healthcare guarantees it without profit motives? Empowering individuals requires both opportunities and safety nets to ensure no one is left behind in times of hardship. Why should immigration policies prioritise economic contributions over the moral obligation to protect vulnerable individuals?",
+            "timestamp": "2025-10-08 19:34:19"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Market-driven healthcare can be regulated to ensure accessibility while fostering innovation."
+                ],
+                [
+                    "___Claim___",
+                    "Community initiatives can address systemic issues more efficiently than government intervention."
+                ],
+                [
+                    "___Claim___",
+                    "Equitable access to healthcare can be achieved through competition and regulation in market-driven systems."
+                ],
+                [
+                    "___Claim___",
+                    "Empowering individuals means focusing on opportunities for self-sufficiency."
+                ],
+                [
+                    "___Since___",
+                    "Immigration policies can balance economic needs with humanitarian values by attracting skilled workers who contribute to society."
+                ]
+            ],
+            "sentences_no_utterance_types": "Market-driven healthcare can be regulated to ensure accessibility while fostering innovation. Community initiatives can address systemic issues more efficiently than government intervention. Equitable access to healthcare can be achieved through competition and regulation in market-driven systems. Empowering individuals means focusing on opportunities for self-sufficiency. Immigration policies can balance economic needs with humanitarian values by attracting skilled workers who contribute to society.",
+            "timestamp": "2025-10-08 19:36:45"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Balancing economic needs with humanitarian values requires broader immigration policies that welcome vulnerable individuals, not just those deemed economically beneficial."
+                ],
+                [
+                    "___Claim___",
+                    "Empowering individuals requires both opportunities and safety nets to ensure no one is left behind."
+                ],
+                [
+                    "___Why___",
+                    "Why should accessibility in healthcare depend on market-driven systems when universal healthcare guarantees it without profit motives?"
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention is necessary to address systemic issues that require coordinated and sustained efforts beyond the capacity of community initiatives."
+                ],
+                [
+                    "___Claim___",
+                    "True empowerment comes from collective support systems, not just individual self-reliance."
+                ]
+            ],
+            "sentences_no_utterance_types": "Balancing economic needs with humanitarian values requires broader immigration policies that welcome vulnerable individuals, not just those deemed economically beneficial. Empowering individuals requires both opportunities and safety nets to ensure no one is left behind. Why should accessibility in healthcare depend on market-driven systems when universal healthcare guarantees it without profit motives? Government intervention is necessary to address systemic issues that require coordinated and sustained efforts beyond the capacity of community initiatives. True empowerment comes from collective support systems, not just individual self-reliance.",
+            "timestamp": "2025-10-08 19:37:22"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Market-driven healthcare can ensure accessibility through regulated competition, fostering innovation without compromising care."
+                ],
+                [
+                    "___Claim___",
+                    "Community initiatives can effectively address systemic issues with greater efficiency and personalisation."
+                ],
+                [
+                    "___Claim___",
+                    "Empowering individuals means providing opportunities for self-sufficiency, not just relying on safety nets."
+                ],
+                [
+                    "___Since___",
+                    "Immigration policies can balance economic needs with humanitarian values by focusing on skilled workers who contribute to society."
+                ],
+                [
+                    "___Claim___",
+                    "Collective support systems can be enhanced through private sector innovation and community-driven solutions."
+                ]
+            ],
+            "sentences_no_utterance_types": "Market-driven healthcare can ensure accessibility through regulated competition, fostering innovation without compromising care. Community initiatives can effectively address systemic issues with greater efficiency and personalisation. Empowering individuals means providing opportunities for self-sufficiency, not just relying on safety nets. Immigration policies can balance economic needs with humanitarian values by focusing on skilled workers who contribute to society. Collective support systems can be enhanced through private sector innovation and community-driven solutions.",
+            "timestamp": "2025-10-08 19:37:30"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Focusing solely on skilled workers in immigration policies ignores the moral imperative to provide refuge to those fleeing persecution and hardship."
+                ],
+                [
+                    "___Question___",
+                    "Why should accessibility to healthcare depend on market-driven systems when universal healthcare can guarantee it without profit motives?"
+                ],
+                [
+                    "___Claim___",
+                    "Systemic issues demand sustained government intervention, which community initiatives alone cannot provide."
+                ],
+                [
+                    "___Question___",
+                    "Why should collective support systems rely on private sector innovation when government intervention ensures equitable and consistent support?"
+                ],
+                [
+                    "___Claim___",
+                    "Innovation in healthcare should be driven by public investment to ensure that advancements benefit everyone, not just those who can afford them."
+                ]
+            ],
+            "sentences_no_utterance_types": "Focusing solely on skilled workers in immigration policies ignores the moral imperative to provide refuge to those fleeing persecution and hardship. Why should accessibility to healthcare depend on market-driven systems when universal healthcare can guarantee it without profit motives? Systemic issues demand sustained government intervention, which community initiatives alone cannot provide. Why should collective support systems rely on private sector innovation when government intervention ensures equitable and consistent support? Innovation in healthcare should be driven by public investment to ensure that advancements benefit everyone, not just those who can afford them.",
+            "timestamp": "2025-10-08 19:38:09"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Market-driven healthcare can ensure accessibility through regulated competition, fostering innovation without compromising care."
+                ],
+                [
+                    "___Claim___",
+                    "Community initiatives can effectively address systemic issues with greater efficiency and personalisation."
+                ],
+                [
+                    "___Claim___",
+                    "Empowering individuals means providing opportunities for self-sufficiency, not just relying on safety nets."
+                ],
+                [
+                    "___Since___",
+                    "Immigration policies can balance economic needs with humanitarian values by focusing on skilled workers who contribute to society."
+                ],
+                [
+                    "___Claim___",
+                    "Collective support systems can be enhanced through private sector innovation and community-driven solutions."
+                ]
+            ],
+            "sentences_no_utterance_types": "Market-driven healthcare can ensure accessibility through regulated competition, fostering innovation without compromising care. Community initiatives can effectively address systemic issues with greater efficiency and personalisation. Empowering individuals means providing opportunities for self-sufficiency, not just relying on safety nets. Immigration policies can balance economic needs with humanitarian values by focusing on skilled workers who contribute to society. Collective support systems can be enhanced through private sector innovation and community-driven solutions.",
+            "timestamp": "2025-10-08 19:40:21"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Innovation in healthcare should be driven by public investment to ensure advancements benefit everyone, not just those who can afford them."
+                ],
+                [
+                    "___Claim___",
+                    "Empowering individuals requires both opportunities and safety nets to ensure no one is left behind."
+                ],
+                [
+                    "___Claim___",
+                    "Market-driven healthcare prioritises profit over accessibility, leaving vulnerable populations without adequate care."
+                ],
+                [
+                    "___Claim___",
+                    "Systemic issues demand coordinated government intervention that community initiatives simply cannot match in scale or consistency."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration policies centred on economic contributions fail to recognise the societal value of diversity and inclusivity."
+                ]
+            ],
+            "sentences_no_utterance_types": "Innovation in healthcare should be driven by public investment to ensure advancements benefit everyone, not just those who can afford them. Empowering individuals requires both opportunities and safety nets to ensure no one is left behind. Market-driven healthcare prioritises profit over accessibility, leaving vulnerable populations without adequate care. Systemic issues demand coordinated government intervention that community initiatives simply cannot match in scale or consistency. Immigration policies centred on economic contributions fail to recognise the societal value of diversity and inclusivity.",
+            "timestamp": "2025-10-08 19:40:59"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Market-driven healthcare can ensure accessibility through regulated competition, fostering innovation without compromising care."
+                ],
+                [
+                    "___Claim___",
+                    "Community initiatives can effectively address systemic issues with greater efficiency and personalisation."
+                ],
+                [
+                    "___Claim___",
+                    "Empowering individuals means providing opportunities for self-sufficiency, not just relying on safety nets."
+                ],
+                [
+                    "___Since___",
+                    "Immigration policies can balance economic needs with humanitarian values by focusing on skilled workers who contribute to society."
+                ],
+                [
+                    "___Claim___",
+                    "Collective support systems can be enhanced through private sector innovation and community-driven solutions."
+                ]
+            ],
+            "sentences_no_utterance_types": "Market-driven healthcare can ensure accessibility through regulated competition, fostering innovation without compromising care. Community initiatives can effectively address systemic issues with greater efficiency and personalisation. Empowering individuals means providing opportunities for self-sufficiency, not just relying on safety nets. Immigration policies can balance economic needs with humanitarian values by focusing on skilled workers who contribute to society. Collective support systems can be enhanced through private sector innovation and community-driven solutions.",
+            "timestamp": "2025-10-08 19:43:07"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Focusing immigration policies solely on skilled workers disregards the moral obligation to provide refuge to those fleeing persecution and hardship."
+                ],
+                [
+                    "___Claim___",
+                    "Innovation in healthcare should be driven by public investment to ensure advancements benefit everyone, not just those who can afford them."
+                ],
+                [
+                    "___Question___",
+                    "Why should accessibility to healthcare depend on market-driven systems when universal healthcare guarantees it without profit motives?"
+                ],
+                [
+                    "___Claim___",
+                    "Empowering individuals requires both opportunities and safety nets to ensure no one is left behind in times of hardship."
+                ],
+                [
+                    "___Claim___",
+                    "Government programmes provide the sustained and equitable support needed to tackle systemic issues, which community initiatives alone cannot achieve."
+                ]
+            ],
+            "sentences_no_utterance_types": "Focusing immigration policies solely on skilled workers disregards the moral obligation to provide refuge to those fleeing persecution and hardship. Innovation in healthcare should be driven by public investment to ensure advancements benefit everyone, not just those who can afford them. Why should accessibility to healthcare depend on market-driven systems when universal healthcare guarantees it without profit motives? Empowering individuals requires both opportunities and safety nets to ensure no one is left behind in times of hardship. Government programmes provide the sustained and equitable support needed to tackle systemic issues, which community initiatives alone cannot achieve.",
+            "timestamp": "2025-10-08 19:43:49"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Market-driven healthcare can ensure accessibility through regulated competition, fostering innovation without compromising care."
+                ],
+                [
+                    "___Claim___",
+                    "Community initiatives can effectively address systemic issues with greater efficiency and personalisation."
+                ],
+                [
+                    "___Claim___",
+                    "Empowering individuals means providing opportunities for self-sufficiency, not just relying on safety nets."
+                ],
+                [
+                    "___Since___",
+                    "Immigration policies can balance economic needs with humanitarian values by focusing on skilled workers who contribute to society."
+                ],
+                [
+                    "___Claim___",
+                    "Collective support systems can be enhanced through private sector innovation and community-driven solutions."
+                ]
+            ],
+            "sentences_no_utterance_types": "Market-driven healthcare can ensure accessibility through regulated competition, fostering innovation without compromising care. Community initiatives can effectively address systemic issues with greater efficiency and personalisation. Empowering individuals means providing opportunities for self-sufficiency, not just relying on safety nets. Immigration policies can balance economic needs with humanitarian values by focusing on skilled workers who contribute to society. Collective support systems can be enhanced through private sector innovation and community-driven solutions.",
+            "timestamp": "2025-10-08 19:46:13"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Focusing immigration policies solely on skilled workers disregards the moral obligation to provide refuge to those fleeing persecution and hardship."
+                ],
+                [
+                    "___Claim___",
+                    "Innovation in healthcare should be driven by public investment to ensure advancements benefit everyone, not just those who can afford them."
+                ],
+                [
+                    "___Question___",
+                    "Why should immigration policies prioritise skilled workers over providing refuge to vulnerable individuals fleeing persecution?"
+                ],
+                [
+                    "___Claim___",
+                    "True empowerment comes from collective support systems that provide safety nets alongside opportunities, not just individual self-reliance."
+                ],
+                [
+                    "___Claim___",
+                    "Systemic issues demand the scale and coordination that only government intervention can provide, which community initiatives cannot match."
+                ]
+            ],
+            "sentences_no_utterance_types": "Focusing immigration policies solely on skilled workers disregards the moral obligation to provide refuge to those fleeing persecution and hardship. Innovation in healthcare should be driven by public investment to ensure advancements benefit everyone, not just those who can afford them. Why should immigration policies prioritise skilled workers over providing refuge to vulnerable individuals fleeing persecution? True empowerment comes from collective support systems that provide safety nets alongside opportunities, not just individual self-reliance. Systemic issues demand the scale and coordination that only government intervention can provide, which community initiatives cannot match.",
+            "timestamp": "2025-10-08 19:46:50"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Market-driven healthcare can ensure accessibility through regulated competition, fostering innovation without compromising care."
+                ],
+                [
+                    "___Claim___",
+                    "Community initiatives can effectively address systemic issues with greater efficiency and personalisation."
+                ],
+                [
+                    "___Claim___",
+                    "Empowering individuals means providing opportunities for self-sufficiency, not just relying on safety nets."
+                ],
+                [
+                    "___Since___",
+                    "Immigration policies can balance economic needs with humanitarian values by focusing on skilled workers who contribute to society."
+                ],
+                [
+                    "___Claim___",
+                    "Collective support systems can be enhanced through private sector innovation and community-driven solutions."
+                ]
+            ],
+            "sentences_no_utterance_types": "Market-driven healthcare can ensure accessibility through regulated competition, fostering innovation without compromising care. Community initiatives can effectively address systemic issues with greater efficiency and personalisation. Empowering individuals means providing opportunities for self-sufficiency, not just relying on safety nets. Immigration policies can balance economic needs with humanitarian values by focusing on skilled workers who contribute to society. Collective support systems can be enhanced through private sector innovation and community-driven solutions.",
+            "timestamp": "2025-10-08 19:47:02"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "True empowerment comes from collective support systems that provide safety nets alongside opportunities, ensuring no one is left behind."
+                ],
+                [
+                    "___Claim___",
+                    "Innovation in healthcare should be driven by public investment to ensure advancements benefit everyone, not just those who can afford them."
+                ],
+                [
+                    "___Question___",
+                    "Why should accessibility to healthcare depend on market-driven systems when universal healthcare guarantees it without profit motives?"
+                ],
+                [
+                    "___Why___",
+                    "Why should community initiatives be expected to tackle systemic issues that require the scale and coordination only government intervention can provide?"
+                ],
+                [
+                    "___Why___",
+                    "Why should fostering innovation take precedence over ensuring equitable access to healthcare for all?"
+                ]
+            ],
+            "sentences_no_utterance_types": "True empowerment comes from collective support systems that provide safety nets alongside opportunities, ensuring no one is left behind. Innovation in healthcare should be driven by public investment to ensure advancements benefit everyone, not just those who can afford them. Why should accessibility to healthcare depend on market-driven systems when universal healthcare guarantees it without profit motives? Why should community initiatives be expected to tackle systemic issues that require the scale and coordination only government intervention can provide? Why should fostering innovation take precedence over ensuring equitable access to healthcare for all?",
+            "timestamp": "2025-10-08 19:47:40"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Market-driven healthcare can ensure accessibility through regulated competition, fostering innovation without compromising care."
+                ],
+                [
+                    "___Claim___",
+                    "Community initiatives can effectively address systemic issues with greater efficiency and personalisation."
+                ],
+                [
+                    "___Claim___",
+                    "Empowering individuals means providing opportunities for self-sufficiency, not just relying on safety nets."
+                ],
+                [
+                    "___Since___",
+                    "Immigration policies can balance economic needs with humanitarian values by focusing on skilled workers who contribute to society."
+                ],
+                [
+                    "___Claim___",
+                    "Collective support systems can be enhanced through private sector innovation and community-driven solutions."
+                ]
+            ],
+            "sentences_no_utterance_types": "Market-driven healthcare can ensure accessibility through regulated competition, fostering innovation without compromising care. Community initiatives can effectively address systemic issues with greater efficiency and personalisation. Empowering individuals means providing opportunities for self-sufficiency, not just relying on safety nets. Immigration policies can balance economic needs with humanitarian values by focusing on skilled workers who contribute to society. Collective support systems can be enhanced through private sector innovation and community-driven solutions.",
+            "timestamp": "2025-10-08 19:47:48"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "True empowerment comes from collective support systems that provide safety nets alongside opportunities, ensuring no one is left behind."
+                ],
+                [
+                    "___Claim___",
+                    "Innovation in healthcare should be driven by public investment to ensure advancements benefit everyone, not just those who can afford them."
+                ],
+                [
+                    "___Claim___",
+                    "Market-driven healthcare prioritises profit over accessibility, leaving vulnerable populations without adequate care."
+                ],
+                [
+                    "___Claim___",
+                    "Collective support systems require government intervention to ensure equitable and universal access, which private sector innovation cannot guarantee."
+                ],
+                [
+                    "___Claim___",
+                    "Systemic issues demand the scale and coordination that only government intervention can provide, which community initiatives cannot match."
+                ]
+            ],
+            "sentences_no_utterance_types": "True empowerment comes from collective support systems that provide safety nets alongside opportunities, ensuring no one is left behind. Innovation in healthcare should be driven by public investment to ensure advancements benefit everyone, not just those who can afford them. Market-driven healthcare prioritises profit over accessibility, leaving vulnerable populations without adequate care. Collective support systems require government intervention to ensure equitable and universal access, which private sector innovation cannot guarantee. Systemic issues demand the scale and coordination that only government intervention can provide, which community initiatives cannot match.",
+            "timestamp": "2025-10-08 19:48:21"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Market-driven healthcare can ensure accessibility through regulated competition, fostering innovation without compromising care."
+                ],
+                [
+                    "___Claim___",
+                    "Community initiatives can effectively address systemic issues with greater efficiency and personalisation."
+                ],
+                [
+                    "___Claim___",
+                    "Empowering individuals means providing opportunities for self-sufficiency, not just relying on safety nets."
+                ],
+                [
+                    "___Since___",
+                    "Immigration policies can balance economic needs with humanitarian values by focusing on skilled workers who contribute to society."
+                ],
+                [
+                    "___Claim___",
+                    "Collective support systems can be enhanced through private sector innovation and community-driven solutions."
+                ]
+            ],
+            "sentences_no_utterance_types": "Market-driven healthcare can ensure accessibility through regulated competition, fostering innovation without compromising care. Community initiatives can effectively address systemic issues with greater efficiency and personalisation. Empowering individuals means providing opportunities for self-sufficiency, not just relying on safety nets. Immigration policies can balance economic needs with humanitarian values by focusing on skilled workers who contribute to society. Collective support systems can be enhanced through private sector innovation and community-driven solutions.",
+            "timestamp": "2025-10-08 19:48:33"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "True empowerment comes from collective support systems that provide safety nets alongside opportunities, ensuring no one is left behind."
+                ],
+                [
+                    "___Claim___",
+                    "Innovation in healthcare should be driven by public investment to ensure advancements benefit everyone, not just those who can afford them."
+                ],
+                [
+                    "___Claim___",
+                    "Market-driven healthcare prioritises profit over accessibility, leaving vulnerable populations without adequate care."
+                ],
+                [
+                    "___Claim___",
+                    "Systemic issues demand the scale and coordination that only government intervention can provide, which community initiatives cannot match."
+                ],
+                [
+                    "___Claim___",
+                    "Focusing immigration policies on skilled workers alone neglects the moral duty to provide refuge to those fleeing persecution and hardship."
+                ]
+            ],
+            "sentences_no_utterance_types": "True empowerment comes from collective support systems that provide safety nets alongside opportunities, ensuring no one is left behind. Innovation in healthcare should be driven by public investment to ensure advancements benefit everyone, not just those who can afford them. Market-driven healthcare prioritises profit over accessibility, leaving vulnerable populations without adequate care. Systemic issues demand the scale and coordination that only government intervention can provide, which community initiatives cannot match. Focusing immigration policies on skilled workers alone neglects the moral duty to provide refuge to those fleeing persecution and hardship.",
+            "timestamp": "2025-10-08 19:49:12"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Market-driven healthcare can ensure accessibility through regulated competition, fostering innovation without compromising care."
+                ],
+                [
+                    "___Claim___",
+                    "Community initiatives can effectively address systemic issues with greater efficiency and personalisation."
+                ],
+                [
+                    "___Claim___",
+                    "Empowering individuals means providing opportunities for self-sufficiency, not just relying on safety nets."
+                ],
+                [
+                    "___Since___",
+                    "Immigration policies can balance economic needs with humanitarian values by focusing on skilled workers who contribute to society."
+                ],
+                [
+                    "___Claim___",
+                    "Collective support systems can be enhanced through private sector innovation and community-driven solutions."
+                ]
+            ],
+            "sentences_no_utterance_types": "Market-driven healthcare can ensure accessibility through regulated competition, fostering innovation without compromising care. Community initiatives can effectively address systemic issues with greater efficiency and personalisation. Empowering individuals means providing opportunities for self-sufficiency, not just relying on safety nets. Immigration policies can balance economic needs with humanitarian values by focusing on skilled workers who contribute to society. Collective support systems can be enhanced through private sector innovation and community-driven solutions.",
+            "timestamp": "2025-10-08 19:53:18"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "True empowerment comes from collective support systems that provide safety nets alongside opportunities, ensuring no one is left behind."
+                ],
+                [
+                    "___Why___",
+                    "Why should accessibility to healthcare depend on market-driven systems when universal healthcare guarantees it without profit motives?"
+                ],
+                [
+                    "___Claim___",
+                    "Market-driven healthcare prioritises profit over accessibility, leaving vulnerable populations without adequate care."
+                ],
+                [
+                    "___Claim___",
+                    "Systemic issues demand the scale and coordination that only government intervention can provide, which community initiatives cannot match."
+                ],
+                [
+                    "___Question___",
+                    "Why should accessibility to healthcare depend on market-driven systems when universal healthcare guarantees it without profit motives?"
+                ],
+                [
+                    "___Claim___",
+                    "Restricting immigration to skilled workers undermines the humanitarian obligation to protect vulnerable individuals seeking safety and a better life."
+                ]
+            ],
+            "sentences_no_utterance_types": "True empowerment comes from collective support systems that provide safety nets alongside opportunities, ensuring no one is left behind. Why should accessibility to healthcare depend on market-driven systems when universal healthcare guarantees it without profit motives? Market-driven healthcare prioritises profit over accessibility, leaving vulnerable populations without adequate care. Systemic issues demand the scale and coordination that only government intervention can provide, which community initiatives cannot match. Why should accessibility to healthcare depend on market-driven systems when universal healthcare guarantees it without profit motives? Restricting immigration to skilled workers undermines the humanitarian obligation to protect vulnerable individuals seeking safety and a better life.",
+            "timestamp": "2025-10-08 19:53:54"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Market-driven healthcare can ensure accessibility through regulated competition, fostering innovation without compromising care."
+                ],
+                [
+                    "___Claim___",
+                    "Community initiatives can effectively address systemic issues with greater efficiency and personalisation."
+                ],
+                [
+                    "___Claim___",
+                    "Empowering individuals means providing opportunities for self-sufficiency, not just relying on safety nets."
+                ],
+                [
+                    "___Since___",
+                    "Immigration policies can balance economic needs with humanitarian values by focusing on skilled workers who contribute to society."
+                ],
+                [
+                    "___Claim___",
+                    "Collective support systems can be enhanced through private sector innovation and community-driven solutions."
+                ]
+            ],
+            "sentences_no_utterance_types": "Market-driven healthcare can ensure accessibility through regulated competition, fostering innovation without compromising care. Community initiatives can effectively address systemic issues with greater efficiency and personalisation. Empowering individuals means providing opportunities for self-sufficiency, not just relying on safety nets. Immigration policies can balance economic needs with humanitarian values by focusing on skilled workers who contribute to society. Collective support systems can be enhanced through private sector innovation and community-driven solutions.",
+            "timestamp": "2025-10-08 19:55:15"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Innovation in healthcare should be driven by public investment to ensure advancements benefit everyone, not just those who can afford them."
+                ],
+                [
+                    "___Claim___",
+                    "Empowering individuals requires both opportunities and safety nets to ensure no one is left behind."
+                ],
+                [
+                    "___Claim___",
+                    "True empowerment comes from collective support systems that provide safety nets alongside opportunities, ensuring equitable access for all."
+                ],
+                [
+                    "___Claim___",
+                    "Restricting immigration to skilled workers undermines the humanitarian obligation to protect vulnerable individuals seeking safety and a better life."
+                ],
+                [
+                    "___Claim___",
+                    "Systemic issues demand the scale and coordination that only government intervention can provide, which community initiatives cannot match."
+                ]
+            ],
+            "sentences_no_utterance_types": "Innovation in healthcare should be driven by public investment to ensure advancements benefit everyone, not just those who can afford them. Empowering individuals requires both opportunities and safety nets to ensure no one is left behind. True empowerment comes from collective support systems that provide safety nets alongside opportunities, ensuring equitable access for all. Restricting immigration to skilled workers undermines the humanitarian obligation to protect vulnerable individuals seeking safety and a better life. Systemic issues demand the scale and coordination that only government intervention can provide, which community initiatives cannot match.",
+            "timestamp": "2025-10-08 19:55:52"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Market-driven healthcare can ensure accessibility through regulated competition, fostering innovation without compromising care."
+                ],
+                [
+                    "___Claim___",
+                    "Community initiatives can effectively address systemic issues with greater efficiency and personalisation."
+                ],
+                [
+                    "___Claim___",
+                    "Empowering individuals means providing opportunities for self-sufficiency, not just relying on safety nets."
+                ],
+                [
+                    "___Since___",
+                    "Immigration policies can balance economic needs with humanitarian values by focusing on skilled workers who contribute to society."
+                ],
+                [
+                    "___Claim___",
+                    "Collective support systems can be enhanced through private sector innovation and community-driven solutions."
+                ]
+            ],
+            "sentences_no_utterance_types": "Market-driven healthcare can ensure accessibility through regulated competition, fostering innovation without compromising care. Community initiatives can effectively address systemic issues with greater efficiency and personalisation. Empowering individuals means providing opportunities for self-sufficiency, not just relying on safety nets. Immigration policies can balance economic needs with humanitarian values by focusing on skilled workers who contribute to society. Collective support systems can be enhanced through private sector innovation and community-driven solutions.",
+            "timestamp": "2025-10-08 19:56:00"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "True empowerment comes from collective support systems that provide safety nets alongside opportunities, ensuring no one is left behind."
+                ],
+                [
+                    "___Claim___",
+                    "Innovation in healthcare should be driven by public investment to ensure advancements benefit everyone, not just those who can afford them."
+                ],
+                [
+                    "___Claim___",
+                    "Systemic issues require the scale and coordination that only government intervention can provide, which community initiatives cannot match."
+                ],
+                [
+                    "___Claim___",
+                    "Market-driven healthcare prioritises profit over accessibility, leaving vulnerable populations without adequate care."
+                ],
+                [
+                    "___Claim___",
+                    "Collective support systems require government intervention to ensure equitable and universal access, which private initiatives cannot guarantee."
+                ]
+            ],
+            "sentences_no_utterance_types": "True empowerment comes from collective support systems that provide safety nets alongside opportunities, ensuring no one is left behind. Innovation in healthcare should be driven by public investment to ensure advancements benefit everyone, not just those who can afford them. Systemic issues require the scale and coordination that only government intervention can provide, which community initiatives cannot match. Market-driven healthcare prioritises profit over accessibility, leaving vulnerable populations without adequate care. Collective support systems require government intervention to ensure equitable and universal access, which private initiatives cannot guarantee.",
+            "timestamp": "2025-10-08 19:56:39"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Market-driven healthcare can ensure accessibility through regulated competition, fostering innovation without compromising care."
+                ],
+                [
+                    "___Claim___",
+                    "Community initiatives can effectively address systemic issues with greater efficiency and personalisation."
+                ],
+                [
+                    "___Claim___",
+                    "Empowering individuals means providing opportunities for self-sufficiency, not just relying on safety nets."
+                ],
+                [
+                    "___Since___",
+                    "Immigration policies can balance economic needs with humanitarian values by focusing on skilled workers who contribute to society."
+                ],
+                [
+                    "___Claim___",
+                    "Collective support systems can be enhanced through private sector innovation and community-driven solutions."
+                ]
+            ],
+            "sentences_no_utterance_types": "Market-driven healthcare can ensure accessibility through regulated competition, fostering innovation without compromising care. Community initiatives can effectively address systemic issues with greater efficiency and personalisation. Empowering individuals means providing opportunities for self-sufficiency, not just relying on safety nets. Immigration policies can balance economic needs with humanitarian values by focusing on skilled workers who contribute to society. Collective support systems can be enhanced through private sector innovation and community-driven solutions.",
+            "timestamp": "2025-10-08 19:56:54"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "True empowerment comes from collective support systems that provide safety nets alongside opportunities, ensuring no one is left behind."
+                ],
+                [
+                    "___Why___",
+                    "Why should accessibility to healthcare depend on market-driven systems when universal healthcare guarantees it without profit motives?"
+                ],
+                [
+                    "___Claim___",
+                    "Market-driven healthcare prioritises profit over accessibility, leaving vulnerable populations without adequate care."
+                ],
+                [
+                    "___Question___",
+                    "Why should accessibility to healthcare depend on market-driven systems when universal healthcare guarantees it without profit motives?"
+                ],
+                [
+                    "___Claim___",
+                    "Systemic issues demand the scale and coordination that only government intervention can provide, which community initiatives cannot match."
+                ],
+                [
+                    "___Claim___",
+                    "Focusing immigration policies on skilled workers alone neglects the moral duty to provide refuge to those fleeing persecution and hardship."
+                ]
+            ],
+            "sentences_no_utterance_types": "True empowerment comes from collective support systems that provide safety nets alongside opportunities, ensuring no one is left behind. Why should accessibility to healthcare depend on market-driven systems when universal healthcare guarantees it without profit motives? Market-driven healthcare prioritises profit over accessibility, leaving vulnerable populations without adequate care. Why should accessibility to healthcare depend on market-driven systems when universal healthcare guarantees it without profit motives? Systemic issues demand the scale and coordination that only government intervention can provide, which community initiatives cannot match. Focusing immigration policies on skilled workers alone neglects the moral duty to provide refuge to those fleeing persecution and hardship.",
+            "timestamp": "2025-10-08 19:57:34"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Market-driven healthcare can ensure accessibility through regulated competition, fostering innovation without compromising care."
+                ],
+                [
+                    "___Claim___",
+                    "Community initiatives can effectively address systemic issues with greater efficiency and personalisation."
+                ],
+                [
+                    "___Claim___",
+                    "Empowering individuals means providing opportunities for self-sufficiency, not just relying on safety nets."
+                ],
+                [
+                    "___Since___",
+                    "Immigration policies can balance economic needs with humanitarian values by focusing on skilled workers who contribute to society."
+                ],
+                [
+                    "___Claim___",
+                    "Collective support systems can be enhanced through private sector innovation and community-driven solutions."
+                ]
+            ],
+            "sentences_no_utterance_types": "Market-driven healthcare can ensure accessibility through regulated competition, fostering innovation without compromising care. Community initiatives can effectively address systemic issues with greater efficiency and personalisation. Empowering individuals means providing opportunities for self-sufficiency, not just relying on safety nets. Immigration policies can balance economic needs with humanitarian values by focusing on skilled workers who contribute to society. Collective support systems can be enhanced through private sector innovation and community-driven solutions.",
+            "timestamp": "2025-10-08 19:59:42"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "True empowerment comes from collective support systems that provide safety nets alongside opportunities, ensuring no one is left behind."
+                ],
+                [
+                    "___Why___",
+                    "Why should accessibility to healthcare depend on market-driven systems when universal healthcare guarantees it without profit motives?"
+                ],
+                [
+                    "___Question___",
+                    "Why should accessibility to healthcare depend on market-driven systems when universal healthcare guarantees it without profit motives?"
+                ],
+                [
+                    "___Claim___",
+                    "Immigration policies centred on economic contributions fail to recognise the societal value of protecting vulnerable individuals seeking safety and a better life."
+                ],
+                [
+                    "___Why___",
+                    "Why should opportunities for self-sufficiency exclude the safety nets that ensure no one is left behind?"
+                ],
+                [
+                    "___Claim___",
+                    "Systemic issues demand the scale and coordination that only government intervention can provide, which community initiatives cannot match."
+                ]
+            ],
+            "sentences_no_utterance_types": "True empowerment comes from collective support systems that provide safety nets alongside opportunities, ensuring no one is left behind. Why should accessibility to healthcare depend on market-driven systems when universal healthcare guarantees it without profit motives? Why should accessibility to healthcare depend on market-driven systems when universal healthcare guarantees it without profit motives? Immigration policies centred on economic contributions fail to recognise the societal value of protecting vulnerable individuals seeking safety and a better life. Why should opportunities for self-sufficiency exclude the safety nets that ensure no one is left behind? Systemic issues demand the scale and coordination that only government intervention can provide, which community initiatives cannot match.",
+            "timestamp": "2025-10-08 20:00:21"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Market-driven healthcare can ensure accessibility through regulated competition, fostering innovation without compromising care."
+                ],
+                [
+                    "___Claim___",
+                    "Community initiatives can effectively address systemic issues with greater efficiency and personalisation."
+                ],
+                [
+                    "___Claim___",
+                    "Empowering individuals means providing opportunities for self-sufficiency, not just relying on safety nets."
+                ],
+                [
+                    "___Since___",
+                    "Immigration policies can balance economic needs with humanitarian values by focusing on skilled workers who contribute to society."
+                ],
+                [
+                    "___Claim___",
+                    "Collective support systems can be enhanced through private sector innovation and community-driven solutions."
+                ]
+            ],
+            "sentences_no_utterance_types": "Market-driven healthcare can ensure accessibility through regulated competition, fostering innovation without compromising care. Community initiatives can effectively address systemic issues with greater efficiency and personalisation. Empowering individuals means providing opportunities for self-sufficiency, not just relying on safety nets. Immigration policies can balance economic needs with humanitarian values by focusing on skilled workers who contribute to society. Collective support systems can be enhanced through private sector innovation and community-driven solutions.",
+            "timestamp": "2025-10-08 20:00:45"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "True empowerment comes from collective support systems that provide safety nets alongside opportunities, ensuring no one is left behind."
+                ],
+                [
+                    "___Claim___",
+                    "Innovation in healthcare should be driven by public investment to ensure advancements benefit everyone, not just those who can afford them."
+                ],
+                [
+                    "___Claim___",
+                    "Market-driven healthcare prioritises profit over accessibility, leaving vulnerable populations without adequate care."
+                ],
+                [
+                    "___Claim___",
+                    "Systemic issues demand the scale and coordination that only government intervention can provide, which community initiatives cannot match."
+                ],
+                [
+                    "___Claim___",
+                    "Focusing immigration policies on skilled workers alone neglects the moral duty to provide refuge to those fleeing persecution and hardship."
+                ]
+            ],
+            "sentences_no_utterance_types": "True empowerment comes from collective support systems that provide safety nets alongside opportunities, ensuring no one is left behind. Innovation in healthcare should be driven by public investment to ensure advancements benefit everyone, not just those who can afford them. Market-driven healthcare prioritises profit over accessibility, leaving vulnerable populations without adequate care. Systemic issues demand the scale and coordination that only government intervention can provide, which community initiatives cannot match. Focusing immigration policies on skilled workers alone neglects the moral duty to provide refuge to those fleeing persecution and hardship.",
+            "timestamp": "2025-10-08 20:01:24"
+        }
+    ],
+    "first_speaker": "mistral-medium_base",
+    "first_speaker_utterance": "",
+    "first_speaker_commitments": [
+        "Government intervention in healthcare, immigration, and welfare often leads to inefficiencies and stifles individual responsibility.",
+        "Private charity and individual responsibility can indeed provide a more efficient and personalised safety net.",
+        "Equitable healthcare can be achieved through market-driven solutions that encourage competition and innovation.",
+        "Immigration policies should focus on attracting skilled workers who can contribute to the economy.",
+        "Structural barriers can be overcome through community initiatives and private sector innovation.",
+        "Empowering individuals is about providing opportunities, not just safety nets.",
+        "Humanitarian values can coexist with economic pragmatism in immigration policies."
+    ],
+    "first_speaker_original_claim": "Government intervention in healthcare, immigration, and welfare often leads to inefficiencies and stifles individual responsibility.",
+    "first_speaker_typical_replies_for_second_speakers_response": [],
+    "second_speaker": "gpt-4o_mas_rag",
+    "second_speaker_utterance": "True empowerment comes from collective support systems that provide safety nets alongside opportunities, ensuring no one is left behind. Innovation in healthcare should be driven by public investment to ensure advancements benefit everyone, not just those who can afford them. Market-driven healthcare prioritises profit over accessibility, leaving vulnerable populations without adequate care. Systemic issues demand the scale and coordination that only government intervention can provide, which community initiatives cannot match. Focusing immigration policies on skilled workers alone neglects the moral duty to provide refuge to those fleeing persecution and hardship.",
+    "second_speaker_commitments": [
+        "Government intervention in healthcare ensures equitable access and prevents the exploitation of vulnerable individuals by profit-driven systems.",
+        "Welfare systems supported by government intervention are essential to protect those in poverty and provide a safety net that private charity alone cannot sustain.",
+        "Restricting immigration to skilled workers undermines the diversity and inclusivity that enrich society as a whole.",
+        "Structural barriers require government intervention to dismantle entrenched inequalities that community initiatives alone cannot address.",
+        "Empowering individuals requires both opportunities and safety nets to ensure no one is left behind in times of hardship.",
+        "Immigration policies focused on economic pragmatism fail to address the moral obligation to protect vulnerable individuals seeking refuge.",
+        "Innovation in healthcare should be driven by public investment, not by market forces that inherently favour profitability over accessibility.",
+        "True empowerment comes from collective support systems, not just individual self-reliance.",
+        "Restricting immigration to skilled workers undermines the humanitarian obligation to protect vulnerable individuals seeking safety and a better life."
+    ],
+    "second_speaker_original_claim": "Government intervention in healthcare ensures equitable access and prevents the exploitation of vulnerable individuals by profit-driven systems.",
+    "second_speaker_typical_replies_for_first_speakers_response": [],
+    "winner": "None",
+    "loser": "None",
+    "reason_for_dialogue_termination": {
+        "reason": "Maximum number of dialogue turns reached (40 dialogue turns).",
+        "utterance_type": null,
+        "utterance": null
+    },
+    "session_status": "Finished."
+}

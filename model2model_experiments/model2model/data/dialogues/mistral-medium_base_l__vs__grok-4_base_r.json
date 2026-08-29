@@ -1,0 +1,1154 @@
+{
+    "loser": "None",
+    "winner": "None",
+    "session_id": "mistral-medium_base:l__vs__grok-4_base:r",
+    "debate_topic": "Debate the trade-offs of government intervention across a range of issues, including healthcare, immigration, and welfare.",
+    "next_speaker": "second_speaker",
+    "first_speaker": "mistral-medium_base",
+    "second_speaker": "grok-4_base",
+    "current_speaker": "first_speaker",
+    "dialogue_history": [
+        {
+            "speaker": "mistral-medium_base",
+            "timestamp": "2025-10-04 02:23:24",
+            "sentences_no_utterance_types": "Government intervention in healthcare, immigration, and welfare is essential for maintaining social equity and protecting the vulnerable.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government intervention in healthcare, immigration, and welfare is essential for maintaining social equity and protecting the vulnerable."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-4_base",
+            "timestamp": "2025-10-04 02:23:34",
+            "sentences_no_utterance_types": "Government intervention in healthcare, immigration, and welfare often creates more problems than it solves. It leads to inefficiency, higher taxes, and dependency that stifles personal responsibility. In healthcare, state control results in long waiting times and rationing, as seen in the NHS. For immigration, heavy intervention distorts markets and burdens public services without clear benefits. Welfare systems discourage work and trap people in poverty cycles.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government intervention in healthcare, immigration, and welfare often creates more problems than it solves."
+                ],
+                [
+                    "___Claim___",
+                    "It leads to inefficiency, higher taxes, and dependency that stifles personal responsibility."
+                ],
+                [
+                    "___Claim___",
+                    "In healthcare, state control results in long waiting times and rationing, as seen in the NHS."
+                ],
+                [
+                    "___Claim___",
+                    "For immigration, heavy intervention distorts markets and burdens public services without clear benefits."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems discourage work and trap people in poverty cycles."
+                ]
+            ]
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "timestamp": "2025-10-04 02:23:48",
+            "sentences_no_utterance_types": "Your view overlooks the broader benefits of government intervention. In healthcare, the NHS provides universal access, ensuring no one is left untreated due to cost. For immigration, regulated policies protect workers and ensure fair wages. Welfare systems act as a safety net, preventing extreme poverty and supporting those in genuine need. Without these interventions, inequality would skyrocket, leaving the most vulnerable at risk.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Your view overlooks the broader benefits of government intervention."
+                ],
+                [
+                    "___Since___",
+                    "In healthcare, the NHS provides universal access, ensuring no one is left untreated due to cost."
+                ],
+                [
+                    "___Claim___",
+                    "For immigration, regulated policies protect workers and ensure fair wages."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems act as a safety net, preventing extreme poverty and supporting those in genuine need."
+                ],
+                [
+                    "___Claim___",
+                    "Without these interventions, inequality would skyrocket, leaving the most vulnerable at risk."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-4_base",
+            "timestamp": "2025-10-04 02:23:55",
+            "sentences_no_utterance_types": "Universal access in the NHS sounds good, but it comes at the cost of long waiting lists and subpar care that drives people to private options anyway. Regulated immigration policies often lead to skills shortages and higher unemployment among locals, not fair wages. Welfare safety nets create dependency, with many staying on benefits longer than necessary instead of seeking work. Without heavy intervention, markets would allocate resources more efficiently, reducing inequality through opportunity rather than handouts. Your points ignore how these systems strain the economy and limit personal freedom.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Universal access in the NHS sounds good, but it comes at the cost of long waiting lists and subpar care that drives people to private options anyway."
+                ],
+                [
+                    "___Claim___",
+                    "Regulated immigration policies often lead to skills shortages and higher unemployment among locals, not fair wages."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare safety nets create dependency, with many staying on benefits longer than necessary instead of seeking work."
+                ],
+                [
+                    "___Claim___",
+                    "Without heavy intervention, markets would allocate resources more efficiently, reducing inequality through opportunity rather than handouts."
+                ],
+                [
+                    "___Claim___",
+                    "Your points ignore how these systems strain the economy and limit personal freedom."
+                ]
+            ]
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "timestamp": "2025-10-04 02:24:03",
+            "sentences_no_utterance_types": "Long waiting lists in the NHS are a challenge, but they're a small price to pay for universal care. Regulated immigration policies protect local workers from exploitation. Welfare systems prevent extreme poverty and provide a safety net for those in need. Markets alone won't reduce inequality; they often exacerbate it. Government intervention is necessary to balance efficiency with equity.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Long waiting lists in the NHS are a challenge, but they're a small price to pay for universal care."
+                ],
+                [
+                    "___Claim___",
+                    "Regulated immigration policies protect local workers from exploitation."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems prevent extreme poverty and provide a safety net for those in need."
+                ],
+                [
+                    "___Claim___",
+                    "Markets alone won't reduce inequality; they often exacerbate it."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention is necessary to balance efficiency with equity."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-4_base",
+            "timestamp": "2025-10-04 02:24:11",
+            "sentences_no_utterance_types": "Long waiting lists in the NHS aren't a small price; they cause real suffering and push people to expensive private care, undermining the whole point of universal access. Regulated immigration policies actually drive up costs for public services and displace local workers, not protect them. Welfare systems trap people in dependency, discouraging self-reliance and bloating the budget. Markets reduce inequality by creating jobs and innovation, while government meddling distorts that and widens the gap through inefficiency. True equity comes from freedom and opportunity, not state control that hampers both.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Long waiting lists in the NHS aren't a small price; they cause real suffering and push people to expensive private care, undermining the whole point of universal access."
+                ],
+                [
+                    "___Claim___",
+                    "Regulated immigration policies actually drive up costs for public services and displace local workers, not protect them."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems trap people in dependency, discouraging self-reliance and bloating the budget."
+                ],
+                [
+                    "___Claim___",
+                    "Markets reduce inequality by creating jobs and innovation, while government meddling distorts that and widens the gap through inefficiency."
+                ],
+                [
+                    "___Claim___",
+                    "True equity comes from freedom and opportunity, not state control that hampers both."
+                ]
+            ]
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "timestamp": "2025-10-04 02:24:18",
+            "sentences_no_utterance_types": "The suffering caused by NHS waiting lists is outweighed by the benefits of universal care. Regulated immigration policies prevent exploitation and ensure fair wages for all workers. Welfare systems provide essential support for those in need, preventing extreme poverty. Markets alone won't reduce inequality; they often make it worse. Government intervention is crucial for balancing efficiency with equity.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The suffering caused by NHS waiting lists is outweighed by the benefits of universal care."
+                ],
+                [
+                    "___Claim___",
+                    "Regulated immigration policies prevent exploitation and ensure fair wages for all workers."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems provide essential support for those in need, preventing extreme poverty."
+                ],
+                [
+                    "___Claim___",
+                    "Markets alone won't reduce inequality; they often make it worse."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention is crucial for balancing efficiency with equity."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-4_base",
+            "timestamp": "2025-10-04 02:24:26",
+            "sentences_no_utterance_types": "NHS waiting lists cause unnecessary suffering and deaths, which no amount of universal care excuses. Regulated immigration policies exploit the system by overwhelming services and undercutting wages through cheap labour. Welfare systems foster dependency that keeps people poor, not lift them out. Markets drive down inequality by spurring growth and jobs, while government intervention inflates costs and stifles progress. Real balance comes from less state meddling, not more.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "NHS waiting lists cause unnecessary suffering and deaths, which no amount of universal care excuses."
+                ],
+                [
+                    "___Claim___",
+                    "Regulated immigration policies exploit the system by overwhelming services and undercutting wages through cheap labour."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems foster dependency that keeps people poor, not lift them out."
+                ],
+                [
+                    "___Claim___",
+                    "Markets drive down inequality by spurring growth and jobs, while government intervention inflates costs and stifles progress."
+                ],
+                [
+                    "___Claim___",
+                    "Real balance comes from less state meddling, not more."
+                ]
+            ]
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "timestamp": "2025-10-04 02:25:10",
+            "sentences_no_utterance_types": "NHS waiting lists are a challenge, but universal care saves countless lives. Regulated immigration policies protect workers and ensure fair wages. Welfare systems prevent extreme poverty and provide essential support. Markets alone won't reduce inequality; they often make it worse. Government intervention is necessary for balancing efficiency with equity.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "NHS waiting lists are a challenge, but universal care saves countless lives."
+                ],
+                [
+                    "___Claim___",
+                    "Regulated immigration policies protect workers and ensure fair wages."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems prevent extreme poverty and provide essential support."
+                ],
+                [
+                    "___Claim___",
+                    "Markets alone won't reduce inequality; they often make it worse."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention is necessary for balancing efficiency with equity."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-4_base",
+            "timestamp": "2025-10-04 02:25:17",
+            "sentences_no_utterance_types": "NHS waiting lists aren't just a challenge; they lead to preventable deaths and erode trust in the system, making universal care a flawed promise. Regulated immigration policies flood the market with low-skilled workers, driving down wages and straining resources for locals. Welfare systems create long-term dependency that traps people in poverty, not escape it. Markets reduce inequality by fostering innovation and jobs that lift everyone up. Government intervention distorts this balance, inflating costs and limiting real opportunities.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "NHS waiting lists aren't just a challenge; they lead to preventable deaths and erode trust in the system, making universal care a flawed promise."
+                ],
+                [
+                    "___Claim___",
+                    "Regulated immigration policies flood the market with low-skilled workers, driving down wages and straining resources for locals."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems create long-term dependency that traps people in poverty, not escape it."
+                ],
+                [
+                    "___Claim___",
+                    "Markets reduce inequality by fostering innovation and jobs that lift everyone up."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention distorts this balance, inflating costs and limiting real opportunities."
+                ]
+            ]
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "timestamp": "2025-10-04 02:25:34",
+            "sentences_no_utterance_types": "NHS waiting lists are a challenge, but universal care ensures everyone gets treatment regardless of income. Regulated immigration policies protect workers from exploitation and ensure fair wages. Welfare systems prevent extreme poverty and provide essential support for those in need. Markets alone won't reduce inequality; they often make it worse. Government intervention is necessary for balancing efficiency with equity.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "NHS waiting lists are a challenge, but universal care ensures everyone gets treatment regardless of income."
+                ],
+                [
+                    "___Claim___",
+                    "Regulated immigration policies protect workers from exploitation and ensure fair wages."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems prevent extreme poverty and provide essential support for those in need."
+                ],
+                [
+                    "___Claim___",
+                    "Markets alone won't reduce inequality; they often make it worse."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention is necessary for balancing efficiency with equity."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-4_base",
+            "timestamp": "2025-10-04 02:25:43",
+            "sentences_no_utterance_types": "NHS waiting lists are more than a challenge; they result in preventable deaths and push people to private care, defeating the purpose of universal access. Regulated immigration policies actually exploit the system by flooding the labour market with cheap workers, undercutting wages for locals. Welfare systems create dependency that keeps people trapped in poverty instead of encouraging self-sufficiency. Markets reduce inequality through innovation and job creation that benefits all, while government intervention distorts markets and widens gaps with inefficiency. True balance requires less state control to unleash real opportunities.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "NHS waiting lists are more than a challenge; they result in preventable deaths and push people to private care, defeating the purpose of universal access."
+                ],
+                [
+                    "___Claim___",
+                    "Regulated immigration policies actually exploit the system by flooding the labour market with cheap workers, undercutting wages for locals."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems create dependency that keeps people trapped in poverty instead of encouraging self-sufficiency."
+                ],
+                [
+                    "___Claim___",
+                    "Markets reduce inequality through innovation and job creation that benefits all, while government intervention distorts markets and widens gaps with inefficiency."
+                ],
+                [
+                    "___Claim___",
+                    "True balance requires less state control to unleash real opportunities."
+                ]
+            ]
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "timestamp": "2025-10-04 02:26:17",
+            "sentences_no_utterance_types": "Universal care through the NHS ensures that everyone, regardless of income, receives necessary treatment. Regulated immigration policies prevent exploitation and ensure fair wages for all workers. Welfare systems provide essential support, preventing extreme poverty. Markets alone won't reduce inequality; they often exacerbate it. Government intervention is crucial for balancing efficiency with equity.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Universal care through the NHS ensures that everyone, regardless of income, receives necessary treatment."
+                ],
+                [
+                    "___Claim___",
+                    "Regulated immigration policies prevent exploitation and ensure fair wages for all workers."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems provide essential support, preventing extreme poverty."
+                ],
+                [
+                    "___Claim___",
+                    "Markets alone won't reduce inequality; they often exacerbate it."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention is crucial for balancing efficiency with equity."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-4_base",
+            "timestamp": "2025-10-04 02:26:25",
+            "sentences_no_utterance_types": "Universal care through the NHS sounds ideal, yet it guarantees long waiting lists that delay critical treatments and cause avoidable harm. Regulated immigration policies overload public services and suppress wages by importing cheap labour, exploiting everyone involved. Welfare systems lock people into dependency, making it harder to break free from poverty. Markets cut inequality by sparking innovation and creating jobs that raise living standards for all. Government intervention throws off this balance, ramping up costs and curbing genuine progress.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Universal care through the NHS sounds ideal, yet it guarantees long waiting lists that delay critical treatments and cause avoidable harm."
+                ],
+                [
+                    "___Claim___",
+                    "Regulated immigration policies overload public services and suppress wages by importing cheap labour, exploiting everyone involved."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems lock people into dependency, making it harder to break free from poverty."
+                ],
+                [
+                    "___Claim___",
+                    "Markets cut inequality by sparking innovation and creating jobs that raise living standards for all."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention throws off this balance, ramping up costs and curbing genuine progress."
+                ]
+            ]
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "timestamp": "2025-10-04 02:26:33",
+            "sentences_no_utterance_types": "The NHS ensures everyone gets treatment, regardless of income. Regulated immigration policies protect workers from exploitation. Welfare systems prevent extreme poverty. Markets alone won't reduce inequality. Government intervention is crucial for balancing efficiency with equity.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The NHS ensures everyone gets treatment, regardless of income."
+                ],
+                [
+                    "___Claim___",
+                    "Regulated immigration policies protect workers from exploitation."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems prevent extreme poverty."
+                ],
+                [
+                    "___Claim___",
+                    "Markets alone won't reduce inequality."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention is crucial for balancing efficiency with equity."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-4_base",
+            "timestamp": "2025-10-04 02:26:40",
+            "sentences_no_utterance_types": "The NHS ensures treatment for everyone, yet it delivers endless waiting lists that delay life-saving care and cause real harm. Regulated immigration policies flood the job market with cheap labour, exploiting migrants and undercutting local wages. Welfare systems trap people in dependency, preventing them from escaping poverty through work. Markets reduce inequality by driving innovation and creating opportunities that lift standards for all. Government intervention disrupts this, inflating costs and blocking true equity.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The NHS ensures treatment for everyone, yet it delivers endless waiting lists that delay life-saving care and cause real harm."
+                ],
+                [
+                    "___Claim___",
+                    "Regulated immigration policies flood the job market with cheap labour, exploiting migrants and undercutting local wages."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems trap people in dependency, preventing them from escaping poverty through work."
+                ],
+                [
+                    "___Claim___",
+                    "Markets reduce inequality by driving innovation and creating opportunities that lift standards for all."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention disrupts this, inflating costs and blocking true equity."
+                ]
+            ]
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "timestamp": "2025-10-04 02:27:15",
+            "sentences_no_utterance_types": "The NHS ensures everyone gets treatment, regardless of income. Regulated immigration policies protect workers from exploitation. Welfare systems prevent extreme poverty. Markets alone won't reduce inequality. Government intervention is crucial for balancing efficiency with equity.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The NHS ensures everyone gets treatment, regardless of income."
+                ],
+                [
+                    "___Claim___",
+                    "Regulated immigration policies protect workers from exploitation."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems prevent extreme poverty."
+                ],
+                [
+                    "___Claim___",
+                    "Markets alone won't reduce inequality."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention is crucial for balancing efficiency with equity."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-4_base",
+            "timestamp": "2025-10-04 02:27:23",
+            "sentences_no_utterance_types": "The NHS ensures treatment for everyone, yet it forces endless waiting lists that delay urgent care and lead to needless suffering. Regulated immigration policies overwhelm public services and flood the market with cheap labour, exploiting migrants while undercutting local wages. Welfare systems trap people in dependency, making it tougher to escape poverty through real work. Markets reduce inequality by sparking innovation and jobs that raise living standards for all. Government intervention wrecks this balance, hiking costs and stifling true progress.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The NHS ensures treatment for everyone, yet it forces endless waiting lists that delay urgent care and lead to needless suffering."
+                ],
+                [
+                    "___Claim___",
+                    "Regulated immigration policies overwhelm public services and flood the market with cheap labour, exploiting migrants while undercutting local wages."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems trap people in dependency, making it tougher to escape poverty through real work."
+                ],
+                [
+                    "___Claim___",
+                    "Markets reduce inequality by sparking innovation and jobs that raise living standards for all."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention wrecks this balance, hiking costs and stifling true progress."
+                ]
+            ]
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "timestamp": "2025-10-04 02:27:37",
+            "sentences_no_utterance_types": "The NHS ensures everyone gets treatment, regardless of income. Regulated immigration policies protect workers from exploitation. Welfare systems prevent extreme poverty. Markets alone won't reduce inequality. Government intervention is crucial for balancing efficiency with equity.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The NHS ensures everyone gets treatment, regardless of income."
+                ],
+                [
+                    "___Claim___",
+                    "Regulated immigration policies protect workers from exploitation."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems prevent extreme poverty."
+                ],
+                [
+                    "___Claim___",
+                    "Markets alone won't reduce inequality."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention is crucial for balancing efficiency with equity."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-4_base",
+            "timestamp": "2025-10-04 02:27:48",
+            "sentences_no_utterance_types": "The NHS ensures treatment for everyone, yet it imposes endless waiting lists that delay urgent care and cause needless suffering. Regulated immigration policies overwhelm public services and flood the market with cheap labour, exploiting migrants while undercutting local wages. Welfare systems trap people in dependency, making it harder to escape poverty through work. Markets reduce inequality by driving innovation and creating jobs that raise living standards for all. Government intervention disrupts this balance, inflating costs and blocking true equity.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The NHS ensures treatment for everyone, yet it imposes endless waiting lists that delay urgent care and cause needless suffering."
+                ],
+                [
+                    "___Claim___",
+                    "Regulated immigration policies overwhelm public services and flood the market with cheap labour, exploiting migrants while undercutting local wages."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems trap people in dependency, making it harder to escape poverty through work."
+                ],
+                [
+                    "___Claim___",
+                    "Markets reduce inequality by driving innovation and creating jobs that raise living standards for all."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention disrupts this balance, inflating costs and blocking true equity."
+                ]
+            ]
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "timestamp": "2025-10-04 02:28:15",
+            "sentences_no_utterance_types": "The NHS ensures everyone gets treatment, regardless of income. Regulated immigration policies protect workers from exploitation. Welfare systems prevent extreme poverty. Markets alone won't reduce inequality. Government intervention is crucial for balancing efficiency with equity.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The NHS ensures everyone gets treatment, regardless of income."
+                ],
+                [
+                    "___Claim___",
+                    "Regulated immigration policies protect workers from exploitation."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems prevent extreme poverty."
+                ],
+                [
+                    "___Claim___",
+                    "Markets alone won't reduce inequality."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention is crucial for balancing efficiency with equity."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-4_base",
+            "timestamp": "2025-10-04 02:28:23",
+            "sentences_no_utterance_types": "The NHS ensures treatment for everyone, yet it forces endless waiting lists that delay urgent care and cause needless suffering. Regulated immigration policies overwhelm public services and flood the market with cheap labour, exploiting migrants while undercutting local wages. Welfare systems trap people in dependency, making it harder to escape poverty through work. Markets reduce inequality by driving innovation and creating jobs that raise living standards for all. Government intervention disrupts this balance, inflating costs and blocking true equity.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The NHS ensures treatment for everyone, yet it forces endless waiting lists that delay urgent care and cause needless suffering."
+                ],
+                [
+                    "___Claim___",
+                    "Regulated immigration policies overwhelm public services and flood the market with cheap labour, exploiting migrants while undercutting local wages."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems trap people in dependency, making it harder to escape poverty through work."
+                ],
+                [
+                    "___Claim___",
+                    "Markets reduce inequality by driving innovation and creating jobs that raise living standards for all."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention disrupts this balance, inflating costs and blocking true equity."
+                ]
+            ]
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "timestamp": "2025-10-04 02:28:30",
+            "sentences_no_utterance_types": "The NHS ensures everyone gets treatment, regardless of income. Regulated immigration policies protect workers from exploitation. Welfare systems prevent extreme poverty. Markets alone won't reduce inequality. Government intervention is crucial for balancing efficiency with equity.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The NHS ensures everyone gets treatment, regardless of income."
+                ],
+                [
+                    "___Claim___",
+                    "Regulated immigration policies protect workers from exploitation."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems prevent extreme poverty."
+                ],
+                [
+                    "___Claim___",
+                    "Markets alone won't reduce inequality."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention is crucial for balancing efficiency with equity."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-4_base",
+            "timestamp": "2025-10-04 02:28:38",
+            "sentences_no_utterance_types": "The NHS ensures treatment for everyone, yet it forces endless waiting lists that delay urgent care and cause needless suffering. Regulated immigration policies overwhelm public services and flood the market with cheap labour, exploiting migrants while undercutting local wages. Welfare systems trap people in dependency, making it harder to escape poverty through work. Markets reduce inequality by driving innovation and creating jobs that raise living standards for all. Government intervention disrupts this balance, inflating costs and blocking true equity.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The NHS ensures treatment for everyone, yet it forces endless waiting lists that delay urgent care and cause needless suffering."
+                ],
+                [
+                    "___Claim___",
+                    "Regulated immigration policies overwhelm public services and flood the market with cheap labour, exploiting migrants while undercutting local wages."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems trap people in dependency, making it harder to escape poverty through work."
+                ],
+                [
+                    "___Claim___",
+                    "Markets reduce inequality by driving innovation and creating jobs that raise living standards for all."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention disrupts this balance, inflating costs and blocking true equity."
+                ]
+            ]
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "timestamp": "2025-10-04 02:28:45",
+            "sentences_no_utterance_types": "The NHS ensures everyone gets treatment, regardless of income. Regulated immigration policies protect workers from exploitation. Welfare systems prevent extreme poverty. Markets alone won't reduce inequality. Government intervention is crucial for balancing efficiency with equity.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The NHS ensures everyone gets treatment, regardless of income."
+                ],
+                [
+                    "___Claim___",
+                    "Regulated immigration policies protect workers from exploitation."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems prevent extreme poverty."
+                ],
+                [
+                    "___Claim___",
+                    "Markets alone won't reduce inequality."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention is crucial for balancing efficiency with equity."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-4_base",
+            "timestamp": "2025-10-04 02:28:53",
+            "sentences_no_utterance_types": "The NHS ensures treatment for everyone, yet it forces endless waiting lists that delay urgent care and cause needless suffering. Regulated immigration policies overwhelm public services and flood the market with cheap labour, exploiting migrants while undercutting local wages. Welfare systems trap people in dependency, making it harder to escape poverty through work. Markets reduce inequality by driving innovation and creating jobs that raise living standards for all. Government intervention disrupts this balance, inflating costs and blocking true equity.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The NHS ensures treatment for everyone, yet it forces endless waiting lists that delay urgent care and cause needless suffering."
+                ],
+                [
+                    "___Claim___",
+                    "Regulated immigration policies overwhelm public services and flood the market with cheap labour, exploiting migrants while undercutting local wages."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems trap people in dependency, making it harder to escape poverty through work."
+                ],
+                [
+                    "___Claim___",
+                    "Markets reduce inequality by driving innovation and creating jobs that raise living standards for all."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention disrupts this balance, inflating costs and blocking true equity."
+                ]
+            ]
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "timestamp": "2025-10-04 02:29:22",
+            "sentences_no_utterance_types": "The NHS ensures everyone gets treatment, regardless of income. Regulated immigration policies protect workers from exploitation. Welfare systems prevent extreme poverty. Markets alone won't reduce inequality. Government intervention is crucial for balancing efficiency with equity.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The NHS ensures everyone gets treatment, regardless of income."
+                ],
+                [
+                    "___Claim___",
+                    "Regulated immigration policies protect workers from exploitation."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems prevent extreme poverty."
+                ],
+                [
+                    "___Claim___",
+                    "Markets alone won't reduce inequality."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention is crucial for balancing efficiency with equity."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-4_base",
+            "timestamp": "2025-10-04 02:29:29",
+            "sentences_no_utterance_types": "The NHS ensures treatment for everyone, yet it forces endless waiting lists that delay urgent care and cause needless suffering. Regulated immigration policies overwhelm public services and flood the market with cheap labour, exploiting migrants while undercutting local wages. Welfare systems trap people in dependency, making it harder to escape poverty through work. Markets reduce inequality by driving innovation and creating jobs that raise living standards for all. Government intervention disrupts this balance, inflating costs and blocking true equity.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The NHS ensures treatment for everyone, yet it forces endless waiting lists that delay urgent care and cause needless suffering."
+                ],
+                [
+                    "___Claim___",
+                    "Regulated immigration policies overwhelm public services and flood the market with cheap labour, exploiting migrants while undercutting local wages."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems trap people in dependency, making it harder to escape poverty through work."
+                ],
+                [
+                    "___Claim___",
+                    "Markets reduce inequality by driving innovation and creating jobs that raise living standards for all."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention disrupts this balance, inflating costs and blocking true equity."
+                ]
+            ]
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "timestamp": "2025-10-04 02:29:35",
+            "sentences_no_utterance_types": "The NHS ensures everyone gets treatment, regardless of income. Regulated immigration policies protect workers from exploitation. Welfare systems prevent extreme poverty. Markets alone won't reduce inequality. Government intervention is crucial for balancing efficiency with equity.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The NHS ensures everyone gets treatment, regardless of income."
+                ],
+                [
+                    "___Claim___",
+                    "Regulated immigration policies protect workers from exploitation."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems prevent extreme poverty."
+                ],
+                [
+                    "___Claim___",
+                    "Markets alone won't reduce inequality."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention is crucial for balancing efficiency with equity."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-4_base",
+            "timestamp": "2025-10-04 02:29:44",
+            "sentences_no_utterance_types": "The NHS ensures treatment for everyone, yet it forces endless waiting lists that delay urgent care and cause needless suffering. Regulated immigration policies overwhelm public services and flood the market with cheap labour, exploiting migrants while undercutting local wages. Welfare systems trap people in dependency, making it harder to escape poverty through work. Markets reduce inequality by driving innovation and creating jobs that raise living standards for all. Government intervention disrupts this balance, inflating costs and blocking true equity.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The NHS ensures treatment for everyone, yet it forces endless waiting lists that delay urgent care and cause needless suffering."
+                ],
+                [
+                    "___Claim___",
+                    "Regulated immigration policies overwhelm public services and flood the market with cheap labour, exploiting migrants while undercutting local wages."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems trap people in dependency, making it harder to escape poverty through work."
+                ],
+                [
+                    "___Claim___",
+                    "Markets reduce inequality by driving innovation and creating jobs that raise living standards for all."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention disrupts this balance, inflating costs and blocking true equity."
+                ]
+            ]
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "timestamp": "2025-10-04 02:29:56",
+            "sentences_no_utterance_types": "The NHS ensures everyone gets treatment, regardless of income. Regulated immigration policies protect workers from exploitation. Welfare systems prevent extreme poverty. Markets alone won't reduce inequality. Government intervention is crucial for balancing efficiency with equity.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The NHS ensures everyone gets treatment, regardless of income."
+                ],
+                [
+                    "___Claim___",
+                    "Regulated immigration policies protect workers from exploitation."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems prevent extreme poverty."
+                ],
+                [
+                    "___Claim___",
+                    "Markets alone won't reduce inequality."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention is crucial for balancing efficiency with equity."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-4_base",
+            "timestamp": "2025-10-04 02:30:04",
+            "sentences_no_utterance_types": "The NHS ensures treatment for everyone, yet it forces endless waiting lists that delay urgent care and cause needless suffering. Regulated immigration policies overwhelm public services and flood the market with cheap labour, exploiting migrants while undercutting local wages. Welfare systems trap people in dependency, making it harder to escape poverty through work. Markets reduce inequality by driving innovation and creating jobs that raise living standards for all. Government intervention disrupts this balance, inflating costs and blocking true equity.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The NHS ensures treatment for everyone, yet it forces endless waiting lists that delay urgent care and cause needless suffering."
+                ],
+                [
+                    "___Claim___",
+                    "Regulated immigration policies overwhelm public services and flood the market with cheap labour, exploiting migrants while undercutting local wages."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems trap people in dependency, making it harder to escape poverty through work."
+                ],
+                [
+                    "___Claim___",
+                    "Markets reduce inequality by driving innovation and creating jobs that raise living standards for all."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention disrupts this balance, inflating costs and blocking true equity."
+                ]
+            ]
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "timestamp": "2025-10-04 02:30:11",
+            "sentences_no_utterance_types": "The NHS ensures everyone gets treatment, regardless of income. Regulated immigration policies protect workers from exploitation. Welfare systems prevent extreme poverty. Markets alone won't reduce inequality. Government intervention is crucial for balancing efficiency with equity.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The NHS ensures everyone gets treatment, regardless of income."
+                ],
+                [
+                    "___Claim___",
+                    "Regulated immigration policies protect workers from exploitation."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems prevent extreme poverty."
+                ],
+                [
+                    "___Claim___",
+                    "Markets alone won't reduce inequality."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention is crucial for balancing efficiency with equity."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-4_base",
+            "timestamp": "2025-10-04 02:30:19",
+            "sentences_no_utterance_types": "The NHS ensures treatment for everyone, yet it forces endless waiting lists that delay urgent care and cause needless suffering. Regulated immigration policies overwhelm public services and flood the market with cheap labour, exploiting migrants while undercutting local wages. Welfare systems trap people in dependency, making it harder to escape poverty through work. Markets reduce inequality by driving innovation and creating jobs that raise living standards for all. Government intervention disrupts this balance, inflating costs and blocking true equity.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The NHS ensures treatment for everyone, yet it forces endless waiting lists that delay urgent care and cause needless suffering."
+                ],
+                [
+                    "___Claim___",
+                    "Regulated immigration policies overwhelm public services and flood the market with cheap labour, exploiting migrants while undercutting local wages."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems trap people in dependency, making it harder to escape poverty through work."
+                ],
+                [
+                    "___Claim___",
+                    "Markets reduce inequality by driving innovation and creating jobs that raise living standards for all."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention disrupts this balance, inflating costs and blocking true equity."
+                ]
+            ]
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "timestamp": "2025-10-04 02:30:26",
+            "sentences_no_utterance_types": "The NHS provides universal care, ensuring no one is denied treatment due to cost. Regulated immigration policies prevent exploitation and ensure fair wages. Welfare systems act as a safety net, preventing extreme poverty. Markets alone won't reduce inequality. Government intervention is necessary to balance efficiency with equity.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The NHS provides universal care, ensuring no one is denied treatment due to cost."
+                ],
+                [
+                    "___Claim___",
+                    "Regulated immigration policies prevent exploitation and ensure fair wages."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems act as a safety net, preventing extreme poverty."
+                ],
+                [
+                    "___Claim___",
+                    "Markets alone won't reduce inequality."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention is necessary to balance efficiency with equity."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-4_base",
+            "timestamp": "2025-10-04 02:30:34",
+            "sentences_no_utterance_types": "The NHS provides universal care, yet it delivers endless waiting lists that delay urgent treatments and cause preventable suffering. Regulated immigration policies flood the market with cheap labour, exploiting migrants and undercutting wages for locals. Welfare systems create dependency that traps people in poverty instead of helping them escape. Markets reduce inequality by fostering innovation and jobs that lift everyone up. Government intervention distorts this balance, inflating costs and limiting real opportunities.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The NHS provides universal care, yet it delivers endless waiting lists that delay urgent treatments and cause preventable suffering."
+                ],
+                [
+                    "___Claim___",
+                    "Regulated immigration policies flood the market with cheap labour, exploiting migrants and undercutting wages for locals."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems create dependency that traps people in poverty instead of helping them escape."
+                ],
+                [
+                    "___Claim___",
+                    "Markets reduce inequality by fostering innovation and jobs that lift everyone up."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention distorts this balance, inflating costs and limiting real opportunities."
+                ]
+            ]
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "timestamp": "2025-10-04 02:30:54",
+            "sentences_no_utterance_types": "The NHS provides universal care, ensuring no one is denied treatment due to cost. Regulated immigration policies prevent exploitation and ensure fair wages. Welfare systems act as a safety net, preventing extreme poverty. Markets alone won't reduce inequality. Government intervention is necessary to balance efficiency with equity.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The NHS provides universal care, ensuring no one is denied treatment due to cost."
+                ],
+                [
+                    "___Claim___",
+                    "Regulated immigration policies prevent exploitation and ensure fair wages."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems act as a safety net, preventing extreme poverty."
+                ],
+                [
+                    "___Claim___",
+                    "Markets alone won't reduce inequality."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention is necessary to balance efficiency with equity."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-4_base",
+            "timestamp": "2025-10-04 02:31:02",
+            "sentences_no_utterance_types": "The NHS provides universal care, yet it delivers endless waiting lists that delay urgent treatments and cause preventable suffering. Regulated immigration policies flood the market with cheap labour, exploiting migrants and undercutting wages for locals. Welfare systems create dependency that traps people in poverty instead of helping them escape. Markets reduce inequality by fostering innovation and jobs that lift everyone up. Government intervention distorts this balance, inflating costs and limiting real opportunities.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The NHS provides universal care, yet it delivers endless waiting lists that delay urgent treatments and cause preventable suffering."
+                ],
+                [
+                    "___Claim___",
+                    "Regulated immigration policies flood the market with cheap labour, exploiting migrants and undercutting wages for locals."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems create dependency that traps people in poverty instead of helping them escape."
+                ],
+                [
+                    "___Claim___",
+                    "Markets reduce inequality by fostering innovation and jobs that lift everyone up."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention distorts this balance, inflating costs and limiting real opportunities."
+                ]
+            ]
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "timestamp": "2025-10-04 02:31:09",
+            "sentences_no_utterance_types": "The NHS provides universal care, ensuring no one is denied treatment due to cost. Regulated immigration policies prevent exploitation and ensure fair wages. Welfare systems act as a safety net, preventing extreme poverty. Markets alone won't reduce inequality. Government intervention is necessary to balance efficiency with equity.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The NHS provides universal care, ensuring no one is denied treatment due to cost."
+                ],
+                [
+                    "___Claim___",
+                    "Regulated immigration policies prevent exploitation and ensure fair wages."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems act as a safety net, preventing extreme poverty."
+                ],
+                [
+                    "___Claim___",
+                    "Markets alone won't reduce inequality."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention is necessary to balance efficiency with equity."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-4_base",
+            "timestamp": "2025-10-04 02:31:17",
+            "sentences_no_utterance_types": "The NHS provides universal care, yet it delivers endless waiting lists that delay urgent treatments and cause preventable suffering. Regulated immigration policies flood the market with cheap labour, exploiting migrants and undercutting wages for locals. Welfare systems create dependency that traps people in poverty instead of helping them escape. Markets reduce inequality by fostering innovation and jobs that lift everyone up. Government intervention distorts this balance, inflating costs and limiting real opportunities.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The NHS provides universal care, yet it delivers endless waiting lists that delay urgent treatments and cause preventable suffering."
+                ],
+                [
+                    "___Claim___",
+                    "Regulated immigration policies flood the market with cheap labour, exploiting migrants and undercutting wages for locals."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems create dependency that traps people in poverty instead of helping them escape."
+                ],
+                [
+                    "___Claim___",
+                    "Markets reduce inequality by fostering innovation and jobs that lift everyone up."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention distorts this balance, inflating costs and limiting real opportunities."
+                ]
+            ]
+        }
+    ],
+    "human_model_name": "",
+    "human_model_seed": 123,
+    "human_model_temp": 0.0,
+    "human_model_top_p": 1.0,
+    "first_speaker_type": "base",
+    "max_dialogue_turns": 40,
+    "second_speaker_type": "base",
+    "max_sentences_per_turn": 5,
+    "first_speaker_utterance": "",
+    "first_speaker_model_name": "mistral-medium",
+    "first_speaker_model_seed": 123,
+    "first_speaker_model_temp": 0.0,
+    "second_speaker_utterance": "The NHS provides universal care, yet it delivers endless waiting lists that delay urgent treatments and cause preventable suffering. Regulated immigration policies flood the market with cheap labour, exploiting migrants and undercutting wages for locals. Welfare systems create dependency that traps people in poverty instead of helping them escape. Markets reduce inequality by fostering innovation and jobs that lift everyone up. Government intervention distorts this balance, inflating costs and limiting real opportunities.",
+    "first_speaker_commitments": [
+        "Government intervention in healthcare, immigration, and welfare is essential for maintaining social equity and protecting the vulnerable.",
+        "Your view overlooks the broader benefits of government intervention.",
+        "Long waiting lists in the NHS are a challenge, but they're a small price to pay for universal care.",
+        "Markets alone won't reduce inequality; they often exacerbate it.",
+        "The NHS provides universal care, ensuring no one is denied treatment due to cost.",
+        "Regulated immigration policies prevent exploitation and ensure fair wages."
+    ],
+    "first_speaker_model_top_p": 1.0,
+    "second_speaker_model_name": "grok-4",
+    "second_speaker_model_seed": 123,
+    "second_speaker_model_temp": 0.0,
+    "second_speaker_commitments": [
+        "Government intervention in healthcare, immigration, and welfare often creates more problems than it solves.",
+        "Markets reduce inequality by fostering innovation and jobs that lift everyone up."
+    ],
+    "second_speaker_model_top_p": 1.0,
+    "first_speaker_original_claim": "Government intervention in healthcare, immigration, and welfare is essential for maintaining social equity and protecting the vulnerable.",
+    "second_speaker_original_claim": "Government intervention in healthcare, immigration, and welfare often creates more problems than it solves.",
+    "reason_for_dialogue_termination": {
+        "reason": "Maximum number of dialogue turns reached (40 dialogue turns).",
+        "utterance": null,
+        "utterance_type": null
+    },
+    "first_speaker_graph_rag_examples": [],
+    "second_speaker_graph_rag_examples": [],
+    "utterance_classification_approach": "single-classification",
+    "first_speaker_political_position_std": 10,
+    "second_speaker_political_position_std": 10,
+    "first_speaker_intermediate_generations": [],
+    "first_speaker_political_position_range": "20:40",
+    "second_speaker_intermediate_generations": [],
+    "second_speaker_political_position_range": "60:80",
+    "first_speaker_number_of_graph_rag_examples": 5,
+    "first_speaker_political_position_prob_of_na": 0.25,
+    "second_speaker_number_of_graph_rag_examples": 5,
+    "second_speaker_political_position_prob_of_na": 0.25,
+    "first_speaker_utterance_with_corresponding_types": [],
+    "first_speaker_number_of_vector_based_rag_examples": 100,
+    "second_speaker_utterance_with_corresponding_types": [
+        [
+            "___Claim___",
+            "The NHS provides universal care, yet it delivers endless waiting lists that delay urgent treatments and cause preventable suffering."
+        ],
+        [
+            "___Claim___",
+            "Regulated immigration policies flood the market with cheap labour, exploiting migrants and undercutting wages for locals."
+        ],
+        [
+            "___Claim___",
+            "Welfare systems create dependency that traps people in poverty instead of helping them escape."
+        ],
+        [
+            "___Claim___",
+            "Markets reduce inequality by fostering innovation and jobs that lift everyone up."
+        ],
+        [
+            "___Claim___",
+            "Government intervention distorts this balance, inflating costs and limiting real opportunities."
+        ]
+    ],
+    "second_speaker_number_of_vector_based_rag_examples": 100,
+    "utterance_classification_number_of_classifications": 1,
+    "first_speaker_knowledge_base_ensemble_or_model_name": "",
+    "second_speaker_knowledge_base_ensemble_or_model_name": ""
+}

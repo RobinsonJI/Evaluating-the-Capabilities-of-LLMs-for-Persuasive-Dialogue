@@ -1,0 +1,1179 @@
+{
+    "dialogue_history": [
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government intervention in healthcare is essential for ensuring that everyone, regardless of their income, has access to quality medical services."
+                ]
+            ],
+            "sentences_no_utterance_types": "Government intervention in healthcare is essential for ensuring that everyone, regardless of their income, has access to quality medical services.",
+            "timestamp": "2025-10-08 10:36:00"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Question___",
+                    "What evidence do you have that private healthcare options can't provide the same level of access and quality as government intervention?"
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare providers can offer more efficient and higher quality services than government-run systems."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention in healthcare often results in long waiting times and bureaucratic inefficiencies that harm patients."
+                ]
+            ],
+            "sentences_no_utterance_types": "What evidence do you have that private healthcare options can't provide the same level of access and quality as government intervention? Private healthcare providers can offer more efficient and higher quality services than government-run systems. Government intervention in healthcare often results in long waiting times and bureaucratic inefficiencies that harm patients.",
+            "timestamp": "2025-10-08 10:38:58"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government intervention in healthcare ensures that everyone, regardless of their income, receives timely and quality medical services."
+                ],
+                [
+                    "___Since___",
+                    "Government-run systems like the NHS ensure universal coverage, which private options struggle to match without significant public subsidy."
+                ],
+                [
+                    "___Claim___",
+                    "Publicly funded healthcare systems prioritise patient needs over profits, leading to better overall health outcomes."
+                ],
+                [
+                    "___Claim___",
+                    "Studies show that countries with strong public healthcare have better overall health outcomes than those relying on private providers."
+                ],
+                [
+                    "___Claim___",
+                    "Efficient government-run healthcare systems can reduce administrative costs and streamline patient care."
+                ]
+            ],
+            "sentences_no_utterance_types": "Government intervention in healthcare ensures that everyone, regardless of their income, receives timely and quality medical services. Government-run systems like the NHS ensure universal coverage, which private options struggle to match without significant public subsidy. Publicly funded healthcare systems prioritise patient needs over profits, leading to better overall health outcomes. Studies show that countries with strong public healthcare have better overall health outcomes than those relying on private providers. Efficient government-run healthcare systems can reduce administrative costs and streamline patient care.",
+            "timestamp": "2025-10-08 10:45:49"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government intervention in healthcare often results in long waiting times and bureaucratic inefficiencies that harm patients."
+                ],
+                [
+                    "___Question___",
+                    "How do you explain the long waiting times and bureaucratic inefficiencies in government-run healthcare systems that often harm patients?"
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare providers can offer more efficient and higher quality services than government-run systems, as they are driven by competition and innovation."
+                ],
+                [
+                    "___Why___",
+                    "Why ignore the fact that private healthcare can reduce administrative costs without the bureaucratic overhead of government systems?"
+                ],
+                [
+                    "___Question___",
+                    "How can you claim that private healthcare can't achieve universal coverage without acknowledging the inefficiencies of government-run systems?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Government intervention in healthcare often results in long waiting times and bureaucratic inefficiencies that harm patients. How do you explain the long waiting times and bureaucratic inefficiencies in government-run healthcare systems that often harm patients? Private healthcare providers can offer more efficient and higher quality services than government-run systems, as they are driven by competition and innovation. Why ignore the fact that private healthcare can reduce administrative costs without the bureaucratic overhead of government systems? How can you claim that private healthcare can't achieve universal coverage without acknowledging the inefficiencies of government-run systems?",
+            "timestamp": "2025-10-08 10:52:18"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Question___",
+                    "What evidence do you have that private healthcare can achieve universal coverage without significant public subsidy?"
+                ],
+                [
+                    "___Question___",
+                    "How do you explain the success of countries like Sweden and Denmark, which have significantly reduced waiting times through efficient government-run healthcare systems?"
+                ],
+                [
+                    "___Claim___",
+                    "Efficient government-run healthcare can reduce administrative costs and streamline patient care."
+                ],
+                [
+                    "___Claim___",
+                    "Public healthcare systems prioritise patient needs over profits, leading to better health outcomes."
+                ],
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems like the NHS have proven to be more equitable, ensuring that everyone gets the care they need."
+                ]
+            ],
+            "sentences_no_utterance_types": "What evidence do you have that private healthcare can achieve universal coverage without significant public subsidy? How do you explain the success of countries like Sweden and Denmark, which have significantly reduced waiting times through efficient government-run healthcare systems? Efficient government-run healthcare can reduce administrative costs and streamline patient care. Public healthcare systems prioritise patient needs over profits, leading to better health outcomes. Government-run healthcare systems like the NHS have proven to be more equitable, ensuring that everyone gets the care they need.",
+            "timestamp": "2025-10-08 10:57:42"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private healthcare systems are driven by competition, which inherently leads to better patient care and innovation."
+                ],
+                [
+                    "___Since___",
+                    "The efficiency and innovation driven by private healthcare can reduce costs and improve services, making universal coverage more achievable."
+                ],
+                [
+                    "___Question___",
+                    "Why do you ignore the fact that private healthcare can offer more personalised and timely care, which government systems often fail to provide?"
+                ],
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems often introduce bureaucratic inefficiencies that increase administrative costs."
+                ],
+                [
+                    "___Since___",
+                    "Private healthcare providers in countries like Germany and the Netherlands achieve near-universal coverage through regulated competition and mandatory insurance schemes."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare systems are driven by competition, which inherently leads to better patient care and innovation. The efficiency and innovation driven by private healthcare can reduce costs and improve services, making universal coverage more achievable. Why do you ignore the fact that private healthcare can offer more personalised and timely care, which government systems often fail to provide? Government-run healthcare systems often introduce bureaucratic inefficiencies that increase administrative costs. Private healthcare providers in countries like Germany and the Netherlands achieve near-universal coverage through regulated competition and mandatory insurance schemes.",
+            "timestamp": "2025-10-08 11:02:02"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Government-run healthcare systems like the NHS have proven to be more equitable, ensuring that everyone gets the care they need, not just those who can afford it."
+                ],
+                [
+                    "___Claim___",
+                    "Government systems aim to provide comprehensive care for all, not just those who can afford personalised services."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare systems prioritise profits over patient care, leading to unequal access and lower quality services for those who can't afford it."
+                ],
+                [
+                    "___Claim___",
+                    "Efficient government-run healthcare can reduce administrative costs and streamline patient care, as seen in countries like Sweden and Denmark."
+                ],
+                [
+                    "___Since___",
+                    "Public healthcare systems prioritise patient needs over profits, leading to better health outcomes for the entire population."
+                ]
+            ],
+            "sentences_no_utterance_types": "Government-run healthcare systems like the NHS have proven to be more equitable, ensuring that everyone gets the care they need, not just those who can afford it. Government systems aim to provide comprehensive care for all, not just those who can afford personalised services. Private healthcare systems prioritise profits over patient care, leading to unequal access and lower quality services for those who can't afford it. Efficient government-run healthcare can reduce administrative costs and streamline patient care, as seen in countries like Sweden and Denmark. Public healthcare systems prioritise patient needs over profits, leading to better health outcomes for the entire population.",
+            "timestamp": "2025-10-08 11:07:11"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private healthcare providers can offer more personalised and efficient services, which government systems like the NHS struggle to match."
+                ],
+                [
+                    "___Claim___",
+                    "Competition in private healthcare drives innovation and better patient outcomes, which government systems struggle to match."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare providers in countries like Germany and the Netherlands achieve near-universal coverage through regulated competition and mandatory insurance schemes, proving that private systems can prioritise patient needs effectively."
+                ],
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems often introduce bureaucratic inefficiencies that increase administrative costs and harm patient care."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS often fails to provide timely care, leaving many patients waiting longer than necessary for treatment."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare providers can offer more personalised and efficient services, which government systems like the NHS struggle to match. Competition in private healthcare drives innovation and better patient outcomes, which government systems struggle to match. Private healthcare providers in countries like Germany and the Netherlands achieve near-universal coverage through regulated competition and mandatory insurance schemes, proving that private systems can prioritise patient needs effectively. Government-run healthcare systems often introduce bureaucratic inefficiencies that increase administrative costs and harm patient care. The NHS often fails to provide timely care, leaving many patients waiting longer than necessary for treatment.",
+            "timestamp": "2025-10-08 11:13:08"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Question___",
+                    "How do you explain the success of government-run healthcare systems in countries like Sweden and Denmark, which have significantly reduced waiting times through efficient management?"
+                ],
+                [
+                    "___Claim___",
+                    "The NHS provides timely care to millions of patients every year, ensuring that everyone gets the treatment they need when they need it."
+                ],
+                [
+                    "___Claim___",
+                    "Public healthcare systems prioritise patient needs over profits, leading to better health outcomes and lower administrative costs."
+                ],
+                [
+                    "___Question___",
+                    "Why do you ignore the fact that government-run healthcare systems like the NHS have proven to be more equitable, ensuring that everyone gets the care they need?"
+                ],
+                [
+                    "___Claim___",
+                    "Efficient government-run healthcare systems can reduce waiting times and streamline patient care, as seen in countries like Sweden and Denmark."
+                ]
+            ],
+            "sentences_no_utterance_types": "How do you explain the success of government-run healthcare systems in countries like Sweden and Denmark, which have significantly reduced waiting times through efficient management? The NHS provides timely care to millions of patients every year, ensuring that everyone gets the treatment they need when they need it. Public healthcare systems prioritise patient needs over profits, leading to better health outcomes and lower administrative costs. Why do you ignore the fact that government-run healthcare systems like the NHS have proven to be more equitable, ensuring that everyone gets the care they need? Efficient government-run healthcare systems can reduce waiting times and streamline patient care, as seen in countries like Sweden and Denmark.",
+            "timestamp": "2025-10-08 11:19:27"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The success of government-run healthcare systems in countries like Sweden and Denmark is often overstated and doesn't account for the unique cultural and demographic factors that contribute to their efficiency."
+                ],
+                [
+                    "___Claim___",
+                    "The efficiency of government-run healthcare in Sweden and Denmark is not solely due to their public nature but also because of their smaller, more homogeneous populations, which are easier to manage."
+                ],
+                [
+                    "___Since___",
+                    "Private healthcare providers in countries like Germany and the Netherlands achieve near-universal coverage through regulated competition and mandatory insurance schemes, proving that private systems can prioritise patient needs effectively."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare providers consistently outperform the NHS in providing timely care without the long waiting lists."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare systems are driven by competition, which inherently leads to better patient care and innovation, ensuring equitable access to quality services."
+                ]
+            ],
+            "sentences_no_utterance_types": "The success of government-run healthcare systems in countries like Sweden and Denmark is often overstated and doesn't account for the unique cultural and demographic factors that contribute to their efficiency. The efficiency of government-run healthcare in Sweden and Denmark is not solely due to their public nature but also because of their smaller, more homogeneous populations, which are easier to manage. Private healthcare providers in countries like Germany and the Netherlands achieve near-universal coverage through regulated competition and mandatory insurance schemes, proving that private systems can prioritise patient needs effectively. Private healthcare providers consistently outperform the NHS in providing timely care without the long waiting lists. Private healthcare systems are driven by competition, which inherently leads to better patient care and innovation, ensuring equitable access to quality services.",
+            "timestamp": "2025-10-08 11:24:34"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The NHS provides timely care to millions of patients every year, ensuring that everyone gets the treatment they need when they need it."
+                ],
+                [
+                    "___Claim___",
+                    "Public healthcare systems in Sweden and Denmark achieve better health outcomes because they reduce administrative costs and streamline patient care."
+                ],
+                [
+                    "___Claim___",
+                    "Efficient government-run healthcare can reduce waiting times and streamline patient care, as seen in countries like Sweden and Denmark."
+                ],
+                [
+                    "___Claim___",
+                    "Equitable access to quality services is better achieved through government-run healthcare systems that prioritise patient needs over market competition."
+                ],
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems like the NHS have proven to be more equitable, ensuring that everyone gets the care they need, not just those who can afford it."
+                ]
+            ],
+            "sentences_no_utterance_types": "The NHS provides timely care to millions of patients every year, ensuring that everyone gets the treatment they need when they need it. Public healthcare systems in Sweden and Denmark achieve better health outcomes because they reduce administrative costs and streamline patient care. Efficient government-run healthcare can reduce waiting times and streamline patient care, as seen in countries like Sweden and Denmark. Equitable access to quality services is better achieved through government-run healthcare systems that prioritise patient needs over market competition. Government-run healthcare systems like the NHS have proven to be more equitable, ensuring that everyone gets the care they need, not just those who can afford it.",
+            "timestamp": "2025-10-08 11:32:19"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Market competition in private healthcare inherently leads to better patient care and innovation, ensuring equitable access to quality services."
+                ],
+                [
+                    "___Question___",
+                    "Why do you ignore the fact that private healthcare can offer more personalised and timely care, which government systems often fail to provide?"
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare providers consistently outperform government-run systems in providing timely and quality care to all patients."
+                ],
+                [
+                    "___Claim___",
+                    "Equitable access to quality services is better achieved through private healthcare systems that prioritise patient needs over government bureaucracy."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS struggles to meet the needs of all patients, with many not receiving the treatment they need when they need it."
+                ]
+            ],
+            "sentences_no_utterance_types": "Market competition in private healthcare inherently leads to better patient care and innovation, ensuring equitable access to quality services. Why do you ignore the fact that private healthcare can offer more personalised and timely care, which government systems often fail to provide? Private healthcare providers consistently outperform government-run systems in providing timely and quality care to all patients. Equitable access to quality services is better achieved through private healthcare systems that prioritise patient needs over government bureaucracy. The NHS struggles to meet the needs of all patients, with many not receiving the treatment they need when they need it.",
+            "timestamp": "2025-10-08 11:39:49"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The NHS provides timely care to millions of patients every year, ensuring that everyone gets the treatment they need when they need it."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare systems often exclude those who can't pay, creating a two-tier system that undermines equitable access to quality services."
+                ],
+                [
+                    "___Claim___",
+                    "Public healthcare systems prioritise patient needs over profits, leading to better health outcomes and lower administrative costs."
+                ],
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems like the NHS have proven to be more equitable, ensuring that everyone gets the care they need, not just those who can afford it."
+                ],
+                [
+                    "___Claim___",
+                    "Efficient government-run healthcare can reduce waiting times and streamline patient care, ensuring equitable access to quality services."
+                ]
+            ],
+            "sentences_no_utterance_types": "The NHS provides timely care to millions of patients every year, ensuring that everyone gets the treatment they need when they need it. Private healthcare systems often exclude those who can't pay, creating a two-tier system that undermines equitable access to quality services. Public healthcare systems prioritise patient needs over profits, leading to better health outcomes and lower administrative costs. Government-run healthcare systems like the NHS have proven to be more equitable, ensuring that everyone gets the care they need, not just those who can afford it. Efficient government-run healthcare can reduce waiting times and streamline patient care, ensuring equitable access to quality services.",
+            "timestamp": "2025-10-08 11:44:49"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private healthcare systems can achieve universal coverage through regulated competition and mandatory insurance schemes, ensuring equitable access to quality services."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare providers can offer more personalised and timely care, which government systems often fail to provide."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare providers consistently outperform government-run systems in reducing waiting times and providing timely care."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare systems are driven by competition, which inherently leads to better patient care and innovation, ensuring equitable access to quality services."
+                ],
+                [
+                    "___Claim___",
+                    "Equitable access to quality services is better achieved through private healthcare systems that prioritise patient needs over government bureaucracy."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare systems can achieve universal coverage through regulated competition and mandatory insurance schemes, ensuring equitable access to quality services. Private healthcare providers can offer more personalised and timely care, which government systems often fail to provide. Private healthcare providers consistently outperform government-run systems in reducing waiting times and providing timely care. Private healthcare systems are driven by competition, which inherently leads to better patient care and innovation, ensuring equitable access to quality services. Equitable access to quality services is better achieved through private healthcare systems that prioritise patient needs over government bureaucracy.",
+            "timestamp": "2025-10-08 11:51:46"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private healthcare systems prioritise profits over patient care, leading to unequal access and lower quality services for those who can't afford it."
+                ],
+                [
+                    "___Claim___",
+                    "Universal coverage is better achieved through government-run healthcare systems that prioritise patient needs over market competition."
+                ],
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems like the NHS have proven to be more equitable, ensuring that everyone gets the care they need, not just those who can afford it."
+                ],
+                [
+                    "___Question___",
+                    "Why do you ignore the fact that government-run healthcare systems like the NHS have proven to be more equitable, ensuring that everyone gets the care they need?"
+                ],
+                [
+                    "___Claim___",
+                    "Public healthcare systems prioritise patient needs over profits, leading to better health outcomes and more timely care for everyone."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare systems prioritise profits over patient care, leading to unequal access and lower quality services for those who can't afford it. Universal coverage is better achieved through government-run healthcare systems that prioritise patient needs over market competition. Government-run healthcare systems like the NHS have proven to be more equitable, ensuring that everyone gets the care they need, not just those who can afford it. Why do you ignore the fact that government-run healthcare systems like the NHS have proven to be more equitable, ensuring that everyone gets the care they need? Public healthcare systems prioritise patient needs over profits, leading to better health outcomes and more timely care for everyone.",
+            "timestamp": "2025-10-08 11:59:03"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private healthcare systems can achieve universal coverage through regulated competition and mandatory insurance schemes, ensuring equitable access to quality services."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare providers offer more personalised and timely care, addressing patient needs more effectively than government systems."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare providers consistently outperform government-run systems in providing timely and quality care to all patients."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare systems are driven by competition, which inherently leads to better patient care and innovation, ensuring equitable access to quality services."
+                ],
+                [
+                    "___Claim___",
+                    "Equitable access to quality services is better achieved through private healthcare systems that prioritise patient needs over government bureaucracy."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare systems can achieve universal coverage through regulated competition and mandatory insurance schemes, ensuring equitable access to quality services. Private healthcare providers offer more personalised and timely care, addressing patient needs more effectively than government systems. Private healthcare providers consistently outperform government-run systems in providing timely and quality care to all patients. Private healthcare systems are driven by competition, which inherently leads to better patient care and innovation, ensuring equitable access to quality services. Equitable access to quality services is better achieved through private healthcare systems that prioritise patient needs over government bureaucracy.",
+            "timestamp": "2025-10-08 12:03:43"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Question___",
+                    "What evidence do you have that private healthcare can achieve universal coverage without significant public subsidy?"
+                ],
+                [
+                    "___Question___",
+                    "How do you explain the fact that private healthcare systems often exclude those who can't pay, creating a two-tier system that undermines equitable access to quality services?"
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare systems prioritise profits over patient care, leading to unequal access and lower quality services for those who can't afford it."
+                ],
+                [
+                    "___Question___",
+                    "Why do you ignore the fact that government-run healthcare systems like the NHS prioritise patient needs over profits, leading to better health outcomes?"
+                ],
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems like the NHS have proven to be more equitable, ensuring that everyone gets the care they need, not just those who can afford it."
+                ]
+            ],
+            "sentences_no_utterance_types": "What evidence do you have that private healthcare can achieve universal coverage without significant public subsidy? How do you explain the fact that private healthcare systems often exclude those who can't pay, creating a two-tier system that undermines equitable access to quality services? Private healthcare systems prioritise profits over patient care, leading to unequal access and lower quality services for those who can't afford it. Why do you ignore the fact that government-run healthcare systems like the NHS prioritise patient needs over profits, leading to better health outcomes? Government-run healthcare systems like the NHS have proven to be more equitable, ensuring that everyone gets the care they need, not just those who can afford it.",
+            "timestamp": "2025-10-08 12:11:24"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private healthcare providers can offer more efficient and higher quality services than government-run systems, ensuring universal coverage through market competition."
+                ],
+                [
+                    "___Since___",
+                    "Private healthcare systems achieve better health outcomes through competition and innovation, not by ignoring profits but by aligning them with patient needs."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare providers consistently outperform government-run systems in providing timely and quality care to all patients."
+                ],
+                [
+                    "___Claim___",
+                    "Equitable access to quality services is better achieved through private healthcare systems that prioritise patient needs over government bureaucracy."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare systems prioritise patient care through competition, leading to better access and higher quality services for all."
+                ],
+                [
+                    "___Since___",
+                    "Private healthcare providers consistently outperform government-run systems in providing timely and quality care to all patients."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare providers can offer more efficient and higher quality services than government-run systems, ensuring universal coverage through market competition. Private healthcare systems achieve better health outcomes through competition and innovation, not by ignoring profits but by aligning them with patient needs. Private healthcare providers consistently outperform government-run systems in providing timely and quality care to all patients. Equitable access to quality services is better achieved through private healthcare systems that prioritise patient needs over government bureaucracy. Private healthcare systems prioritise patient care through competition, leading to better access and higher quality services for all. Private healthcare providers consistently outperform government-run systems in providing timely and quality care to all patients.",
+            "timestamp": "2025-10-08 12:17:12"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private healthcare providers often exclude those who can't pay, creating a two-tier system that undermines equitable access to quality services."
+                ],
+                [
+                    "___Why___",
+                    "Why do you think private healthcare providers can consistently outperform government-run systems when evidence shows the NHS treats millions timely every year?"
+                ],
+                [
+                    "___Question___",
+                    "Why do you ignore the fact that government-run healthcare systems like the NHS prioritise patient needs over profits, leading to better health outcomes?"
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare systems prioritise profits over patient care, leading to unequal access and lower quality services for those who can't afford it."
+                ],
+                [
+                    "___Claim___",
+                    "Public healthcare systems prioritise patient needs over profits, leading to better health outcomes and more timely care for everyone."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare providers often exclude those who can't pay, creating a two-tier system that undermines equitable access to quality services. Why do you think private healthcare providers can consistently outperform government-run systems when evidence shows the NHS treats millions timely every year? Why do you ignore the fact that government-run healthcare systems like the NHS prioritise patient needs over profits, leading to better health outcomes? Private healthcare systems prioritise profits over patient care, leading to unequal access and lower quality services for those who can't afford it. Public healthcare systems prioritise patient needs over profits, leading to better health outcomes and more timely care for everyone.",
+            "timestamp": "2025-10-08 12:27:06"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Equitable access to quality services is better achieved through private healthcare systems that prioritise patient needs over government bureaucracy."
+                ],
+                [
+                    "___Since___",
+                    "Private healthcare providers consistently outperform government-run systems because they are driven by competition, which inherently leads to better patient care and innovation."
+                ],
+                [
+                    "___Since___",
+                    "Private healthcare systems achieve better health outcomes through competition and innovation, aligning profits with patient needs."
+                ],
+                [
+                    "___Claim___",
+                    "Market-driven healthcare ensures timely and quality care by prioritising efficiency and patient satisfaction over bureaucratic delays."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare providers consistently outperform government-run systems in providing timely and quality care to all patients."
+                ],
+                [
+                    "___Claim___",
+                    "Equitable access to quality services is better achieved through private healthcare systems that prioritise patient needs over government bureaucracy."
+                ],
+                [
+                    "___Since___",
+                    "Private healthcare providers consistently outperform government-run systems in providing timely and quality care to all patients."
+                ]
+            ],
+            "sentences_no_utterance_types": "Equitable access to quality services is better achieved through private healthcare systems that prioritise patient needs over government bureaucracy. Private healthcare providers consistently outperform government-run systems because they are driven by competition, which inherently leads to better patient care and innovation. Private healthcare systems achieve better health outcomes through competition and innovation, aligning profits with patient needs. Market-driven healthcare ensures timely and quality care by prioritising efficiency and patient satisfaction over bureaucratic delays. Private healthcare providers consistently outperform government-run systems in providing timely and quality care to all patients. Equitable access to quality services is better achieved through private healthcare systems that prioritise patient needs over government bureaucracy. Private healthcare providers consistently outperform government-run systems in providing timely and quality care to all patients.",
+            "timestamp": "2025-10-08 12:30:04"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why do you ignore the fact that government-run healthcare systems like the NHS prioritise patient needs over profits, leading to better health outcomes?"
+                ],
+                [
+                    "___Question___",
+                    "Why do you ignore the fact that government-run healthcare systems like the NHS prioritise patient needs over profits, leading to better health outcomes?"
+                ],
+                [
+                    "___Why___",
+                    "Why do you think private healthcare systems can achieve equitable access when they often exclude those who can't pay?"
+                ],
+                [
+                    "___Claim___",
+                    "Public healthcare systems reduce administrative costs and streamline patient care, ensuring equitable access to quality services."
+                ],
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems like the NHS have proven to be more equitable, ensuring that everyone gets the care they need, not just those who can afford it."
+                ],
+                [
+                    "___Question___",
+                    "What evidence do you have that market-driven healthcare can achieve universal coverage without significant public subsidy?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Why do you ignore the fact that government-run healthcare systems like the NHS prioritise patient needs over profits, leading to better health outcomes? Why do you ignore the fact that government-run healthcare systems like the NHS prioritise patient needs over profits, leading to better health outcomes? Why do you think private healthcare systems can achieve equitable access when they often exclude those who can't pay? Public healthcare systems reduce administrative costs and streamline patient care, ensuring equitable access to quality services. Government-run healthcare systems like the NHS have proven to be more equitable, ensuring that everyone gets the care they need, not just those who can afford it. What evidence do you have that market-driven healthcare can achieve universal coverage without significant public subsidy?",
+            "timestamp": "2025-10-08 12:31:58"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private healthcare systems outperform government-run systems because they are driven by innovation and efficiency, not bureaucratic delays."
+                ],
+                [
+                    "___Since___",
+                    "Private healthcare systems are driven by competition, which inherently leads to better patient care and innovation, ensuring equitable access to quality services."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare providers consistently outperform government-run systems in providing timely and quality care to all patients, proving that market-driven systems can achieve universal coverage."
+                ],
+                [
+                    "___Since___",
+                    "Private healthcare systems achieve better health outcomes through competition and innovation, aligning profits with patient needs."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare systems in countries like Germany and the Netherlands achieve near-universal coverage through regulated competition and mandatory insurance schemes, not significant public subsidy."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare systems outperform government-run systems because they are driven by innovation and efficiency, not bureaucratic delays. Private healthcare systems are driven by competition, which inherently leads to better patient care and innovation, ensuring equitable access to quality services. Private healthcare providers consistently outperform government-run systems in providing timely and quality care to all patients, proving that market-driven systems can achieve universal coverage. Private healthcare systems achieve better health outcomes through competition and innovation, aligning profits with patient needs. Private healthcare systems in countries like Germany and the Netherlands achieve near-universal coverage through regulated competition and mandatory insurance schemes, not significant public subsidy.",
+            "timestamp": "2025-10-08 12:36:46"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Question___",
+                    "How can you claim private healthcare ensures equitable access when it prioritises profits over patient needs?"
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare systems prioritise profits over patient care, leading to unequal access and lower quality services for those who can't afford it."
+                ],
+                [
+                    "___Question___",
+                    "Why do you ignore the fact that private healthcare systems often exclude those who can't pay, creating a two-tier system that undermines equitable access to quality services?"
+                ],
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems like the NHS have proven to be more equitable, ensuring that everyone gets the care they need, not just those who can afford it."
+                ],
+                [
+                    "___Claim___",
+                    "Public healthcare systems prioritise patient needs over profits, leading to better health outcomes and more timely care for everyone."
+                ]
+            ],
+            "sentences_no_utterance_types": "How can you claim private healthcare ensures equitable access when it prioritises profits over patient needs? Private healthcare systems prioritise profits over patient care, leading to unequal access and lower quality services for those who can't afford it. Why do you ignore the fact that private healthcare systems often exclude those who can't pay, creating a two-tier system that undermines equitable access to quality services? Government-run healthcare systems like the NHS have proven to be more equitable, ensuring that everyone gets the care they need, not just those who can afford it. Public healthcare systems prioritise patient needs over profits, leading to better health outcomes and more timely care for everyone.",
+            "timestamp": "2025-10-08 12:43:20"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private healthcare systems ensure that everyone gets the care they need through competition and innovation, not just those who rely on government handouts."
+                ],
+                [
+                    "___Since___",
+                    "Private healthcare providers achieve near-universal coverage in countries like Germany and the Netherlands, proving that market-driven systems can prioritise patient needs effectively."
+                ],
+                [
+                    "___Question___",
+                    "How do you explain the long waiting times and inefficiencies in the NHS that leave many patients without timely care?"
+                ],
+                [
+                    "___Since___",
+                    "Private healthcare providers consistently outperform government-run systems in providing timely and quality care to all patients, proving that market-driven systems can achieve universal coverage."
+                ],
+                [
+                    "___Since___",
+                    "Private healthcare ensures equitable access through regulated competition and mandatory insurance schemes, not by ignoring profits but by aligning them with patient needs."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare systems ensure that everyone gets the care they need through competition and innovation, not just those who rely on government handouts. Private healthcare providers achieve near-universal coverage in countries like Germany and the Netherlands, proving that market-driven systems can prioritise patient needs effectively. How do you explain the long waiting times and inefficiencies in the NHS that leave many patients without timely care? Private healthcare providers consistently outperform government-run systems in providing timely and quality care to all patients, proving that market-driven systems can achieve universal coverage. Private healthcare ensures equitable access through regulated competition and mandatory insurance schemes, not by ignoring profits but by aligning them with patient needs.",
+            "timestamp": "2025-10-08 12:51:31"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private healthcare providers often exclude those who can't pay, creating a two-tier system that undermines equitable access to quality services."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS struggles with waiting times because it's been systematically underfunded and understaffed, not because government-run healthcare is inherently inefficient."
+                ],
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems like the NHS have proven to be more equitable, ensuring that everyone gets the care they need, not just those who can afford it."
+                ],
+                [
+                    "___Claim___",
+                    "Public healthcare systems prioritise patient needs over profits, leading to better health outcomes and more timely care for everyone."
+                ],
+                [
+                    "___Why___",
+                    "Why do you think private healthcare systems can ensure everyone gets the care they need when they prioritise profits over patient needs?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare providers often exclude those who can't pay, creating a two-tier system that undermines equitable access to quality services. The NHS struggles with waiting times because it's been systematically underfunded and understaffed, not because government-run healthcare is inherently inefficient. Government-run healthcare systems like the NHS have proven to be more equitable, ensuring that everyone gets the care they need, not just those who can afford it. Public healthcare systems prioritise patient needs over profits, leading to better health outcomes and more timely care for everyone. Why do you think private healthcare systems can ensure everyone gets the care they need when they prioritise profits over patient needs?",
+            "timestamp": "2025-10-08 13:00:13"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private healthcare providers consistently outperform government-run systems in providing timely and quality care to all patients, proving that market-driven systems can achieve universal coverage."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare systems prioritise patient needs through competition, leading to better health outcomes and more timely care for everyone."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare systems ensure that everyone gets the care they need through competition and innovation, not just those who rely on government handouts."
+                ],
+                [
+                    "___Since___",
+                    "Private healthcare providers achieve near-universal coverage in countries like Germany and the Netherlands, proving that market-driven systems can prioritise patient needs effectively."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare providers achieve near-universal coverage through regulated competition and mandatory insurance schemes, ensuring equitable access to quality services."
+                ],
+                [
+                    "___Since___",
+                    "Private healthcare providers consistently outperform government-run systems in providing timely and quality care to all patients, proving that market-driven systems can achieve universal coverage."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare providers achieve near-universal coverage in countries like Germany and the Netherlands, proving that market-driven systems can prioritise patient needs effectively."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare providers consistently outperform government-run systems in providing timely and quality care to all patients, proving that market-driven systems can achieve universal coverage. Private healthcare systems prioritise patient needs through competition, leading to better health outcomes and more timely care for everyone. Private healthcare systems ensure that everyone gets the care they need through competition and innovation, not just those who rely on government handouts. Private healthcare providers achieve near-universal coverage in countries like Germany and the Netherlands, proving that market-driven systems can prioritise patient needs effectively. Private healthcare providers achieve near-universal coverage through regulated competition and mandatory insurance schemes, ensuring equitable access to quality services. Private healthcare providers consistently outperform government-run systems in providing timely and quality care to all patients, proving that market-driven systems can achieve universal coverage. Private healthcare providers achieve near-universal coverage in countries like Germany and the Netherlands, proving that market-driven systems can prioritise patient needs effectively.",
+            "timestamp": "2025-10-08 13:17:19"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why do you ignore the fact that government-run healthcare systems like the NHS prioritise patient needs over profits, leading to better health outcomes?"
+                ],
+                [
+                    "___Question___",
+                    "How can you claim private healthcare ensures equitable access when it prioritises profits over patient needs?"
+                ],
+                [
+                    "___Question___",
+                    "What evidence do you have that private healthcare can ensure everyone gets the care they need when they prioritise profits over patient needs?"
+                ],
+                [
+                    "___Question___",
+                    "How can you claim that private healthcare leads to better health outcomes when it often excludes those who can't pay?"
+                ],
+                [
+                    "___Question___",
+                    "What evidence do you have that market-driven healthcare can achieve universal coverage without significant public subsidy?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Why do you ignore the fact that government-run healthcare systems like the NHS prioritise patient needs over profits, leading to better health outcomes? How can you claim private healthcare ensures equitable access when it prioritises profits over patient needs? What evidence do you have that private healthcare can ensure everyone gets the care they need when they prioritise profits over patient needs? How can you claim that private healthcare leads to better health outcomes when it often excludes those who can't pay? What evidence do you have that market-driven healthcare can achieve universal coverage without significant public subsidy?",
+            "timestamp": "2025-10-08 13:27:20"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private healthcare systems achieve better health outcomes through competition and innovation, aligning profits with patient needs."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare systems in countries like Germany and the Netherlands achieve near-universal coverage through regulated competition and mandatory insurance schemes, ensuring everyone gets the care they need."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare providers consistently outperform government-run systems in providing timely and quality care to all patients, proving that market-driven systems can achieve universal coverage."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare systems ensure that everyone gets the care they need through competition and innovation, not just those who rely on government handouts."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare ensures equitable access through regulated competition and mandatory insurance schemes, not by ignoring profits but by aligning them with patient needs."
+                ],
+                [
+                    "___Since___",
+                    "Private healthcare systems achieve better health outcomes through competition and innovation, aligning profits with patient needs."
+                ],
+                [
+                    "___Since___",
+                    "Private healthcare systems in countries like Germany and the Netherlands achieve near-universal coverage through regulated competition and mandatory insurance schemes, ensuring everyone gets the care they need."
+                ],
+                [
+                    "___Since___",
+                    "Private healthcare providers consistently outperform government-run systems in providing timely and quality care to all patients, proving that market-driven systems can achieve universal coverage."
+                ],
+                [
+                    "___Since___",
+                    "Private healthcare systems ensure that everyone gets the care they need through competition and innovation, not just those who rely on government handouts."
+                ],
+                [
+                    "___Since___",
+                    "Private healthcare ensures equitable access through regulated competition and mandatory insurance schemes, not by ignoring profits but by aligning them with patient needs."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare systems achieve better health outcomes through competition and innovation, aligning profits with patient needs. Private healthcare systems in countries like Germany and the Netherlands achieve near-universal coverage through regulated competition and mandatory insurance schemes, ensuring everyone gets the care they need. Private healthcare providers consistently outperform government-run systems in providing timely and quality care to all patients, proving that market-driven systems can achieve universal coverage. Private healthcare systems ensure that everyone gets the care they need through competition and innovation, not just those who rely on government handouts. Private healthcare ensures equitable access through regulated competition and mandatory insurance schemes, not by ignoring profits but by aligning them with patient needs. Private healthcare systems achieve better health outcomes through competition and innovation, aligning profits with patient needs. Private healthcare systems in countries like Germany and the Netherlands achieve near-universal coverage through regulated competition and mandatory insurance schemes, ensuring everyone gets the care they need. Private healthcare providers consistently outperform government-run systems in providing timely and quality care to all patients, proving that market-driven systems can achieve universal coverage. Private healthcare systems ensure that everyone gets the care they need through competition and innovation, not just those who rely on government handouts. Private healthcare ensures equitable access through regulated competition and mandatory insurance schemes, not by ignoring profits but by aligning them with patient needs.",
+            "timestamp": "2025-10-08 13:34:07"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why do you ignore the fact that government-run healthcare systems like the NHS prioritise patient needs over profits, leading to better health outcomes?"
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare providers often exclude those who can't pay, creating a two-tier system that undermines equitable access to quality services."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare systems prioritise profits over patient care, leading to unequal access and lower quality services for those who can't afford it."
+                ],
+                [
+                    "___Question___",
+                    "Why do you ignore the fact that government-run healthcare systems like the NHS prioritise patient needs over profits, leading to better health outcomes?"
+                ],
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems like the NHS have proven to be more equitable, ensuring that everyone gets the care they need, not just those who can afford it."
+                ],
+                [
+                    "___Claim___",
+                    "Public healthcare systems prioritise patient needs over profits, leading to better health outcomes and more timely care for everyone."
+                ]
+            ],
+            "sentences_no_utterance_types": "Why do you ignore the fact that government-run healthcare systems like the NHS prioritise patient needs over profits, leading to better health outcomes? Private healthcare providers often exclude those who can't pay, creating a two-tier system that undermines equitable access to quality services. Private healthcare systems prioritise profits over patient care, leading to unequal access and lower quality services for those who can't afford it. Why do you ignore the fact that government-run healthcare systems like the NHS prioritise patient needs over profits, leading to better health outcomes? Government-run healthcare systems like the NHS have proven to be more equitable, ensuring that everyone gets the care they need, not just those who can afford it. Public healthcare systems prioritise patient needs over profits, leading to better health outcomes and more timely care for everyone.",
+            "timestamp": "2025-10-08 13:47:50"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private healthcare providers consistently outperform government-run systems in providing timely and quality care to all patients, proving that market-driven systems can achieve universal coverage."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare systems ensure that everyone gets the care they need through competition and innovation, not just those who rely on government handouts."
+                ],
+                [
+                    "___Question___",
+                    "How do you explain the success of private healthcare systems in countries like Germany and the Netherlands, which achieve near-universal coverage without excluding those who can't pay?"
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare providers achieve near-universal coverage through regulated competition and mandatory insurance schemes, ensuring equitable access to quality services."
+                ],
+                [
+                    "___Why___",
+                    "Why do you think government-run systems can provide more timely care when they are bogged down by bureaucracy and inefficiency?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare providers consistently outperform government-run systems in providing timely and quality care to all patients, proving that market-driven systems can achieve universal coverage. Private healthcare systems ensure that everyone gets the care they need through competition and innovation, not just those who rely on government handouts. How do you explain the success of private healthcare systems in countries like Germany and the Netherlands, which achieve near-universal coverage without excluding those who can't pay? Private healthcare providers achieve near-universal coverage through regulated competition and mandatory insurance schemes, ensuring equitable access to quality services. Why do you think government-run systems can provide more timely care when they are bogged down by bureaucracy and inefficiency?",
+            "timestamp": "2025-10-08 13:57:57"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government-run systems can provide more timely care because they prioritise patient needs over profits, leading to better health outcomes and more efficient use of resources."
+                ],
+                [
+                    "___Claim___",
+                    "Equitable access to quality services is better achieved through government-run healthcare systems that prioritise patient needs over market competition."
+                ],
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems like the NHS have proven to be more equitable, ensuring that everyone gets the care they need, not just those who can afford it."
+                ],
+                [
+                    "___Claim___",
+                    "Public healthcare systems prioritise patient needs over profits, leading to better health outcomes and more timely care for everyone."
+                ],
+                [
+                    "___Claim___",
+                    "Government-run systems can provide more timely care because they reduce administrative costs and streamline patient care, ensuring equitable access to quality services."
+                ]
+            ],
+            "sentences_no_utterance_types": "Government-run systems can provide more timely care because they prioritise patient needs over profits, leading to better health outcomes and more efficient use of resources. Equitable access to quality services is better achieved through government-run healthcare systems that prioritise patient needs over market competition. Government-run healthcare systems like the NHS have proven to be more equitable, ensuring that everyone gets the care they need, not just those who can afford it. Public healthcare systems prioritise patient needs over profits, leading to better health outcomes and more timely care for everyone. Government-run systems can provide more timely care because they reduce administrative costs and streamline patient care, ensuring equitable access to quality services.",
+            "timestamp": "2025-10-08 14:08:20"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private healthcare providers consistently outperform government-run systems in providing timely and quality care to all patients, proving that market-driven systems can achieve universal coverage."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare systems ensure that everyone gets the care they need through competition and innovation, not just those who rely on government handouts."
+                ],
+                [
+                    "___Why___",
+                    "Why ignore the fact that private healthcare can offer more personalised and timely care, which government systems often fail to provide?"
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare providers consistently outperform government-run systems in providing timely and quality care to all patients."
+                ],
+                [
+                    "___Claim___",
+                    "Equitable access to quality services is better achieved through private healthcare systems that prioritise patient needs over government bureaucracy."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare providers consistently outperform government-run systems in providing timely and quality care to all patients, proving that market-driven systems can achieve universal coverage. Private healthcare systems ensure that everyone gets the care they need through competition and innovation, not just those who rely on government handouts. Why ignore the fact that private healthcare can offer more personalised and timely care, which government systems often fail to provide? Private healthcare providers consistently outperform government-run systems in providing timely and quality care to all patients. Equitable access to quality services is better achieved through private healthcare systems that prioritise patient needs over government bureaucracy.",
+            "timestamp": "2025-10-08 14:22:34"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems like the NHS prioritise patient needs over profits, leading to better health outcomes and more timely care for everyone."
+                ],
+                [
+                    "___Question___",
+                    "How can you claim private healthcare ensures equitable access when it prioritises profits over patient needs?"
+                ],
+                [
+                    "___Since___",
+                    "Government-run healthcare systems like the NHS prioritise patient needs over profits, leading to better health outcomes and more timely care for everyone."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare systems prioritise profits over patient care, leading to unequal access and lower quality services for those who can't afford it."
+                ],
+                [
+                    "___Question___",
+                    "How do you explain the fact that private healthcare providers often exclude those who can't pay, undermining equitable access to quality services?"
+                ],
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems like the NHS have proven to be more equitable, ensuring that everyone gets the care they need, not just those who can afford it."
+                ],
+                [
+                    "___Since___",
+                    "Private healthcare systems prioritise profits over patient care, leading to unequal access and lower quality services for those who can't afford it."
+                ]
+            ],
+            "sentences_no_utterance_types": "Government-run healthcare systems like the NHS prioritise patient needs over profits, leading to better health outcomes and more timely care for everyone. How can you claim private healthcare ensures equitable access when it prioritises profits over patient needs? Government-run healthcare systems like the NHS prioritise patient needs over profits, leading to better health outcomes and more timely care for everyone. Private healthcare systems prioritise profits over patient care, leading to unequal access and lower quality services for those who can't afford it. How do you explain the fact that private healthcare providers often exclude those who can't pay, undermining equitable access to quality services? Government-run healthcare systems like the NHS have proven to be more equitable, ensuring that everyone gets the care they need, not just those who can afford it. Private healthcare systems prioritise profits over patient care, leading to unequal access and lower quality services for those who can't afford it.",
+            "timestamp": "2025-10-08 14:30:32"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private healthcare providers consistently outperform government-run systems in providing timely and quality care to all patients, proving that market-driven systems can achieve universal coverage."
+                ],
+                [
+                    "___Since___",
+                    "Private healthcare providers achieve near-universal coverage in countries like Germany and the Netherlands, proving that market-driven systems can prioritise patient needs effectively."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare providers achieve near-universal coverage through regulated competition and mandatory insurance schemes, ensuring equitable access to quality services."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare providers ensure equitable access through regulated competition and mandatory insurance schemes, not by excluding those who can't pay."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare providers achieve near-universal coverage in countries like Germany and the Netherlands, proving that market-driven systems can prioritise patient needs effectively."
+                ],
+                [
+                    "___Since___",
+                    "Private healthcare providers achieve near-universal coverage through regulated competition and mandatory insurance schemes, ensuring equitable access to quality services."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare systems prioritise patient care through competition, leading to better health outcomes and more timely care for everyone."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare providers consistently outperform government-run systems in providing timely and quality care to all patients, proving that market-driven systems can achieve universal coverage. Private healthcare providers achieve near-universal coverage in countries like Germany and the Netherlands, proving that market-driven systems can prioritise patient needs effectively. Private healthcare providers achieve near-universal coverage through regulated competition and mandatory insurance schemes, ensuring equitable access to quality services. Private healthcare providers ensure equitable access through regulated competition and mandatory insurance schemes, not by excluding those who can't pay. Private healthcare providers achieve near-universal coverage in countries like Germany and the Netherlands, proving that market-driven systems can prioritise patient needs effectively. Private healthcare providers achieve near-universal coverage through regulated competition and mandatory insurance schemes, ensuring equitable access to quality services. Private healthcare systems prioritise patient care through competition, leading to better health outcomes and more timely care for everyone.",
+            "timestamp": "2025-10-08 14:39:00"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private healthcare systems prioritise profits over patient care, leading to unequal access and lower quality services for those who can't afford it."
+                ],
+                [
+                    "___Claim___",
+                    "Equitable access to quality services is better achieved through government-run healthcare systems that prioritise patient needs over market competition."
+                ],
+                [
+                    "___Claim___",
+                    "The so-called near-universal coverage in Germany and the Netherlands is achieved through significant government regulation and public funding, not just market forces."
+                ],
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems like the NHS prioritise patient needs over profits, leading to better health outcomes and more timely care for everyone."
+                ],
+                [
+                    "___Question___",
+                    "What evidence do you have that market-driven systems can achieve universal coverage without excluding those who can't pay?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare systems prioritise profits over patient care, leading to unequal access and lower quality services for those who can't afford it. Equitable access to quality services is better achieved through government-run healthcare systems that prioritise patient needs over market competition. The so-called near-universal coverage in Germany and the Netherlands is achieved through significant government regulation and public funding, not just market forces. Government-run healthcare systems like the NHS prioritise patient needs over profits, leading to better health outcomes and more timely care for everyone. What evidence do you have that market-driven systems can achieve universal coverage without excluding those who can't pay?",
+            "timestamp": "2025-10-08 14:45:12"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private healthcare systems prioritise patient needs through competition, leading to better health outcomes and more timely care for everyone."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare providers achieve near-universal coverage through regulated competition and mandatory insurance schemes, ensuring equitable access to quality services."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare providers consistently outperform government-run systems in providing timely and quality care to all patients."
+                ],
+                [
+                    "___Claim___",
+                    "Market-driven healthcare ensures that everyone gets the care they need through competition and innovation, not just those who rely on government handouts."
+                ],
+                [
+                    "___Claim___",
+                    "Equitable access to quality services is better achieved through private healthcare systems that prioritise patient needs over government bureaucracy."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare systems prioritise patient needs through competition, leading to better health outcomes and more timely care for everyone. Private healthcare providers achieve near-universal coverage through regulated competition and mandatory insurance schemes, ensuring equitable access to quality services. Private healthcare providers consistently outperform government-run systems in providing timely and quality care to all patients. Market-driven healthcare ensures that everyone gets the care they need through competition and innovation, not just those who rely on government handouts. Equitable access to quality services is better achieved through private healthcare systems that prioritise patient needs over government bureaucracy.",
+            "timestamp": "2025-10-08 14:53:42"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Question___",
+                    "How can you claim market-driven healthcare ensures everyone gets the care they need when it often excludes those who can't pay?"
+                ],
+                [
+                    "___Why___",
+                    "Why do you ignore the fact that government-run healthcare systems like the NHS prioritise patient needs over profits, leading to better health outcomes?"
+                ],
+                [
+                    "___Claim___",
+                    "Market-driven healthcare often excludes those who can't afford it, creating a two-tier system that undermines equitable access to quality services."
+                ],
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems like the NHS have proven to be more equitable, ensuring that everyone gets the care they need, not just those who can afford it."
+                ],
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems like the NHS prioritise patient needs over profits, ensuring that everyone gets the care they need, not just those who can afford it."
+                ]
+            ],
+            "sentences_no_utterance_types": "How can you claim market-driven healthcare ensures everyone gets the care they need when it often excludes those who can't pay? Why do you ignore the fact that government-run healthcare systems like the NHS prioritise patient needs over profits, leading to better health outcomes? Market-driven healthcare often excludes those who can't afford it, creating a two-tier system that undermines equitable access to quality services. Government-run healthcare systems like the NHS have proven to be more equitable, ensuring that everyone gets the care they need, not just those who can afford it. Government-run healthcare systems like the NHS prioritise patient needs over profits, ensuring that everyone gets the care they need, not just those who can afford it.",
+            "timestamp": "2025-10-08 15:00:22"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private healthcare systems achieve better health outcomes through competition and innovation, aligning profits with patient needs."
+                ],
+                [
+                    "___Claim___",
+                    "Market-driven healthcare prioritises patient needs through competition, leading to better health outcomes and more timely care for everyone."
+                ],
+                [
+                    "___Since___",
+                    "Private healthcare systems achieve better health outcomes through competition and innovation, aligning profits with patient needs."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare providers achieve near-universal coverage through regulated competition and mandatory insurance schemes, ensuring equitable access to quality services."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare providers consistently outperform government-run systems in providing timely and quality care to all patients."
+                ],
+                [
+                    "___Since___",
+                    "Market-driven healthcare ensures equitable access by aligning profits with patient needs, not by excluding those who can't pay."
+                ],
+                [
+                    "___Since___",
+                    "Private healthcare providers consistently outperform government-run systems in providing timely and quality care to all patients."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare systems achieve better health outcomes through competition and innovation, aligning profits with patient needs. Market-driven healthcare prioritises patient needs through competition, leading to better health outcomes and more timely care for everyone. Private healthcare systems achieve better health outcomes through competition and innovation, aligning profits with patient needs. Private healthcare providers achieve near-universal coverage through regulated competition and mandatory insurance schemes, ensuring equitable access to quality services. Private healthcare providers consistently outperform government-run systems in providing timely and quality care to all patients. Market-driven healthcare ensures equitable access by aligning profits with patient needs, not by excluding those who can't pay. Private healthcare providers consistently outperform government-run systems in providing timely and quality care to all patients.",
+            "timestamp": "2025-10-08 15:04:37"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why do you ignore the fact that government-run healthcare systems like the NHS prioritise patient needs over profits, leading to better health outcomes?"
+                ],
+                [
+                    "___Question___",
+                    "How can you claim private healthcare achieves better health outcomes when it prioritises profits over patient needs?"
+                ],
+                [
+                    "___Why___",
+                    "Why do you think aligning profits with patient needs leads to better health outcomes when it often excludes those who can't pay?"
+                ],
+                [
+                    "___Question___",
+                    "Why do you ignore the fact that government-run healthcare systems like the NHS prioritise patient needs over profits, leading to better health outcomes?"
+                ],
+                [
+                    "___Claim___",
+                    "Government-run healthcare systems like the NHS prioritise patient needs over profits, leading to better health outcomes and more timely care for everyone."
+                ],
+                [
+                    "___Claim___",
+                    "Market-driven healthcare prioritises profits over patient needs, creating a two-tier system that excludes those who can't pay."
+                ]
+            ],
+            "sentences_no_utterance_types": "Why do you ignore the fact that government-run healthcare systems like the NHS prioritise patient needs over profits, leading to better health outcomes? How can you claim private healthcare achieves better health outcomes when it prioritises profits over patient needs? Why do you think aligning profits with patient needs leads to better health outcomes when it often excludes those who can't pay? Why do you ignore the fact that government-run healthcare systems like the NHS prioritise patient needs over profits, leading to better health outcomes? Government-run healthcare systems like the NHS prioritise patient needs over profits, leading to better health outcomes and more timely care for everyone. Market-driven healthcare prioritises profits over patient needs, creating a two-tier system that excludes those who can't pay.",
+            "timestamp": "2025-10-08 15:11:09"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private healthcare achieves better health outcomes because competition drives innovation and efficiency, aligning profits with patient needs."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare providers achieve near-universal coverage through regulated competition, proving that aligning profits with patient needs can work without excluding those who can't pay."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare providers consistently outperform government-run systems in providing timely and quality care to all patients."
+                ],
+                [
+                    "___Claim___",
+                    "Market-driven healthcare ensures equitable access by aligning profits with patient needs, not by excluding those who can't pay."
+                ],
+                [
+                    "___Since___",
+                    "Private healthcare providers consistently outperform government-run systems in providing timely and quality care to all patients."
+                ],
+                [
+                    "___Since___",
+                    "Market-driven healthcare ensures equitable access by aligning profits with patient needs, not by excluding those who can't pay."
+                ],
+                [
+                    "___Claim___",
+                    "Market-driven healthcare ensures that resources are used effectively, reducing waste and improving the quality of care for everyone."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare achieves better health outcomes because competition drives innovation and efficiency, aligning profits with patient needs. Private healthcare providers achieve near-universal coverage through regulated competition, proving that aligning profits with patient needs can work without excluding those who can't pay. Private healthcare providers consistently outperform government-run systems in providing timely and quality care to all patients. Market-driven healthcare ensures equitable access by aligning profits with patient needs, not by excluding those who can't pay. Private healthcare providers consistently outperform government-run systems in providing timely and quality care to all patients. Market-driven healthcare ensures equitable access by aligning profits with patient needs, not by excluding those who can't pay. Market-driven healthcare ensures that resources are used effectively, reducing waste and improving the quality of care for everyone.",
+            "timestamp": "2025-10-08 15:16:39"
+        }
+    ],
+    "first_speaker": "mistral-medium_mas_rag",
+    "first_speaker_utterance": "",
+    "first_speaker_commitments": [
+        "Government intervention in healthcare is essential for ensuring that everyone, regardless of their income, has access to quality medical services.",
+        "Publicly funded healthcare systems prioritise patient needs over profits, leading to better overall health outcomes.",
+        "Efficient government-run healthcare systems can reduce administrative costs and streamline patient care.",
+        "The NHS provides timely care to millions of patients every year, ensuring that everyone gets the treatment they need when they need it.",
+        "Private healthcare systems often exclude those who can't pay, creating a two-tier system that undermines equitable access to quality services.",
+        "The NHS struggles with waiting times because it's been systematically underfunded and understaffed, not because government-run healthcare is inherently inefficient.",
+        "The so-called near-universal coverage in Germany and the Netherlands is achieved through significant government regulation and public funding, not just market forces."
+    ],
+    "first_speaker_original_claim": "Government intervention in healthcare is essential for ensuring that everyone, regardless of their income, has access to quality medical services.",
+    "first_speaker_typical_replies_for_second_speakers_response": [],
+    "second_speaker": "mistral-medium_mas",
+    "second_speaker_utterance": "Private healthcare achieves better health outcomes because competition drives innovation and efficiency, aligning profits with patient needs. Private healthcare providers achieve near-universal coverage through regulated competition, proving that aligning profits with patient needs can work without excluding those who can't pay. Private healthcare providers consistently outperform government-run systems in providing timely and quality care to all patients. Market-driven healthcare ensures equitable access by aligning profits with patient needs, not by excluding those who can't pay. Private healthcare providers consistently outperform government-run systems in providing timely and quality care to all patients. Market-driven healthcare ensures equitable access by aligning profits with patient needs, not by excluding those who can't pay. Market-driven healthcare ensures that resources are used effectively, reducing waste and improving the quality of care for everyone.",
+    "second_speaker_commitments": [
+        "Private healthcare providers can offer more efficient and higher quality services than government-run systems.",
+        "Government intervention in healthcare often results in long waiting times and bureaucratic inefficiencies that harm patients.",
+        "Private healthcare systems are driven by competition, which inherently leads to better patient care and innovation.",
+        "Private healthcare providers in countries like Germany and the Netherlands achieve near-universal coverage through regulated competition and mandatory insurance schemes.",
+        "The success of government-run healthcare systems in countries like Sweden and Denmark is often overstated and doesn't account for the unique cultural and demographic factors that contribute to their efficiency.",
+        "The NHS struggles to meet the needs of all patients, with many not receiving the treatment they need when they need it.",
+        "Equitable access to quality services is better achieved through private healthcare systems that prioritise patient needs over government bureaucracy.",
+        "Market-driven healthcare ensures that resources are used effectively, reducing waste and improving the quality of care for everyone."
+    ],
+    "second_speaker_original_claim": "Private healthcare providers can offer more efficient and higher quality services than government-run systems.",
+    "second_speaker_typical_replies_for_first_speakers_response": [],
+    "winner": "None",
+    "loser": "None",
+    "reason_for_dialogue_termination": {
+        "reason": "Maximum number of dialogue turns reached (40 dialogue turns).",
+        "utterance_type": null,
+        "utterance": null
+    },
+    "session_status": "Finished."
+}

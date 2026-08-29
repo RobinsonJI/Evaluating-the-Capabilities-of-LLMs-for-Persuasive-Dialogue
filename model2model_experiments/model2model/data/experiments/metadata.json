@@ -1,0 +1,16 @@
+{
+  "total_completed": 4,
+  "total_failed": 10,
+  "which_sessions_failed": [
+    "grok-4_mas:l__vs__grok-3_base:r",
+    "grok-3_mas:r__vs__grok-4_base:l",
+    "grok-4_mas:r__vs__gpt-4o_base:l",
+    "grok-3_mas:l__vs__grok-4_mas:r",
+    "mistral-medium_mas_rag:l__vs__grok-4_base:r",
+    "grok-4_base:l__vs__mistral-medium_base:r",
+    "grok-4_mas:r__vs__mistral-medium_base:l",
+    "grok-4_base:r__vs__grok-4_mas:l",
+    "grok-4_mas_rag:l__vs__grok-4_mas:r",
+    "grok-4_base:r__vs__gpt-4o_mas_rag:l"
+  ]
+}

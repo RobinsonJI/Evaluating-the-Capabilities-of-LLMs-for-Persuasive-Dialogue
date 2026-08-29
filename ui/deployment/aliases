@@ -1,0 +1,53 @@
+# Azure Container Apps - Persuasio/Persuasui Aliases
+# Add to ~/.zshrc: source /path/to/persuasui/deployment/aliases
+
+# Resource group defaults
+alias rg-aca="az configure --defaults group=aca-deployment"
+alias rg-containers="az configure --defaults group=Containers"
+
+# Log streaming (follow)
+alias logs-neo4j="az containerapp logs show --resource-group aca-deployment --name neo4j-app --follow"
+alias logs-persuasio="az containerapp logs show --resource-group aca-deployment --name persuasio-app --follow"
+alias logs-session="az containerapp logs show --resource-group aca-deployment --name session-manager-app --follow"
+alias logs-client="az containerapp logs show --resource-group aca-deployment --name client-app --follow"
+
+# Log tail (last 100 lines)
+alias tail-neo4j="az containerapp logs show --resource-group aca-deployment --name neo4j-app --tail 100"
+alias tail-persuasio="az containerapp logs show --resource-group aca-deployment --name persuasio-app --tail 100"
+alias tail-session="az containerapp logs show --resource-group aca-deployment --name session-manager-app --tail 100"
+alias tail-client="az containerapp logs show --resource-group aca-deployment --name client-app --tail 100"
+
+# Force restart (new revision)
+alias restart-neo4j="az containerapp update --resource-group aca-deployment --name neo4j-app --revision-suffix \$(date +%s)"
+alias restart-persuasio="az containerapp update --resource-group aca-deployment --name persuasio-app --revision-suffix \$(date +%s)"
+alias restart-session="az containerapp update --resource-group aca-deployment --name session-manager-app --revision-suffix \$(date +%s)"
+alias restart-client="az containerapp update --resource-group aca-deployment --name client-app --revision-suffix \$(date +%s)"
+alias restart-all="az containerapp update --resource-group aca-deployment --name neo4j-app --revision-suffix \$(date +%s) && az containerapp update --resource-group aca-deployment --name persuasio-app --revision-suffix \$(date +%s) && az containerapp update --resource-group aca-deployment --name session-manager-app --revision-suffix \$(date +%s) && az containerapp update --resource-group aca-deployment --name client-app --revision-suffix \$(date +%s)"
+
+# Scale to zero
+alias down-neo4j="az containerapp scale set --resource-group aca-deployment --name neo4j-app --min-replicas 0 --max-replicas 0"
+alias down-persuasio="az containerapp scale set --resource-group aca-deployment --name persuasio-app --min-replicas 0 --max-replicas 0"
+alias down-session="az containerapp scale set --resource-group aca-deployment --name session-manager-app --min-replicas 0 --max-replicas 0"
+alias down-client="az containerapp scale set --resource-group aca-deployment --name client-app --min-replicas 0 --max-replicas 0"
+alias down-all="az containerapp scale set --resource-group aca-deployment --name neo4j-app --min-replicas 0 --max-replicas 0 && az containerapp scale set --resource-group aca-deployment --name persuasio-app --min-replicas 0 --max-replicas 0 && az containerapp scale set --resource-group aca-deployment --name session-manager-app --min-replicas 0 --max-replicas 0 && az containerapp scale set --resource-group aca-deployment --name client-app --min-replicas 0 --max-replicas 0"
+
+# Scale up (to 1)
+alias up-neo4j="az containerapp scale set --resource-group aca-deployment --name neo4j-app --min-replicas 1 --max-replicas 1"
+alias up-persuasio="az containerapp scale set --resource-group aca-deployment --name persuasio-app --min-replicas 1 --max-replicas 1"
+alias up-session="az containerapp scale set --resource-group aca-deployment --name session-manager-app --min-replicas 1 --max-replicas 1"
+alias up-client="az containerapp scale set --resource-group aca-deployment --name client-app --min-replicas 1 --max-replicas 1" 
+alias up-all="az containerapp scale set --resource-group aca-deployment --name neo4j-app --min-replicas 1 --max-replicas 1 && az containerapp scale set --resource-group aca-deployment --name persuasio-app --min-replicas 1 --max-replicas 1 && az containerapp scale set --resource-group aca-deployment --name session-manager-app --min-replicas 1 --max-replicas 1 && az containerapp scale set --resource-group aca-deployment --name client-app --min-replicas 1 --max-replicas 1"
+
+# Container registry login
+alias acr-neo4j8gb="az acr login --name neo4j8gbregistry --resource-group aca-deployment"
+alias acr-persuasio="az acr login --name dsopersuasiobackend --resource-group Containers"
+alias acr-session="az acr login --name dsopersuasuisessionmanager --resource-group Containers"
+alias acr-client="az acr login --name dsopersuasuiclient --resource-group Containers"
+alias acr-neo4j="az acr login --name dsopersuasioneo4j --resource-group Containers"
+alias acr-all="az acr login --name neo4j8gbregistry --resource-group aca-deployment && az acr login --name dsopersuasiobackend --resource-group Containers && az acr login --name dsopersuasuisessionmanager --resource-group Containers && az acr login --name dsopersuasuiclient --resource-group Containers && az acr login --name dsopersuasioneo4j --resource-group Containers"
+
+# Postgres 
+alias restart-psql-persuasio="az postgres flexible-server restart --resource-group aca-deployment --name psql-persuasio"
+alias restart-psql-session="az postgres flexible-server restart --resource-group aca-deployment --name psql-session-manager"
+alias restart-psql-logs="az postgres flexible-server restart --resource-group aca-deployment --name psql-logs"
+alias restart-psql-all="az postgres flexible-server restart --resource-group aca-deployment --name psql-persuasio && az postgres flexible-server restart --resource-group aca-deployment --name psql-session-manager && az postgres flexible-server restart --resource-group aca-deployment --name psql-logs"

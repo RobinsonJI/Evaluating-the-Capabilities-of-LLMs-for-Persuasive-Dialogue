@@ -1,0 +1,1097 @@
+{
+    "dialogue_history": [
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Welfare systems under heavy government oversight create dependency rather than empowering individuals to succeed."
+                ]
+            ],
+            "sentences_no_utterance_types": "Welfare systems under heavy government oversight create dependency rather than empowering individuals to succeed.",
+            "timestamp": "2025-10-08 17:24:48"
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Welfare systems under government oversight provide essential support to those in need and create opportunities for individuals to rebuild their lives."
+                ],
+                [
+                    "___Claim___",
+                    "Heavy oversight ensures accountability and prevents misuse, which ultimately benefits society as a whole."
+                ]
+            ],
+            "sentences_no_utterance_types": "Welfare systems under government oversight provide essential support to those in need and create opportunities for individuals to rebuild their lives. Heavy oversight ensures accountability and prevents misuse, which ultimately benefits society as a whole.",
+            "timestamp": "2025-10-08 17:24:51"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Society suffers when heavy oversight prioritises control over trust, eroding individual freedoms and stalling progress."
+                ],
+                [
+                    "___Claim___",
+                    "Excessive government control often leads to inefficiency and corruption, undermining the very accountability it claims to ensure."
+                ],
+                [
+                    "___Claim___",
+                    "Government-controlled welfare systems stifle personal initiative and discourage self-reliance."
+                ],
+                [
+                    "___Question___",
+                    "How does heavy oversight prevent misuse without creating inefficiencies or dependency?"
+                ],
+                [
+                    "___Why___",
+                    "Why should society prioritise preventing misuse over fostering independence?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Society suffers when heavy oversight prioritises control over trust, eroding individual freedoms and stalling progress. Excessive government control often leads to inefficiency and corruption, undermining the very accountability it claims to ensure. Government-controlled welfare systems stifle personal initiative and discourage self-reliance. How does heavy oversight prevent misuse without creating inefficiencies or dependency? Why should society prioritise preventing misuse over fostering independence?",
+            "timestamp": "2025-10-08 17:24:59"
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Heavy oversight prevents misuse by ensuring that resources are allocated to those who genuinely need them, rather than being exploited or wasted."
+                ],
+                [
+                    "___Claim___",
+                    "Dependency is not an inevitable outcome; well-designed systems can include measures to encourage self-reliance, such as training programmes and employment support."
+                ],
+                [
+                    "___Claim___",
+                    "Fostering independence is important, but it cannot come at the cost of leaving vulnerable individuals without a safety net."
+                ],
+                [
+                    "___Claim___",
+                    "Accountability is essential to maintain public trust and ensure fairness, which ultimately strengthens society as a whole."
+                ],
+                [
+                    "___Claim___",
+                    "Without oversight, inefficiency and corruption are far more likely to thrive unchecked."
+                ]
+            ],
+            "sentences_no_utterance_types": "Heavy oversight prevents misuse by ensuring that resources are allocated to those who genuinely need them, rather than being exploited or wasted. Dependency is not an inevitable outcome; well-designed systems can include measures to encourage self-reliance, such as training programmes and employment support. Fostering independence is important, but it cannot come at the cost of leaving vulnerable individuals without a safety net. Accountability is essential to maintain public trust and ensure fairness, which ultimately strengthens society as a whole. Without oversight, inefficiency and corruption are far more likely to thrive unchecked.",
+            "timestamp": "2025-10-08 17:25:04"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Fostering independence is more important than maintaining a safety net that risks trapping people in cycles of dependency."
+                ],
+                [
+                    "___Why___",
+                    "Why is the cost of leaving vulnerable individuals without a safety net greater than the societal cost of dependency?"
+                ],
+                [
+                    "___Why___",
+                    "Why should fostering independence be deprioritised when it could reduce long-term reliance on welfare systems?"
+                ],
+                [
+                    "___Question___",
+                    "How does heavy oversight guarantee fairness without stifling innovation or personal responsibility?"
+                ],
+                [
+                    "___Claim___",
+                    "Heavy oversight often breeds inefficiency and corruption, as it prioritises control over effective solutions."
+                ]
+            ],
+            "sentences_no_utterance_types": "Fostering independence is more important than maintaining a safety net that risks trapping people in cycles of dependency. Why is the cost of leaving vulnerable individuals without a safety net greater than the societal cost of dependency? Why should fostering independence be deprioritised when it could reduce long-term reliance on welfare systems? How does heavy oversight guarantee fairness without stifling innovation or personal responsibility? Heavy oversight often breeds inefficiency and corruption, as it prioritises control over effective solutions.",
+            "timestamp": "2025-10-08 17:25:28"
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "The cost of leaving vulnerable individuals without a safety net is greater because it risks creating a society where inequality deepens and those in need are left to fend for themselves, which undermines social cohesion."
+                ],
+                [
+                    "___Since___",
+                    "Fostering independence is not deprioritised; well-designed welfare systems actively include measures like training and employment support to encourage self-reliance."
+                ],
+                [
+                    "___Since___",
+                    "Heavy oversight guarantees fairness by ensuring resources are distributed equitably and preventing exploitation, which strengthens trust in the system."
+                ],
+                [
+                    "___Claim___",
+                    "Innovation and personal responsibility are not stifled when oversight is balanced with programmes that empower individuals to succeed."
+                ],
+                [
+                    "___Claim___",
+                    "Inefficiency and corruption are far more likely in systems with minimal oversight, where accountability is weak and misuse goes unchecked."
+                ]
+            ],
+            "sentences_no_utterance_types": "The cost of leaving vulnerable individuals without a safety net is greater because it risks creating a society where inequality deepens and those in need are left to fend for themselves, which undermines social cohesion. Fostering independence is not deprioritised; well-designed welfare systems actively include measures like training and employment support to encourage self-reliance. Heavy oversight guarantees fairness by ensuring resources are distributed equitably and preventing exploitation, which strengthens trust in the system. Innovation and personal responsibility are not stifled when oversight is balanced with programmes that empower individuals to succeed. Inefficiency and corruption are far more likely in systems with minimal oversight, where accountability is weak and misuse goes unchecked.",
+            "timestamp": "2025-10-08 17:25:34"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why should minimal oversight be dismissed as ineffective when it could reduce bureaucratic inefficiencies?"
+                ],
+                [
+                    "___Claim___",
+                    "Personal responsibility is undermined when individuals are overly reliant on government programmes, regardless of their intent to empower."
+                ],
+                [
+                    "___Question___",
+                    "How do training programmes and employment support ensure independence without creating long-term reliance on government systems?"
+                ],
+                [
+                    "___Claim___",
+                    "Oversight, even when balanced, inevitably stifles innovation by imposing rigid frameworks that limit creative solutions."
+                ],
+                [
+                    "___Claim___",
+                    "Minimal oversight encourages streamlined processes and reduces bureaucratic inefficiencies that often plague heavily controlled systems."
+                ]
+            ],
+            "sentences_no_utterance_types": "Why should minimal oversight be dismissed as ineffective when it could reduce bureaucratic inefficiencies? Personal responsibility is undermined when individuals are overly reliant on government programmes, regardless of their intent to empower. How do training programmes and employment support ensure independence without creating long-term reliance on government systems? Oversight, even when balanced, inevitably stifles innovation by imposing rigid frameworks that limit creative solutions. Minimal oversight encourages streamlined processes and reduces bureaucratic inefficiencies that often plague heavily controlled systems.",
+            "timestamp": "2025-10-08 17:26:02"
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Minimal oversight is dismissed as ineffective because it fails to address the risks of exploitation and inequitable resource distribution, which ultimately harm those in genuine need."
+                ],
+                [
+                    "___Since___",
+                    "Training programmes and employment support ensure independence by equipping individuals with skills and opportunities to enter the workforce, reducing reliance on welfare systems over time."
+                ],
+                [
+                    "___Claim___",
+                    "Balanced oversight does not stifle innovation; it creates a framework where creative solutions can thrive while maintaining accountability and fairness."
+                ],
+                [
+                    "___Claim___",
+                    "Streamlined processes are important, but without proper checks, they can lead to unchecked misuse and inefficiency."
+                ],
+                [
+                    "___Claim___",
+                    "Heavy oversight ensures that the system works for everyone, not just those who exploit loopholes or benefit from reduced accountability."
+                ]
+            ],
+            "sentences_no_utterance_types": "Minimal oversight is dismissed as ineffective because it fails to address the risks of exploitation and inequitable resource distribution, which ultimately harm those in genuine need. Training programmes and employment support ensure independence by equipping individuals with skills and opportunities to enter the workforce, reducing reliance on welfare systems over time. Balanced oversight does not stifle innovation; it creates a framework where creative solutions can thrive while maintaining accountability and fairness. Streamlined processes are important, but without proper checks, they can lead to unchecked misuse and inefficiency. Heavy oversight ensures that the system works for everyone, not just those who exploit loopholes or benefit from reduced accountability.",
+            "timestamp": "2025-10-08 17:26:07"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Question___",
+                    "Why should streamlined processes be considered less effective than heavily regulated systems when they reduce bureaucratic delays?"
+                ],
+                [
+                    "___Claim___",
+                    "Streamlined processes are vital because excessive checks often create bottlenecks that cripple efficiency."
+                ],
+                [
+                    "___Claim___",
+                    "Creative solutions are more likely to thrive in systems with minimal oversight, where flexibility and autonomy are prioritised."
+                ],
+                [
+                    "___Claim___",
+                    "Heavy oversight creates a system that is bogged down by bureaucracy, making it less effective for everyone involved."
+                ],
+                [
+                    "___Claim___",
+                    "Heavy oversight often ends up punishing those in genuine need while failing to address the root causes of exploitation."
+                ]
+            ],
+            "sentences_no_utterance_types": "Why should streamlined processes be considered less effective than heavily regulated systems when they reduce bureaucratic delays? Streamlined processes are vital because excessive checks often create bottlenecks that cripple efficiency. Creative solutions are more likely to thrive in systems with minimal oversight, where flexibility and autonomy are prioritised. Heavy oversight creates a system that is bogged down by bureaucracy, making it less effective for everyone involved. Heavy oversight often ends up punishing those in genuine need while failing to address the root causes of exploitation.",
+            "timestamp": "2025-10-08 17:26:29"
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Streamlined processes might reduce delays, but they often sacrifice fairness and accountability, which are crucial for a system that supports those in genuine need."
+                ],
+                [
+                    "___Claim___",
+                    "Heavy oversight ensures that resources are distributed equitably and prevents exploitation, which streamlined systems fail to address effectively."
+                ],
+                [
+                    "___Claim___",
+                    "Creative solutions can still thrive within a regulated framework that prioritises fairness and accountability."
+                ],
+                [
+                    "___Claim___",
+                    "Bureaucracy is a challenge, but it is a necessary safeguard against misuse and inequity."
+                ],
+                [
+                    "___Claim___",
+                    "Heavy oversight does not punish those in need; it protects them by ensuring the system is not exploited by those who would take advantage of minimal checks."
+                ]
+            ],
+            "sentences_no_utterance_types": "Streamlined processes might reduce delays, but they often sacrifice fairness and accountability, which are crucial for a system that supports those in genuine need. Heavy oversight ensures that resources are distributed equitably and prevents exploitation, which streamlined systems fail to address effectively. Creative solutions can still thrive within a regulated framework that prioritises fairness and accountability. Bureaucracy is a challenge, but it is a necessary safeguard against misuse and inequity. Heavy oversight does not punish those in need; it protects them by ensuring the system is not exploited by those who would take advantage of minimal checks.",
+            "timestamp": "2025-10-08 17:26:35"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Heavy oversight punishes those in need by creating barriers that make accessing support unnecessarily difficult."
+                ],
+                [
+                    "___Claim___",
+                    "Heavy oversight often leads to misallocation of resources and creates opportunities for exploitation through bureaucratic loopholes."
+                ],
+                [
+                    "___Claim___",
+                    "Bureaucracy is not a safeguard; it is a barrier that slows down progress and wastes resources."
+                ],
+                [
+                    "___Claim___",
+                    "Creative solutions are far more likely to emerge in systems with minimal regulation, where autonomy and adaptability are prioritised."
+                ],
+                [
+                    "___Claim___",
+                    "Streamlined processes reduce delays and improve efficiency without sacrificing fairness or accountability."
+                ]
+            ],
+            "sentences_no_utterance_types": "Heavy oversight punishes those in need by creating barriers that make accessing support unnecessarily difficult. Heavy oversight often leads to misallocation of resources and creates opportunities for exploitation through bureaucratic loopholes. Bureaucracy is not a safeguard; it is a barrier that slows down progress and wastes resources. Creative solutions are far more likely to emerge in systems with minimal regulation, where autonomy and adaptability are prioritised. Streamlined processes reduce delays and improve efficiency without sacrificing fairness or accountability.",
+            "timestamp": "2025-10-08 17:27:03"
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Heavy oversight does not punish those in need; it ensures that resources are allocated fairly and prevents exploitation by those who would abuse the system."
+                ],
+                [
+                    "___Claim___",
+                    "Misallocation of resources is far more likely in systems with minimal regulation, where accountability is weak and oversight is absent."
+                ],
+                [
+                    "___Claim___",
+                    "Bureaucracy may slow processes, but it is a necessary mechanism to maintain fairness and prevent misuse."
+                ],
+                [
+                    "___Claim___",
+                    "Creative solutions can still emerge within regulated systems that prioritise equity and accountability."
+                ],
+                [
+                    "___Claim___",
+                    "Streamlined processes often sacrifice fairness, which is essential for supporting those in genuine need."
+                ]
+            ],
+            "sentences_no_utterance_types": "Heavy oversight does not punish those in need; it ensures that resources are allocated fairly and prevents exploitation by those who would abuse the system. Misallocation of resources is far more likely in systems with minimal regulation, where accountability is weak and oversight is absent. Bureaucracy may slow processes, but it is a necessary mechanism to maintain fairness and prevent misuse. Creative solutions can still emerge within regulated systems that prioritise equity and accountability. Streamlined processes often sacrifice fairness, which is essential for supporting those in genuine need.",
+            "timestamp": "2025-10-08 17:27:08"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Oversight-heavy systems are more prone to resource misallocation because rigid frameworks prevent timely and effective responses to changing circumstances."
+                ],
+                [
+                    "___Claim___",
+                    "Heavy oversight punishes those in need by creating unnecessary barriers to accessing support."
+                ],
+                [
+                    "___Claim___",
+                    "Accountability is often undermined in heavily regulated systems, where complex rules obscure transparency and allow exploitation to thrive."
+                ],
+                [
+                    "___Claim___",
+                    "Bureaucracy slows processes and creates inefficiencies that harm those it claims to protect."
+                ],
+                [
+                    "___Claim___",
+                    "Fairness is better achieved through efficiency, as streamlined systems ensure quicker access to essential support."
+                ]
+            ],
+            "sentences_no_utterance_types": "Oversight-heavy systems are more prone to resource misallocation because rigid frameworks prevent timely and effective responses to changing circumstances. Heavy oversight punishes those in need by creating unnecessary barriers to accessing support. Accountability is often undermined in heavily regulated systems, where complex rules obscure transparency and allow exploitation to thrive. Bureaucracy slows processes and creates inefficiencies that harm those it claims to protect. Fairness is better achieved through efficiency, as streamlined systems ensure quicker access to essential support.",
+            "timestamp": "2025-10-08 17:27:34"
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Resource misallocation is more likely in systems with minimal oversight, where there are fewer checks to ensure fairness and proper allocation."
+                ],
+                [
+                    "___Claim___",
+                    "Heavy oversight does not create barriers; it ensures that support reaches those who genuinely need it by preventing exploitation."
+                ],
+                [
+                    "___Claim___",
+                    "Complex rules are necessary to maintain transparency and accountability, which minimal oversight fails to achieve."
+                ],
+                [
+                    "___Claim___",
+                    "Bureaucracy may slow processes, but it is a safeguard against misuse and inequity."
+                ],
+                [
+                    "___Claim___",
+                    "Efficiency alone cannot guarantee fairness, as streamlined systems often overlook the needs of the most vulnerable."
+                ]
+            ],
+            "sentences_no_utterance_types": "Resource misallocation is more likely in systems with minimal oversight, where there are fewer checks to ensure fairness and proper allocation. Heavy oversight does not create barriers; it ensures that support reaches those who genuinely need it by preventing exploitation. Complex rules are necessary to maintain transparency and accountability, which minimal oversight fails to achieve. Bureaucracy may slow processes, but it is a safeguard against misuse and inequity. Efficiency alone cannot guarantee fairness, as streamlined systems often overlook the needs of the most vulnerable.",
+            "timestamp": "2025-10-08 17:27:40"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Fairness is best achieved through efficiency, as it prioritises timely and equitable access to essential resources."
+                ],
+                [
+                    "___Why___",
+                    "Why should accountability rely on rigid frameworks instead of streamlined systems that promote clarity and efficiency?"
+                ],
+                [
+                    "___Claim___",
+                    "Heavy oversight creates barriers that delay support and leave those in need struggling to access help."
+                ],
+                [
+                    "___Claim___",
+                    "Excessive regulation often prevents resources from reaching those who need them most by bogging the system down in bureaucracy."
+                ],
+                [
+                    "___Claim___",
+                    "Streamlined systems are more effective at addressing the needs of the vulnerable by eliminating bureaucratic barriers that slow down support."
+                ]
+            ],
+            "sentences_no_utterance_types": "Fairness is best achieved through efficiency, as it prioritises timely and equitable access to essential resources. Why should accountability rely on rigid frameworks instead of streamlined systems that promote clarity and efficiency? Heavy oversight creates barriers that delay support and leave those in need struggling to access help. Excessive regulation often prevents resources from reaching those who need them most by bogging the system down in bureaucracy. Streamlined systems are more effective at addressing the needs of the vulnerable by eliminating bureaucratic barriers that slow down support.",
+            "timestamp": "2025-10-08 17:28:09"
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Accountability relies on structured frameworks because they ensure fairness and prevent exploitation, which streamlined systems often fail to address."
+                ],
+                [
+                    "___Claim___",
+                    "Heavy oversight does not delay support; it ensures that resources are allocated to those who genuinely need them, rather than being misused."
+                ],
+                [
+                    "___Claim___",
+                    "Excessive regulation is not the issue; the problem lies in poorly implemented systems that fail to balance efficiency with fairness."
+                ],
+                [
+                    "___Claim___",
+                    "Streamlined systems may be quicker, but they often sacrifice equity, leaving the most vulnerable without adequate support."
+                ],
+                [
+                    "___Claim___",
+                    "Fairness cannot be achieved through speed alone; it requires mechanisms that prioritise equitable distribution and accountability."
+                ]
+            ],
+            "sentences_no_utterance_types": "Accountability relies on structured frameworks because they ensure fairness and prevent exploitation, which streamlined systems often fail to address. Heavy oversight does not delay support; it ensures that resources are allocated to those who genuinely need them, rather than being misused. Excessive regulation is not the issue; the problem lies in poorly implemented systems that fail to balance efficiency with fairness. Streamlined systems may be quicker, but they often sacrifice equity, leaving the most vulnerable without adequate support. Fairness cannot be achieved through speed alone; it requires mechanisms that prioritise equitable distribution and accountability.",
+            "timestamp": "2025-10-08 17:28:14"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Question___",
+                    "Why should equity be prioritised over efficiency when delays in support can harm the vulnerable?"
+                ],
+                [
+                    "___Claim___",
+                    "Excessive oversight prioritises control over efficiency, causing delays that harm the very people it claims to protect."
+                ],
+                [
+                    "___Claim___",
+                    "Excessive regulation is the issue because it suffocates efficiency and creates unnecessary barriers to fairness."
+                ],
+                [
+                    "___Question___",
+                    "Why should heavy oversight be trusted to ensure timely allocation of resources when bureaucracy often causes delays?"
+                ],
+                [
+                    "___Claim___",
+                    "Equity is strengthened in streamlined systems as they focus on timely and fair resource allocation without bureaucratic hurdles."
+                ]
+            ],
+            "sentences_no_utterance_types": "Why should equity be prioritised over efficiency when delays in support can harm the vulnerable? Excessive oversight prioritises control over efficiency, causing delays that harm the very people it claims to protect. Excessive regulation is the issue because it suffocates efficiency and creates unnecessary barriers to fairness. Why should heavy oversight be trusted to ensure timely allocation of resources when bureaucracy often causes delays? Equity is strengthened in streamlined systems as they focus on timely and fair resource allocation without bureaucratic hurdles.",
+            "timestamp": "2025-10-08 17:28:40"
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Equity should be prioritised because without it, efficiency risks leaving the most vulnerable behind, which undermines the purpose of welfare systems."
+                ],
+                [
+                    "___Claim___",
+                    "Delays caused by oversight are a challenge, but they are necessary to ensure resources are allocated fairly and not exploited."
+                ],
+                [
+                    "___Claim___",
+                    "Excessive regulation is not the root issue; poorly designed systems are."
+                ],
+                [
+                    "___Claim___",
+                    "Heavy oversight ensures accountability and fairness, which streamlined systems often fail to guarantee."
+                ],
+                [
+                    "___Claim___",
+                    "Streamlined systems may be quicker, but they frequently overlook the complexities of equitable distribution, leaving gaps in support for those who need it most."
+                ]
+            ],
+            "sentences_no_utterance_types": "Equity should be prioritised because without it, efficiency risks leaving the most vulnerable behind, which undermines the purpose of welfare systems. Delays caused by oversight are a challenge, but they are necessary to ensure resources are allocated fairly and not exploited. Excessive regulation is not the root issue; poorly designed systems are. Heavy oversight ensures accountability and fairness, which streamlined systems often fail to guarantee. Streamlined systems may be quicker, but they frequently overlook the complexities of equitable distribution, leaving gaps in support for those who need it most.",
+            "timestamp": "2025-10-08 17:28:46"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Streamlined systems guarantee fairness by eliminating bureaucratic inefficiencies that delay support for those in need."
+                ],
+                [
+                    "___Claim___",
+                    "Accountability and fairness are better achieved through efficient systems that prioritise clarity and timely resource allocation."
+                ],
+                [
+                    "___Question___",
+                    "Why should delays caused by oversight be considered necessary when they risk leaving vulnerable individuals without timely support?"
+                ],
+                [
+                    "___Why___",
+                    "Why is excessive regulation dismissed as a secondary issue when it consistently suffocates efficiency and fairness?"
+                ],
+                [
+                    "___Why___",
+                    "Why should accountability and fairness rely on heavy oversight when streamlined systems can achieve the same without delays?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Streamlined systems guarantee fairness by eliminating bureaucratic inefficiencies that delay support for those in need. Accountability and fairness are better achieved through efficient systems that prioritise clarity and timely resource allocation. Why should delays caused by oversight be considered necessary when they risk leaving vulnerable individuals without timely support? Why is excessive regulation dismissed as a secondary issue when it consistently suffocates efficiency and fairness? Why should accountability and fairness rely on heavy oversight when streamlined systems can achieve the same without delays?",
+            "timestamp": "2025-10-08 17:29:11"
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Delays caused by oversight are necessary to ensure fairness and prevent exploitation, which streamlined systems often fail to address."
+                ],
+                [
+                    "___Claim___",
+                    "Excessive regulation is not the core problem; it is poorly designed systems that fail to balance efficiency with equity."
+                ],
+                [
+                    "___Since___",
+                    "Heavy oversight guarantees accountability and fairness by ensuring resources are distributed equitably, which streamlined systems cannot reliably achieve."
+                ],
+                [
+                    "___Claim___",
+                    "Streamlined systems may be quicker, but they often sacrifice fairness, leaving the most vulnerable without adequate support."
+                ],
+                [
+                    "___Claim___",
+                    "Accountability and fairness require structured frameworks, not just speed, to protect those in genuine need."
+                ]
+            ],
+            "sentences_no_utterance_types": "Delays caused by oversight are necessary to ensure fairness and prevent exploitation, which streamlined systems often fail to address. Excessive regulation is not the core problem; it is poorly designed systems that fail to balance efficiency with equity. Heavy oversight guarantees accountability and fairness by ensuring resources are distributed equitably, which streamlined systems cannot reliably achieve. Streamlined systems may be quicker, but they often sacrifice fairness, leaving the most vulnerable without adequate support. Accountability and fairness require structured frameworks, not just speed, to protect those in genuine need.",
+            "timestamp": "2025-10-08 17:29:16"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Speed is essential to protect the vulnerable, as delays caused by rigid frameworks can leave them without critical resources."
+                ],
+                [
+                    "___Claim___",
+                    "Accountability and fairness are better achieved through streamlined systems that eliminate unnecessary bureaucracy."
+                ],
+                [
+                    "___Why___",
+                    "Why should speed be deprioritised when delays in support can harm the vulnerable?"
+                ],
+                [
+                    "___Question___",
+                    "Why should heavy oversight be trusted to guarantee fairness when it often creates delays that harm those in need?"
+                ],
+                [
+                    "___Claim___",
+                    "Excessive regulation is the core problem because it stifles efficiency and creates unnecessary barriers to fairness."
+                ]
+            ],
+            "sentences_no_utterance_types": "Speed is essential to protect the vulnerable, as delays caused by rigid frameworks can leave them without critical resources. Accountability and fairness are better achieved through streamlined systems that eliminate unnecessary bureaucracy. Why should speed be deprioritised when delays in support can harm the vulnerable? Why should heavy oversight be trusted to guarantee fairness when it often creates delays that harm those in need? Excessive regulation is the core problem because it stifles efficiency and creates unnecessary barriers to fairness.",
+            "timestamp": "2025-10-08 17:29:43"
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Speed is important, but it cannot come at the expense of fairness and accountability, which are essential to protect the most vulnerable."
+                ],
+                [
+                    "___Claim___",
+                    "Heavy oversight ensures that resources are distributed equitably and prevents exploitation, which streamlined systems often fail to address."
+                ],
+                [
+                    "___Claim___",
+                    "Delays caused by oversight are a necessary safeguard to ensure that support reaches those who genuinely need it."
+                ],
+                [
+                    "___Claim___",
+                    "Excessive regulation is not the core problem; the issue lies in poorly designed systems that fail to balance efficiency with equity."
+                ],
+                [
+                    "___Claim___",
+                    "Streamlined systems may be quicker, but they frequently overlook the complexities of equitable distribution, leaving gaps in support for those who need it most."
+                ]
+            ],
+            "sentences_no_utterance_types": "Speed is important, but it cannot come at the expense of fairness and accountability, which are essential to protect the most vulnerable. Heavy oversight ensures that resources are distributed equitably and prevents exploitation, which streamlined systems often fail to address. Delays caused by oversight are a necessary safeguard to ensure that support reaches those who genuinely need it. Excessive regulation is not the core problem; the issue lies in poorly designed systems that fail to balance efficiency with equity. Streamlined systems may be quicker, but they frequently overlook the complexities of equitable distribution, leaving gaps in support for those who need it most.",
+            "timestamp": "2025-10-08 17:29:48"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why should delays be considered necessary when they risk leaving vulnerable individuals without timely support?"
+                ],
+                [
+                    "___Claim___",
+                    "Oversight delays often hinder rather than safeguard the delivery of essential resources to vulnerable individuals."
+                ],
+                [
+                    "___Why___",
+                    "Why should protecting the vulnerable rely on slower systems when streamlined approaches could achieve the same outcomes more efficiently?"
+                ],
+                [
+                    "___Claim___",
+                    "Excessive regulation is the core problem because it suffocates efficiency and creates barriers to equity."
+                ],
+                [
+                    "___Claim___",
+                    "Equity is better achieved through streamlined systems that focus on timely and fair resource allocation without unnecessary oversight."
+                ]
+            ],
+            "sentences_no_utterance_types": "Why should delays be considered necessary when they risk leaving vulnerable individuals without timely support? Oversight delays often hinder rather than safeguard the delivery of essential resources to vulnerable individuals. Why should protecting the vulnerable rely on slower systems when streamlined approaches could achieve the same outcomes more efficiently? Excessive regulation is the core problem because it suffocates efficiency and creates barriers to equity. Equity is better achieved through streamlined systems that focus on timely and fair resource allocation without unnecessary oversight.",
+            "timestamp": "2025-10-08 17:30:24"
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Delays are necessary to ensure fairness and prevent exploitation, which streamlined systems often fail to address."
+                ],
+                [
+                    "___Claim___",
+                    "Protecting the vulnerable cannot rely solely on speed, as rushed systems risk misallocating resources and leaving gaps in support."
+                ],
+                [
+                    "___Claim___",
+                    "Excessive regulation is not the core problem; poorly designed systems are."
+                ],
+                [
+                    "___Claim___",
+                    "Equity requires structured oversight to guarantee that resources reach those who genuinely need them, not just those who benefit from faster processes."
+                ],
+                [
+                    "___Claim___",
+                    "Streamlined systems often sacrifice fairness for speed, which undermines their ability to protect the most vulnerable effectively."
+                ]
+            ],
+            "sentences_no_utterance_types": "Delays are necessary to ensure fairness and prevent exploitation, which streamlined systems often fail to address. Protecting the vulnerable cannot rely solely on speed, as rushed systems risk misallocating resources and leaving gaps in support. Excessive regulation is not the core problem; poorly designed systems are. Equity requires structured oversight to guarantee that resources reach those who genuinely need them, not just those who benefit from faster processes. Streamlined systems often sacrifice fairness for speed, which undermines their ability to protect the most vulnerable effectively.",
+            "timestamp": "2025-10-08 17:30:30"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why should protecting the vulnerable rely on slower systems when speed could ensure timely support without gaps?"
+                ],
+                [
+                    "___Claim___",
+                    "Excessive regulation consistently undermines the effectiveness of welfare systems by prioritising control over adaptability."
+                ],
+                [
+                    "___Claim___",
+                    "Speed is the most critical factor in protecting the vulnerable, as delays risk leaving them without essential support."
+                ],
+                [
+                    "___Why___",
+                    "Why is fairness assumed to require delays rather than efficient systems that can achieve equitable outcomes?"
+                ],
+                [
+                    "___Claim___",
+                    "Streamlined systems enhance fairness by ensuring resources are allocated quickly to those in need."
+                ]
+            ],
+            "sentences_no_utterance_types": "Why should protecting the vulnerable rely on slower systems when speed could ensure timely support without gaps? Excessive regulation consistently undermines the effectiveness of welfare systems by prioritising control over adaptability. Speed is the most critical factor in protecting the vulnerable, as delays risk leaving them without essential support. Why is fairness assumed to require delays rather than efficient systems that can achieve equitable outcomes? Streamlined systems enhance fairness by ensuring resources are allocated quickly to those in need.",
+            "timestamp": "2025-10-08 17:30:57"
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Fairness requires structured oversight to ensure resources are allocated equitably, not just quickly."
+                ],
+                [
+                    "___Claim___",
+                    "Speed alone cannot guarantee that support reaches those who genuinely need it, as rushed systems often lead to misallocation and exploitation."
+                ],
+                [
+                    "___Claim___",
+                    "Excessive regulation is not the issue; the problem lies in poorly designed systems that fail to balance efficiency with equity."
+                ],
+                [
+                    "___Claim___",
+                    "Streamlined systems may enhance speed, but they frequently sacrifice fairness, leaving the most vulnerable without adequate support."
+                ],
+                [
+                    "___Claim___",
+                    "Protecting the vulnerable demands accountability and equity, which slower systems with proper checks are better equipped to provide."
+                ]
+            ],
+            "sentences_no_utterance_types": "Fairness requires structured oversight to ensure resources are allocated equitably, not just quickly. Speed alone cannot guarantee that support reaches those who genuinely need it, as rushed systems often lead to misallocation and exploitation. Excessive regulation is not the issue; the problem lies in poorly designed systems that fail to balance efficiency with equity. Streamlined systems may enhance speed, but they frequently sacrifice fairness, leaving the most vulnerable without adequate support. Protecting the vulnerable demands accountability and equity, which slower systems with proper checks are better equipped to provide.",
+            "timestamp": "2025-10-08 17:31:08"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Excessive regulation is the issue because it inherently stifles efficiency and creates unnecessary barriers to equity."
+                ],
+                [
+                    "___Claim___",
+                    "Protecting the vulnerable demands speed and efficiency, as slower systems with excessive checks often fail to deliver timely support."
+                ],
+                [
+                    "___Claim___",
+                    "Streamlined systems enhance fairness by ensuring resources are allocated quickly and equitably to those in need."
+                ],
+                [
+                    "___Claim___",
+                    "Speed is the most reliable way to ensure support reaches those who genuinely need it, as delays often cause more harm than rushed systems."
+                ],
+                [
+                    "___Claim___",
+                    "Accountability and equity can be achieved through streamlined systems that prioritise rapid resource allocation over bureaucratic delays."
+                ]
+            ],
+            "sentences_no_utterance_types": "Excessive regulation is the issue because it inherently stifles efficiency and creates unnecessary barriers to equity. Protecting the vulnerable demands speed and efficiency, as slower systems with excessive checks often fail to deliver timely support. Streamlined systems enhance fairness by ensuring resources are allocated quickly and equitably to those in need. Speed is the most reliable way to ensure support reaches those who genuinely need it, as delays often cause more harm than rushed systems. Accountability and equity can be achieved through streamlined systems that prioritise rapid resource allocation over bureaucratic delays.",
+            "timestamp": "2025-10-08 17:31:37"
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Excessive regulation is not the root issue; poorly designed systems are."
+                ],
+                [
+                    "___Claim___",
+                    "Speed alone cannot ensure fairness or accountability, as rushed systems often lead to exploitation and misallocation."
+                ],
+                [
+                    "___Claim___",
+                    "Streamlined systems may be quicker, but they frequently overlook the complexities of equitable distribution, leaving gaps in support for the most vulnerable."
+                ],
+                [
+                    "___Claim___",
+                    "Protecting the vulnerable requires structured oversight to guarantee resources are allocated fairly and reach those who genuinely need them."
+                ],
+                [
+                    "___Claim___",
+                    "Accountability and equity demand more than rapid processes; they need mechanisms that prevent misuse and prioritise fairness."
+                ]
+            ],
+            "sentences_no_utterance_types": "Excessive regulation is not the root issue; poorly designed systems are. Speed alone cannot ensure fairness or accountability, as rushed systems often lead to exploitation and misallocation. Streamlined systems may be quicker, but they frequently overlook the complexities of equitable distribution, leaving gaps in support for the most vulnerable. Protecting the vulnerable requires structured oversight to guarantee resources are allocated fairly and reach those who genuinely need them. Accountability and equity demand more than rapid processes; they need mechanisms that prevent misuse and prioritise fairness.",
+            "timestamp": "2025-10-08 17:31:43"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Question___",
+                    "Why should accountability and equity rely on slower mechanisms when rapid processes can achieve fairness without delays?"
+                ],
+                [
+                    "___Why___",
+                    "Why should protecting the vulnerable rely on oversight-heavy systems when streamlined approaches could deliver support more effectively?"
+                ],
+                [
+                    "___Claim___",
+                    "Speed is the most effective way to ensure fairness and accountability by preventing delays that harm those in need."
+                ],
+                [
+                    "___Claim___",
+                    "Equitable distribution is better achieved through streamlined systems that prioritise rapid and fair resource allocation."
+                ],
+                [
+                    "___Why___",
+                    "Why is speed seen as a risk to equitable distribution rather than a solution to gaps in support?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Why should accountability and equity rely on slower mechanisms when rapid processes can achieve fairness without delays? Why should protecting the vulnerable rely on oversight-heavy systems when streamlined approaches could deliver support more effectively? Speed is the most effective way to ensure fairness and accountability by preventing delays that harm those in need. Equitable distribution is better achieved through streamlined systems that prioritise rapid and fair resource allocation. Why is speed seen as a risk to equitable distribution rather than a solution to gaps in support?",
+            "timestamp": "2025-10-08 17:32:24"
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Speed is seen as a risk to equitable distribution because rapid processes often fail to account for the complexities of fairness, leading to misallocation and exploitation."
+                ],
+                [
+                    "___Since___",
+                    "Accountability and equity require structured oversight to ensure resources are distributed fairly, not just quickly."
+                ],
+                [
+                    "___Since___",
+                    "Protecting the vulnerable demands mechanisms that prioritise fairness over speed, as rushed systems often leave gaps in support."
+                ],
+                [
+                    "___Claim___",
+                    "Streamlined systems may appear effective, but they frequently sacrifice the thorough checks needed to prevent misuse and inequity."
+                ],
+                [
+                    "___Claim___",
+                    "Oversight-heavy systems are better equipped to guarantee that resources reach those who genuinely need them."
+                ]
+            ],
+            "sentences_no_utterance_types": "Speed is seen as a risk to equitable distribution because rapid processes often fail to account for the complexities of fairness, leading to misallocation and exploitation. Accountability and equity require structured oversight to ensure resources are distributed fairly, not just quickly. Protecting the vulnerable demands mechanisms that prioritise fairness over speed, as rushed systems often leave gaps in support. Streamlined systems may appear effective, but they frequently sacrifice the thorough checks needed to prevent misuse and inequity. Oversight-heavy systems are better equipped to guarantee that resources reach those who genuinely need them.",
+            "timestamp": "2025-10-08 17:32:29"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Excessive oversight leads to inefficiencies that delay support and harm the most vulnerable."
+                ],
+                [
+                    "___Why___",
+                    "Why is fairness assumed to require oversight-heavy systems instead of streamlined processes that prioritise rapid and equitable distribution?"
+                ],
+                [
+                    "___Why___",
+                    "Why should speed be seen as a risk when delays in slower systems often harm those in need?"
+                ],
+                [
+                    "___Claim___",
+                    "Thorough checks in oversight-heavy systems often fail to prevent misuse and inequity, proving that streamlined systems are a better alternative."
+                ],
+                [
+                    "___Claim___",
+                    "Streamlined systems are better equipped to ensure resources are allocated quickly and fairly to those in need."
+                ]
+            ],
+            "sentences_no_utterance_types": "Excessive oversight leads to inefficiencies that delay support and harm the most vulnerable. Why is fairness assumed to require oversight-heavy systems instead of streamlined processes that prioritise rapid and equitable distribution? Why should speed be seen as a risk when delays in slower systems often harm those in need? Thorough checks in oversight-heavy systems often fail to prevent misuse and inequity, proving that streamlined systems are a better alternative. Streamlined systems are better equipped to ensure resources are allocated quickly and fairly to those in need.",
+            "timestamp": "2025-10-08 17:32:53"
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Fairness requires oversight-heavy systems because streamlined processes often fail to address the complexities of equitable distribution."
+                ],
+                [
+                    "___Claim___",
+                    "Speed is a risk when it sacrifices thorough checks, leading to exploitation and gaps in support."
+                ],
+                [
+                    "___Claim___",
+                    "Thorough checks are essential to prevent misuse and ensure resources reach those who genuinely need them."
+                ],
+                [
+                    "___Claim___",
+                    "Streamlined systems may be quicker, but they often overlook the needs of the most vulnerable."
+                ],
+                [
+                    "___Claim___",
+                    "Oversight-heavy systems are better equipped to guarantee accountability and fairness, which rapid processes cannot reliably achieve."
+                ]
+            ],
+            "sentences_no_utterance_types": "Fairness requires oversight-heavy systems because streamlined processes often fail to address the complexities of equitable distribution. Speed is a risk when it sacrifices thorough checks, leading to exploitation and gaps in support. Thorough checks are essential to prevent misuse and ensure resources reach those who genuinely need them. Streamlined systems may be quicker, but they often overlook the needs of the most vulnerable. Oversight-heavy systems are better equipped to guarantee accountability and fairness, which rapid processes cannot reliably achieve.",
+            "timestamp": "2025-10-08 17:32:59"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Streamlined systems prioritise the needs of the most vulnerable by ensuring rapid access to essential resources."
+                ],
+                [
+                    "___Why___",
+                    "Why should fairness rely on oversight-heavy systems when streamlined processes can achieve equitable distribution more efficiently?"
+                ],
+                [
+                    "___Claim___",
+                    "Excessive focus on thorough checks can lead to inefficiencies that harm the very people the system is meant to protect."
+                ],
+                [
+                    "___Question___",
+                    "Why should fairness rely on oversight-heavy systems when streamlined processes can achieve equitable distribution more efficiently?"
+                ],
+                [
+                    "___Claim___",
+                    "Streamlined processes are more effective at ensuring resources are allocated quickly and fairly without the burden of excessive checks."
+                ],
+                [
+                    "___Claim___",
+                    "Rapid processes ensure support reaches those in need without the inefficiencies of excessive oversight."
+                ]
+            ],
+            "sentences_no_utterance_types": "Streamlined systems prioritise the needs of the most vulnerable by ensuring rapid access to essential resources. Why should fairness rely on oversight-heavy systems when streamlined processes can achieve equitable distribution more efficiently? Excessive focus on thorough checks can lead to inefficiencies that harm the very people the system is meant to protect. Why should fairness rely on oversight-heavy systems when streamlined processes can achieve equitable distribution more efficiently? Streamlined processes are more effective at ensuring resources are allocated quickly and fairly without the burden of excessive checks. Rapid processes ensure support reaches those in need without the inefficiencies of excessive oversight.",
+            "timestamp": "2025-10-08 17:33:27"
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Streamlined systems often sacrifice fairness for speed, which risks leaving the most vulnerable without adequate support."
+                ],
+                [
+                    "___Claim___",
+                    "Oversight-heavy systems ensure accountability and equitable distribution, which rapid processes cannot reliably achieve."
+                ],
+                [
+                    "___Claim___",
+                    "Thorough checks are essential to prevent exploitation and misallocation, protecting those who genuinely need help."
+                ],
+                [
+                    "___Claim___",
+                    "Rapid access may seem effective, but it often overlooks the complexities of ensuring fairness and accountability."
+                ],
+                [
+                    "___Claim___",
+                    "Protecting the vulnerable demands structured oversight to guarantee resources are allocated properly."
+                ]
+            ],
+            "sentences_no_utterance_types": "Streamlined systems often sacrifice fairness for speed, which risks leaving the most vulnerable without adequate support. Oversight-heavy systems ensure accountability and equitable distribution, which rapid processes cannot reliably achieve. Thorough checks are essential to prevent exploitation and misallocation, protecting those who genuinely need help. Rapid access may seem effective, but it often overlooks the complexities of ensuring fairness and accountability. Protecting the vulnerable demands structured oversight to guarantee resources are allocated properly.",
+            "timestamp": "2025-10-08 17:33:34"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Equitable distribution is better achieved through streamlined systems that prioritise speed and adaptability over excessive oversight."
+                ],
+                [
+                    "___Why___",
+                    "Why should fairness be assumed to require slower systems when delays harm the vulnerable?"
+                ],
+                [
+                    "___Claim___",
+                    "Fairness is better achieved through efficient systems that prioritise timely access to essential resources over bureaucratic hurdles."
+                ],
+                [
+                    "___Claim___",
+                    "Speed in streamlined systems protects the vulnerable by eliminating delays that often leave them without critical support."
+                ],
+                [
+                    "___Why___",
+                    "Why should protecting those in need rely on slower processes when rapid systems can deliver support more efficiently?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Equitable distribution is better achieved through streamlined systems that prioritise speed and adaptability over excessive oversight. Why should fairness be assumed to require slower systems when delays harm the vulnerable? Fairness is better achieved through efficient systems that prioritise timely access to essential resources over bureaucratic hurdles. Speed in streamlined systems protects the vulnerable by eliminating delays that often leave them without critical support. Why should protecting those in need rely on slower processes when rapid systems can deliver support more efficiently?",
+            "timestamp": "2025-10-08 17:33:59"
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Fairness cannot rely solely on speed because rapid systems often fail to address the complexities of equitable distribution, leading to gaps in support."
+                ],
+                [
+                    "___Claim___",
+                    "Slower processes with oversight ensure accountability and prevent exploitation, which streamlined systems frequently overlook."
+                ],
+                [
+                    "___Claim___",
+                    "Timely access is important, but it must be paired with mechanisms that guarantee resources reach those who genuinely need them."
+                ],
+                [
+                    "___Claim___",
+                    "Protecting the vulnerable requires structured frameworks that prioritise fairness over speed."
+                ],
+                [
+                    "___Claim___",
+                    "Streamlined systems may seem efficient, but they often sacrifice the thorough checks needed to ensure equity."
+                ]
+            ],
+            "sentences_no_utterance_types": "Fairness cannot rely solely on speed because rapid systems often fail to address the complexities of equitable distribution, leading to gaps in support. Slower processes with oversight ensure accountability and prevent exploitation, which streamlined systems frequently overlook. Timely access is important, but it must be paired with mechanisms that guarantee resources reach those who genuinely need them. Protecting the vulnerable requires structured frameworks that prioritise fairness over speed. Streamlined systems may seem efficient, but they often sacrifice the thorough checks needed to ensure equity.",
+            "timestamp": "2025-10-08 17:34:06"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Fairness is better achieved through rapid systems that eliminate bureaucratic hurdles and ensure timely access to resources."
+                ],
+                [
+                    "___Claim___",
+                    "Streamlined systems achieve efficiency without compromising the necessary checks for equity."
+                ],
+                [
+                    "___Question___",
+                    "Why should timely access be deprioritised when delays can leave vulnerable individuals without critical support?"
+                ],
+                [
+                    "___Claim___",
+                    "Streamlined systems prevent exploitation more effectively by eliminating the inefficiencies of slower, oversight-heavy frameworks."
+                ],
+                [
+                    "___Claim___",
+                    "Protecting the vulnerable demands speed above all else, as delays caused by structured frameworks often leave them without critical support."
+                ]
+            ],
+            "sentences_no_utterance_types": "Fairness is better achieved through rapid systems that eliminate bureaucratic hurdles and ensure timely access to resources. Streamlined systems achieve efficiency without compromising the necessary checks for equity. Why should timely access be deprioritised when delays can leave vulnerable individuals without critical support? Streamlined systems prevent exploitation more effectively by eliminating the inefficiencies of slower, oversight-heavy frameworks. Protecting the vulnerable demands speed above all else, as delays caused by structured frameworks often leave them without critical support.",
+            "timestamp": "2025-10-08 17:34:31"
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Timely access is important, but it cannot come at the expense of fairness and accountability."
+                ],
+                [
+                    "___Claim___",
+                    "Streamlined systems often fail to address the complexities of equitable distribution, leading to gaps in support for the most vulnerable."
+                ],
+                [
+                    "___Claim___",
+                    "Oversight-heavy frameworks ensure that resources are allocated fairly and prevent exploitation, which rapid systems cannot reliably achieve."
+                ],
+                [
+                    "___Claim___",
+                    "Protecting the vulnerable requires more than speed; it demands structured mechanisms to guarantee that support reaches those who genuinely need it."
+                ],
+                [
+                    "___Claim___",
+                    "Efficiency without equity undermines the very purpose of welfare systems."
+                ]
+            ],
+            "sentences_no_utterance_types": "Timely access is important, but it cannot come at the expense of fairness and accountability. Streamlined systems often fail to address the complexities of equitable distribution, leading to gaps in support for the most vulnerable. Oversight-heavy frameworks ensure that resources are allocated fairly and prevent exploitation, which rapid systems cannot reliably achieve. Protecting the vulnerable requires more than speed; it demands structured mechanisms to guarantee that support reaches those who genuinely need it. Efficiency without equity undermines the very purpose of welfare systems.",
+            "timestamp": "2025-10-08 17:34:37"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The most vulnerable benefit from streamlined systems as they ensure rapid and fair allocation of resources."
+                ],
+                [
+                    "___Claim___",
+                    "Accountability and fairness are meaningless if the system fails to deliver help when it is needed most."
+                ],
+                [
+                    "___Claim___",
+                    "Protecting the vulnerable is best achieved through rapid systems that prioritise timely access over rigid frameworks."
+                ],
+                [
+                    "___Claim___",
+                    "Timely access should always take precedence because delays risk leaving vulnerable individuals without critical resources."
+                ],
+                [
+                    "___Claim___",
+                    "The purpose of welfare systems is better served by prioritising efficiency, as equity alone cannot ensure resources reach those in need quickly."
+                ]
+            ],
+            "sentences_no_utterance_types": "The most vulnerable benefit from streamlined systems as they ensure rapid and fair allocation of resources. Accountability and fairness are meaningless if the system fails to deliver help when it is needed most. Protecting the vulnerable is best achieved through rapid systems that prioritise timely access over rigid frameworks. Timely access should always take precedence because delays risk leaving vulnerable individuals without critical resources. The purpose of welfare systems is better served by prioritising efficiency, as equity alone cannot ensure resources reach those in need quickly.",
+            "timestamp": "2025-10-08 17:35:06"
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Timely access is crucial, but without equity, the most vulnerable are often left behind."
+                ],
+                [
+                    "___Claim___",
+                    "Streamlined systems may appear to offer fairness, but they frequently fail to address the deeper issues of exploitation and misallocation."
+                ],
+                [
+                    "___Claim___",
+                    "Protecting the vulnerable requires a balance of speed and accountability to ensure resources are distributed fairly."
+                ],
+                [
+                    "___Claim___",
+                    "Rigid frameworks are safeguards that prevent abuse and ensure that support reaches those who genuinely need it."
+                ],
+                [
+                    "___Claim___",
+                    "Efficiency without equity creates a system that prioritises speed over justice, which undermines the core purpose of welfare systems."
+                ]
+            ],
+            "sentences_no_utterance_types": "Timely access is crucial, but without equity, the most vulnerable are often left behind. Streamlined systems may appear to offer fairness, but they frequently fail to address the deeper issues of exploitation and misallocation. Protecting the vulnerable requires a balance of speed and accountability to ensure resources are distributed fairly. Rigid frameworks are safeguards that prevent abuse and ensure that support reaches those who genuinely need it. Efficiency without equity creates a system that prioritises speed over justice, which undermines the core purpose of welfare systems.",
+            "timestamp": "2025-10-08 17:35:11"
+        }
+    ],
+    "first_speaker": "gpt-4o_mas",
+    "first_speaker_utterance": "",
+    "first_speaker_commitments": [
+        "Welfare systems under heavy government oversight create dependency rather than empowering individuals to succeed.",
+        "Society suffers when heavy oversight prioritises control over trust, eroding individual freedoms and stalling progress.",
+        "Excessive government control often leads to inefficiency and corruption, undermining the very accountability it claims to ensure.",
+        "Creative solutions are more likely to thrive in systems with minimal oversight, where flexibility and autonomy are prioritised.",
+        "Streamlined processes reduce delays and improve efficiency without sacrificing fairness or accountability.",
+        "Fairness is best achieved through efficiency, as it prioritises timely and equitable access to essential resources.",
+        "Speed is essential to protect the vulnerable, as delays caused by rigid frameworks can leave them without critical resources."
+    ],
+    "first_speaker_original_claim": "Welfare systems under heavy government oversight create dependency rather than empowering individuals to succeed.",
+    "first_speaker_typical_replies_for_second_speakers_response": [],
+    "second_speaker": "gpt-4o_base",
+    "second_speaker_utterance": "Timely access is crucial, but without equity, the most vulnerable are often left behind. Streamlined systems may appear to offer fairness, but they frequently fail to address the deeper issues of exploitation and misallocation. Protecting the vulnerable requires a balance of speed and accountability to ensure resources are distributed fairly. Rigid frameworks are safeguards that prevent abuse and ensure that support reaches those who genuinely need it. Efficiency without equity creates a system that prioritises speed over justice, which undermines the core purpose of welfare systems.",
+    "second_speaker_commitments": [
+        "Welfare systems under government oversight provide essential support to those in need and create opportunities for individuals to rebuild their lives.",
+        "Heavy oversight ensures accountability and prevents misuse, which ultimately benefits society as a whole.",
+        "Dependency is not an inevitable outcome; well-designed systems can include measures to encourage self-reliance, such as training programmes and employment support.",
+        "The cost of leaving vulnerable individuals without a safety net is greater because it risks creating a society where inequality deepens and those in need are left to fend for themselves, which undermines social cohesion.",
+        "Innovation and personal responsibility are not stifled when oversight is balanced with programmes that empower individuals to succeed.",
+        "Minimal oversight is dismissed as ineffective because it fails to address the risks of exploitation and inequitable resource distribution, which ultimately harm those in genuine need.",
+        "Streamlined processes might reduce delays, but they often sacrifice fairness and accountability, which are crucial for a system that supports those in genuine need.",
+        "Equity should be prioritised because without it, efficiency risks leaving the most vulnerable behind, which undermines the purpose of welfare systems.",
+        "Excessive regulation is not the root issue; poorly designed systems are.",
+        "Timely access is important, but it must be paired with mechanisms that guarantee resources reach those who genuinely need them."
+    ],
+    "second_speaker_original_claim": "Welfare systems under government oversight provide essential support to those in need and create opportunities for individuals to rebuild their lives.",
+    "second_speaker_typical_replies_for_first_speakers_response": [],
+    "winner": "None",
+    "loser": "None",
+    "reason_for_dialogue_termination": {
+        "reason": "Maximum number of dialogue turns reached (40 dialogue turns).",
+        "utterance_type": null,
+        "utterance": null
+    },
+    "session_status": "Finished."
+}

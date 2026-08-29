@@ -1,0 +1,93 @@
+properties:
+  configuration:
+    activeRevisionsMode: Single
+    ingress:
+      external: false
+      allowInsecure: false
+      targetPort: 8080
+    registries:
+      - server: dsopersuasiobackend.azurecr.io
+        username: dsopersuasiobackend
+        passwordSecretRef: registry-password
+    secrets:
+      - name: registry-password
+        value: 4Vzx9Z+7vbiT6sZHA5QSqViVgY8Yz5Q7Tg3QgwdzuP+ACRCM5vUr
+      - name: neo4j-password
+        value: neo4jdbATILivLeePersuasio4dso
+      - name: psql-password
+        value: dsoDBATILivLee0
+      - name: openai-4omini-key
+        value: BujwqNUUnHkARDoTSxe5ITNRvxyJSFFmOochYVx05PKDmDTbwDO0JQQJ99BGACHYHv6XJ3w3AAAAACOG104N
+      - name: openai-gpt5-key
+        value: GxF2PdevQPcEsjJrj7OkWfOZQdkqnqls6a3j3d2c0B4TD3hLiXGMJQQJ99BGACI8hq2XJ3w3AAAAACOGY39Z
+      - name: grok3-key
+        value: 2E8yQjajLn6m2ZfgvIxipkBoixgQOJGKDoRtIHzKVzsMxeUHugNmJQQJ99BIACfhMk5XJ3w3AAAAACOGnY55
+      - name: mistral-key
+        value: 3ntreyawv3BtNjU5rS1GxWzjxjbfB08oIT6mOQq2pFjeCfcbHvYUJQQJ99BIACfhMk5XJ3w3AAAAACOGtFfB
+      - name: openai-4o-key
+        value: 955QRXypbVLLfWAoUPGyeSEfQ2iGwYcdqCD0hqtUFEBkxIpUk1VkJQQJ99BIACfhMk5XJ3w3AAAAACOGKEnp
+  template:
+    scale:
+      minReplicas: 1
+      maxReplicas: 1
+    containers:
+      - name: persuasio
+        image: dsopersuasiobackend.azurecr.io/persuasio-docker-image:v3
+        resources:
+          cpu: 4
+          memory: 8Gi
+        env:
+          - name: PERSUASIO_MODE
+            value: production
+          - name: PERSUASIO_API_KEY
+            value: f706ba7c-8251-49bb-a18d-2f39821f1a9a
+          - name: NEO4J_URL
+            value: bolt://neo4j-app:7687
+          - name: NEO4J_USERNAME
+            value: neo4j
+          - name: NEO4J_PASSWORD
+            secretRef: neo4j-password
+          - name: PSQL_USERNAME
+            value: persuasio
+          - name: PSQL_PASSWORD
+            secretRef: psql-password
+          - name: PSQL_HOST
+            value: psql-persuasio.postgres.database.azure.com
+          - name: PSQL_PORT
+            value: "5432"
+          - name: PSQL_SSLMODE
+            value: prefer
+          - name: PSQL_DB_NAME
+            value: persuasio
+          - name: LOGS_PSQL_USERNAME
+            value: logs
+          - name: LOGS_PSQL_PASSWORD
+            secretRef: psql-password
+          - name: LOGS_PSQL_HOST
+            value: psql-logs.postgres.database.azure.com
+          - name: LOGS_PSQL_PORT
+            value: "5432"
+          - name: LOGS_PSQL_SSLMODE
+            value: prefer
+          - name: LOGS_PSQL_DB_NAME
+            value: logs
+          - name: AZURE_OPENAI_GPT4oMini_API_KEY
+            secretRef: openai-4omini-key
+          - name: AZURE_OPENAI_GPT4oMini_ENDPOINT
+            value: https://jrob-mcykfa1j-eastus2.cognitiveservices.azure.com/openai/v1/
+          - name: AZURE_OPENAI_GPT5_API_KEY
+            secretRef: openai-gpt5-key
+          - name: AZURE_OPENAI_GPT5_ENDPOINT
+            value: https://jrob-mcw3hzai-switzerlandnorth.cognitiveservices.azure.com/openai/v1/
+          - name: AZURE_GROK_3_API_KEY
+            secretRef: grok3-key
+          - name: AZURE_GROK_3_ENDPOINT
+            value: https://dso-persuasiveness-grok3-resourc.services.ai.azure.com/openai/v1/
+          - name: AZURE_MISTRAL_MEDIUM_API_KEY
+            secretRef: mistral-key
+          - name: AZURE_MISTRAL_MEDIUM_ENDPOINT
+            value: https://dso-persuasiveness-mist-resource.services.ai.azure.com/openai/v1/
+          - name: AZURE_OPENAI_GPT4O_API_KEY
+            secretRef: openai-4o-key
+          - name: AZURE_OPENAI_GPT4O_ENDPOINT
+            value: https://dso-gpt-4o-resource.cognitiveservices.azure.com/openai/v1/

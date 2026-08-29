@@ -1,0 +1,59 @@
+properties:
+  configuration:
+    activeRevisionsMode: Single
+    ingress:
+      external: false
+      allowInsecure: false
+      targetPort: 8000
+    registries:
+      - server: dsopersuasuisessionmanager.azurecr.io
+        username: dsopersuasuisessionmanager
+        passwordSecretRef: registry-password
+    secrets:
+      - name: registry-password
+        value: AWZuxi6zsxr0RgUA2VWarNuT1eKYXRzkSyg5BZrWKs+ACRCg1KqR
+      - name: psql-password
+        value: dsoDBATILivLee0
+  template:
+    scale:
+      minReplicas: 1
+      maxReplicas: 1
+    containers:
+      - name: session-manager
+        image: dsopersuasuisessionmanager.azurecr.io/session-manager:v1
+        resources:
+          cpu: 1
+          memory: 2Gi
+        env:
+          - name: SESSION_MANAGER_MODE
+            value: production
+          - name: SESSION_MANAGER_API_KEY
+            value: 9fc8d1ef-8953-4acf-b6e2-7834033a6c55
+          - name: PERSUASIO_API_KEY
+            value: f706ba7c-8251-49bb-a18d-2f39821f1a9a
+          - name: PERSUASIO_BASE_URL
+            value: https://persuasio-app
+          - name: PSQL_USERNAME
+            value: session_manager
+          - name: PSQL_PASSWORD
+            secretRef: psql-password
+          - name: PSQL_HOST
+            value: psql-session-manager.postgres.database.azure.com
+          - name: PSQL_PORT
+            value: "5432"
+          - name: PSQL_SSLMODE
+            value: prefer
+          - name: PSQL_DB_NAME
+            value: session_manager
+          - name: LOGS_PSQL_USERNAME
+            value: logs
+          - name: LOGS_PSQL_PASSWORD
+            secretRef: psql-password
+          - name: LOGS_PSQL_HOST
+            value: psql-logs.postgres.database.azure.com
+          - name: LOGS_PSQL_PORT
+            value: "5432"
+          - name: LOGS_PSQL_SSLMODE
+            value: prefer
+          - name: LOGS_PSQL_DB_NAME
+            value: logs

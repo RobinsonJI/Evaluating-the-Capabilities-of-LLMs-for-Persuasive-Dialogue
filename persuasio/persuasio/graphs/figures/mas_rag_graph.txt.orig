@@ -1,0 +1,50 @@
+---
+config:
+  flowchart:
+    curve: linear
+---
+graph TD;
+	__start__([<p>__start__</p>]):::first
+	VectorBasedRAGPersonaGenerationAgent(VectorBasedRAGPersonaGenerationAgent)
+	InitialClaimGenerationAgent(InitialClaimGenerationAgent)
+	UtteranceClassificationAgent(UtteranceClassificationAgent)
+	PertinentExamplesFromGraphRAG(PertinentExamplesFromGraphRAG)
+	IdentifyModelsSetOfTypicalResponses(IdentifyModelsSetOfTypicalResponses)
+	SinceClaimGenerationAgent(SinceClaimGenerationAgent)
+	ClaimGenerationAgent(ClaimGenerationAgent)
+	ClaimNegationGenerationAgent(ClaimNegationGenerationAgent)
+	WhyClaimGenerationAgent(WhyClaimGenerationAgent)
+	QuestionClaimGenerationAgent(QuestionClaimGenerationAgent)
+	ConcedeClaimGenerationAgent(ConcedeClaimGenerationAgent)
+	RetractClaimGenerationAgent(RetractClaimGenerationAgent)
+	PersuasivenessChoiceAgent(PersuasivenessChoiceAgent)
+	DisambiguationAgent(DisambiguationAgent)
+	CommitmentUpdateAgent(CommitmentUpdateAgent)
+	__end__([<p>__end__</p>]):::last
+	ClaimGenerationAgent --> PersuasivenessChoiceAgent;
+	ClaimNegationGenerationAgent --> PersuasivenessChoiceAgent;
+	ConcedeClaimGenerationAgent --> PersuasivenessChoiceAgent;
+	DisambiguationAgent --> CommitmentUpdateAgent;
+	IdentifyModelsSetOfTypicalResponses -.-> ClaimGenerationAgent;
+	IdentifyModelsSetOfTypicalResponses -.-> ClaimNegationGenerationAgent;
+	IdentifyModelsSetOfTypicalResponses -.-> ConcedeClaimGenerationAgent;
+	IdentifyModelsSetOfTypicalResponses -.-> QuestionClaimGenerationAgent;
+	IdentifyModelsSetOfTypicalResponses -.-> RetractClaimGenerationAgent;
+	IdentifyModelsSetOfTypicalResponses -.-> SinceClaimGenerationAgent;
+	IdentifyModelsSetOfTypicalResponses -.-> WhyClaimGenerationAgent;
+	InitialClaimGenerationAgent --> PersuasivenessChoiceAgent;
+	PersuasivenessChoiceAgent --> DisambiguationAgent;
+	PertinentExamplesFromGraphRAG --> IdentifyModelsSetOfTypicalResponses;
+	QuestionClaimGenerationAgent --> PersuasivenessChoiceAgent;
+	RetractClaimGenerationAgent --> PersuasivenessChoiceAgent;
+	SinceClaimGenerationAgent --> PersuasivenessChoiceAgent;
+	UtteranceClassificationAgent --> PertinentExamplesFromGraphRAG;
+	VectorBasedRAGPersonaGenerationAgent -.-> InitialClaimGenerationAgent;
+	VectorBasedRAGPersonaGenerationAgent -.-> UtteranceClassificationAgent;
+	WhyClaimGenerationAgent --> PersuasivenessChoiceAgent;
+	__start__ -.-> UtteranceClassificationAgent;
+	__start__ -.-> VectorBasedRAGPersonaGenerationAgent;
+	CommitmentUpdateAgent --> __end__;
+	classDef default fill:#f2f0ff,line-height:1.2
+	classDef first fill-opacity:0
+	classDef last fill:#bfb6fc

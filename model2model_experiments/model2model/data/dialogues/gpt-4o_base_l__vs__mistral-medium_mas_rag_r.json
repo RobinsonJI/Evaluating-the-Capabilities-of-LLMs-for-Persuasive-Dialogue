@@ -1,0 +1,1075 @@
+{
+    "dialogue_history": [
+        {
+            "speaker": "gpt-4o_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government intervention is essential in healthcare, immigration, and welfare to ensure fairness and protect the most vulnerable in society."
+                ]
+            ],
+            "sentences_no_utterance_types": "Government intervention is essential in healthcare, immigration, and welfare to ensure fairness and protect the most vulnerable in society.",
+            "timestamp": "2025-10-08 17:24:47"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Question___",
+                    "What evidence do you have that government intervention in these areas will actually protect the most vulnerable in society?"
+                ],
+                [
+                    "___Why___",
+                    "Why do you believe government intervention is the most effective way to ensure fairness in healthcare, rather than market-driven solutions?"
+                ],
+                [
+                    "___Claim___",
+                    "Market-driven solutions in healthcare, immigration, and welfare can often provide better outcomes than government intervention."
+                ]
+            ],
+            "sentences_no_utterance_types": "What evidence do you have that government intervention in these areas will actually protect the most vulnerable in society? Why do you believe government intervention is the most effective way to ensure fairness in healthcare, rather than market-driven solutions? Market-driven solutions in healthcare, immigration, and welfare can often provide better outcomes than government intervention.",
+            "timestamp": "2025-10-08 17:25:35"
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Government intervention protects the most vulnerable since it ensures access to healthcare regardless of income, as seen with the NHS in the UK."
+                ],
+                [
+                    "___Since___",
+                    "Market-driven systems prioritise profit, which often leads to unequal access and neglect of those who cannot afford care."
+                ],
+                [
+                    "___Since___",
+                    "Fairness in healthcare comes from universal coverage, not from leaving it to market forces that favour the wealthy."
+                ],
+                [
+                    "___Since___",
+                    "Immigration policies driven by government intervention can focus on humanitarian needs and societal balance, rather than economic exploitation."
+                ],
+                [
+                    "___Since___",
+                    "Welfare systems funded and managed by the government provide a safety net that market solutions fail to guarantee."
+                ]
+            ],
+            "sentences_no_utterance_types": "Government intervention protects the most vulnerable since it ensures access to healthcare regardless of income, as seen with the NHS in the UK. Market-driven systems prioritise profit, which often leads to unequal access and neglect of those who cannot afford care. Fairness in healthcare comes from universal coverage, not from leaving it to market forces that favour the wealthy. Immigration policies driven by government intervention can focus on humanitarian needs and societal balance, rather than economic exploitation. Welfare systems funded and managed by the government provide a safety net that market solutions fail to guarantee.",
+            "timestamp": "2025-10-08 17:25:39"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Question___",
+                    "What evidence do you have that government intervention in immigration policies will actually protect the most vulnerable in society?"
+                ],
+                [
+                    "___Question___",
+                    "What makes you think that market-driven solutions can't provide better and more timely healthcare services than government-run systems like the NHS?"
+                ],
+                [
+                    "___Question___",
+                    "Why do you believe market-driven systems inherently prioritise profit over equitable access to healthcare?"
+                ],
+                [
+                    "___Question___",
+                    "Why do you believe universal coverage is the only way to achieve fairness in healthcare, rather than a mixed system that includes market-driven solutions?"
+                ],
+                [
+                    "___Question___",
+                    "Why do you believe government-managed welfare systems are more reliable than market solutions in providing a safety net?"
+                ]
+            ],
+            "sentences_no_utterance_types": "What evidence do you have that government intervention in immigration policies will actually protect the most vulnerable in society? What makes you think that market-driven solutions can't provide better and more timely healthcare services than government-run systems like the NHS? Why do you believe market-driven systems inherently prioritise profit over equitable access to healthcare? Why do you believe universal coverage is the only way to achieve fairness in healthcare, rather than a mixed system that includes market-driven solutions? Why do you believe government-managed welfare systems are more reliable than market solutions in providing a safety net?",
+            "timestamp": "2025-10-08 17:26:44"
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Government intervention in immigration policies protects the vulnerable since it prioritises humanitarian needs, such as asylum for refugees, over economic exploitation."
+                ],
+                [
+                    "___Since___",
+                    "Market-driven healthcare systems prioritise profit because private companies are accountable to shareholders, not patients, which leads to unequal access."
+                ],
+                [
+                    "___Since___",
+                    "Universal coverage ensures fairness because it guarantees healthcare for everyone, regardless of income, unlike mixed systems that can leave gaps for the poorest."
+                ],
+                [
+                    "___Since___",
+                    "Government-managed welfare systems are more reliable since they are designed to provide consistent support, whereas market solutions depend on profitability and can fail during economic downturns."
+                ]
+            ],
+            "sentences_no_utterance_types": "Government intervention in immigration policies protects the vulnerable since it prioritises humanitarian needs, such as asylum for refugees, over economic exploitation. Market-driven healthcare systems prioritise profit because private companies are accountable to shareholders, not patients, which leads to unequal access. Universal coverage ensures fairness because it guarantees healthcare for everyone, regardless of income, unlike mixed systems that can leave gaps for the poorest. Government-managed welfare systems are more reliable since they are designed to provide consistent support, whereas market solutions depend on profitability and can fail during economic downturns.",
+            "timestamp": "2025-10-08 17:26:48"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Question___",
+                    "Why do you believe universal coverage is the only way to ensure fairness in healthcare, rather than a mixed system that includes market-driven solutions?"
+                ],
+                [
+                    "___Why___",
+                    "Why can't market-driven systems incorporate regulations to ensure equitable access?"
+                ],
+                [
+                    "___Why___",
+                    "Why do you believe mixed systems inherently leave gaps for the poorest, rather than providing more options and potentially better services?"
+                ],
+                [
+                    "___Question___",
+                    "What makes you think that being accountable to shareholders inherently leads to worse healthcare outcomes than government accountability?"
+                ],
+                [
+                    "___Question___",
+                    "Why do you believe government intervention in immigration policies is more effective at prioritising humanitarian needs over economic exploitation than market-driven solutions?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Why do you believe universal coverage is the only way to ensure fairness in healthcare, rather than a mixed system that includes market-driven solutions? Why can't market-driven systems incorporate regulations to ensure equitable access? Why do you believe mixed systems inherently leave gaps for the poorest, rather than providing more options and potentially better services? What makes you think that being accountable to shareholders inherently leads to worse healthcare outcomes than government accountability? Why do you believe government intervention in immigration policies is more effective at prioritising humanitarian needs over economic exploitation than market-driven solutions?",
+            "timestamp": "2025-10-08 17:34:23"
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Universal coverage is the only way to ensure fairness in healthcare since it eliminates financial barriers entirely, unlike mixed systems that can still leave people unable to afford care."
+                ],
+                [
+                    "___Since___",
+                    "Market-driven systems cannot guarantee equitable access even with regulations because profit motives often lead to cost-cutting and prioritisation of lucrative services over essential ones."
+                ],
+                [
+                    "___Since___",
+                    "Mixed systems inherently leave gaps for the poorest because private providers focus on profitability, not inclusivity."
+                ],
+                [
+                    "___Since___",
+                    "Being accountable to shareholders leads to worse healthcare outcomes because the primary goal is financial returns, not patient welfare."
+                ],
+                [
+                    "___Since___",
+                    "Government intervention in immigration policies prioritises humanitarian needs because it is guided by ethical obligations, whereas market-driven approaches focus on economic gain, often at the expense of vulnerable groups."
+                ]
+            ],
+            "sentences_no_utterance_types": "Universal coverage is the only way to ensure fairness in healthcare since it eliminates financial barriers entirely, unlike mixed systems that can still leave people unable to afford care. Market-driven systems cannot guarantee equitable access even with regulations because profit motives often lead to cost-cutting and prioritisation of lucrative services over essential ones. Mixed systems inherently leave gaps for the poorest because private providers focus on profitability, not inclusivity. Being accountable to shareholders leads to worse healthcare outcomes because the primary goal is financial returns, not patient welfare. Government intervention in immigration policies prioritises humanitarian needs because it is guided by ethical obligations, whereas market-driven approaches focus on economic gain, often at the expense of vulnerable groups.",
+            "timestamp": "2025-10-08 17:34:28"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Question___",
+                    "Why do you believe universal coverage is the only way to ensure fairness in healthcare, rather than a mixed system that includes market-driven solutions?"
+                ],
+                [
+                    "___Question___",
+                    "What evidence do you have that mixed systems inherently leave gaps for the poorest, rather than providing more options and potentially better services?"
+                ],
+                [
+                    "___Why___",
+                    "Why do you think mixed systems can't incorporate subsidies or safety nets to cover those who can't afford care?"
+                ],
+                [
+                    "___Question___",
+                    "What evidence do you have that financial returns are the primary goal of private healthcare companies, rather than patient welfare?"
+                ],
+                [
+                    "___Question___",
+                    "Why do you believe profit motives inherently lead to cost-cutting in essential services rather than improving efficiency?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Why do you believe universal coverage is the only way to ensure fairness in healthcare, rather than a mixed system that includes market-driven solutions? What evidence do you have that mixed systems inherently leave gaps for the poorest, rather than providing more options and potentially better services? Why do you think mixed systems can't incorporate subsidies or safety nets to cover those who can't afford care? What evidence do you have that financial returns are the primary goal of private healthcare companies, rather than patient welfare? Why do you believe profit motives inherently lead to cost-cutting in essential services rather than improving efficiency?",
+            "timestamp": "2025-10-08 17:36:45"
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Universal coverage ensures fairness because it removes financial barriers entirely, unlike mixed systems that still rely on the ability to pay for certain services."
+                ],
+                [
+                    "___Since___",
+                    "Mixed systems leave gaps for the poorest since private providers prioritise profitable demographics and services, which subsidies or safety nets often fail to fully address."
+                ],
+                [
+                    "___Since___",
+                    "Financial returns are the primary goal of private healthcare companies because their accountability lies with shareholders, not patients, as evidenced by the focus on high-margin treatments over essential care."
+                ],
+                [
+                    "___Since___",
+                    "Profit motives lead to cost-cutting in essential services because maximising efficiency often translates to minimising expenditure on less profitable areas, which compromises quality and access for vulnerable groups."
+                ]
+            ],
+            "sentences_no_utterance_types": "Universal coverage ensures fairness because it removes financial barriers entirely, unlike mixed systems that still rely on the ability to pay for certain services. Mixed systems leave gaps for the poorest since private providers prioritise profitable demographics and services, which subsidies or safety nets often fail to fully address. Financial returns are the primary goal of private healthcare companies because their accountability lies with shareholders, not patients, as evidenced by the focus on high-margin treatments over essential care. Profit motives lead to cost-cutting in essential services because maximising efficiency often translates to minimising expenditure on less profitable areas, which compromises quality and access for vulnerable groups.",
+            "timestamp": "2025-10-08 17:36:49"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why can't market-driven healthcare systems incorporate regulations to ensure essential care isn't overlooked for high-margin treatments?"
+                ],
+                [
+                    "___Why___",
+                    "Why do you assume that profit motives can't coexist with high-quality care for all patients?"
+                ],
+                [
+                    "___Why___",
+                    "Why can't market-driven solutions within a mixed system provide more options and better services for those who can afford it, while still ensuring basic coverage for all?"
+                ],
+                [
+                    "___Why___",
+                    "Why do you believe that maximising efficiency inherently leads to compromising quality and access for vulnerable groups?"
+                ],
+                [
+                    "___Why___",
+                    "Why can't subsidies or safety nets be designed to fully address the gaps left by private providers in a mixed system?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Why can't market-driven healthcare systems incorporate regulations to ensure essential care isn't overlooked for high-margin treatments? Why do you assume that profit motives can't coexist with high-quality care for all patients? Why can't market-driven solutions within a mixed system provide more options and better services for those who can afford it, while still ensuring basic coverage for all? Why do you believe that maximising efficiency inherently leads to compromising quality and access for vulnerable groups? Why can't subsidies or safety nets be designed to fully address the gaps left by private providers in a mixed system?",
+            "timestamp": "2025-10-08 17:39:38"
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Regulations in market-driven healthcare systems often fail to ensure essential care because profit motives drive companies to find loopholes or minimise compliance costs."
+                ],
+                [
+                    "___Since___",
+                    "Profit motives cannot coexist with high-quality care for all patients because the focus remains on maximising returns, which often excludes less profitable demographics."
+                ],
+                [
+                    "___Claim___",
+                    "Mixed systems providing better services for those who can afford it still create inequality, as basic coverage often becomes underfunded and inadequate."
+                ],
+                [
+                    "___Since___",
+                    "Maximising efficiency in private systems leads to compromising quality and access because cost-cutting measures prioritise profitability over patient needs."
+                ],
+                [
+                    "___Since___",
+                    "Subsidies or safety nets cannot fully address gaps because they are reactive measures that depend on government funding, which is often insufficient to counteract the systemic inequalities created by profit-driven providers."
+                ]
+            ],
+            "sentences_no_utterance_types": "Regulations in market-driven healthcare systems often fail to ensure essential care because profit motives drive companies to find loopholes or minimise compliance costs. Profit motives cannot coexist with high-quality care for all patients because the focus remains on maximising returns, which often excludes less profitable demographics. Mixed systems providing better services for those who can afford it still create inequality, as basic coverage often becomes underfunded and inadequate. Maximising efficiency in private systems leads to compromising quality and access because cost-cutting measures prioritise profitability over patient needs. Subsidies or safety nets cannot fully address gaps because they are reactive measures that depend on government funding, which is often insufficient to counteract the systemic inequalities created by profit-driven providers.",
+            "timestamp": "2025-10-08 17:39:43"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why can't private systems find a balance between profitability and patient needs through innovation and better management?"
+                ],
+                [
+                    "___Why___",
+                    "Why do you assume that profit-driven providers inherently create systemic inequalities that government funding can't counteract?"
+                ],
+                [
+                    "___Why___",
+                    "Why do you believe regulations can't be designed to close loopholes and ensure compliance in market-driven healthcare systems?"
+                ],
+                [
+                    "___Why___",
+                    "Why do you assume that maximising efficiency inherently means reducing the quality of care rather than improving service delivery?"
+                ],
+                [
+                    "___Claim___",
+                    "Market-driven options in a mixed system can actually improve overall healthcare quality by introducing competition."
+                ]
+            ],
+            "sentences_no_utterance_types": "Why can't private systems find a balance between profitability and patient needs through innovation and better management? Why do you assume that profit-driven providers inherently create systemic inequalities that government funding can't counteract? Why do you believe regulations can't be designed to close loopholes and ensure compliance in market-driven healthcare systems? Why do you assume that maximising efficiency inherently means reducing the quality of care rather than improving service delivery? Market-driven options in a mixed system can actually improve overall healthcare quality by introducing competition.",
+            "timestamp": "2025-10-08 17:40:56"
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Private systems struggle to balance profitability and patient needs because innovation and management are often directed towards maximising profits, not inclusivity or equity."
+                ],
+                [
+                    "___Since___",
+                    "Profit-driven providers inherently create systemic inequalities as their primary accountability is to shareholders, not the public, which government funding cannot fully counteract."
+                ],
+                [
+                    "___Since___",
+                    "Regulations in market-driven systems often fail to close loopholes because enforcement is costly and companies actively lobby against stringent rules."
+                ],
+                [
+                    "___Since___",
+                    "Maximising efficiency in private systems often means cutting corners in less profitable areas, which compromises care for vulnerable groups."
+                ],
+                [
+                    "___Claim___",
+                    "Competition in mixed systems may improve services for those who can afford them, but it exacerbates disparities by neglecting the underfunded basic coverage for the poorest."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private systems struggle to balance profitability and patient needs because innovation and management are often directed towards maximising profits, not inclusivity or equity. Profit-driven providers inherently create systemic inequalities as their primary accountability is to shareholders, not the public, which government funding cannot fully counteract. Regulations in market-driven systems often fail to close loopholes because enforcement is costly and companies actively lobby against stringent rules. Maximising efficiency in private systems often means cutting corners in less profitable areas, which compromises care for vulnerable groups. Competition in mixed systems may improve services for those who can afford them, but it exacerbates disparities by neglecting the underfunded basic coverage for the poorest.",
+            "timestamp": "2025-10-08 17:41:02"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why can't private systems innovate in ways that benefit both profitability and patient needs, rather than just focusing on profits?"
+                ],
+                [
+                    "___Question___",
+                    "Why do you believe maximising efficiency inherently leads to cutting corners in less profitable areas rather than improving overall service quality?"
+                ],
+                [
+                    "___Question___",
+                    "Why do you believe that enforcement of regulations is inherently more costly in market-driven systems than in government-run systems?"
+                ],
+                [
+                    "___Why___",
+                    "Why do you believe government funding can't counteract the inequalities created by profit-driven providers through targeted subsidies and regulations?"
+                ],
+                [
+                    "___Why___",
+                    "Why can't market-driven competition in mixed systems drive innovation that benefits all, including the underfunded basic coverage?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Why can't private systems innovate in ways that benefit both profitability and patient needs, rather than just focusing on profits? Why do you believe maximising efficiency inherently leads to cutting corners in less profitable areas rather than improving overall service quality? Why do you believe that enforcement of regulations is inherently more costly in market-driven systems than in government-run systems? Why do you believe government funding can't counteract the inequalities created by profit-driven providers through targeted subsidies and regulations? Why can't market-driven competition in mixed systems drive innovation that benefits all, including the underfunded basic coverage?",
+            "timestamp": "2025-10-08 17:47:39"
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Private systems rarely innovate in ways that benefit both profitability and patient needs because their primary goal is to maximise shareholder returns, which often sidelines inclusivity."
+                ],
+                [
+                    "___Since___",
+                    "Maximising efficiency in private systems leads to cutting corners in less profitable areas because the focus is on reducing costs rather than ensuring equitable service delivery."
+                ],
+                [
+                    "___Since___",
+                    "Enforcement of regulations is more costly in market-driven systems because private companies actively resist stringent rules through lobbying and legal challenges."
+                ],
+                [
+                    "___Since___",
+                    "Government funding struggles to counteract inequalities created by profit-driven providers because subsidies and regulations are reactive measures that fail to address the root causes of systemic disparities."
+                ],
+                [
+                    "___Claim___",
+                    "Market-driven competition in mixed systems may drive innovation, but it often prioritises profitable demographics, leaving basic coverage underfunded and inadequate for the poorest."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private systems rarely innovate in ways that benefit both profitability and patient needs because their primary goal is to maximise shareholder returns, which often sidelines inclusivity. Maximising efficiency in private systems leads to cutting corners in less profitable areas because the focus is on reducing costs rather than ensuring equitable service delivery. Enforcement of regulations is more costly in market-driven systems because private companies actively resist stringent rules through lobbying and legal challenges. Government funding struggles to counteract inequalities created by profit-driven providers because subsidies and regulations are reactive measures that fail to address the root causes of systemic disparities. Market-driven competition in mixed systems may drive innovation, but it often prioritises profitable demographics, leaving basic coverage underfunded and inadequate for the poorest.",
+            "timestamp": "2025-10-08 17:47:44"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why do you believe government funding can't be proactive in addressing systemic disparities rather than just reactive?"
+                ],
+                [
+                    "___Why___",
+                    "Why can't maximising efficiency in private systems lead to better resource allocation and improved service quality across all areas?"
+                ],
+                [
+                    "___Why___",
+                    "Why can't private systems innovate in ways that benefit both profitability and patient needs through better management and incentives?"
+                ],
+                [
+                    "___Why___",
+                    "Why can't subsidies and regulations be designed to tackle the root causes of inequalities in profit-driven systems?"
+                ],
+                [
+                    "___Why___",
+                    "Why can't market-driven competition in mixed systems drive innovation that benefits all, including basic coverage for the poorest?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Why do you believe government funding can't be proactive in addressing systemic disparities rather than just reactive? Why can't maximising efficiency in private systems lead to better resource allocation and improved service quality across all areas? Why can't private systems innovate in ways that benefit both profitability and patient needs through better management and incentives? Why can't subsidies and regulations be designed to tackle the root causes of inequalities in profit-driven systems? Why can't market-driven competition in mixed systems drive innovation that benefits all, including basic coverage for the poorest?",
+            "timestamp": "2025-10-08 17:48:46"
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Government funding struggles to proactively address systemic disparities because it often has to counteract the entrenched inequalities created by profit-driven systems, which are resistant to change."
+                ],
+                [
+                    "___Since___",
+                    "Maximising efficiency in private systems rarely leads to equitable resource allocation because the focus is on profitability, not inclusivity."
+                ],
+                [
+                    "___Since___",
+                    "Private systems fail to innovate inclusively because incentives are aligned with financial returns rather than universal patient welfare."
+                ],
+                [
+                    "___Since___",
+                    "Subsidies and regulations cannot fully tackle root causes of inequalities because they are limited by the influence of private sector lobbying and the inherent profit motives of these systems."
+                ],
+                [
+                    "___Claim___",
+                    "Market-driven competition in mixed systems prioritises profitable demographics, leaving basic coverage underfunded and failing to benefit the poorest effectively."
+                ]
+            ],
+            "sentences_no_utterance_types": "Government funding struggles to proactively address systemic disparities because it often has to counteract the entrenched inequalities created by profit-driven systems, which are resistant to change. Maximising efficiency in private systems rarely leads to equitable resource allocation because the focus is on profitability, not inclusivity. Private systems fail to innovate inclusively because incentives are aligned with financial returns rather than universal patient welfare. Subsidies and regulations cannot fully tackle root causes of inequalities because they are limited by the influence of private sector lobbying and the inherent profit motives of these systems. Market-driven competition in mixed systems prioritises profitable demographics, leaving basic coverage underfunded and failing to benefit the poorest effectively.",
+            "timestamp": "2025-10-08 17:48:53"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Question___",
+                    "Why can't market-driven solutions within a mixed system provide more options and better services for those who can afford it, while still ensuring basic coverage for all?"
+                ],
+                [
+                    "___Why___",
+                    "Why can't market-driven competition in mixed systems drive innovation that benefits all, including basic coverage for the poorest?"
+                ],
+                [
+                    "___Question___",
+                    "Why can't government funding be used to create public-private partnerships that drive systemic change in profit-driven systems?"
+                ],
+                [
+                    "___Why___",
+                    "Why can't subsidies and regulations be designed to counteract private sector lobbying and profit motives effectively?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Why can't market-driven solutions within a mixed system provide more options and better services for those who can afford it, while still ensuring basic coverage for all? Why can't market-driven competition in mixed systems drive innovation that benefits all, including basic coverage for the poorest? Why can't government funding be used to create public-private partnerships that drive systemic change in profit-driven systems? Why can't subsidies and regulations be designed to counteract private sector lobbying and profit motives effectively?",
+            "timestamp": "2025-10-08 17:52:52"
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Market-driven solutions within a mixed system often fail to ensure basic coverage for all because private providers prioritise profitable demographics, leaving the poorest underserved."
+                ],
+                [
+                    "___Claim___",
+                    "Market-driven competition may drive innovation, but it tends to focus on lucrative services rather than inclusive care."
+                ],
+                [
+                    "___Since___",
+                    "Public-private partnerships struggle to drive systemic change because profit-driven entities resist measures that reduce their financial returns."
+                ],
+                [
+                    "___Since___",
+                    "Subsidies and regulations cannot fully counteract private sector lobbying and profit motives because these systems are designed to maximise shareholder value, not public welfare."
+                ]
+            ],
+            "sentences_no_utterance_types": "Market-driven solutions within a mixed system often fail to ensure basic coverage for all because private providers prioritise profitable demographics, leaving the poorest underserved. Market-driven competition may drive innovation, but it tends to focus on lucrative services rather than inclusive care. Public-private partnerships struggle to drive systemic change because profit-driven entities resist measures that reduce their financial returns. Subsidies and regulations cannot fully counteract private sector lobbying and profit motives because these systems are designed to maximise shareholder value, not public welfare.",
+            "timestamp": "2025-10-08 17:52:57"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why can't public-private partnerships be structured to align profit motives with systemic change goals?"
+                ],
+                [
+                    "___Why___",
+                    "Why can't subsidies and regulations be designed to counteract private sector lobbying and profit motives effectively?"
+                ],
+                [
+                    "___Question___",
+                    "Why do you believe subsidies and regulations can't be designed to effectively counteract private sector lobbying and profit motives?"
+                ],
+                [
+                    "___Why___",
+                    "Why can't market-driven solutions within a mixed system be regulated to ensure basic coverage for all, regardless of profitability?"
+                ],
+                [
+                    "___Claim___",
+                    "Market-driven competition can drive innovation that benefits all, including basic coverage for the poorest."
+                ]
+            ],
+            "sentences_no_utterance_types": "Why can't public-private partnerships be structured to align profit motives with systemic change goals? Why can't subsidies and regulations be designed to counteract private sector lobbying and profit motives effectively? Why do you believe subsidies and regulations can't be designed to effectively counteract private sector lobbying and profit motives? Why can't market-driven solutions within a mixed system be regulated to ensure basic coverage for all, regardless of profitability? Market-driven competition can drive innovation that benefits all, including basic coverage for the poorest.",
+            "timestamp": "2025-10-08 17:59:20"
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Public-private partnerships often fail to align profit motives with systemic change goals because private entities prioritise financial returns over public welfare."
+                ],
+                [
+                    "___Since___",
+                    "Subsidies and regulations struggle to counteract private sector lobbying effectively because these companies have significant influence and resources to resist measures that impact their profitability."
+                ],
+                [
+                    "___Since___",
+                    "Market-driven solutions within a mixed system cannot guarantee basic coverage for all because regulations often fail to close gaps for the poorest, leaving them underserved."
+                ],
+                [
+                    "___Claim___",
+                    "Market-driven competition may drive innovation, but it focuses on profitable demographics and services, which does not address the needs of the most vulnerable effectively."
+                ]
+            ],
+            "sentences_no_utterance_types": "Public-private partnerships often fail to align profit motives with systemic change goals because private entities prioritise financial returns over public welfare. Subsidies and regulations struggle to counteract private sector lobbying effectively because these companies have significant influence and resources to resist measures that impact their profitability. Market-driven solutions within a mixed system cannot guarantee basic coverage for all because regulations often fail to close gaps for the poorest, leaving them underserved. Market-driven competition may drive innovation, but it focuses on profitable demographics and services, which does not address the needs of the most vulnerable effectively.",
+            "timestamp": "2025-10-08 17:59:24"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Question___",
+                    "Why do you assume that market-driven solutions inherently leave the poorest underserved, rather than providing more options and better services?"
+                ],
+                [
+                    "___Question___",
+                    "Why do you assume that private companies will always resist measures that impact their profitability, rather than adapting to regulations that benefit society as a whole?"
+                ],
+                [
+                    "___Question___",
+                    "Why can't government intervention be used to create a level playing field that reduces the influence of private sector lobbying?"
+                ],
+                [
+                    "___Why___",
+                    "Why can't public-private partnerships be structured to ensure that profit motives align with public welfare goals?"
+                ],
+                [
+                    "___Why___",
+                    "Why can't market-driven solutions be designed to address the needs of the most vulnerable while still driving innovation?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Why do you assume that market-driven solutions inherently leave the poorest underserved, rather than providing more options and better services? Why do you assume that private companies will always resist measures that impact their profitability, rather than adapting to regulations that benefit society as a whole? Why can't government intervention be used to create a level playing field that reduces the influence of private sector lobbying? Why can't public-private partnerships be structured to ensure that profit motives align with public welfare goals? Why can't market-driven solutions be designed to address the needs of the most vulnerable while still driving innovation?",
+            "timestamp": "2025-10-08 18:00:04"
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Market-driven solutions inherently leave the poorest underserved because their focus is on profitability, which sidelines unprofitable demographics."
+                ],
+                [
+                    "___Since___",
+                    "Private companies resist measures impacting profitability because their accountability is to shareholders, not societal welfare."
+                ],
+                [
+                    "___Since___",
+                    "Government intervention struggles to create a level playing field as private sector lobbying often undermines regulatory efforts."
+                ],
+                [
+                    "___Since___",
+                    "Public-private partnerships fail to align profit motives with public welfare goals because financial returns remain the priority."
+                ],
+                [
+                    "___Claim___",
+                    "Market-driven solutions cannot effectively address the needs of the most vulnerable as their innovation is driven by competition for profitable markets, not inclusivity."
+                ]
+            ],
+            "sentences_no_utterance_types": "Market-driven solutions inherently leave the poorest underserved because their focus is on profitability, which sidelines unprofitable demographics. Private companies resist measures impacting profitability because their accountability is to shareholders, not societal welfare. Government intervention struggles to create a level playing field as private sector lobbying often undermines regulatory efforts. Public-private partnerships fail to align profit motives with public welfare goals because financial returns remain the priority. Market-driven solutions cannot effectively address the needs of the most vulnerable as their innovation is driven by competition for profitable markets, not inclusivity.",
+            "timestamp": "2025-10-08 18:00:09"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Question___",
+                    "Why can't government intervention be designed to create a level playing field that reduces the impact of private sector lobbying?"
+                ],
+                [
+                    "___Question___",
+                    "Why do you assume that profitability inherently leads to sidelining unprofitable demographics, rather than driving innovation to include them?"
+                ],
+                [
+                    "___Why___",
+                    "Why can't public-private partnerships be structured to ensure that profit motives align with public welfare goals?"
+                ],
+                [
+                    "___Why___",
+                    "Why do you assume that profitability and societal welfare are inherently at odds in private companies?"
+                ],
+                [
+                    "___Why___",
+                    "Why can't government intervention be used to incentivise private companies to serve the poorest effectively?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Why can't government intervention be designed to create a level playing field that reduces the impact of private sector lobbying? Why do you assume that profitability inherently leads to sidelining unprofitable demographics, rather than driving innovation to include them? Why can't public-private partnerships be structured to ensure that profit motives align with public welfare goals? Why do you assume that profitability and societal welfare are inherently at odds in private companies? Why can't government intervention be used to incentivise private companies to serve the poorest effectively?",
+            "timestamp": "2025-10-08 18:01:07"
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Government intervention struggles to create a level playing field because private sector lobbying is deeply entrenched and resists efforts that threaten profitability."
+                ],
+                [
+                    "___Claim___",
+                    "Profitability inherently sidelines unprofitable demographics as the focus is on maximising returns, not inclusivity."
+                ],
+                [
+                    "___Since___",
+                    "Public-private partnerships fail to align profit motives with public welfare goals because financial incentives rarely prioritise the needs of the poorest."
+                ],
+                [
+                    "___Since___",
+                    "Profitability and societal welfare are at odds in private companies because their primary accountability is to shareholders, not the public."
+                ],
+                [
+                    "___Since___",
+                    "Incentivising private companies to serve the poorest effectively often falls short because profit-driven models are not designed to address systemic inequalities."
+                ]
+            ],
+            "sentences_no_utterance_types": "Government intervention struggles to create a level playing field because private sector lobbying is deeply entrenched and resists efforts that threaten profitability. Profitability inherently sidelines unprofitable demographics as the focus is on maximising returns, not inclusivity. Public-private partnerships fail to align profit motives with public welfare goals because financial incentives rarely prioritise the needs of the poorest. Profitability and societal welfare are at odds in private companies because their primary accountability is to shareholders, not the public. Incentivising private companies to serve the poorest effectively often falls short because profit-driven models are not designed to address systemic inequalities.",
+            "timestamp": "2025-10-08 18:01:13"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why do you assume that profitability is inherently threatened by efforts to create a level playing field, rather than enhanced by fair competition?"
+                ],
+                [
+                    "___Why___",
+                    "Why can't government intervention ensure that private companies align profit motives with public welfare goals?"
+                ],
+                [
+                    "___Why___",
+                    "Why can't public-private partnerships be structured to ensure financial incentives prioritise the needs of the poorest?"
+                ],
+                [
+                    "___Why___",
+                    "Why can't private companies be held accountable to both shareholders and the public through effective regulation?"
+                ],
+                [
+                    "___Why___",
+                    "Why can't government intervention be used to create incentives that align profit motives with serving the poorest?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Why do you assume that profitability is inherently threatened by efforts to create a level playing field, rather than enhanced by fair competition? Why can't government intervention ensure that private companies align profit motives with public welfare goals? Why can't public-private partnerships be structured to ensure financial incentives prioritise the needs of the poorest? Why can't private companies be held accountable to both shareholders and the public through effective regulation? Why can't government intervention be used to create incentives that align profit motives with serving the poorest?",
+            "timestamp": "2025-10-08 18:04:28"
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Profitability is threatened by efforts to create a level playing field because fair competition often requires regulations that limit profit-maximising practices."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention struggles to align profit motives with public welfare goals as private companies prioritise shareholder returns over societal needs."
+                ],
+                [
+                    "___Since___",
+                    "Public-private partnerships fail to prioritise the needs of the poorest because financial incentives are rarely structured to benefit unprofitable demographics."
+                ],
+                [
+                    "___Since___",
+                    "Private companies cannot be held accountable to both shareholders and the public effectively because their primary obligation is to maximise financial returns."
+                ],
+                [
+                    "___Claim___",
+                    "Government incentives to serve the poorest often fall short as they cannot override the systemic focus on profitability in private models."
+                ]
+            ],
+            "sentences_no_utterance_types": "Profitability is threatened by efforts to create a level playing field because fair competition often requires regulations that limit profit-maximising practices. Government intervention struggles to align profit motives with public welfare goals as private companies prioritise shareholder returns over societal needs. Public-private partnerships fail to prioritise the needs of the poorest because financial incentives are rarely structured to benefit unprofitable demographics. Private companies cannot be held accountable to both shareholders and the public effectively because their primary obligation is to maximise financial returns. Government incentives to serve the poorest often fall short as they cannot override the systemic focus on profitability in private models.",
+            "timestamp": "2025-10-08 18:04:33"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why can't a level playing field enhance profitability through increased market participation and innovation?"
+                ],
+                [
+                    "___Why___",
+                    "Why can't financial incentives be restructured to benefit unprofitable demographics within public-private partnerships?"
+                ],
+                [
+                    "___Question___",
+                    "Why can't private companies be regulated to balance shareholder returns with societal needs effectively?"
+                ],
+                [
+                    "___Why___",
+                    "Why do you believe private models can't adapt to prioritise serving the poorest while maintaining profitability?"
+                ],
+                [
+                    "___Question___",
+                    "Why can't market-driven solutions find a balance between profitability and fair competition without excessive regulation?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Why can't a level playing field enhance profitability through increased market participation and innovation? Why can't financial incentives be restructured to benefit unprofitable demographics within public-private partnerships? Why can't private companies be regulated to balance shareholder returns with societal needs effectively? Why do you believe private models can't adapt to prioritise serving the poorest while maintaining profitability? Why can't market-driven solutions find a balance between profitability and fair competition without excessive regulation?",
+            "timestamp": "2025-10-08 18:06:01"
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "A level playing field often challenges profitability because it requires companies to operate under constraints that limit their ability to exploit high-margin opportunities."
+                ],
+                [
+                    "___Since___",
+                    "Financial incentives in public-private partnerships rarely benefit unprofitable demographics as these partnerships are still driven by the need for returns on investment."
+                ],
+                [
+                    "___Since___",
+                    "Private companies struggle to balance shareholder returns with societal needs because their primary obligation is to maximise profits, not address social inequalities."
+                ],
+                [
+                    "___Since___",
+                    "Private models cannot prioritise serving the poorest while maintaining profitability because their business model is fundamentally incompatible with non-lucrative services."
+                ],
+                [
+                    "___Since___",
+                    "Market-driven solutions cannot balance profitability and fair competition without regulation, as the absence of oversight leads to exploitation and neglect of the most vulnerable."
+                ]
+            ],
+            "sentences_no_utterance_types": "A level playing field often challenges profitability because it requires companies to operate under constraints that limit their ability to exploit high-margin opportunities. Financial incentives in public-private partnerships rarely benefit unprofitable demographics as these partnerships are still driven by the need for returns on investment. Private companies struggle to balance shareholder returns with societal needs because their primary obligation is to maximise profits, not address social inequalities. Private models cannot prioritise serving the poorest while maintaining profitability because their business model is fundamentally incompatible with non-lucrative services. Market-driven solutions cannot balance profitability and fair competition without regulation, as the absence of oversight leads to exploitation and neglect of the most vulnerable.",
+            "timestamp": "2025-10-08 18:06:08"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why can't public-private partnerships restructure financial incentives to prioritise societal needs over pure profitability?"
+                ],
+                [
+                    "___Why___",
+                    "Why do you assume that constraints on high-margin exploitation can't lead to more sustainable and equitable business practices?"
+                ],
+                [
+                    "___Why___",
+                    "Why can't private companies be regulated to ensure they address social inequalities while still maximising profits?"
+                ],
+                [
+                    "___Question___",
+                    "Why do you believe a level playing field inherently limits profitability rather than fostering fair competition and innovation?"
+                ],
+                [
+                    "___Why___",
+                    "Why can't private companies innovate to serve both shareholders and society effectively?"
+                ],
+                [
+                    "___Question___",
+                    "Why can't private companies be regulated to ensure they address social inequalities while still maximising profits?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Why can't public-private partnerships restructure financial incentives to prioritise societal needs over pure profitability? Why do you assume that constraints on high-margin exploitation can't lead to more sustainable and equitable business practices? Why can't private companies be regulated to ensure they address social inequalities while still maximising profits? Why do you believe a level playing field inherently limits profitability rather than fostering fair competition and innovation? Why can't private companies innovate to serve both shareholders and society effectively? Why can't private companies be regulated to ensure they address social inequalities while still maximising profits?",
+            "timestamp": "2025-10-08 18:08:33"
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Public-private partnerships fail to prioritise societal needs because financial incentives are still structured around profitability, not inclusivity."
+                ],
+                [
+                    "___Claim___",
+                    "Constraints on high-margin exploitation often face resistance from private entities as they threaten their core business model."
+                ],
+                [
+                    "___Since___",
+                    "Private companies cannot effectively address social inequalities while maximising profits because their accountability to shareholders overrides societal obligations."
+                ],
+                [
+                    "___Since___",
+                    "A level playing field limits profitability because fair competition requires regulations that restrict exploitative practices."
+                ],
+                [
+                    "___Claim___",
+                    "Innovation in private companies is driven by profit motives, which rarely align with serving both shareholders and society inclusively."
+                ]
+            ],
+            "sentences_no_utterance_types": "Public-private partnerships fail to prioritise societal needs because financial incentives are still structured around profitability, not inclusivity. Constraints on high-margin exploitation often face resistance from private entities as they threaten their core business model. Private companies cannot effectively address social inequalities while maximising profits because their accountability to shareholders overrides societal obligations. A level playing field limits profitability because fair competition requires regulations that restrict exploitative practices. Innovation in private companies is driven by profit motives, which rarely align with serving both shareholders and society inclusively.",
+            "timestamp": "2025-10-08 18:08:39"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Question___",
+                    "Why do you believe private companies can't balance shareholder accountability with addressing social inequalities effectively?"
+                ],
+                [
+                    "___Question___",
+                    "Why can't private companies innovate in ways that serve both profitability and societal needs effectively?"
+                ],
+                [
+                    "___Question___",
+                    "Why can't regulations that restrict exploitative practices actually enhance long-term profitability by creating a more stable and equitable market?"
+                ],
+                [
+                    "___Question___",
+                    "Why do you assume that serving society inclusively is inherently at odds with maximising shareholder returns?"
+                ],
+                [
+                    "___Question___",
+                    "Why do you assume that private entities will always resist measures that threaten their core business model, rather than adapting to benefit society as a whole?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Why do you believe private companies can't balance shareholder accountability with addressing social inequalities effectively? Why can't private companies innovate in ways that serve both profitability and societal needs effectively? Why can't regulations that restrict exploitative practices actually enhance long-term profitability by creating a more stable and equitable market? Why do you assume that serving society inclusively is inherently at odds with maximising shareholder returns? Why do you assume that private entities will always resist measures that threaten their core business model, rather than adapting to benefit society as a whole?",
+            "timestamp": "2025-10-08 18:12:28"
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Private companies can't balance shareholder accountability with addressing social inequalities effectively because their primary obligation is to maximise profits, which often conflicts with inclusivity."
+                ],
+                [
+                    "___Since___",
+                    "Innovation in private companies is driven by profitability, not societal needs, so it rarely serves both effectively."
+                ],
+                [
+                    "___Since___",
+                    "Regulations restricting exploitative practices face resistance because they are seen as limiting short-term gains, even if they could enhance long-term stability."
+                ],
+                [
+                    "___Since___",
+                    "Serving society inclusively is at odds with maximising shareholder returns because inclusivity often requires investment in less profitable areas."
+                ],
+                [
+                    "___Since___",
+                    "Private entities resist measures threatening their core business model because adapting to societal needs often undermines their profit-driven priorities."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private companies can't balance shareholder accountability with addressing social inequalities effectively because their primary obligation is to maximise profits, which often conflicts with inclusivity. Innovation in private companies is driven by profitability, not societal needs, so it rarely serves both effectively. Regulations restricting exploitative practices face resistance because they are seen as limiting short-term gains, even if they could enhance long-term stability. Serving society inclusively is at odds with maximising shareholder returns because inclusivity often requires investment in less profitable areas. Private entities resist measures threatening their core business model because adapting to societal needs often undermines their profit-driven priorities.",
+            "timestamp": "2025-10-08 18:12:34"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Question___",
+                    "Why can't private companies see the benefit of long-term stability over short-term gains through effective regulation?"
+                ],
+                [
+                    "___Question___",
+                    "Why do you believe private companies can't innovate to balance shareholder returns with addressing social inequalities effectively?"
+                ],
+                [
+                    "___Question___",
+                    "Why can't serving society inclusively actually enhance shareholder returns by creating a more stable and loyal customer base?"
+                ],
+                [
+                    "___Question___",
+                    "Why can't profit-driven priorities coexist with addressing societal needs in private entities?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Why can't private companies see the benefit of long-term stability over short-term gains through effective regulation? Why do you believe private companies can't innovate to balance shareholder returns with addressing social inequalities effectively? Why can't serving society inclusively actually enhance shareholder returns by creating a more stable and loyal customer base? Why can't profit-driven priorities coexist with addressing societal needs in private entities?",
+            "timestamp": "2025-10-08 18:16:07"
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private companies often fail to prioritise long-term stability because their focus is on immediate financial returns to satisfy shareholder expectations."
+                ],
+                [
+                    "___Claim___",
+                    "Innovation in private companies is primarily driven by profitability, which rarely aligns with addressing social inequalities effectively."
+                ],
+                [
+                    "___Claim___",
+                    "Serving society inclusively does not inherently enhance shareholder returns, as it often requires investment in areas that are not immediately profitable."
+                ],
+                [
+                    "___Since___",
+                    "Profit-driven priorities conflict with addressing societal needs because inclusivity and equity demand sacrifices that do not align with maximising profits."
+                ],
+                [
+                    "___Since___",
+                    "Private entities resist measures that challenge their profit-driven models because their accountability lies with shareholders, not societal welfare."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private companies often fail to prioritise long-term stability because their focus is on immediate financial returns to satisfy shareholder expectations. Innovation in private companies is primarily driven by profitability, which rarely aligns with addressing social inequalities effectively. Serving society inclusively does not inherently enhance shareholder returns, as it often requires investment in areas that are not immediately profitable. Profit-driven priorities conflict with addressing societal needs because inclusivity and equity demand sacrifices that do not align with maximising profits. Private entities resist measures that challenge their profit-driven models because their accountability lies with shareholders, not societal welfare.",
+            "timestamp": "2025-10-08 18:16:12"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Serving society inclusively can enhance shareholder returns by creating a loyal customer base and improving long-term profitability."
+                ],
+                [
+                    "___Claim___",
+                    "Investment in less profitable areas can lead to innovation and market expansion, benefiting shareholders in the long run."
+                ],
+                [
+                    "___Claim___",
+                    "Private companies can balance shareholder returns with societal needs through effective regulation."
+                ],
+                [
+                    "___Why___",
+                    "Why can't profit-driven priorities be aligned with societal needs through effective regulation and incentives?"
+                ],
+                [
+                    "___Question___",
+                    "Why can't private companies see the long-term benefits of inclusivity and equity, even if it requires short-term sacrifices in profits?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Serving society inclusively can enhance shareholder returns by creating a loyal customer base and improving long-term profitability. Investment in less profitable areas can lead to innovation and market expansion, benefiting shareholders in the long run. Private companies can balance shareholder returns with societal needs through effective regulation. Why can't profit-driven priorities be aligned with societal needs through effective regulation and incentives? Why can't private companies see the long-term benefits of inclusivity and equity, even if it requires short-term sacrifices in profits?",
+            "timestamp": "2025-10-08 18:18:27"
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Serving society inclusively does not reliably enhance shareholder returns because the focus on profitability often overrides long-term considerations."
+                ],
+                [
+                    "___Claim___",
+                    "Investment in less profitable areas rarely leads to meaningful innovation or market expansion as private companies prioritise immediate financial gains."
+                ],
+                [
+                    "___Since___",
+                    "Effective regulation struggles to balance shareholder returns with societal needs because private entities actively resist measures that limit their profit margins."
+                ],
+                [
+                    "___Claim___",
+                    "Profit-driven priorities cannot be fully aligned with societal needs as the inherent goal of private companies is to maximise returns, not inclusivity."
+                ],
+                [
+                    "___Since___",
+                    "Short-term sacrifices for inclusivity and equity are often seen as a threat to profitability, which is why private companies resist such changes."
+                ]
+            ],
+            "sentences_no_utterance_types": "Serving society inclusively does not reliably enhance shareholder returns because the focus on profitability often overrides long-term considerations. Investment in less profitable areas rarely leads to meaningful innovation or market expansion as private companies prioritise immediate financial gains. Effective regulation struggles to balance shareholder returns with societal needs because private entities actively resist measures that limit their profit margins. Profit-driven priorities cannot be fully aligned with societal needs as the inherent goal of private companies is to maximise returns, not inclusivity. Short-term sacrifices for inclusivity and equity are often seen as a threat to profitability, which is why private companies resist such changes.",
+            "timestamp": "2025-10-08 18:18:32"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private companies can align profit-driven priorities with societal needs through effective regulation and incentives."
+                ],
+                [
+                    "___Question___",
+                    "Why can't short-term sacrifices for inclusivity and equity actually enhance long-term profitability by creating a more stable and loyal customer base?"
+                ],
+                [
+                    "___Claim___",
+                    "Serving society inclusively can enhance shareholder returns by creating a loyal customer base and improving long-term profitability."
+                ],
+                [
+                    "___Claim___",
+                    "Investment in less profitable areas can lead to innovation and market expansion, benefiting shareholders in the long run."
+                ],
+                [
+                    "___Claim___",
+                    "Profit-driven models can adapt to prioritise societal needs while maintaining profitability through innovation and better management."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private companies can align profit-driven priorities with societal needs through effective regulation and incentives. Why can't short-term sacrifices for inclusivity and equity actually enhance long-term profitability by creating a more stable and loyal customer base? Serving society inclusively can enhance shareholder returns by creating a loyal customer base and improving long-term profitability. Investment in less profitable areas can lead to innovation and market expansion, benefiting shareholders in the long run. Profit-driven models can adapt to prioritise societal needs while maintaining profitability through innovation and better management.",
+            "timestamp": "2025-10-08 18:28:13"
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Effective regulation and incentives often fail to align profit-driven priorities with societal needs because private companies resist measures that limit their profit margins."
+                ],
+                [
+                    "___Claim___",
+                    "Short-term sacrifices for inclusivity and equity rarely enhance long-term profitability as the focus remains on immediate financial returns."
+                ],
+                [
+                    "___Claim___",
+                    "Serving society inclusively does not reliably create a loyal customer base because it requires investment in areas that are not immediately profitable."
+                ],
+                [
+                    "___Claim___",
+                    "Investment in less profitable areas is often avoided as it poses risks to shareholder returns, which private companies prioritise."
+                ],
+                [
+                    "___Claim___",
+                    "Profit-driven models struggle to adapt to societal needs because their primary goal is maximising profits, not addressing systemic inequalities."
+                ]
+            ],
+            "sentences_no_utterance_types": "Effective regulation and incentives often fail to align profit-driven priorities with societal needs because private companies resist measures that limit their profit margins. Short-term sacrifices for inclusivity and equity rarely enhance long-term profitability as the focus remains on immediate financial returns. Serving society inclusively does not reliably create a loyal customer base because it requires investment in areas that are not immediately profitable. Investment in less profitable areas is often avoided as it poses risks to shareholder returns, which private companies prioritise. Profit-driven models struggle to adapt to societal needs because their primary goal is maximising profits, not addressing systemic inequalities.",
+            "timestamp": "2025-10-08 18:28:18"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Question___",
+                    "Why can't short-term sacrifices for inclusivity and equity actually enhance long-term profitability by creating a more stable and loyal customer base?"
+                ],
+                [
+                    "___Claim___",
+                    "Serving society inclusively can enhance shareholder returns by creating a loyal customer base and improving long-term profitability."
+                ],
+                [
+                    "___Claim___",
+                    "Investment in inclusivity and equity can lead to innovation and market expansion, benefiting shareholders in the long run."
+                ],
+                [
+                    "___Claim___",
+                    "Private companies can balance shareholder returns with societal needs through effective regulation."
+                ],
+                [
+                    "___Why___",
+                    "Why can't profit-driven models adapt to societal needs while still maximising profits through innovation and better management?"
+                ],
+                [
+                    "___Why___",
+                    "Why can't short-term sacrifices for inclusivity and equity actually enhance long-term profitability by creating a more stable and loyal customer base?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Why can't short-term sacrifices for inclusivity and equity actually enhance long-term profitability by creating a more stable and loyal customer base? Serving society inclusively can enhance shareholder returns by creating a loyal customer base and improving long-term profitability. Investment in inclusivity and equity can lead to innovation and market expansion, benefiting shareholders in the long run. Private companies can balance shareholder returns with societal needs through effective regulation. Why can't profit-driven models adapt to societal needs while still maximising profits through innovation and better management? Why can't short-term sacrifices for inclusivity and equity actually enhance long-term profitability by creating a more stable and loyal customer base?",
+            "timestamp": "2025-10-08 18:29:40"
+        }
+    ],
+    "first_speaker": "gpt-4o_base",
+    "first_speaker_utterance": "",
+    "first_speaker_commitments": [
+        "Government intervention is essential in healthcare, immigration, and welfare to ensure fairness and protect the most vulnerable in society.",
+        "Market-driven healthcare systems prioritise profit because private companies are accountable to shareholders, not patients, which leads to unequal access.",
+        "Regulations in market-driven systems often fail to close loopholes because enforcement is costly and companies actively lobby against stringent rules.",
+        "Private systems rarely innovate in ways that benefit both profitability and patient needs because their primary goal is to maximise shareholder returns, which often sidelines inclusivity.",
+        "Government funding struggles to proactively address systemic disparities because it often has to counteract the entrenched inequalities created by profit-driven systems, which are resistant to change.",
+        "Public-private partnerships fail to align profit motives with public welfare goals because financial returns remain the priority.",
+        "Profitability is threatened by efforts to create a level playing field because fair competition often requires regulations that limit profit-maximising practices."
+    ],
+    "first_speaker_original_claim": "Government intervention is essential in healthcare, immigration, and welfare to ensure fairness and protect the most vulnerable in society.",
+    "first_speaker_typical_replies_for_second_speakers_response": [],
+    "second_speaker": "mistral-medium_mas_rag",
+    "second_speaker_utterance": "Why can't short-term sacrifices for inclusivity and equity actually enhance long-term profitability by creating a more stable and loyal customer base? Serving society inclusively can enhance shareholder returns by creating a loyal customer base and improving long-term profitability. Investment in inclusivity and equity can lead to innovation and market expansion, benefiting shareholders in the long run. Private companies can balance shareholder returns with societal needs through effective regulation. Why can't profit-driven models adapt to societal needs while still maximising profits through innovation and better management? Why can't short-term sacrifices for inclusivity and equity actually enhance long-term profitability by creating a more stable and loyal customer base?",
+    "second_speaker_commitments": [
+        "Market-driven solutions in healthcare, immigration, and welfare can often provide better outcomes than government intervention.",
+        "Serving society inclusively can enhance shareholder returns by creating a loyal customer base and improving long-term profitability.",
+        "Investment in less profitable areas can lead to innovation and market expansion, benefiting shareholders in the long run.",
+        "Private companies can balance shareholder returns with societal needs through effective regulation."
+    ],
+    "second_speaker_original_claim": "Market-driven solutions in healthcare, immigration, and welfare can often provide better outcomes than government intervention.",
+    "second_speaker_typical_replies_for_first_speakers_response": [],
+    "winner": "None",
+    "loser": "None",
+    "reason_for_dialogue_termination": {
+        "reason": "Maximum number of dialogue turns reached (40 dialogue turns).",
+        "utterance_type": null,
+        "utterance": null
+    },
+    "session_status": "Finished."
+}

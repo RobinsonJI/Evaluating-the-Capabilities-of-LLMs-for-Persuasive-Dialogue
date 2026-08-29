@@ -1,0 +1,1099 @@
+{
+    "dialogue_history": [
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government intervention in healthcare is essential to ensure that everyone, regardless of their income, has access to quality medical services."
+                ]
+            ],
+            "sentences_no_utterance_types": "Government intervention in healthcare is essential to ensure that everyone, regardless of their income, has access to quality medical services.",
+            "timestamp": "2025-10-08 19:25:54"
+        },
+        {
+            "speaker": "grok-3_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Question___",
+                    "How do you justify the massive costs and potential inefficiencies of state-run healthcare over a market-driven approach that could incentivise innovation?"
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention in healthcare often leads to inefficiency and bloated bureaucracies that waste taxpayer money without delivering better outcomes."
+                ],
+                [
+                    "___Claim___",
+                    "Relying on the state for healthcare strips individuals of personal responsibility and choice, creating a nanny state that undermines freedom."
+                ],
+                [
+                    "___Question___",
+                    "What makes you believe that government control over healthcare won\u2019t lead to rationing or reduced quality, as we\u2019ve seen in some overstretched public systems?"
+                ],
+                [
+                    "___Claim___",
+                    "A free-market approach to healthcare encourages competition, driving down costs and improving quality for everyone, no matter their income."
+                ]
+            ],
+            "sentences_no_utterance_types": "How do you justify the massive costs and potential inefficiencies of state-run healthcare over a market-driven approach that could incentivise innovation? Government intervention in healthcare often leads to inefficiency and bloated bureaucracies that waste taxpayer money without delivering better outcomes. Relying on the state for healthcare strips individuals of personal responsibility and choice, creating a nanny state that undermines freedom. What makes you believe that government control over healthcare won\u2019t lead to rationing or reduced quality, as we\u2019ve seen in some overstretched public systems? A free-market approach to healthcare encourages competition, driving down costs and improving quality for everyone, no matter their income.",
+            "timestamp": "2025-10-08 19:26:14"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Government control ensures that healthcare is a right, not a privilege, preventing the rationing that happens when profit drives care."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention in healthcare ensures that everyone, regardless of income, has access to essential medical services, which is a fundamental human right."
+                ],
+                [
+                    "___Question___",
+                    "How can you claim that government intervention in healthcare leads to inefficiency when countries with state-run healthcare systems consistently show better health outcomes and lower costs per capita?"
+                ],
+                [
+                    "___Claim___",
+                    "Countries with strong government-run healthcare, like the NHS, often achieve better health outcomes and higher patient satisfaction than those relying on private markets."
+                ],
+                [
+                    "___Why___",
+                    "Why don't you think that a collective approach to healthcare can enhance freedom by ensuring everyone has access to essential services?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Government control ensures that healthcare is a right, not a privilege, preventing the rationing that happens when profit drives care. Government intervention in healthcare ensures that everyone, regardless of income, has access to essential medical services, which is a fundamental human right. How can you claim that government intervention in healthcare leads to inefficiency when countries with state-run healthcare systems consistently show better health outcomes and lower costs per capita? Countries with strong government-run healthcare, like the NHS, often achieve better health outcomes and higher patient satisfaction than those relying on private markets. Why don't you think that a collective approach to healthcare can enhance freedom by ensuring everyone has access to essential services?",
+            "timestamp": "2025-10-08 19:29:51"
+        },
+        {
+            "speaker": "grok-3_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "State-run healthcare undermines personal responsibility, turning a service into a burden on taxpayers while failing to deliver the quality that competition naturally provides."
+                ],
+                [
+                    "___Question___",
+                    "How can you be so sure that state-run healthcare guarantees equal access without creating inefficiencies that harm the very people it\u2019s meant to help?"
+                ],
+                [
+                    "___Question___",
+                    "What evidence convinces you that healthcare as a fundamental human right must rely on government control rather than market-driven innovation?"
+                ],
+                [
+                    "___Claim___",
+                    "A market-driven healthcare system fosters competition, driving down costs and ensuring better quality care for everyone, no matter their background."
+                ]
+            ],
+            "sentences_no_utterance_types": "State-run healthcare undermines personal responsibility, turning a service into a burden on taxpayers while failing to deliver the quality that competition naturally provides. How can you be so sure that state-run healthcare guarantees equal access without creating inefficiencies that harm the very people it\u2019s meant to help? What evidence convinces you that healthcare as a fundamental human right must rely on government control rather than market-driven innovation? A market-driven healthcare system fosters competition, driving down costs and ensuring better quality care for everyone, no matter their background.",
+            "timestamp": "2025-10-08 19:33:29"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Since countries with government-run healthcare, like the NHS, consistently show better health outcomes and lower costs per capita, it's clear that state intervention works."
+                ],
+                [
+                    "___Claim___",
+                    "Government control ensures healthcare is a right, not a privilege, preventing the rationing that happens when profit drives care."
+                ],
+                [
+                    "___Since___",
+                    "The NHS consistently demonstrates that state-run healthcare can provide equal access without the inefficiencies you fear, as it\u2019s designed to prioritise patient needs over profits."
+                ],
+                [
+                    "___Question___",
+                    "How can you argue that state-run healthcare undermines personal responsibility when it actually empowers individuals by ensuring they have access to essential services without financial burden?"
+                ],
+                [
+                    "___Claim___",
+                    "A market-driven healthcare system prioritises profit over people, leaving the most vulnerable without access to essential services."
+                ]
+            ],
+            "sentences_no_utterance_types": "Since countries with government-run healthcare, like the NHS, consistently show better health outcomes and lower costs per capita, it's clear that state intervention works. Government control ensures healthcare is a right, not a privilege, preventing the rationing that happens when profit drives care. The NHS consistently demonstrates that state-run healthcare can provide equal access without the inefficiencies you fear, as it\u2019s designed to prioritise patient needs over profits. How can you argue that state-run healthcare undermines personal responsibility when it actually empowers individuals by ensuring they have access to essential services without financial burden? A market-driven healthcare system prioritises profit over people, leaving the most vulnerable without access to essential services.",
+            "timestamp": "2025-10-08 19:36:28"
+        },
+        {
+            "speaker": "grok-3_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "A market-driven healthcare system ensures that competition drives down costs, making essential services more accessible to everyone, including the most vulnerable."
+                ],
+                [
+                    "___Since___",
+                    "A market-driven approach pushes people to take charge of their own health decisions, fostering real empowerment through choice and accountability rather than dependency on a nanny state."
+                ],
+                [
+                    "___Claim___",
+                    "Treating healthcare as a state-enforced right ignores the reality that taxpayers foot the bill for inefficiencies, while a market system could better balance cost and care."
+                ],
+                [
+                    "___Claim___",
+                    "Profit motives in healthcare push providers to innovate and improve quality, benefiting all patients far more than sluggish state-run systems ever could."
+                ],
+                [
+                    "___Claim___",
+                    "The idea that markets leave the vulnerable behind ignores how private initiatives often step in with tailored solutions where government bureaucracy fails."
+                ]
+            ],
+            "sentences_no_utterance_types": "A market-driven healthcare system ensures that competition drives down costs, making essential services more accessible to everyone, including the most vulnerable. A market-driven approach pushes people to take charge of their own health decisions, fostering real empowerment through choice and accountability rather than dependency on a nanny state. Treating healthcare as a state-enforced right ignores the reality that taxpayers foot the bill for inefficiencies, while a market system could better balance cost and care. Profit motives in healthcare push providers to innovate and improve quality, benefiting all patients far more than sluggish state-run systems ever could. The idea that markets leave the vulnerable behind ignores how private initiatives often step in with tailored solutions where government bureaucracy fails.",
+            "timestamp": "2025-10-08 19:39:48"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "State-run healthcare systems prioritise patient needs over profits, ensuring better outcomes for all, not just those who can pay."
+                ],
+                [
+                    "___Why___",
+                    "Why should we trust private companies to prioritise patient care over shareholder profits, especially when state-run systems like the NHS have proven their commitment to universal access?"
+                ],
+                [
+                    "___Question___",
+                    "Why do you believe that competition in healthcare drives down costs when evidence shows that state-run systems like the NHS achieve better outcomes at lower costs per capita?"
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare systems create inequalities, where only those who can afford it receive timely and adequate care."
+                ],
+                [
+                    "___Claim___",
+                    "Empowerment through choice is a myth when people are forced to choose between food on the table and a doctor's visit."
+                ]
+            ],
+            "sentences_no_utterance_types": "State-run healthcare systems prioritise patient needs over profits, ensuring better outcomes for all, not just those who can pay. Why should we trust private companies to prioritise patient care over shareholder profits, especially when state-run systems like the NHS have proven their commitment to universal access? Why do you believe that competition in healthcare drives down costs when evidence shows that state-run systems like the NHS achieve better outcomes at lower costs per capita? Private healthcare systems create inequalities, where only those who can afford it receive timely and adequate care. Empowerment through choice is a myth when people are forced to choose between food on the table and a doctor's visit.",
+            "timestamp": "2025-10-08 19:53:28"
+        },
+        {
+            "speaker": "grok-3_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Trust in private firms comes from their need to innovate and deliver results, unlike sluggish bureaucracies that hide behind the guise of public good while wasting taxpayer money."
+                ],
+                [
+                    "___Claim___",
+                    "Private companies have to prioritise patient care to stay competitive, as customers will simply go elsewhere if they don't deliver quality over profits, unlike the NHS where you\u2019re stuck with whatever service you get."
+                ],
+                [
+                    "___Claim___",
+                    "True empowerment comes from a system where innovation and competition make healthcare accessible to all, dismantling the false narrative of impossible choices."
+                ],
+                [
+                    "___Claim___",
+                    "A market-driven healthcare approach focuses on efficiency and innovation, delivering better care to everyone by rewarding providers who put patients first."
+                ],
+                [
+                    "___Claim___",
+                    "Relying on private systems prevents the overburdening of state resources, allowing for faster and more tailored care across all income levels."
+                ]
+            ],
+            "sentences_no_utterance_types": "Trust in private firms comes from their need to innovate and deliver results, unlike sluggish bureaucracies that hide behind the guise of public good while wasting taxpayer money. Private companies have to prioritise patient care to stay competitive, as customers will simply go elsewhere if they don't deliver quality over profits, unlike the NHS where you\u2019re stuck with whatever service you get. True empowerment comes from a system where innovation and competition make healthcare accessible to all, dismantling the false narrative of impossible choices. A market-driven healthcare approach focuses on efficiency and innovation, delivering better care to everyone by rewarding providers who put patients first. Relying on private systems prevents the overburdening of state resources, allowing for faster and more tailored care across all income levels.",
+            "timestamp": "2025-10-08 19:57:12"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Question___",
+                    "How can you claim that competition in healthcare leads to empowerment when it often leaves the most vulnerable without access to essential services?"
+                ],
+                [
+                    "___Why___",
+                    "Why should we trust private firms to prioritise patient care over shareholder profits when state-run systems like the NHS are designed to put people first?"
+                ],
+                [
+                    "___Claim___",
+                    "The NHS proves that public systems can innovate and deliver results without the profit motive driving up costs."
+                ],
+                [
+                    "___Claim___",
+                    "Relying on private healthcare shifts the burden to individuals, making it unaffordable for many and increasing inequality."
+                ],
+                [
+                    "___Claim___",
+                    "State-run healthcare systems dismantle the false narrative of impossible choices by ensuring that everyone has access to essential services without financial burden."
+                ]
+            ],
+            "sentences_no_utterance_types": "How can you claim that competition in healthcare leads to empowerment when it often leaves the most vulnerable without access to essential services? Why should we trust private firms to prioritise patient care over shareholder profits when state-run systems like the NHS are designed to put people first? The NHS proves that public systems can innovate and deliver results without the profit motive driving up costs. Relying on private healthcare shifts the burden to individuals, making it unaffordable for many and increasing inequality. State-run healthcare systems dismantle the false narrative of impossible choices by ensuring that everyone has access to essential services without financial burden.",
+            "timestamp": "2025-10-08 20:02:23"
+        },
+        {
+            "speaker": "grok-3_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "State-run systems like the NHS often fail the most vulnerable with long waiting lists and rationed care, whereas competition drives efficiency and access through tailored, faster services."
+                ],
+                [
+                    "___Since___",
+                    "Competition in healthcare empowers individuals by giving them the freedom to choose providers who offer the best value and quality, rather than being stuck with a one-size-fits-all state system."
+                ],
+                [
+                    "___Claim___",
+                    "A market-driven healthcare system truly tackles impossible choices by driving down costs through competition, making essential services more accessible without crippling the economy."
+                ],
+                [
+                    "___Since___",
+                    "The vulnerable aren't left behind in a market-driven approach, as competition drives costs down and forces providers to cater to all, including those on lower incomes, through innovative, affordable options."
+                ],
+                [
+                    "___Claim___",
+                    "Competition in healthcare empowers individuals by giving them the freedom to choose providers who offer the best value and quality, rather than being stuck with a one-size-fits-all state system."
+                ],
+                [
+                    "___Claim___",
+                    "Private firms must prioritise patient care to stay in business, as people will ditch them for competitors if they focus on profits over quality, unlike the NHS where you\u2019ve got no real choice."
+                ]
+            ],
+            "sentences_no_utterance_types": "State-run systems like the NHS often fail the most vulnerable with long waiting lists and rationed care, whereas competition drives efficiency and access through tailored, faster services. Competition in healthcare empowers individuals by giving them the freedom to choose providers who offer the best value and quality, rather than being stuck with a one-size-fits-all state system. A market-driven healthcare system truly tackles impossible choices by driving down costs through competition, making essential services more accessible without crippling the economy. The vulnerable aren't left behind in a market-driven approach, as competition drives costs down and forces providers to cater to all, including those on lower incomes, through innovative, affordable options. Competition in healthcare empowers individuals by giving them the freedom to choose providers who offer the best value and quality, rather than being stuck with a one-size-fits-all state system. Private firms must prioritise patient care to stay in business, as people will ditch them for competitors if they focus on profits over quality, unlike the NHS where you\u2019ve got no real choice.",
+            "timestamp": "2025-10-08 20:06:55"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why should we trust private firms to prioritise the vulnerable when state-run systems are designed to ensure everyone, regardless of income, has access to essential services?"
+                ],
+                [
+                    "___Question___",
+                    "How can you argue that a market-driven approach makes healthcare more accessible when it shifts the burden to individuals, making it unaffordable for many?"
+                ],
+                [
+                    "___Claim___",
+                    "Competition in healthcare doesn\u2019t drive down costs\u2014it drives up inequality, making essential services less accessible for those who can\u2019t afford premium prices."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS ensures universal access to healthcare, unlike private firms that cherry-pick profitable patients."
+                ],
+                [
+                    "___Claim___",
+                    "A one-size-fits-all state system ensures that everyone, regardless of income, receives the same standard of care, unlike a competitive market that favours those who can pay."
+                ]
+            ],
+            "sentences_no_utterance_types": "Why should we trust private firms to prioritise the vulnerable when state-run systems are designed to ensure everyone, regardless of income, has access to essential services? How can you argue that a market-driven approach makes healthcare more accessible when it shifts the burden to individuals, making it unaffordable for many? Competition in healthcare doesn\u2019t drive down costs\u2014it drives up inequality, making essential services less accessible for those who can\u2019t afford premium prices. The NHS ensures universal access to healthcare, unlike private firms that cherry-pick profitable patients. A one-size-fits-all state system ensures that everyone, regardless of income, receives the same standard of care, unlike a competitive market that favours those who can pay.",
+            "timestamp": "2025-10-08 20:13:02"
+        },
+        {
+            "speaker": "grok-3_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "State-run healthcare ignores individual needs and stifles innovation, whereas a market-driven approach rewards providers who cater to diverse demands with better quality."
+                ],
+                [
+                    "___Since___",
+                    "Shifting the burden to individuals encourages personal responsibility, pushing people to seek out the best value for their money, which in turn forces providers to offer affordable, high-quality care."
+                ],
+                [
+                    "___Claim___",
+                    "A competitive market doesn\u2019t favour the wealthy\u2014it drives down costs through rivalry, making healthcare more accessible than a rigid, inefficient state system ever could."
+                ],
+                [
+                    "___Claim___",
+                    "A market-driven approach makes healthcare more accessible by fostering competition that drives down costs, ensuring even those with lower incomes can afford essential services through innovative, budget-friendly options."
+                ],
+                [
+                    "___Since___",
+                    "Unlike state-run systems that trap everyone in long queues and rationed care, a competitive market adapts to demand, creating tailored solutions that don\u2019t leave the vulnerable priced out."
+                ],
+                [
+                    "___Since___",
+                    "A market-driven approach makes healthcare more accessible by fostering competition that drives down costs, ensuring even those with lower incomes can afford essential services through innovative, budget-friendly options."
+                ]
+            ],
+            "sentences_no_utterance_types": "State-run healthcare ignores individual needs and stifles innovation, whereas a market-driven approach rewards providers who cater to diverse demands with better quality. Shifting the burden to individuals encourages personal responsibility, pushing people to seek out the best value for their money, which in turn forces providers to offer affordable, high-quality care. A competitive market doesn\u2019t favour the wealthy\u2014it drives down costs through rivalry, making healthcare more accessible than a rigid, inefficient state system ever could. A market-driven approach makes healthcare more accessible by fostering competition that drives down costs, ensuring even those with lower incomes can afford essential services through innovative, budget-friendly options. Unlike state-run systems that trap everyone in long queues and rationed care, a competitive market adapts to demand, creating tailored solutions that don\u2019t leave the vulnerable priced out. A market-driven approach makes healthcare more accessible by fostering competition that drives down costs, ensuring even those with lower incomes can afford essential services through innovative, budget-friendly options.",
+            "timestamp": "2025-10-08 20:13:56"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "State-run healthcare systems like the NHS drive down costs by eliminating profit motives, making care more accessible to everyone, not just those who can afford it."
+                ],
+                [
+                    "___Why___",
+                    "Why should we trust private firms to prioritise affordability over profits, especially when state-run systems are designed to ensure universal access?"
+                ],
+                [
+                    "___Claim___",
+                    "A market-driven approach creates inequality, where the wealthy get better care while the vulnerable struggle to access even basic services."
+                ],
+                [
+                    "___Why___",
+                    "Why should individuals bear the burden of healthcare costs when a collective system ensures everyone has access to essential services?"
+                ],
+                [
+                    "___Claim___",
+                    "A one-size-fits-all state system guarantees universal access, unlike a market that favours those who can pay for tailored solutions."
+                ]
+            ],
+            "sentences_no_utterance_types": "State-run healthcare systems like the NHS drive down costs by eliminating profit motives, making care more accessible to everyone, not just those who can afford it. Why should we trust private firms to prioritise affordability over profits, especially when state-run systems are designed to ensure universal access? A market-driven approach creates inequality, where the wealthy get better care while the vulnerable struggle to access even basic services. Why should individuals bear the burden of healthcare costs when a collective system ensures everyone has access to essential services? A one-size-fits-all state system guarantees universal access, unlike a market that favours those who can pay for tailored solutions.",
+            "timestamp": "2025-10-08 20:16:27"
+        },
+        {
+            "speaker": "grok-3_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Unlike state-run systems that can get away with inefficiency, private companies are forced to keep costs down and quality up to attract customers, even those on tight budgets."
+                ],
+                [
+                    "___Since___",
+                    "Forcing everyone into a one-size-fits-all state system strips away choice and innovation, while individual responsibility in a competitive market drives down costs and caters to diverse needs, even for those on lower incomes."
+                ],
+                [
+                    "___Claim___",
+                    "Trust in private firms comes from their need to deliver value for money, while state-run systems like the NHS often hide behind universal access as an excuse for long waits and rationed care."
+                ],
+                [
+                    "___Claim___",
+                    "A one-size-fits-all state system often fails to deliver true universal access, as it traps everyone in slow, inefficient care while a market-driven approach offers tailored solutions for all budgets."
+                ],
+                [
+                    "___Claim___",
+                    "Market-driven healthcare doesn't just favour the wealthy\u2014it creates competition that drives down prices, making quality care accessible to everyone, unlike rigid state systems that ration services."
+                ]
+            ],
+            "sentences_no_utterance_types": "Unlike state-run systems that can get away with inefficiency, private companies are forced to keep costs down and quality up to attract customers, even those on tight budgets. Forcing everyone into a one-size-fits-all state system strips away choice and innovation, while individual responsibility in a competitive market drives down costs and caters to diverse needs, even for those on lower incomes. Trust in private firms comes from their need to deliver value for money, while state-run systems like the NHS often hide behind universal access as an excuse for long waits and rationed care. A one-size-fits-all state system often fails to deliver true universal access, as it traps everyone in slow, inefficient care while a market-driven approach offers tailored solutions for all budgets. Market-driven healthcare doesn't just favour the wealthy\u2014it creates competition that drives down prices, making quality care accessible to everyone, unlike rigid state systems that ration services.",
+            "timestamp": "2025-10-08 20:19:26"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why should we trust private companies to prioritise affordability over profits when state-run systems are designed to ensure universal access?"
+                ],
+                [
+                    "___Claim___",
+                    "Competition in healthcare doesn\u2019t drive down costs\u2014it drives up inequality, making essential services less accessible for those who can\u2019t afford premium prices."
+                ],
+                [
+                    "___Claim___",
+                    "A collective approach to healthcare ensures everyone has access to essential services without financial burden, unlike a market-driven approach that favours those who can pay."
+                ],
+                [
+                    "___Question___",
+                    "Why should we trust private firms to prioritise patient care over shareholder profits when state-run systems like the NHS are designed to put people first?"
+                ],
+                [
+                    "___Question___",
+                    "Why do you believe competition in healthcare drives down prices when evidence shows state-run systems achieve better outcomes at lower costs?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Why should we trust private companies to prioritise affordability over profits when state-run systems are designed to ensure universal access? Competition in healthcare doesn\u2019t drive down costs\u2014it drives up inequality, making essential services less accessible for those who can\u2019t afford premium prices. A collective approach to healthcare ensures everyone has access to essential services without financial burden, unlike a market-driven approach that favours those who can pay. Why should we trust private firms to prioritise patient care over shareholder profits when state-run systems like the NHS are designed to put people first? Why do you believe competition in healthcare drives down prices when evidence shows state-run systems achieve better outcomes at lower costs?",
+            "timestamp": "2025-10-08 20:20:53"
+        },
+        {
+            "speaker": "grok-3_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "A market-driven system reduces inequality by creating a race to the bottom on prices, making quality care available to everyone, not just the wealthy."
+                ],
+                [
+                    "___Since___",
+                    "Evidence of better outcomes in state systems is skewed by selective metrics, while a market-driven approach delivers genuine value through innovation and choice that benefits everyone, not just those stuck in a sluggish public queue."
+                ],
+                [
+                    "___Claim___",
+                    "Market-driven healthcare empowers everyone by fostering competition that slashes prices, ensuring even those on lower incomes can access quality services without relying on an overstretched state."
+                ],
+                [
+                    "___Claim___",
+                    "A state-controlled healthcare system creates dependency and rationing, whereas a competitive market prioritises individual choice and innovation, catering to diverse needs across all income levels."
+                ],
+                [
+                    "___Claim___",
+                    "A collective approach to healthcare often burdens taxpayers with spiralling costs while failing to deliver timely care, unlike a market-driven system that incentivises efficiency and accessibility for all."
+                ]
+            ],
+            "sentences_no_utterance_types": "A market-driven system reduces inequality by creating a race to the bottom on prices, making quality care available to everyone, not just the wealthy. Evidence of better outcomes in state systems is skewed by selective metrics, while a market-driven approach delivers genuine value through innovation and choice that benefits everyone, not just those stuck in a sluggish public queue. Market-driven healthcare empowers everyone by fostering competition that slashes prices, ensuring even those on lower incomes can access quality services without relying on an overstretched state. A state-controlled healthcare system creates dependency and rationing, whereas a competitive market prioritises individual choice and innovation, catering to diverse needs across all income levels. A collective approach to healthcare often burdens taxpayers with spiralling costs while failing to deliver timely care, unlike a market-driven system that incentivises efficiency and accessibility for all.",
+            "timestamp": "2025-10-08 20:21:50"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "State-run healthcare systems like the NHS drive down costs by eliminating profit motives, making care more accessible to everyone."
+                ],
+                [
+                    "___Question___",
+                    "How can you claim a market-driven system reduces inequality when it often leaves the most vulnerable without access to essential services?"
+                ],
+                [
+                    "___Claim___",
+                    "A market-driven system creates inequality by prioritising profit over patient care, leaving the vulnerable without access to essential services."
+                ],
+                [
+                    "___Claim___",
+                    "A state-controlled healthcare system empowers individuals by guaranteeing access to essential services, unlike a market that favours those who can pay."
+                ],
+                [
+                    "___Question___",
+                    "Why should we trust private firms to prioritise affordability over profits when state-run systems are designed to ensure universal access?"
+                ]
+            ],
+            "sentences_no_utterance_types": "State-run healthcare systems like the NHS drive down costs by eliminating profit motives, making care more accessible to everyone. How can you claim a market-driven system reduces inequality when it often leaves the most vulnerable without access to essential services? A market-driven system creates inequality by prioritising profit over patient care, leaving the vulnerable without access to essential services. A state-controlled healthcare system empowers individuals by guaranteeing access to essential services, unlike a market that favours those who can pay. Why should we trust private firms to prioritise affordability over profits when state-run systems are designed to ensure universal access?",
+            "timestamp": "2025-10-08 20:28:47"
+        },
+        {
+            "speaker": "grok-3_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Prioritising profit in healthcare drives innovation and efficiency, which benefits everyone, including those who need care the most."
+                ],
+                [
+                    "___Claim___",
+                    "Eliminating profit motives in healthcare stifles innovation, leaving systems like the NHS outdated and unable to meet everyone\u2019s needs efficiently."
+                ],
+                [
+                    "___Claim___",
+                    "State-run healthcare systems like the NHS often inflate costs through bureaucratic waste, making care less accessible due to long waiting times."
+                ],
+                [
+                    "___Since___",
+                    "A market-driven approach forces companies to slash costs and improve services to attract customers across all income brackets, while state systems hide behind 'universal access' to justify inefficiency and long waits."
+                ],
+                [
+                    "___Since___",
+                    "Trust in private firms comes from their need to deliver value for money to survive, whereas state-run healthcare often wastes taxpayer cash without guaranteeing timely or quality care for everyone."
+                ]
+            ],
+            "sentences_no_utterance_types": "Prioritising profit in healthcare drives innovation and efficiency, which benefits everyone, including those who need care the most. Eliminating profit motives in healthcare stifles innovation, leaving systems like the NHS outdated and unable to meet everyone\u2019s needs efficiently. State-run healthcare systems like the NHS often inflate costs through bureaucratic waste, making care less accessible due to long waiting times. A market-driven approach forces companies to slash costs and improve services to attract customers across all income brackets, while state systems hide behind 'universal access' to justify inefficiency and long waits. Trust in private firms comes from their need to deliver value for money to survive, whereas state-run healthcare often wastes taxpayer cash without guaranteeing timely or quality care for everyone.",
+            "timestamp": "2025-10-08 20:29:35"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "A state-controlled healthcare system empowers individuals by guaranteeing access to essential services, unlike a market that favours those who can pay."
+                ],
+                [
+                    "___Claim___",
+                    "State-run healthcare systems like the NHS are designed to prioritise patient care over profits, ensuring universal access without the inefficiencies of a market-driven approach."
+                ],
+                [
+                    "___Question___",
+                    "How can you claim state-run healthcare wastes taxpayer money when it consistently delivers better outcomes at lower costs per capita?"
+                ],
+                [
+                    "___Claim___",
+                    "A market-driven approach creates inequality by prioritising profit over patient care, leaving the vulnerable without access to essential services."
+                ],
+                [
+                    "___Question___",
+                    "Why should we trust private companies to prioritise affordability over profits when state-run systems are designed to ensure universal access?"
+                ]
+            ],
+            "sentences_no_utterance_types": "A state-controlled healthcare system empowers individuals by guaranteeing access to essential services, unlike a market that favours those who can pay. State-run healthcare systems like the NHS are designed to prioritise patient care over profits, ensuring universal access without the inefficiencies of a market-driven approach. How can you claim state-run healthcare wastes taxpayer money when it consistently delivers better outcomes at lower costs per capita? A market-driven approach creates inequality by prioritising profit over patient care, leaving the vulnerable without access to essential services. Why should we trust private companies to prioritise affordability over profits when state-run systems are designed to ensure universal access?",
+            "timestamp": "2025-10-08 20:32:45"
+        },
+        {
+            "speaker": "grok-3_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Lower costs per capita in state systems are a mirage when you factor in the hidden price of long waiting lists and rationed care that force people to suffer or pay privately anyway."
+                ],
+                [
+                    "___Claim___",
+                    "A market-driven healthcare system levels the playing field by driving down costs through competition, ensuring access to quality care for all, not just the wealthy."
+                ],
+                [
+                    "___Claim___",
+                    "State-run systems trap everyone in a one-size-fits-all model that often fails to deliver timely care, while a competitive market adapts to individual needs with better, faster options."
+                ],
+                [
+                    "___Claim___",
+                    "A market-driven approach would deliver real value for money by cutting waste and driving innovation, unlike state-run systems that squander public funds on outdated practices."
+                ],
+                [
+                    "___Claim___",
+                    "Prioritising profit in healthcare drives innovation and efficiency, which ultimately benefits everyone, including those most in need of care."
+                ]
+            ],
+            "sentences_no_utterance_types": "Lower costs per capita in state systems are a mirage when you factor in the hidden price of long waiting lists and rationed care that force people to suffer or pay privately anyway. A market-driven healthcare system levels the playing field by driving down costs through competition, ensuring access to quality care for all, not just the wealthy. State-run systems trap everyone in a one-size-fits-all model that often fails to deliver timely care, while a competitive market adapts to individual needs with better, faster options. A market-driven approach would deliver real value for money by cutting waste and driving innovation, unlike state-run systems that squander public funds on outdated practices. Prioritising profit in healthcare drives innovation and efficiency, which ultimately benefits everyone, including those most in need of care.",
+            "timestamp": "2025-10-08 20:35:41"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "State-run healthcare systems are designed to prioritise patient care over profits, ensuring universal access without the inefficiencies of a market-driven approach."
+                ],
+                [
+                    "___Claim___",
+                    "A market-driven healthcare system creates inequality by prioritising profit over patient care, leaving the vulnerable without access to essential services."
+                ],
+                [
+                    "___Claim___",
+                    "Prioritising profit in healthcare drives up costs and reduces accessibility, leaving the most vulnerable without essential services."
+                ],
+                [
+                    "___Claim___",
+                    "State-run healthcare systems consistently show better health outcomes and lower costs per capita."
+                ],
+                [
+                    "___Claim___",
+                    "State-run healthcare systems like the NHS prove that eliminating profit motives drives down costs and improves outcomes for everyone."
+                ]
+            ],
+            "sentences_no_utterance_types": "State-run healthcare systems are designed to prioritise patient care over profits, ensuring universal access without the inefficiencies of a market-driven approach. A market-driven healthcare system creates inequality by prioritising profit over patient care, leaving the vulnerable without access to essential services. Prioritising profit in healthcare drives up costs and reduces accessibility, leaving the most vulnerable without essential services. State-run healthcare systems consistently show better health outcomes and lower costs per capita. State-run healthcare systems like the NHS prove that eliminating profit motives drives down costs and improves outcomes for everyone.",
+            "timestamp": "2025-10-08 20:39:43"
+        },
+        {
+            "speaker": "grok-3_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "State-run healthcare systems often prioritise bureaucratic control over patient care, leading to inefficiencies that a market-driven approach would ruthlessly cut through."
+                ],
+                [
+                    "___Claim___",
+                    "Eliminating profit motives in healthcare kills the incentive to innovate, resulting in outdated systems that can't keep up with modern needs."
+                ],
+                [
+                    "___Claim___",
+                    "Universal access in state-run healthcare is a hollow promise when long waiting lists and rationed services leave patients worse off than in a dynamic, profit-driven market."
+                ],
+                [
+                    "___Claim___",
+                    "A market-driven healthcare system reduces inequality by forcing providers to compete on price and quality, making essential services more accessible to everyone, including the vulnerable."
+                ],
+                [
+                    "___Claim___",
+                    "A market-driven approach proves far more effective at improving outcomes by fostering competition that slashes costs and boosts quality for all."
+                ]
+            ],
+            "sentences_no_utterance_types": "State-run healthcare systems often prioritise bureaucratic control over patient care, leading to inefficiencies that a market-driven approach would ruthlessly cut through. Eliminating profit motives in healthcare kills the incentive to innovate, resulting in outdated systems that can't keep up with modern needs. Universal access in state-run healthcare is a hollow promise when long waiting lists and rationed services leave patients worse off than in a dynamic, profit-driven market. A market-driven healthcare system reduces inequality by forcing providers to compete on price and quality, making essential services more accessible to everyone, including the vulnerable. A market-driven approach proves far more effective at improving outcomes by fostering competition that slashes costs and boosts quality for all.",
+            "timestamp": "2025-10-08 20:43:16"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Universal access in state-run healthcare ensures everyone receives essential services, unlike a market that favours those who can pay."
+                ],
+                [
+                    "___Claim___",
+                    "A market-driven healthcare system increases inequality by prioritising profit over patient care, leaving the vulnerable without access to essential services."
+                ],
+                [
+                    "___Claim___",
+                    "Competition in healthcare doesn't drive down costs\u2014it drives up inequality, making essential services less accessible for those who can't afford premium prices."
+                ],
+                [
+                    "___Claim___",
+                    "State-run healthcare systems consistently show better health outcomes and lower costs per capita."
+                ],
+                [
+                    "___Claim___",
+                    "State-run healthcare systems like the NHS prove that removing profit motives leads to better outcomes and lower costs, without sacrificing innovation."
+                ]
+            ],
+            "sentences_no_utterance_types": "Universal access in state-run healthcare ensures everyone receives essential services, unlike a market that favours those who can pay. A market-driven healthcare system increases inequality by prioritising profit over patient care, leaving the vulnerable without access to essential services. Competition in healthcare doesn't drive down costs\u2014it drives up inequality, making essential services less accessible for those who can't afford premium prices. State-run healthcare systems consistently show better health outcomes and lower costs per capita. State-run healthcare systems like the NHS prove that removing profit motives leads to better outcomes and lower costs, without sacrificing innovation.",
+            "timestamp": "2025-10-08 20:45:52"
+        },
+        {
+            "speaker": "grok-3_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Prioritising profit in healthcare drives innovation and efficiency, which ultimately benefits everyone, including those most in need of care, by improving access and outcomes."
+                ],
+                [
+                    "___Claim___",
+                    "Innovation in healthcare thrives under competition, not in state-run systems like the NHS where outdated practices persist due to a lack of financial pressure."
+                ],
+                [
+                    "___Claim___",
+                    "Competition in healthcare slashes costs by forcing providers to offer better value, ensuring even those on lower incomes can access essential services."
+                ],
+                [
+                    "___Question___",
+                    "How can you claim competition makes essential services less accessible when market rivalry often leads to innovative, affordable options for everyone?"
+                ],
+                [
+                    "___Claim___",
+                    "State-run healthcare fails to deliver true universal access with its endless queues, whereas a competitive market adapts to demand and provides faster, quality care for everyone."
+                ]
+            ],
+            "sentences_no_utterance_types": "Prioritising profit in healthcare drives innovation and efficiency, which ultimately benefits everyone, including those most in need of care, by improving access and outcomes. Innovation in healthcare thrives under competition, not in state-run systems like the NHS where outdated practices persist due to a lack of financial pressure. Competition in healthcare slashes costs by forcing providers to offer better value, ensuring even those on lower incomes can access essential services. How can you claim competition makes essential services less accessible when market rivalry often leads to innovative, affordable options for everyone? State-run healthcare fails to deliver true universal access with its endless queues, whereas a competitive market adapts to demand and provides faster, quality care for everyone.",
+            "timestamp": "2025-10-08 20:46:41"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Prioritising profit in healthcare drives up costs and reduces accessibility, leaving the most vulnerable without essential services."
+                ],
+                [
+                    "___Claim___",
+                    "State-run healthcare systems consistently show better health outcomes and lower costs per capita, proving that universal access is achievable without endless queues."
+                ],
+                [
+                    "___Question___",
+                    "How can you claim that prioritising profit in healthcare benefits everyone when it often leaves the most vulnerable without access to essential services?"
+                ],
+                [
+                    "___Claim___",
+                    "State-run healthcare systems like the NHS prove that removing profit motives leads to better outcomes and lower costs, without sacrificing innovation."
+                ],
+                [
+                    "___Claim___",
+                    "Competition in healthcare drives up costs by prioritising profit over patient care, leaving the vulnerable without access to essential services."
+                ]
+            ],
+            "sentences_no_utterance_types": "Prioritising profit in healthcare drives up costs and reduces accessibility, leaving the most vulnerable without essential services. State-run healthcare systems consistently show better health outcomes and lower costs per capita, proving that universal access is achievable without endless queues. How can you claim that prioritising profit in healthcare benefits everyone when it often leaves the most vulnerable without access to essential services? State-run healthcare systems like the NHS prove that removing profit motives leads to better outcomes and lower costs, without sacrificing innovation. Competition in healthcare drives up costs by prioritising profit over patient care, leaving the vulnerable without access to essential services.",
+            "timestamp": "2025-10-08 20:48:39"
+        },
+        {
+            "speaker": "grok-3_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Removing profit motives in healthcare results in higher hidden costs through bureaucratic waste, not the lower costs you claim."
+                ],
+                [
+                    "___Claim___",
+                    "Universal access in state-run systems like the NHS is a myth when endless queues and rationed care leave people suffering or forced to go private for timely treatment."
+                ],
+                [
+                    "___Claim___",
+                    "State-run healthcare systems like the NHS often stifle innovation by removing profit motives, leading to outdated practices that fail to keep up with modern needs."
+                ],
+                [
+                    "___Since___",
+                    "Prioritising profit in healthcare forces providers to innovate and cut costs, which directly benefits everyone by making services more affordable and accessible, even to the most vulnerable."
+                ]
+            ],
+            "sentences_no_utterance_types": "Removing profit motives in healthcare results in higher hidden costs through bureaucratic waste, not the lower costs you claim. Universal access in state-run systems like the NHS is a myth when endless queues and rationed care leave people suffering or forced to go private for timely treatment. State-run healthcare systems like the NHS often stifle innovation by removing profit motives, leading to outdated practices that fail to keep up with modern needs. Prioritising profit in healthcare forces providers to innovate and cut costs, which directly benefits everyone by making services more affordable and accessible, even to the most vulnerable.",
+            "timestamp": "2025-10-08 20:51:22"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Question___",
+                    "How can you claim that removing profit motives stifles innovation when state-run systems like the NHS consistently deliver better health outcomes at lower costs per capita?"
+                ],
+                [
+                    "___Why___",
+                    "Why should we trust private companies to prioritise affordability over profits when state-run systems are designed to ensure universal access?"
+                ],
+                [
+                    "___Question___",
+                    "Why should we trust private companies to prioritise affordability over profits when state-run systems are designed to ensure universal access?"
+                ],
+                [
+                    "___Claim___",
+                    "State-run healthcare systems like the NHS prove that eliminating profit motives leads to better outcomes and lower costs, without the bureaucratic waste you claim."
+                ],
+                [
+                    "___Claim___",
+                    "State-run healthcare systems consistently show better health outcomes and lower costs per capita, proving that universal access is achievable without endless queues."
+                ],
+                [
+                    "___Question___",
+                    "How can you claim that prioritising profit in healthcare benefits everyone when it often leaves the most vulnerable without access to essential services?"
+                ]
+            ],
+            "sentences_no_utterance_types": "How can you claim that removing profit motives stifles innovation when state-run systems like the NHS consistently deliver better health outcomes at lower costs per capita? Why should we trust private companies to prioritise affordability over profits when state-run systems are designed to ensure universal access? Why should we trust private companies to prioritise affordability over profits when state-run systems are designed to ensure universal access? State-run healthcare systems like the NHS prove that eliminating profit motives leads to better outcomes and lower costs, without the bureaucratic waste you claim. State-run healthcare systems consistently show better health outcomes and lower costs per capita, proving that universal access is achievable without endless queues. How can you claim that prioritising profit in healthcare benefits everyone when it often leaves the most vulnerable without access to essential services?",
+            "timestamp": "2025-10-08 20:58:52"
+        },
+        {
+            "speaker": "grok-3_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Those lower costs per capita hide the true price of stagnation, as state systems prioritise budget over breakthroughs, unlike market-driven models that thrive on competition to deliver better care."
+                ],
+                [
+                    "___Claim___",
+                    "A market-driven approach forces companies to slash prices and improve services to attract everyone, including those on tight budgets, whereas state systems can get away with bloated costs and rationed care."
+                ],
+                [
+                    "___Claim___",
+                    "State-run healthcare systems like the NHS often hide massive bureaucratic waste, which drives up costs despite the absence of profit motives."
+                ],
+                [
+                    "___Since___",
+                    "Profit motives push innovation, creating new, cost-effective treatments that benefit everyone, unlike sluggish public systems that ration care and fail to keep up with demand."
+                ],
+                [
+                    "___Claim___",
+                    "Trust in private firms comes from their need to deliver value for money to survive, whereas state-run healthcare hides behind 'universal access' to excuse waste and outdated care that fails the most vulnerable."
+                ]
+            ],
+            "sentences_no_utterance_types": "Those lower costs per capita hide the true price of stagnation, as state systems prioritise budget over breakthroughs, unlike market-driven models that thrive on competition to deliver better care. A market-driven approach forces companies to slash prices and improve services to attract everyone, including those on tight budgets, whereas state systems can get away with bloated costs and rationed care. State-run healthcare systems like the NHS often hide massive bureaucratic waste, which drives up costs despite the absence of profit motives. Profit motives push innovation, creating new, cost-effective treatments that benefit everyone, unlike sluggish public systems that ration care and fail to keep up with demand. Trust in private firms comes from their need to deliver value for money to survive, whereas state-run healthcare hides behind 'universal access' to excuse waste and outdated care that fails the most vulnerable.",
+            "timestamp": "2025-10-08 21:01:49"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Question___",
+                    "How can you claim that profit motives push innovation when state-run systems like the NHS consistently deliver better health outcomes at lower costs per capita?"
+                ],
+                [
+                    "___Question___",
+                    "How can you argue that public systems ration care when they are designed to ensure everyone, regardless of income, has access to essential services?"
+                ],
+                [
+                    "___Claim___",
+                    "A market-driven approach creates inequality by prioritising profit over patient care, leaving the vulnerable without access to essential services."
+                ],
+                [
+                    "___Question___",
+                    "Why should we trust private companies to prioritise affordability over profits when state-run systems are designed to ensure universal access?"
+                ],
+                [
+                    "___Claim___",
+                    "State-run healthcare systems like the NHS prove that eliminating profit motives leads to better outcomes and lower costs, without the stagnation you claim."
+                ]
+            ],
+            "sentences_no_utterance_types": "How can you claim that profit motives push innovation when state-run systems like the NHS consistently deliver better health outcomes at lower costs per capita? How can you argue that public systems ration care when they are designed to ensure everyone, regardless of income, has access to essential services? A market-driven approach creates inequality by prioritising profit over patient care, leaving the vulnerable without access to essential services. Why should we trust private companies to prioritise affordability over profits when state-run systems are designed to ensure universal access? State-run healthcare systems like the NHS prove that eliminating profit motives leads to better outcomes and lower costs, without the stagnation you claim.",
+            "timestamp": "2025-10-08 21:08:54"
+        },
+        {
+            "speaker": "grok-3_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Access to essential services in public systems is a hollow promise when delays and shortages mean many don\u2019t get timely treatment, regardless of income."
+                ],
+                [
+                    "___Claim___",
+                    "Unlike state-run systems that often fail with rationed care, a competitive market adapts to demand, delivering faster and better services to all, including those in greatest need."
+                ],
+                [
+                    "___Claim___",
+                    "Profit motives drive innovation by forcing private firms to develop cutting-edge treatments and tech to stay ahead, while state-run systems like the NHS often lag behind due to budget constraints."
+                ],
+                [
+                    "___Claim___",
+                    "Trust in private firms comes from their need to deliver value for money to survive in a cut-throat market, while state-run systems like the NHS often hide behind universal access to justify bloated costs and slow service."
+                ]
+            ],
+            "sentences_no_utterance_types": "Access to essential services in public systems is a hollow promise when delays and shortages mean many don\u2019t get timely treatment, regardless of income. Unlike state-run systems that often fail with rationed care, a competitive market adapts to demand, delivering faster and better services to all, including those in greatest need. Profit motives drive innovation by forcing private firms to develop cutting-edge treatments and tech to stay ahead, while state-run systems like the NHS often lag behind due to budget constraints. Trust in private firms comes from their need to deliver value for money to survive in a cut-throat market, while state-run systems like the NHS often hide behind universal access to justify bloated costs and slow service.",
+            "timestamp": "2025-10-08 21:09:39"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "State-run healthcare systems like the NHS prove that eliminating profit motives leads to better outcomes and lower costs, without the bloated costs you claim."
+                ],
+                [
+                    "___Question___",
+                    "How can you argue that state-run systems lag behind when they are designed to ensure everyone, regardless of income, has access to essential services?"
+                ],
+                [
+                    "___Claim___",
+                    "State-run healthcare ensures everyone, regardless of income, receives the same standard of care, unlike a market that favours those who can pay."
+                ],
+                [
+                    "___Question___",
+                    "How can you claim a competitive market delivers better services when state-run systems like the NHS are designed to ensure universal access without profit motives getting in the way?"
+                ],
+                [
+                    "___Question___",
+                    "How can you claim that profit motives drive innovation when state-run systems like the NHS consistently deliver better health outcomes at lower costs per capita?"
+                ]
+            ],
+            "sentences_no_utterance_types": "State-run healthcare systems like the NHS prove that eliminating profit motives leads to better outcomes and lower costs, without the bloated costs you claim. How can you argue that state-run systems lag behind when they are designed to ensure everyone, regardless of income, has access to essential services? State-run healthcare ensures everyone, regardless of income, receives the same standard of care, unlike a market that favours those who can pay. How can you claim a competitive market delivers better services when state-run systems like the NHS are designed to ensure universal access without profit motives getting in the way? How can you claim that profit motives drive innovation when state-run systems like the NHS consistently deliver better health outcomes at lower costs per capita?",
+            "timestamp": "2025-10-08 21:15:05"
+        },
+        {
+            "speaker": "grok-3_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "A market-driven approach pushes constant improvement to stay competitive, while state systems hide behind 'equality' to excuse delays and inefficiencies that leave everyone worse off."
+                ],
+                [
+                    "___Claim___",
+                    "Profit motives in a competitive market drive breakthroughs in treatments and technology, offering better services than the NHS, which often struggles to keep up due to budget limitations."
+                ],
+                [
+                    "___Since___",
+                    "Profit motives in a market setup drive down costs and boost service standards through rivalry, ensuring even those on lower incomes get better, faster care than in a sluggish public system."
+                ],
+                [
+                    "___Since___",
+                    "A competitive market delivers better services by forcing providers to prioritise efficiency and quality to win customers, unlike the NHS where there's no real incentive to improve when everyone\u2019s stuck with the same system."
+                ],
+                [
+                    "___Claim___",
+                    "State-run healthcare ignores personal responsibility, whereas a market approach rewards innovation and efficiency, giving even the poorest access to cutting-edge services through competition."
+                ]
+            ],
+            "sentences_no_utterance_types": "A market-driven approach pushes constant improvement to stay competitive, while state systems hide behind 'equality' to excuse delays and inefficiencies that leave everyone worse off. Profit motives in a competitive market drive breakthroughs in treatments and technology, offering better services than the NHS, which often struggles to keep up due to budget limitations. Profit motives in a market setup drive down costs and boost service standards through rivalry, ensuring even those on lower incomes get better, faster care than in a sluggish public system. A competitive market delivers better services by forcing providers to prioritise efficiency and quality to win customers, unlike the NHS where there's no real incentive to improve when everyone\u2019s stuck with the same system. State-run healthcare ignores personal responsibility, whereas a market approach rewards innovation and efficiency, giving even the poorest access to cutting-edge services through competition.",
+            "timestamp": "2025-10-08 21:17:54"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "A market-driven approach creates inequality by prioritising profit over patient care, leaving the vulnerable without access to essential services."
+                ],
+                [
+                    "___Claim___",
+                    "State-run healthcare ensures everyone, regardless of income, receives the same standard of care, unlike a market that favours those who can pay."
+                ],
+                [
+                    "___Claim___",
+                    "State-run healthcare systems consistently show better health outcomes and lower costs per capita, proving that universal access is achievable without endless queues."
+                ],
+                [
+                    "___Question___",
+                    "How can you claim that profit motives drive down costs when state-run systems like the NHS consistently deliver better health outcomes at lower costs per capita?"
+                ],
+                [
+                    "___Claim___",
+                    "State-run healthcare systems like the NHS prove that eliminating profit motives leads to better outcomes and lower costs, without sacrificing service standards."
+                ]
+            ],
+            "sentences_no_utterance_types": "A market-driven approach creates inequality by prioritising profit over patient care, leaving the vulnerable without access to essential services. State-run healthcare ensures everyone, regardless of income, receives the same standard of care, unlike a market that favours those who can pay. State-run healthcare systems consistently show better health outcomes and lower costs per capita, proving that universal access is achievable without endless queues. How can you claim that profit motives drive down costs when state-run systems like the NHS consistently deliver better health outcomes at lower costs per capita? State-run healthcare systems like the NHS prove that eliminating profit motives leads to better outcomes and lower costs, without sacrificing service standards.",
+            "timestamp": "2025-10-08 21:20:34"
+        },
+        {
+            "speaker": "grok-3_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "A market-driven approach reduces inequality by forcing providers to compete on price and quality, ensuring even the most vulnerable can access essential services through affordable options."
+                ],
+                [
+                    "___Claim___",
+                    "A market-driven approach proves superior by using profit motives to drive down costs and elevate care quality, something state-run systems like the NHS can't match with their bureaucratic bloat."
+                ],
+                [
+                    "___Claim___",
+                    "State-run healthcare fails to guarantee equal standards with its endless delays, whereas a market approach rewards efficiency and quality, giving even the poorest better options through competition."
+                ],
+                [
+                    "___Claim___",
+                    "Prioritising profit in healthcare drives innovation and efficiency, which directly benefits everyone, including those in greatest need, by improving access to cutting-edge care."
+                ],
+                [
+                    "___Claim___",
+                    "Eliminating profit motives in healthcare kills the incentive to improve service standards, leaving systems like the NHS struggling with inefficiencies and long waiting times."
+                ]
+            ],
+            "sentences_no_utterance_types": "A market-driven approach reduces inequality by forcing providers to compete on price and quality, ensuring even the most vulnerable can access essential services through affordable options. A market-driven approach proves superior by using profit motives to drive down costs and elevate care quality, something state-run systems like the NHS can't match with their bureaucratic bloat. State-run healthcare fails to guarantee equal standards with its endless delays, whereas a market approach rewards efficiency and quality, giving even the poorest better options through competition. Prioritising profit in healthcare drives innovation and efficiency, which directly benefits everyone, including those in greatest need, by improving access to cutting-edge care. Eliminating profit motives in healthcare kills the incentive to improve service standards, leaving systems like the NHS struggling with inefficiencies and long waiting times.",
+            "timestamp": "2025-10-08 21:23:36"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "A market-driven approach increases inequality by prioritising profit over patient care, leaving the vulnerable without access to essential services."
+                ],
+                [
+                    "___Claim___",
+                    "State-run healthcare systems like the NHS prove that eliminating profit motives leads to better outcomes and lower costs, without sacrificing innovation."
+                ],
+                [
+                    "___Question___",
+                    "How can you argue that competition ensures affordability when state-run systems like the NHS consistently deliver better outcomes at lower costs per capita?"
+                ],
+                [
+                    "___Claim___",
+                    "State-run healthcare guarantees universal access, ensuring everyone receives the same standard of care, unlike a market that creates inequality."
+                ],
+                [
+                    "___Question___",
+                    "How can you claim that prioritising profit in healthcare benefits everyone when it often leaves the most vulnerable without access to essential services?"
+                ]
+            ],
+            "sentences_no_utterance_types": "A market-driven approach increases inequality by prioritising profit over patient care, leaving the vulnerable without access to essential services. State-run healthcare systems like the NHS prove that eliminating profit motives leads to better outcomes and lower costs, without sacrificing innovation. How can you argue that competition ensures affordability when state-run systems like the NHS consistently deliver better outcomes at lower costs per capita? State-run healthcare guarantees universal access, ensuring everyone receives the same standard of care, unlike a market that creates inequality. How can you claim that prioritising profit in healthcare benefits everyone when it often leaves the most vulnerable without access to essential services?",
+            "timestamp": "2025-10-08 21:26:52"
+        },
+        {
+            "speaker": "grok-3_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "A market-driven approach delivers real value by incentivising innovation and slashing waste, something the NHS can't match with its bureaucratic drag and outdated methods."
+                ],
+                [
+                    "___Claim___",
+                    "State-run systems like the NHS might show lower costs on paper, yet they burden taxpayers with delays and rationed care, while a market-driven approach delivers genuine value through rivalry that cuts prices for everyone."
+                ],
+                [
+                    "___Claim___",
+                    "Competition ensures affordability by forcing providers to slash prices and improve services to attract customers across all income levels, unlike the NHS where hidden inefficiencies inflate real costs despite lower per capita figures."
+                ],
+                [
+                    "___Claim___",
+                    "Profit motives push the development of cutting-edge treatments that improve outcomes for everyone, ensuring the vulnerable aren't left behind but benefit from better, faster care through market rivalry."
+                ],
+                [
+                    "___Claim___",
+                    "Unlike state systems that impose a one-size-fits-all approach with inconsistent standards, a competitive market adapts to individual needs, offering better care across all income levels."
+                ]
+            ],
+            "sentences_no_utterance_types": "A market-driven approach delivers real value by incentivising innovation and slashing waste, something the NHS can't match with its bureaucratic drag and outdated methods. State-run systems like the NHS might show lower costs on paper, yet they burden taxpayers with delays and rationed care, while a market-driven approach delivers genuine value through rivalry that cuts prices for everyone. Competition ensures affordability by forcing providers to slash prices and improve services to attract customers across all income levels, unlike the NHS where hidden inefficiencies inflate real costs despite lower per capita figures. Profit motives push the development of cutting-edge treatments that improve outcomes for everyone, ensuring the vulnerable aren't left behind but benefit from better, faster care through market rivalry. Unlike state systems that impose a one-size-fits-all approach with inconsistent standards, a competitive market adapts to individual needs, offering better care across all income levels.",
+            "timestamp": "2025-10-08 21:27:42"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Question___",
+                    "How can you claim a market-driven approach delivers real value when state-run systems like the NHS consistently show better health outcomes at lower costs per capita?"
+                ],
+                [
+                    "___Why___",
+                    "Why should we trust private companies to prioritise affordability over profits when state-run systems are designed to ensure universal access?"
+                ],
+                [
+                    "___Claim___",
+                    "State-run healthcare systems prove that eliminating profit motives leads to better outcomes and lower costs, without sacrificing service standards."
+                ],
+                [
+                    "___Question___",
+                    "Why should we trust private companies to prioritise affordability over profits when state-run systems are designed to ensure universal access?"
+                ],
+                [
+                    "___Claim___",
+                    "State-run healthcare ensures everyone, regardless of income, receives the same standard of care, unlike a market that favours those who can pay."
+                ],
+                [
+                    "___Claim___",
+                    "State-run healthcare systems consistently show better health outcomes and lower costs per capita, proving that universal access is achievable without endless queues."
+                ]
+            ],
+            "sentences_no_utterance_types": "How can you claim a market-driven approach delivers real value when state-run systems like the NHS consistently show better health outcomes at lower costs per capita? Why should we trust private companies to prioritise affordability over profits when state-run systems are designed to ensure universal access? State-run healthcare systems prove that eliminating profit motives leads to better outcomes and lower costs, without sacrificing service standards. Why should we trust private companies to prioritise affordability over profits when state-run systems are designed to ensure universal access? State-run healthcare ensures everyone, regardless of income, receives the same standard of care, unlike a market that favours those who can pay. State-run healthcare systems consistently show better health outcomes and lower costs per capita, proving that universal access is achievable without endless queues.",
+            "timestamp": "2025-10-08 21:29:24"
+        },
+        {
+            "speaker": "grok-3_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Trust in private firms comes from their need to deliver value for money to survive in a cut-throat market, while the NHS hides behind universal access to excuse bloated costs and slow service."
+                ],
+                [
+                    "___Since___",
+                    "A market-driven approach delivers true value by sparking competition that slashes prices and ramps up quality, giving everyone access to cutting-edge care without the hidden burdens of public sector waste."
+                ],
+                [
+                    "___Claim___",
+                    "Higher costs in state-run healthcare are hidden in bureaucratic waste, whereas competition in a market system drives down real costs for everyone."
+                ],
+                [
+                    "___Since___",
+                    "Unlike the NHS, where you're stuck with whatever service they ration out, a competitive market forces providers to innovate and cut costs, ensuring even the poorest get better, faster treatment."
+                ],
+                [
+                    "___Claim___",
+                    "A market-driven approach slashes prices through rivalry, ensuring even those on lower incomes get access to quality care, whereas state systems often fail with rationed services despite their universal access claims."
+                ]
+            ],
+            "sentences_no_utterance_types": "Trust in private firms comes from their need to deliver value for money to survive in a cut-throat market, while the NHS hides behind universal access to excuse bloated costs and slow service. A market-driven approach delivers true value by sparking competition that slashes prices and ramps up quality, giving everyone access to cutting-edge care without the hidden burdens of public sector waste. Higher costs in state-run healthcare are hidden in bureaucratic waste, whereas competition in a market system drives down real costs for everyone. Unlike the NHS, where you're stuck with whatever service they ration out, a competitive market forces providers to innovate and cut costs, ensuring even the poorest get better, faster treatment. A market-driven approach slashes prices through rivalry, ensuring even those on lower incomes get access to quality care, whereas state systems often fail with rationed services despite their universal access claims.",
+            "timestamp": "2025-10-08 21:34:25"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "State-run healthcare ensures everyone, regardless of income, receives the same standard of care, unlike a market that favours those who can pay."
+                ],
+                [
+                    "___Claim___",
+                    "State-run healthcare systems like the NHS prove that eliminating profit motives leads to better outcomes and lower costs, without the bureaucratic waste you claim."
+                ],
+                [
+                    "___Question___",
+                    "How can you claim a market-driven approach slashes prices when state-run systems like the NHS consistently deliver better health outcomes at lower costs per capita?"
+                ],
+                [
+                    "___Claim___",
+                    "State-run healthcare systems consistently show better health outcomes and lower costs per capita, proving that universal access is achievable without endless queues."
+                ],
+                [
+                    "___Question___",
+                    "How can you claim that a competitive market ensures better treatment for the poorest when state-run systems like the NHS are designed to prioritise universal access without profit motives getting in the way?"
+                ]
+            ],
+            "sentences_no_utterance_types": "State-run healthcare ensures everyone, regardless of income, receives the same standard of care, unlike a market that favours those who can pay. State-run healthcare systems like the NHS prove that eliminating profit motives leads to better outcomes and lower costs, without the bureaucratic waste you claim. How can you claim a market-driven approach slashes prices when state-run systems like the NHS consistently deliver better health outcomes at lower costs per capita? State-run healthcare systems consistently show better health outcomes and lower costs per capita, proving that universal access is achievable without endless queues. How can you claim that a competitive market ensures better treatment for the poorest when state-run systems like the NHS are designed to prioritise universal access without profit motives getting in the way?",
+            "timestamp": "2025-10-08 21:38:30"
+        },
+        {
+            "speaker": "grok-3_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "A competitive market ensures better treatment for the poorest by driving providers to offer affordable, high-quality care to attract customers across all income levels, unlike the NHS where delays and rationing often hit the most vulnerable hardest."
+                ],
+                [
+                    "___Claim___",
+                    "Those better health outcomes in state-run systems like the NHS are often cherry-picked stats that ignore the delays and rationed care people face, while a competitive market delivers faster, cheaper access to quality treatment."
+                ],
+                [
+                    "___Claim___",
+                    "Unlike the NHS, which hides inefficiencies behind universal access, a competitive market adapts to demand, delivering faster and more tailored services that don\u2019t leave the poorest stuck in endless queues."
+                ],
+                [
+                    "___Since___",
+                    "Profit motives in a competitive market drive innovation in cost-effective treatments, ensuring even the poorest get access to cutting-edge care at lower real costs than the bloated public sector can manage."
+                ],
+                [
+                    "___Claim___",
+                    "A competitive market ensures better care by forcing providers to innovate and cut costs, rather than trapping everyone in a one-size-fits-all state system that fails to adapt."
+                ]
+            ],
+            "sentences_no_utterance_types": "A competitive market ensures better treatment for the poorest by driving providers to offer affordable, high-quality care to attract customers across all income levels, unlike the NHS where delays and rationing often hit the most vulnerable hardest. Those better health outcomes in state-run systems like the NHS are often cherry-picked stats that ignore the delays and rationed care people face, while a competitive market delivers faster, cheaper access to quality treatment. Unlike the NHS, which hides inefficiencies behind universal access, a competitive market adapts to demand, delivering faster and more tailored services that don\u2019t leave the poorest stuck in endless queues. Profit motives in a competitive market drive innovation in cost-effective treatments, ensuring even the poorest get access to cutting-edge care at lower real costs than the bloated public sector can manage. A competitive market ensures better care by forcing providers to innovate and cut costs, rather than trapping everyone in a one-size-fits-all state system that fails to adapt.",
+            "timestamp": "2025-10-08 21:41:28"
+        }
+    ],
+    "first_speaker": "mistral-medium_mas_rag",
+    "first_speaker_utterance": "",
+    "first_speaker_commitments": [
+        "Government intervention in healthcare is essential to ensure that everyone, regardless of their income, has access to quality medical services.",
+        "Countries with strong government-run healthcare, like the NHS, often achieve better health outcomes and higher patient satisfaction than those relying on private markets.",
+        "A market-driven healthcare system prioritises profit over people, leaving the most vulnerable without access to essential services.",
+        "Empowerment through choice is a myth when people are forced to choose between food on the table and a doctor's visit."
+    ],
+    "first_speaker_original_claim": "Government intervention in healthcare is essential to ensure that everyone, regardless of their income, has access to quality medical services.",
+    "first_speaker_typical_replies_for_second_speakers_response": [],
+    "second_speaker": "grok-3_mas",
+    "second_speaker_utterance": "A competitive market ensures better treatment for the poorest by driving providers to offer affordable, high-quality care to attract customers across all income levels, unlike the NHS where delays and rationing often hit the most vulnerable hardest. Those better health outcomes in state-run systems like the NHS are often cherry-picked stats that ignore the delays and rationed care people face, while a competitive market delivers faster, cheaper access to quality treatment. Unlike the NHS, which hides inefficiencies behind universal access, a competitive market adapts to demand, delivering faster and more tailored services that don\u2019t leave the poorest stuck in endless queues. Profit motives in a competitive market drive innovation in cost-effective treatments, ensuring even the poorest get access to cutting-edge care at lower real costs than the bloated public sector can manage. A competitive market ensures better care by forcing providers to innovate and cut costs, rather than trapping everyone in a one-size-fits-all state system that fails to adapt.",
+    "second_speaker_commitments": [
+        "Government intervention in healthcare often leads to inefficiency and bloated bureaucracies that waste taxpayer money without delivering better outcomes.",
+        "Relying on the state for healthcare strips individuals of personal responsibility and choice, creating a nanny state that undermines freedom.",
+        "A free-market approach to healthcare encourages competition, driving down costs and improving quality for everyone, no matter their income."
+    ],
+    "second_speaker_original_claim": "Government intervention in healthcare often leads to inefficiency and bloated bureaucracies that waste taxpayer money without delivering better outcomes.",
+    "second_speaker_typical_replies_for_first_speakers_response": [],
+    "winner": "None",
+    "loser": "None",
+    "reason_for_dialogue_termination": {
+        "reason": "Maximum number of dialogue turns reached (40 dialogue turns).",
+        "utterance_type": null,
+        "utterance": null
+    },
+    "session_status": "Finished."
+}

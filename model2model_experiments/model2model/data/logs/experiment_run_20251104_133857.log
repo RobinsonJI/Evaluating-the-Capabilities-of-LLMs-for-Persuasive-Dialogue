@@ -1,0 +1,10 @@
+2025-11-04 13:38:57,851 - INFO - === Persuasio Experiments ===
+2025-11-04 13:38:57,908 - INFO - HTTP Request: GET http://127.0.0.1:8000/sessions/ongoing "HTTP/1.1 200 OK"
+2025-11-04 13:38:57,908 - INFO - Persuasio server is already running
+2025-11-04 13:38:57,909 - INFO - Session timeout: no timeout
+2025-11-04 13:38:57,909 - INFO - Loading experiments from .\model2model\data\experiments\remaining-grok4-tests.csv
+2025-11-04 13:38:57,915 - INFO - Loaded 49 experiments
+2025-11-04 13:38:57,915 - INFO - Total number of batches is 25
+2025-11-04 13:38:57,927 - INFO - Starting batch 1/25...
+2025-11-04 13:38:57,928 - INFO - Batch 1, running session 'grok-4_mas:l__vs__mistral-medium_base:r'
+2025-11-04 13:38:57,942 - INFO - Batch 1, running session 'grok-4_mas:r__vs__grok-4_base:l'

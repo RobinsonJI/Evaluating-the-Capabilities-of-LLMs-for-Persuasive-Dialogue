@@ -1,0 +1,31 @@
+services:
+  persuasio:
+    build: 
+      context: ../persuasio
+      dockerfile: Dockerfile.persuasio
+    ports:
+      - "8080:8080"
+    env_file:
+      - ../persuasio/.env
+
+  session_manager:
+    build: 
+      context: ./session_manager
+      dockerfile: Dockerfile.session_manager
+    ports:
+      - "8000:8000"
+    env_file:
+      - ./session_manager/.env
+    depends_on:
+      - persuasio
+
+  client:
+    build:
+      context: ./client
+      dockerfile: Dockerfile.client
+    ports:
+      - "7860:7860"
+    env_file:
+      - ./client/.env
+    depends_on:
+      - session_manager

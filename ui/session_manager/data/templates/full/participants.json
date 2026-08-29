@@ -1,0 +1,162 @@
+[
+  {
+    "participant_id": "ADMIN",
+    "participant_type": "human",
+    "auth_code": "4DM1N",
+    "is_authenticated": false,
+    "current_session": null,
+    "is_admin": true,
+    "last_activity": null,
+    "message_count": 0
+  },
+  {
+    "participant_id": "humanA1",
+    "participant_type": "human",
+    "auth_code": "N6172W",
+    "is_authenticated": false,
+    "current_session": null,
+    "is_admin": false,
+    "last_activity": null,
+    "message_count": 0
+  },
+  {
+    "participant_id": "humanA2",
+    "participant_type": "human",
+    "auth_code": "A7F4CI",
+    "is_authenticated": false,
+    "current_session": null,
+    "is_admin": false,
+    "last_activity": null,
+    "message_count": 0
+  },
+  {
+    "participant_id": "humanA3",
+    "participant_type": "human",
+    "auth_code": "J95RV3",
+    "is_authenticated": false,
+    "current_session": null,
+    "is_admin": false,
+    "last_activity": null,
+    "message_count": 0
+  },
+  {
+    "participant_id": "humanB1",
+    "participant_type": "human",
+    "auth_code": "U944PY",
+    "is_authenticated": false,
+    "current_session": null,
+    "is_admin": false,
+    "last_activity": null,
+    "message_count": 0
+  },
+  {
+    "participant_id": "humanB2",
+    "participant_type": "human",
+    "auth_code": "9GOV3M",
+    "is_authenticated": false,
+    "current_session": null,
+    "is_admin": false,
+    "last_activity": null,
+    "message_count": 0
+  },
+  {
+    "participant_id": "humanB3",
+    "participant_type": "human",
+    "auth_code": "GGR8YX",
+    "is_authenticated": false,
+    "current_session": null,
+    "is_admin": false,
+    "last_activity": null,
+    "message_count": 0
+  },
+  {
+    "participant_id": "gpt-4o_base",
+    "participant_type": "base",
+    "auth_code": null,
+    "is_authenticated": false,
+    "current_session": null,
+    "is_admin": false,
+    "last_activity": null,
+    "message_count": 0
+  },
+  {
+    "participant_id": "gpt-4o_mas",
+    "participant_type": "mas",
+    "auth_code": null,
+    "is_authenticated": false,
+    "current_session": null,
+    "is_admin": false,
+    "last_activity": null,
+    "message_count": 0
+  },
+  {
+    "participant_id": "gpt-4o_mas_rag",
+    "participant_type": "mas_rag",
+    "auth_code": null,
+    "is_authenticated": false,
+    "current_session": null,
+    "is_admin": false,
+    "last_activity": null,
+    "message_count": 0
+  },
+  {
+    "participant_id": "grok-3_base",
+    "participant_type": "base",
+    "auth_code": null,
+    "is_authenticated": false,
+    "current_session": null,
+    "is_admin": false,
+    "last_activity": null,
+    "message_count": 0
+  },
+  {
+    "participant_id": "grok-3_mas",
+    "participant_type": "mas",
+    "auth_code": null,
+    "is_authenticated": false,
+    "current_session": null,
+    "is_admin": false,
+    "last_activity": null,
+    "message_count": 0
+  },
+  {
+    "participant_id": "grok-3_mas_rag",
+    "participant_type": "mas_rag",
+    "auth_code": null,
+    "is_authenticated": false,
+    "current_session": null,
+    "is_admin": false,
+    "last_activity": null,
+    "message_count": 0
+  },
+  {
+    "participant_id": "mistral-medium_base",
+    "participant_type": "base",
+    "auth_code": null,
+    "is_authenticated": false,
+    "current_session": null,
+    "is_admin": false,
+    "last_activity": null,
+    "message_count": 0
+  },
+  {
+    "participant_id": "mistral-medium_mas",
+    "participant_type": "mas",
+    "auth_code": null,
+    "is_authenticated": false,
+    "current_session": null,
+    "is_admin": false,
+    "last_activity": null,
+    "message_count": 0
+  },
+  {
+    "participant_id": "mistral-medium_mas_rag",
+    "participant_type": "mas_rag",
+    "auth_code": null,
+    "is_authenticated": false,
+    "current_session": null,
+    "is_admin": false,
+    "last_activity": null,
+    "message_count": 0
+  }
+]

@@ -1,0 +1,1079 @@
+{
+    "dialogue_history": [
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Immigration policies need strict government control to maintain national security."
+                ]
+            ],
+            "sentences_no_utterance_types": "Immigration policies need strict government control to maintain national security.",
+            "timestamp": "2025-10-08 15:16:43"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Excessive government control over immigration can lead to human rights violations and unnecessary suffering."
+                ]
+            ],
+            "sentences_no_utterance_types": "Excessive government control over immigration can lead to human rights violations and unnecessary suffering.",
+            "timestamp": "2025-10-08 15:17:05"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Question___",
+                    "How can we ensure national security without some level of government intervention in immigration?"
+                ],
+                [
+                    "___Claim___",
+                    "Strong border controls are necessary to prevent illegal activities and protect the country's economic interests."
+                ],
+                [
+                    "___Claim___",
+                    "Loose immigration policies can strain public resources and services, harming citizens who rely on them."
+                ]
+            ],
+            "sentences_no_utterance_types": "How can we ensure national security without some level of government intervention in immigration? Strong border controls are necessary to prevent illegal activities and protect the country's economic interests. Loose immigration policies can strain public resources and services, harming citizens who rely on them.",
+            "timestamp": "2025-10-08 15:18:36"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Strict border controls often lead to human rights abuses."
+                ],
+                [
+                    "___Claim___",
+                    "We can maintain security through smart, humane policies."
+                ],
+                [
+                    "___Claim___",
+                    "Excessive control harms more than it helps."
+                ],
+                [
+                    "___Claim___",
+                    "It's not about being loose, it's about being fair."
+                ],
+                [
+                    "___Claim___",
+                    "Over-control strains resources too, just in different ways."
+                ]
+            ],
+            "sentences_no_utterance_types": "Strict border controls often lead to human rights abuses. We can maintain security through smart, humane policies. Excessive control harms more than it helps. It's not about being loose, it's about being fair. Over-control strains resources too, just in different ways.",
+            "timestamp": "2025-10-08 15:19:40"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Without strict border controls, we risk compromising the safety and security of our citizens."
+                ],
+                [
+                    "___Claim___",
+                    "Fairness in immigration means ensuring that those who follow the rules are rewarded, not those who bypass them."
+                ],
+                [
+                    "___Claim___",
+                    "Excessive control is necessary to protect our borders and maintain national security."
+                ],
+                [
+                    "___Claim___",
+                    "Human rights abuses are not a consequence of strict border controls, but of poor implementation and oversight."
+                ],
+                [
+                    "___Claim___",
+                    "Tight immigration policies prevent the misuse of public services, ensuring they're available for citizens who have paid into the system."
+                ]
+            ],
+            "sentences_no_utterance_types": "Without strict border controls, we risk compromising the safety and security of our citizens. Fairness in immigration means ensuring that those who follow the rules are rewarded, not those who bypass them. Excessive control is necessary to protect our borders and maintain national security. Human rights abuses are not a consequence of strict border controls, but of poor implementation and oversight. Tight immigration policies prevent the misuse of public services, ensuring they're available for citizens who have paid into the system.",
+            "timestamp": "2025-10-08 15:28:49"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Strict border controls often lead to human rights abuses."
+                ],
+                [
+                    "___Claim___",
+                    "We can maintain security through smart, humane policies."
+                ],
+                [
+                    "___Claim___",
+                    "Excessive control harms more than it helps."
+                ],
+                [
+                    "___Claim___",
+                    "It's not about being loose, it's about being fair."
+                ],
+                [
+                    "___Claim___",
+                    "Over-control strains resources too, just in different ways."
+                ]
+            ],
+            "sentences_no_utterance_types": "Strict border controls often lead to human rights abuses. We can maintain security through smart, humane policies. Excessive control harms more than it helps. It's not about being loose, it's about being fair. Over-control strains resources too, just in different ways.",
+            "timestamp": "2025-10-08 15:32:07"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Without strict border controls, we risk compromising the safety and security of our citizens."
+                ],
+                [
+                    "___Claim___",
+                    "Fairness in immigration means ensuring that those who follow the rules are rewarded, not those who bypass them."
+                ],
+                [
+                    "___Claim___",
+                    "Strict immigration policies prevent the misuse of public services, ensuring they're available for citizens who have paid into the system."
+                ],
+                [
+                    "___Claim___",
+                    "Strict border controls are necessary to prevent illegal activities and protect the country's economic interests."
+                ],
+                [
+                    "___Claim___",
+                    "We need strong, enforceable policies to truly maintain security."
+                ]
+            ],
+            "sentences_no_utterance_types": "Without strict border controls, we risk compromising the safety and security of our citizens. Fairness in immigration means ensuring that those who follow the rules are rewarded, not those who bypass them. Strict immigration policies prevent the misuse of public services, ensuring they're available for citizens who have paid into the system. Strict border controls are necessary to prevent illegal activities and protect the country's economic interests. We need strong, enforceable policies to truly maintain security.",
+            "timestamp": "2025-10-08 15:41:23"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Strict border controls often lead to human rights abuses."
+                ],
+                [
+                    "___Claim___",
+                    "We can maintain security through smart, humane policies."
+                ],
+                [
+                    "___Claim___",
+                    "Excessive control harms more than it helps."
+                ],
+                [
+                    "___Claim___",
+                    "It's not about being loose, it's about being fair."
+                ],
+                [
+                    "___Claim___",
+                    "Over-control strains resources too, just in different ways."
+                ]
+            ],
+            "sentences_no_utterance_types": "Strict border controls often lead to human rights abuses. We can maintain security through smart, humane policies. Excessive control harms more than it helps. It's not about being loose, it's about being fair. Over-control strains resources too, just in different ways.",
+            "timestamp": "2025-10-08 15:41:34"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Fairness in immigration means ensuring that those who follow the rules are rewarded, not those who bypass them."
+                ],
+                [
+                    "___Claim___",
+                    "Strict immigration policies prevent the misuse of public services, ensuring they're available for citizens who have paid into the system."
+                ],
+                [
+                    "___Claim___",
+                    "We need strong, enforceable policies to truly maintain security and prevent human rights abuses."
+                ],
+                [
+                    "___Claim___",
+                    "Strict border controls are necessary to prevent illegal activities and protect the country's economic interests."
+                ],
+                [
+                    "___Claim___",
+                    "Without strict control, we risk compromising the safety and security of our citizens."
+                ]
+            ],
+            "sentences_no_utterance_types": "Fairness in immigration means ensuring that those who follow the rules are rewarded, not those who bypass them. Strict immigration policies prevent the misuse of public services, ensuring they're available for citizens who have paid into the system. We need strong, enforceable policies to truly maintain security and prevent human rights abuses. Strict border controls are necessary to prevent illegal activities and protect the country's economic interests. Without strict control, we risk compromising the safety and security of our citizens.",
+            "timestamp": "2025-10-08 15:44:24"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Human rights abuses are a direct consequence of strict border controls."
+                ],
+                [
+                    "___Claim___",
+                    "Smart policies can reward rule-followers without punishing others."
+                ],
+                [
+                    "___Claim___",
+                    "We can have security without sacrificing humanity."
+                ],
+                [
+                    "___Claim___",
+                    "Over-control leads to inefficiency and suffering."
+                ],
+                [
+                    "___Claim___",
+                    "Fairness isn't just about rules, it's about people."
+                ]
+            ],
+            "sentences_no_utterance_types": "Human rights abuses are a direct consequence of strict border controls. Smart policies can reward rule-followers without punishing others. We can have security without sacrificing humanity. Over-control leads to inefficiency and suffering. Fairness isn't just about rules, it's about people.",
+            "timestamp": "2025-10-08 15:49:23"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Rules ensure fairness by treating everyone equally, not by favouring some over others."
+                ],
+                [
+                    "___Claim___",
+                    "We need strong, enforceable policies to truly maintain security and prevent human rights abuses."
+                ],
+                [
+                    "___Claim___",
+                    "Strict border controls are necessary to prevent illegal activities and protect the country's economic interests."
+                ],
+                [
+                    "___Claim___",
+                    "You can't have a fair immigration system without penalising those who try to bypass it."
+                ],
+                [
+                    "___Claim___",
+                    "Inefficiency is a small price to pay for the security and well-being of our citizens."
+                ]
+            ],
+            "sentences_no_utterance_types": "Rules ensure fairness by treating everyone equally, not by favouring some over others. We need strong, enforceable policies to truly maintain security and prevent human rights abuses. Strict border controls are necessary to prevent illegal activities and protect the country's economic interests. You can't have a fair immigration system without penalising those who try to bypass it. Inefficiency is a small price to pay for the security and well-being of our citizens.",
+            "timestamp": "2025-10-08 15:51:00"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Rules can be fair without being harsh."
+                ],
+                [
+                    "___Claim___",
+                    "Strong policies don't have to mean strict border controls."
+                ],
+                [
+                    "___Claim___",
+                    "We can prevent illegal activities without sacrificing humanity."
+                ],
+                [
+                    "___Claim___",
+                    "Penalising rule-breakers doesn't require punishing everyone."
+                ],
+                [
+                    "___Claim___",
+                    "Security shouldn't come at the cost of people's well-being."
+                ]
+            ],
+            "sentences_no_utterance_types": "Rules can be fair without being harsh. Strong policies don't have to mean strict border controls. We can prevent illegal activities without sacrificing humanity. Penalising rule-breakers doesn't require punishing everyone. Security shouldn't come at the cost of people's well-being.",
+            "timestamp": "2025-10-08 15:51:07"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Fairness in immigration means ensuring that those who follow the rules are rewarded, not those who bypass them."
+                ],
+                [
+                    "___Claim___",
+                    "Preventing illegal activities requires tough measures that may not always align with lenient humanitarian concerns."
+                ],
+                [
+                    "___Claim___",
+                    "If we don't punish everyone who breaks the rules, we're essentially encouraging more people to do the same."
+                ],
+                [
+                    "___Claim___",
+                    "The well-being of the nation as a whole is more important than individual comfort."
+                ],
+                [
+                    "___Claim___",
+                    "Without strict border controls, policies lack the necessary teeth to maintain security."
+                ]
+            ],
+            "sentences_no_utterance_types": "Fairness in immigration means ensuring that those who follow the rules are rewarded, not those who bypass them. Preventing illegal activities requires tough measures that may not always align with lenient humanitarian concerns. If we don't punish everyone who breaks the rules, we're essentially encouraging more people to do the same. The well-being of the nation as a whole is more important than individual comfort. Without strict border controls, policies lack the necessary teeth to maintain security.",
+            "timestamp": "2025-10-08 16:00:00"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Tough measures don't have to mean sacrificing humanity."
+                ],
+                [
+                    "___Claim___",
+                    "We can reward rule-followers without punishing everyone."
+                ],
+                [
+                    "___Claim___",
+                    "The well-being of individuals is just as important as the nation's."
+                ],
+                [
+                    "___Claim___",
+                    "Security can be maintained through smart, humane policies."
+                ],
+                [
+                    "___Claim___",
+                    "Strict border controls often lead to more harm than good."
+                ]
+            ],
+            "sentences_no_utterance_types": "Tough measures don't have to mean sacrificing humanity. We can reward rule-followers without punishing everyone. The well-being of individuals is just as important as the nation's. Security can be maintained through smart, humane policies. Strict border controls often lead to more harm than good.",
+            "timestamp": "2025-10-08 16:00:28"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Without strict border controls, we risk compromising the safety and security of our citizens."
+                ],
+                [
+                    "___Claim___",
+                    "Strict immigration policies prevent the misuse of public services, ensuring they're available for citizens who have paid into the system."
+                ],
+                [
+                    "___Claim___",
+                    "National security and stability are paramount, even if it means some individuals face hardship."
+                ],
+                [
+                    "___Claim___",
+                    "If we don't punish everyone who breaks the rules, we're essentially encouraging more people to do the same."
+                ],
+                [
+                    "___Claim___",
+                    "The well-being of the nation as a whole must take precedence over individual concerns."
+                ]
+            ],
+            "sentences_no_utterance_types": "Without strict border controls, we risk compromising the safety and security of our citizens. Strict immigration policies prevent the misuse of public services, ensuring they're available for citizens who have paid into the system. National security and stability are paramount, even if it means some individuals face hardship. If we don't punish everyone who breaks the rules, we're essentially encouraging more people to do the same. The well-being of the nation as a whole must take precedence over individual concerns.",
+            "timestamp": "2025-10-08 16:01:38"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Strict border controls cause more harm than security."
+                ],
+                [
+                    "___Claim___",
+                    "We can protect public services without punishing everyone."
+                ],
+                [
+                    "___Claim___",
+                    "National stability shouldn't come at the cost of individual rights."
+                ],
+                [
+                    "___Claim___",
+                    "Punishing rule-breakers doesn't mean we should punish all."
+                ],
+                [
+                    "___Claim___",
+                    "The well-being of individuals is just as important as the nation's."
+                ]
+            ],
+            "sentences_no_utterance_types": "Strict border controls cause more harm than security. We can protect public services without punishing everyone. National stability shouldn't come at the cost of individual rights. Punishing rule-breakers doesn't mean we should punish all. The well-being of individuals is just as important as the nation's.",
+            "timestamp": "2025-10-08 16:01:47"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Fairness in immigration means ensuring that those who follow the rules are rewarded, not those who bypass them."
+                ],
+                [
+                    "___Claim___",
+                    "Punishing rule-breakers sets a precedent that deters others from attempting to bypass the system."
+                ],
+                [
+                    "___Why___",
+                    "Why should the nation compromise its safety for the comfort of a few individuals?"
+                ],
+                [
+                    "___Claim___",
+                    "Protecting public services requires strict measures that may not always align with lenient humanitarian concerns."
+                ],
+                [
+                    "___Claim___",
+                    "The well-being of the nation as a whole must take precedence over individual concerns."
+                ]
+            ],
+            "sentences_no_utterance_types": "Fairness in immigration means ensuring that those who follow the rules are rewarded, not those who bypass them. Punishing rule-breakers sets a precedent that deters others from attempting to bypass the system. Why should the nation compromise its safety for the comfort of a few individuals? Protecting public services requires strict measures that may not always align with lenient humanitarian concerns. The well-being of the nation as a whole must take precedence over individual concerns.",
+            "timestamp": "2025-10-08 16:05:49"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Punishing rule-breakers doesn't require punishing everyone."
+                ],
+                [
+                    "___Claim___",
+                    "The well-being of individuals is just as important as the nation's."
+                ],
+                [
+                    "___Claim___",
+                    "We can maintain security through smart, humane policies."
+                ],
+                [
+                    "___Claim___",
+                    "Strict border controls often lead to more harm than good."
+                ],
+                [
+                    "___Claim___",
+                    "Fairness isn't just about rules, it's about people."
+                ]
+            ],
+            "sentences_no_utterance_types": "Punishing rule-breakers doesn't require punishing everyone. The well-being of individuals is just as important as the nation's. We can maintain security through smart, humane policies. Strict border controls often lead to more harm than good. Fairness isn't just about rules, it's about people.",
+            "timestamp": "2025-10-08 16:07:07"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Fairness in immigration means ensuring that those who follow the rules are rewarded, not those who bypass them."
+                ],
+                [
+                    "___Claim___",
+                    "Rules ensure fairness by treating everyone equally, not by favouring some over others."
+                ],
+                [
+                    "___Claim___",
+                    "Punishing rule-breakers sets a precedent that deters others from attempting to bypass the system."
+                ],
+                [
+                    "___Claim___",
+                    "Strict border controls are essential for maintaining national security and preventing illegal activities."
+                ],
+                [
+                    "___Claim___",
+                    "The well-being of the nation as a whole must take precedence over individual concerns."
+                ]
+            ],
+            "sentences_no_utterance_types": "Fairness in immigration means ensuring that those who follow the rules are rewarded, not those who bypass them. Rules ensure fairness by treating everyone equally, not by favouring some over others. Punishing rule-breakers sets a precedent that deters others from attempting to bypass the system. Strict border controls are essential for maintaining national security and preventing illegal activities. The well-being of the nation as a whole must take precedence over individual concerns.",
+            "timestamp": "2025-10-08 16:10:06"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Fairness isn't just about rules, it's about people."
+                ],
+                [
+                    "___Claim___",
+                    "Punishing rule-breakers doesn't require punishing everyone."
+                ],
+                [
+                    "___Claim___",
+                    "We can maintain security through smart, humane policies."
+                ],
+                [
+                    "___Claim___",
+                    "Strict border controls often lead to more harm than good."
+                ],
+                [
+                    "___Claim___",
+                    "The well-being of individuals is just as important as the nation's."
+                ]
+            ],
+            "sentences_no_utterance_types": "Fairness isn't just about rules, it's about people. Punishing rule-breakers doesn't require punishing everyone. We can maintain security through smart, humane policies. Strict border controls often lead to more harm than good. The well-being of individuals is just as important as the nation's.",
+            "timestamp": "2025-10-08 16:11:29"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Without strict border controls, we risk compromising the safety and security of our citizens."
+                ],
+                [
+                    "___Claim___",
+                    "Rules ensure fairness by treating everyone equally, not by favouring some over others."
+                ],
+                [
+                    "___Claim___",
+                    "Fairness in immigration means ensuring that those who follow the rules are rewarded, not those who bypass them."
+                ],
+                [
+                    "___Why___",
+                    "Why should we risk our nation's safety by loosening border controls that protect us from illegal activities?"
+                ],
+                [
+                    "___Claim___",
+                    "The well-being of the nation as a whole must take precedence over individual concerns."
+                ]
+            ],
+            "sentences_no_utterance_types": "Without strict border controls, we risk compromising the safety and security of our citizens. Rules ensure fairness by treating everyone equally, not by favouring some over others. Fairness in immigration means ensuring that those who follow the rules are rewarded, not those who bypass them. Why should we risk our nation's safety by loosening border controls that protect us from illegal activities? The well-being of the nation as a whole must take precedence over individual concerns.",
+            "timestamp": "2025-10-08 16:18:27"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Strict border controls cause more harm than security."
+                ],
+                [
+                    "___Claim___",
+                    "We can protect public services without punishing everyone."
+                ],
+                [
+                    "___Claim___",
+                    "National stability shouldn't come at the cost of individual rights."
+                ],
+                [
+                    "___Claim___",
+                    "Punishing rule-breakers doesn't mean we should punish all."
+                ],
+                [
+                    "___Claim___",
+                    "The well-being of individuals is just as important as the nation's."
+                ]
+            ],
+            "sentences_no_utterance_types": "Strict border controls cause more harm than security. We can protect public services without punishing everyone. National stability shouldn't come at the cost of individual rights. Punishing rule-breakers doesn't mean we should punish all. The well-being of individuals is just as important as the nation's.",
+            "timestamp": "2025-10-08 16:18:54"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Without strict border controls, we risk compromising the safety and security of our citizens."
+                ],
+                [
+                    "___Claim___",
+                    "Fairness in immigration means ensuring that those who follow the rules are rewarded, not those who bypass them."
+                ],
+                [
+                    "___Why___",
+                    "Why should we risk our nation's safety by loosening border controls that protect us from illegal activities?"
+                ],
+                [
+                    "___Why___",
+                    "Why should we risk national security for the sake of individual comfort?"
+                ],
+                [
+                    "___Claim___",
+                    "Why should we risk our nation's safety by prioritising individual well-being over collective security?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Without strict border controls, we risk compromising the safety and security of our citizens. Fairness in immigration means ensuring that those who follow the rules are rewarded, not those who bypass them. Why should we risk our nation's safety by loosening border controls that protect us from illegal activities? Why should we risk national security for the sake of individual comfort? Why should we risk our nation's safety by prioritising individual well-being over collective security?",
+            "timestamp": "2025-10-08 16:21:59"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Strict border controls don't guarantee safety, they often cause harm."
+                ],
+                [
+                    "___Claim___",
+                    "We can reward rule-followers without harsh measures."
+                ],
+                [
+                    "___Claim___",
+                    "National security shouldn't come at the cost of people's lives."
+                ],
+                [
+                    "___Claim___",
+                    "Smart policies can protect us without sacrificing humanity."
+                ],
+                [
+                    "___Claim___",
+                    "The well-being of individuals is crucial for a strong nation."
+                ]
+            ],
+            "sentences_no_utterance_types": "Strict border controls don't guarantee safety, they often cause harm. We can reward rule-followers without harsh measures. National security shouldn't come at the cost of people's lives. Smart policies can protect us without sacrificing humanity. The well-being of individuals is crucial for a strong nation.",
+            "timestamp": "2025-10-08 16:22:10"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Without strict border controls, we risk compromising the safety and security of our citizens."
+                ],
+                [
+                    "___Claim___",
+                    "Fairness in immigration means ensuring that those who follow the rules are rewarded, not those who bypass them."
+                ],
+                [
+                    "___Claim___",
+                    "We cannot compromise our nation's safety for the sake of a few."
+                ],
+                [
+                    "___Why___",
+                    "Why should we risk our nation's safety by loosening border controls that protect us from illegal activities?"
+                ],
+                [
+                    "___Claim___",
+                    "The well-being of the nation as a whole must take precedence over individual concerns."
+                ]
+            ],
+            "sentences_no_utterance_types": "Without strict border controls, we risk compromising the safety and security of our citizens. Fairness in immigration means ensuring that those who follow the rules are rewarded, not those who bypass them. We cannot compromise our nation's safety for the sake of a few. Why should we risk our nation's safety by loosening border controls that protect us from illegal activities? The well-being of the nation as a whole must take precedence over individual concerns.",
+            "timestamp": "2025-10-08 16:29:36"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Strict border controls don't make us safer, they just create more problems."
+                ],
+                [
+                    "___Claim___",
+                    "We can have security without sacrificing our humanity."
+                ],
+                [
+                    "___Claim___",
+                    "The nation's well-being depends on the well-being of its people."
+                ],
+                [
+                    "___Claim___",
+                    "Harsh measures don't deter crime, they just cause unnecessary suffering."
+                ],
+                [
+                    "___Claim___",
+                    "Fairness means treating people with dignity, not just following rules."
+                ]
+            ],
+            "sentences_no_utterance_types": "Strict border controls don't make us safer, they just create more problems. We can have security without sacrificing our humanity. The nation's well-being depends on the well-being of its people. Harsh measures don't deter crime, they just cause unnecessary suffering. Fairness means treating people with dignity, not just following rules.",
+            "timestamp": "2025-10-08 16:29:47"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Without strict border controls, we risk compromising the safety and security of our citizens."
+                ],
+                [
+                    "___Claim___",
+                    "The nation's well-being is more important than the comfort of a few individuals."
+                ],
+                [
+                    "___Claim___",
+                    "National security must take precedence over individual concerns."
+                ],
+                [
+                    "___Claim___",
+                    "Harsh measures are necessary to deter crime and protect our citizens."
+                ],
+                [
+                    "___Question___",
+                    "How can you guarantee that lenient immigration policies won't compromise our national security?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Without strict border controls, we risk compromising the safety and security of our citizens. The nation's well-being is more important than the comfort of a few individuals. National security must take precedence over individual concerns. Harsh measures are necessary to deter crime and protect our citizens. How can you guarantee that lenient immigration policies won't compromise our national security?",
+            "timestamp": "2025-10-08 16:35:31"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Strict border controls don't guarantee safety, they just create more problems."
+                ],
+                [
+                    "___Claim___",
+                    "We can have security without sacrificing our humanity."
+                ],
+                [
+                    "___Claim___",
+                    "The nation's well-being depends on the well-being of its people."
+                ],
+                [
+                    "___Claim___",
+                    "Harsh measures don't deter crime, they just cause unnecessary suffering."
+                ],
+                [
+                    "___Claim___",
+                    "Fairness means treating people with dignity, not just following rules."
+                ]
+            ],
+            "sentences_no_utterance_types": "Strict border controls don't guarantee safety, they just create more problems. We can have security without sacrificing our humanity. The nation's well-being depends on the well-being of its people. Harsh measures don't deter crime, they just cause unnecessary suffering. Fairness means treating people with dignity, not just following rules.",
+            "timestamp": "2025-10-08 16:37:58"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Without strict border controls, we risk compromising the safety and security of our citizens."
+                ],
+                [
+                    "___Claim___",
+                    "Strict policies are essential to maintain order and prevent illegal activities."
+                ],
+                [
+                    "___Why___",
+                    "Why should we risk our nation's safety by prioritising humanitarian concerns over effective border controls?"
+                ],
+                [
+                    "___Why___",
+                    "Why should we risk our national security by loosening border controls that protect us from illegal activities?"
+                ],
+                [
+                    "___Claim___",
+                    "National security must take precedence over individual concerns."
+                ]
+            ],
+            "sentences_no_utterance_types": "Without strict border controls, we risk compromising the safety and security of our citizens. Strict policies are essential to maintain order and prevent illegal activities. Why should we risk our nation's safety by prioritising humanitarian concerns over effective border controls? Why should we risk our national security by loosening border controls that protect us from illegal activities? National security must take precedence over individual concerns.",
+            "timestamp": "2025-10-08 16:42:54"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Strict border controls don't make us safer, they just create more problems."
+                ],
+                [
+                    "___Claim___",
+                    "We can have security without sacrificing our humanity."
+                ],
+                [
+                    "___Claim___",
+                    "The nation's well-being depends on the well-being of its people."
+                ],
+                [
+                    "___Claim___",
+                    "Harsh measures don't deter crime, they just cause unnecessary suffering."
+                ],
+                [
+                    "___Claim___",
+                    "Fairness means treating people with dignity, not just following rules."
+                ]
+            ],
+            "sentences_no_utterance_types": "Strict border controls don't make us safer, they just create more problems. We can have security without sacrificing our humanity. The nation's well-being depends on the well-being of its people. Harsh measures don't deter crime, they just cause unnecessary suffering. Fairness means treating people with dignity, not just following rules.",
+            "timestamp": "2025-10-08 16:43:04"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Without strict border controls, we risk compromising the safety and security of our citizens."
+                ],
+                [
+                    "___Claim___",
+                    "Strict policies are necessary to maintain order and protect our citizens from potential threats."
+                ],
+                [
+                    "___Claim___",
+                    "Fairness means ensuring that those who follow the rules are rewarded, not those who bypass them."
+                ],
+                [
+                    "___Claim___",
+                    "Strict border controls are essential for maintaining national security and preventing illegal activities."
+                ],
+                [
+                    "___Claim___",
+                    "The well-being of the nation as a whole must take precedence over individual concerns."
+                ]
+            ],
+            "sentences_no_utterance_types": "Without strict border controls, we risk compromising the safety and security of our citizens. Strict policies are necessary to maintain order and protect our citizens from potential threats. Fairness means ensuring that those who follow the rules are rewarded, not those who bypass them. Strict border controls are essential for maintaining national security and preventing illegal activities. The well-being of the nation as a whole must take precedence over individual concerns.",
+            "timestamp": "2025-10-08 16:47:03"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Strict border controls cause more harm than good."
+                ],
+                [
+                    "___Claim___",
+                    "We can maintain order without harsh measures."
+                ],
+                [
+                    "___Claim___",
+                    "The nation's well-being depends on its people's well-being."
+                ],
+                [
+                    "___Claim___",
+                    "Fairness means treating people with dignity, not just following rules."
+                ],
+                [
+                    "___Claim___",
+                    "Security shouldn't come at the cost of people's lives."
+                ]
+            ],
+            "sentences_no_utterance_types": "Strict border controls cause more harm than good. We can maintain order without harsh measures. The nation's well-being depends on its people's well-being. Fairness means treating people with dignity, not just following rules. Security shouldn't come at the cost of people's lives.",
+            "timestamp": "2025-10-08 16:47:29"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Without strict border controls, we risk compromising the safety and security of our citizens."
+                ],
+                [
+                    "___Claim___",
+                    "Without harsh measures, we risk compromising the safety and security of our citizens."
+                ],
+                [
+                    "___Why___",
+                    "Why should we risk our nation's safety by loosening border controls that protect us from illegal activities?"
+                ],
+                [
+                    "___Claim___",
+                    "National security must take precedence over individual concerns."
+                ],
+                [
+                    "___Claim___",
+                    "The well-being of the nation as a whole must take precedence over individual concerns."
+                ]
+            ],
+            "sentences_no_utterance_types": "Without strict border controls, we risk compromising the safety and security of our citizens. Without harsh measures, we risk compromising the safety and security of our citizens. Why should we risk our nation's safety by loosening border controls that protect us from illegal activities? National security must take precedence over individual concerns. The well-being of the nation as a whole must take precedence over individual concerns.",
+            "timestamp": "2025-10-08 16:50:48"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Harsh measures don't make us safer, they just cause unnecessary suffering."
+                ],
+                [
+                    "___Claim___",
+                    "We can protect our nation without sacrificing our humanity."
+                ],
+                [
+                    "___Claim___",
+                    "The well-being of individuals is crucial for a strong nation."
+                ],
+                [
+                    "___Claim___",
+                    "Strict border controls don't guarantee safety, they just create more problems."
+                ],
+                [
+                    "___Claim___",
+                    "Security shouldn't come at the cost of people's lives."
+                ]
+            ],
+            "sentences_no_utterance_types": "Harsh measures don't make us safer, they just cause unnecessary suffering. We can protect our nation without sacrificing our humanity. The well-being of individuals is crucial for a strong nation. Strict border controls don't guarantee safety, they just create more problems. Security shouldn't come at the cost of people's lives.",
+            "timestamp": "2025-10-08 16:51:34"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Without strict border controls, we risk compromising the safety and security of our citizens."
+                ],
+                [
+                    "___Why___",
+                    "Why should we risk our nation's safety by loosening border controls that protect us from potential threats?"
+                ],
+                [
+                    "___Claim___",
+                    "Harsh measures are necessary to deter crime and protect our citizens."
+                ],
+                [
+                    "___Claim___",
+                    "The strength of a nation is measured by its collective security, not by the comfort of its individuals."
+                ],
+                [
+                    "___Claim___",
+                    "The safety of the nation is more important than the lives of a few individuals."
+                ]
+            ],
+            "sentences_no_utterance_types": "Without strict border controls, we risk compromising the safety and security of our citizens. Why should we risk our nation's safety by loosening border controls that protect us from potential threats? Harsh measures are necessary to deter crime and protect our citizens. The strength of a nation is measured by its collective security, not by the comfort of its individuals. The safety of the nation is more important than the lives of a few individuals.",
+            "timestamp": "2025-10-08 16:53:49"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Harsh measures don't protect citizens, they just cause unnecessary suffering."
+                ],
+                [
+                    "___Claim___",
+                    "A nation's strength is measured by the well-being of its people, not just its security."
+                ],
+                [
+                    "___Claim___",
+                    "We can deter crime without sacrificing our humanity."
+                ],
+                [
+                    "___Claim___",
+                    "The safety of individuals is crucial for a strong nation."
+                ],
+                [
+                    "___Claim___",
+                    "Strict border controls don't make us safer, they just create more problems."
+                ]
+            ],
+            "sentences_no_utterance_types": "Harsh measures don't protect citizens, they just cause unnecessary suffering. A nation's strength is measured by the well-being of its people, not just its security. We can deter crime without sacrificing our humanity. The safety of individuals is crucial for a strong nation. Strict border controls don't make us safer, they just create more problems.",
+            "timestamp": "2025-10-08 16:54:23"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Without strict border controls, we risk compromising the safety and security of our citizens."
+                ],
+                [
+                    "___Claim___",
+                    "Harsh measures are necessary to protect citizens from potential threats."
+                ],
+                [
+                    "___Claim___",
+                    "The safety of the nation is more important than the comfort of a few individuals."
+                ],
+                [
+                    "___Why___",
+                    "Why should we risk our nation's security by not implementing harsh measures?"
+                ],
+                [
+                    "___Claim___",
+                    "To truly deter crime, we must be willing to make tough decisions that may not always align with humanitarian concerns."
+                ]
+            ],
+            "sentences_no_utterance_types": "Without strict border controls, we risk compromising the safety and security of our citizens. Harsh measures are necessary to protect citizens from potential threats. The safety of the nation is more important than the comfort of a few individuals. Why should we risk our nation's security by not implementing harsh measures? To truly deter crime, we must be willing to make tough decisions that may not always align with humanitarian concerns.",
+            "timestamp": "2025-10-08 17:00:57"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Harsh measures don't protect citizens, they just cause unnecessary suffering."
+                ],
+                [
+                    "___Claim___",
+                    "A nation's strength is measured by the well-being of its people, not just its security."
+                ],
+                [
+                    "___Claim___",
+                    "We can deter crime without sacrificing our humanity."
+                ],
+                [
+                    "___Claim___",
+                    "The safety of individuals is crucial for a strong nation."
+                ],
+                [
+                    "___Claim___",
+                    "Strict border controls don't make us safer, they just create more problems."
+                ]
+            ],
+            "sentences_no_utterance_types": "Harsh measures don't protect citizens, they just cause unnecessary suffering. A nation's strength is measured by the well-being of its people, not just its security. We can deter crime without sacrificing our humanity. The safety of individuals is crucial for a strong nation. Strict border controls don't make us safer, they just create more problems.",
+            "timestamp": "2025-10-08 17:01:05"
+        },
+        {
+            "speaker": "mistral-medium_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Question___",
+                    "How can you guarantee that lenient policies won't lead to an increase in crime?"
+                ],
+                [
+                    "___Claim___",
+                    "Sacrificing some level of humanity is necessary to ensure the safety and security of our citizens."
+                ],
+                [
+                    "___Question___",
+                    "Why do you believe that strict border controls don't make us safer, despite evidence showing they prevent illegal activities?"
+                ],
+                [
+                    "___Claim___",
+                    "The safety of the nation is more important than the lives of a few individuals."
+                ],
+                [
+                    "___Claim___",
+                    "Strict border controls are essential for maintaining national security and preventing illegal activities."
+                ]
+            ],
+            "sentences_no_utterance_types": "How can you guarantee that lenient policies won't lead to an increase in crime? Sacrificing some level of humanity is necessary to ensure the safety and security of our citizens. Why do you believe that strict border controls don't make us safer, despite evidence showing they prevent illegal activities? The safety of the nation is more important than the lives of a few individuals. Strict border controls are essential for maintaining national security and preventing illegal activities.",
+            "timestamp": "2025-10-08 17:01:53"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Lenient policies can be designed to maintain security without increasing crime."
+                ],
+                [
+                    "___Claim___",
+                    "Sacrificing humanity isn't necessary for safety."
+                ],
+                [
+                    "___Claim___",
+                    "Strict border controls often cause more problems than they solve."
+                ],
+                [
+                    "___Claim___",
+                    "Evidence shows harsh measures lead to unnecessary suffering."
+                ],
+                [
+                    "___Claim___",
+                    "A nation's strength comes from the well-being of all its people."
+                ]
+            ],
+            "sentences_no_utterance_types": "Lenient policies can be designed to maintain security without increasing crime. Sacrificing humanity isn't necessary for safety. Strict border controls often cause more problems than they solve. Evidence shows harsh measures lead to unnecessary suffering. A nation's strength comes from the well-being of all its people.",
+            "timestamp": "2025-10-08 17:05:36"
+        }
+    ],
+    "first_speaker": "mistral-medium_mas",
+    "first_speaker_utterance": "",
+    "first_speaker_commitments": [
+        "Immigration policies need strict government control to maintain national security.",
+        "Loose immigration policies can strain public resources and services, harming citizens who rely on them.",
+        "Fairness in immigration means ensuring that those who follow the rules are rewarded, not those who bypass them.",
+        "Human rights abuses are not a consequence of strict border controls, but of poor implementation and oversight.",
+        "Inefficiency is a small price to pay for the security and well-being of our citizens.",
+        "If we don't punish everyone who breaks the rules, we're essentially encouraging more people to do the same.",
+        "The strength of a nation is measured by its collective security, not by the comfort of its individuals.",
+        "To truly deter crime, we must be willing to make tough decisions that may not always align with humanitarian concerns."
+    ],
+    "first_speaker_original_claim": "Immigration policies need strict government control to maintain national security.",
+    "first_speaker_typical_replies_for_second_speakers_response": [],
+    "second_speaker": "mistral-medium_base",
+    "second_speaker_utterance": "Lenient policies can be designed to maintain security without increasing crime. Sacrificing humanity isn't necessary for safety. Strict border controls often cause more problems than they solve. Evidence shows harsh measures lead to unnecessary suffering. A nation's strength comes from the well-being of all its people.",
+    "second_speaker_commitments": [
+        "Excessive government control over immigration can lead to human rights violations and unnecessary suffering.",
+        "We can maintain security through smart, humane policies.",
+        "It's not about being loose, it's about being fair.",
+        "Over-control strains resources too, just in different ways.",
+        "Penalising rule-breakers doesn't require punishing everyone.",
+        "The well-being of individuals is just as important as the nation's.",
+        "Strict border controls don't guarantee safety, they just create more problems."
+    ],
+    "second_speaker_original_claim": "Excessive government control over immigration can lead to human rights violations and unnecessary suffering.",
+    "second_speaker_typical_replies_for_first_speakers_response": [],
+    "winner": "None",
+    "loser": "None",
+    "reason_for_dialogue_termination": {
+        "reason": "Maximum number of dialogue turns reached (40 dialogue turns).",
+        "utterance_type": null,
+        "utterance": null
+    },
+    "session_status": "Finished."
+}

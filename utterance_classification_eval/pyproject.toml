@@ -1,0 +1,41 @@
+[project]
+name = "utterance-classification-eval"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12.0"
+dependencies = [
+    "krippendorff>=0.8.2",
+    "langchain>=0.3.27",
+    "langchain-community>=0.3.27",
+    "langchain-neo4j>=0.8.0",
+    "langgraph>=0.5.4",
+    "matplotlib>=3.10.6",
+    "numpy>=2.3.2",
+    "openai>=1.97.1",
+    "pandas>=2.3.1",
+    "persuasio>=0.1.0",
+    "pydantic>=2.12.2",
+    "scikit-learn>=1.7.2",
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.0.1",
+]
+
+
+[project.scripts]
+model_utt_class = "model_utterance_classification.run_model_completions:run"
+bootstrap = "model_utterance_classification.bootstrap:main"
+
+[tool.uv]
+package = true
+
+[tool.uv.sources]
+persuasio = { path = "../persuasio", editable = true }
+
+[tool.setuptools.packages.find]
+where = ["."]
+
+

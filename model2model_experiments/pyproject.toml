@@ -1,0 +1,31 @@
+[project]
+name = "model2model_experiments"
+version = "0.1.0"
+description = ""
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.116.2",
+    "ipykernel>=6.30.1",
+    "pandas>=2.3.2",
+    "pydantic>=2.11.9",
+    "pyyaml>=6.0.2",
+    "persuasio>=0.1.0",
+    "httpx[http2]>=0.28.1",
+    "matplotlib>=3.10.6",
+]
+
+[project.scripts]
+run_m2m = "model2model.run_experiments:run"
+make_m2m = "model2model.make_experiments:main"
+count_m2m = "model2model.make_experiments:count_experiments"
+dummy_server = "model2model.dummy_server:main"
+
+[tool.uv]
+package = true
+
+[tool.uv.sources]
+persuasio = { path = "../persuasio", editable = true }
+
+[tool.setuptools.packages.find]
+where = ["."]

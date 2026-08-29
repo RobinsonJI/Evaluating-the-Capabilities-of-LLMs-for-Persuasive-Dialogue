@@ -1,0 +1,1101 @@
+{
+    "dialogue_history": [
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government intervention in healthcare, immigration, and welfare often leads to inefficiencies and stifles individual responsibility."
+                ]
+            ],
+            "sentences_no_utterance_types": "Government intervention in healthcare, immigration, and welfare often leads to inefficiencies and stifles individual responsibility.",
+            "timestamp": "2025-10-30 15:25:09"
+        },
+        {
+            "speaker": "grok-4_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government intervention in healthcare, immigration, and welfare is essential to protect vulnerable people and ensure fairness in society."
+                ],
+                [
+                    "___Claim___",
+                    "Without it, healthcare becomes a luxury only the rich can afford, leaving millions without care."
+                ],
+                [
+                    "___Claim___",
+                    "On immigration, controls prevent exploitation and support integration, while welfare stops poverty from spiralling out of control."
+                ],
+                [
+                    "___Claim___",
+                    "Your view ignores how markets alone fail the poorest."
+                ]
+            ],
+            "sentences_no_utterance_types": "Government intervention in healthcare, immigration, and welfare is essential to protect vulnerable people and ensure fairness in society. Without it, healthcare becomes a luxury only the rich can afford, leaving millions without care. On immigration, controls prevent exploitation and support integration, while welfare stops poverty from spiralling out of control. Your view ignores how markets alone fail the poorest.",
+            "timestamp": "2025-10-30 15:25:14"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Markets don't fail the poorest; they empower them."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention creates dependency and bureaucracy."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare can be affordable with competition and innovation."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls should be fair but not stifling."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare should be a safety net, not a hammock."
+                ]
+            ],
+            "sentences_no_utterance_types": "Markets don't fail the poorest; they empower them. Government intervention creates dependency and bureaucracy. Private healthcare can be affordable with competition and innovation. Immigration controls should be fair but not stifling. Welfare should be a safety net, not a hammock.",
+            "timestamp": "2025-10-30 15:25:38"
+        },
+        {
+            "speaker": "grok-4_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Markets empower the poorest only if they have a safety net to fall back on, otherwise they just grind them down."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention prevents that dependency by building skills and opportunities, not creating it."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare leaves too many behind even with competition, as profits always come first."
+                ],
+                [
+                    "___Claim___",
+                    "Fair immigration controls need government oversight to avoid chaos and exploitation."
+                ],
+                [
+                    "___Question___",
+                    "Welfare as a hammock?"
+                ],
+                [
+                    "___Claim___",
+                    "It's a ladder out of poverty when done right, stopping the real trap of despair."
+                ]
+            ],
+            "sentences_no_utterance_types": "Markets empower the poorest only if they have a safety net to fall back on, otherwise they just grind them down. Government intervention prevents that dependency by building skills and opportunities, not creating it. Private healthcare leaves too many behind even with competition, as profits always come first. Fair immigration controls need government oversight to avoid chaos and exploitation. Welfare as a hammock? It's a ladder out of poverty when done right, stopping the real trap of despair.",
+            "timestamp": "2025-10-30 15:25:45"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "You're wrong about markets grinding down the poor."
+                ],
+                [
+                    "___Claim___",
+                    "They thrive with less red tape, not more safety nets."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention creates dependency, not skills."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare can be affordable and inclusive with the right policies."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls work best with clear rules, not heavy-handed oversight."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare should be a temporary aid, not a permanent crutch."
+                ]
+            ],
+            "sentences_no_utterance_types": "You're wrong about markets grinding down the poor. They thrive with less red tape, not more safety nets. Government intervention creates dependency, not skills. Private healthcare can be affordable and inclusive with the right policies. Immigration controls work best with clear rules, not heavy-handed oversight. Welfare should be a temporary aid, not a permanent crutch.",
+            "timestamp": "2025-10-30 15:27:32"
+        },
+        {
+            "speaker": "grok-4_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Markets without safety nets grind the poor into the ground, leaving them with no way up."
+                ],
+                [
+                    "___Since___",
+                    "Government intervention builds real skills through education and training programmes that markets ignore."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare stays unaffordable for most, even with policies, because profit motives exclude the vulnerable."
+                ],
+                [
+                    "___Claim___",
+                    "Clear immigration rules demand government oversight to enforce fairness and prevent abuse."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare as temporary aid works only with strong support to make it a path to independence, not a fall back into poverty."
+                ]
+            ],
+            "sentences_no_utterance_types": "Markets without safety nets grind the poor into the ground, leaving them with no way up. Government intervention builds real skills through education and training programmes that markets ignore. Private healthcare stays unaffordable for most, even with policies, because profit motives exclude the vulnerable. Clear immigration rules demand government oversight to enforce fairness and prevent abuse. Welfare as temporary aid works only with strong support to make it a path to independence, not a fall back into poverty.",
+            "timestamp": "2025-10-30 15:27:38"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Markets lift people out of poverty by creating jobs and opportunities."
+                ],
+                [
+                    "___Claim___",
+                    "Government programmes often fail to deliver real skills and just create more bureaucracy."
+                ],
+                [
+                    "___Claim___",
+                    "Competition in healthcare drives down costs and improves quality."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration rules work best with clear, fair enforcement, not more government control."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare should be a stepping stone, not a permanent solution."
+                ]
+            ],
+            "sentences_no_utterance_types": "Markets lift people out of poverty by creating jobs and opportunities. Government programmes often fail to deliver real skills and just create more bureaucracy. Competition in healthcare drives down costs and improves quality. Immigration rules work best with clear, fair enforcement, not more government control. Welfare should be a stepping stone, not a permanent solution.",
+            "timestamp": "2025-10-30 15:27:55"
+        },
+        {
+            "speaker": "grok-4_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Markets create jobs, but only for those who can access them, and without government intervention, poverty traps millions in low-wage cycles."
+                ],
+                [
+                    "___Claim___",
+                    "Government programmes cut through bureaucracy by focusing on targeted training that actually equips people with skills markets overlook."
+                ],
+                [
+                    "___Claim___",
+                    "Competition in healthcare slashes costs for the healthy, yet leaves the vulnerable priced out and suffering."
+                ],
+                [
+                    "___Claim___",
+                    "Clear immigration enforcement requires government control to stop exploitation and ensure fairness for all."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare as a stepping stone demands ongoing support to prevent it becoming a dead end."
+                ]
+            ],
+            "sentences_no_utterance_types": "Markets create jobs, but only for those who can access them, and without government intervention, poverty traps millions in low-wage cycles. Government programmes cut through bureaucracy by focusing on targeted training that actually equips people with skills markets overlook. Competition in healthcare slashes costs for the healthy, yet leaves the vulnerable priced out and suffering. Clear immigration enforcement requires government control to stop exploitation and ensure fairness for all. Welfare as a stepping stone demands ongoing support to prevent it becoming a dead end.",
+            "timestamp": "2025-10-30 15:28:02"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Markets create jobs and lift people out of poverty."
+                ],
+                [
+                    "___Claim___",
+                    "Government programmes add layers of bureaucracy that stifle innovation."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare can be made affordable and inclusive with the right policies."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls work best with clear, fair rules, not heavy-handed government oversight."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare should be a temporary aid, not a permanent solution."
+                ]
+            ],
+            "sentences_no_utterance_types": "Markets create jobs and lift people out of poverty. Government programmes add layers of bureaucracy that stifle innovation. Private healthcare can be made affordable and inclusive with the right policies. Immigration controls work best with clear, fair rules, not heavy-handed government oversight. Welfare should be a temporary aid, not a permanent solution.",
+            "timestamp": "2025-10-30 15:28:09"
+        },
+        {
+            "speaker": "grok-4_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Markets create jobs, but they trap the poorest in poverty without government intervention to break the cycle."
+                ],
+                [
+                    "___Claim___",
+                    "Government programmes cut bureaucracy by targeting real needs like accessible training that sparks innovation for everyone."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare promises affordability, yet it always prioritises profits over the vulnerable, leaving gaps no policy can fully fix."
+                ],
+                [
+                    "___Claim___",
+                    "Clear immigration rules demand government oversight to enforce fairness and stop exploitation in practice."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare as temporary aid fails without sustained support to turn it into a real path out of poverty."
+                ]
+            ],
+            "sentences_no_utterance_types": "Markets create jobs, but they trap the poorest in poverty without government intervention to break the cycle. Government programmes cut bureaucracy by targeting real needs like accessible training that sparks innovation for everyone. Private healthcare promises affordability, yet it always prioritises profits over the vulnerable, leaving gaps no policy can fully fix. Clear immigration rules demand government oversight to enforce fairness and stop exploitation in practice. Welfare as temporary aid fails without sustained support to turn it into a real path out of poverty.",
+            "timestamp": "2025-10-30 15:28:16"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Markets create jobs and lift people out of poverty."
+                ],
+                [
+                    "___Claim___",
+                    "Government programmes add bureaucracy that stifles innovation."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare can be affordable and inclusive with the right policies."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls work best with clear, fair rules."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare should be a temporary aid, not a permanent solution."
+                ]
+            ],
+            "sentences_no_utterance_types": "Markets create jobs and lift people out of poverty. Government programmes add bureaucracy that stifles innovation. Private healthcare can be affordable and inclusive with the right policies. Immigration controls work best with clear, fair rules. Welfare should be a temporary aid, not a permanent solution.",
+            "timestamp": "2025-10-30 15:28:45"
+        },
+        {
+            "speaker": "grok-4_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Markets create jobs, yet they leave the poorest trapped in poverty without government intervention to level the playing field."
+                ],
+                [
+                    "___Since___",
+                    "Government programmes tackle bureaucracy head-on by delivering targeted training that fuels innovation for those markets ignore."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare talks affordability, but it always puts profits first, excluding the vulnerable no matter the policies."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls need government oversight to make those clear rules actually fair and stop exploitation."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare as temporary aid only succeeds with ongoing support to build real independence, not abandon people to fail."
+                ]
+            ],
+            "sentences_no_utterance_types": "Markets create jobs, yet they leave the poorest trapped in poverty without government intervention to level the playing field. Government programmes tackle bureaucracy head-on by delivering targeted training that fuels innovation for those markets ignore. Private healthcare talks affordability, but it always puts profits first, excluding the vulnerable no matter the policies. Immigration controls need government oversight to make those clear rules actually fair and stop exploitation. Welfare as temporary aid only succeeds with ongoing support to build real independence, not abandon people to fail.",
+            "timestamp": "2025-10-30 15:28:52"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Markets create jobs and lift people out of poverty."
+                ],
+                [
+                    "___Claim___",
+                    "Government programmes add layers of bureaucracy that stifle innovation."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare can be made affordable and inclusive with the right policies."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls work best with clear, fair rules."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare should be a temporary aid, not a permanent solution."
+                ]
+            ],
+            "sentences_no_utterance_types": "Markets create jobs and lift people out of poverty. Government programmes add layers of bureaucracy that stifle innovation. Private healthcare can be made affordable and inclusive with the right policies. Immigration controls work best with clear, fair rules. Welfare should be a temporary aid, not a permanent solution.",
+            "timestamp": "2025-10-30 15:29:00"
+        },
+        {
+            "speaker": "grok-4_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Markets create jobs, yet they trap the poorest in poverty without government intervention to break those cycles."
+                ],
+                [
+                    "___Claim___",
+                    "Government programmes cut through bureaucracy by delivering targeted training that sparks innovation for everyone left behind."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare claims affordability, yet it always prioritises profits, excluding the vulnerable despite any policies."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls demand government oversight to enforce those clear rules fairly and prevent exploitation."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare as temporary aid only works with sustained support to build real independence, not leave people to fail."
+                ]
+            ],
+            "sentences_no_utterance_types": "Markets create jobs, yet they trap the poorest in poverty without government intervention to break those cycles. Government programmes cut through bureaucracy by delivering targeted training that sparks innovation for everyone left behind. Private healthcare claims affordability, yet it always prioritises profits, excluding the vulnerable despite any policies. Immigration controls demand government oversight to enforce those clear rules fairly and prevent exploitation. Welfare as temporary aid only works with sustained support to build real independence, not leave people to fail.",
+            "timestamp": "2025-10-30 15:29:07"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Markets create jobs and lift people out of poverty."
+                ],
+                [
+                    "___Claim___",
+                    "Government programmes add bureaucracy that stifles innovation."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare can be affordable and inclusive with the right policies."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls work best with clear, fair rules."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare should be a temporary aid, not a permanent solution."
+                ]
+            ],
+            "sentences_no_utterance_types": "Markets create jobs and lift people out of poverty. Government programmes add bureaucracy that stifles innovation. Private healthcare can be affordable and inclusive with the right policies. Immigration controls work best with clear, fair rules. Welfare should be a temporary aid, not a permanent solution.",
+            "timestamp": "2025-10-30 15:29:21"
+        },
+        {
+            "speaker": "grok-4_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Markets create jobs, yet they trap the poorest in poverty without government intervention to break those cycles."
+                ],
+                [
+                    "___Claim___",
+                    "Government programmes cut through bureaucracy by delivering targeted training that sparks innovation for everyone left behind."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare claims affordability, yet it always prioritises profits, excluding the vulnerable despite any policies."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls demand government oversight to enforce those clear rules fairly and prevent exploitation."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare as temporary aid only works with sustained support to build real independence, not leave people to fail."
+                ]
+            ],
+            "sentences_no_utterance_types": "Markets create jobs, yet they trap the poorest in poverty without government intervention to break those cycles. Government programmes cut through bureaucracy by delivering targeted training that sparks innovation for everyone left behind. Private healthcare claims affordability, yet it always prioritises profits, excluding the vulnerable despite any policies. Immigration controls demand government oversight to enforce those clear rules fairly and prevent exploitation. Welfare as temporary aid only works with sustained support to build real independence, not leave people to fail.",
+            "timestamp": "2025-10-30 15:29:29"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Markets create jobs and lift people out of poverty."
+                ],
+                [
+                    "___Claim___",
+                    "Government programmes add bureaucracy that stifles innovation."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare can be affordable and inclusive with the right policies."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls work best with clear, fair rules."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare should be a temporary aid, not a permanent solution."
+                ]
+            ],
+            "sentences_no_utterance_types": "Markets create jobs and lift people out of poverty. Government programmes add bureaucracy that stifles innovation. Private healthcare can be affordable and inclusive with the right policies. Immigration controls work best with clear, fair rules. Welfare should be a temporary aid, not a permanent solution.",
+            "timestamp": "2025-10-30 15:29:48"
+        },
+        {
+            "speaker": "grok-4_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Markets create jobs, yet they trap the poorest in poverty without government intervention to break those cycles."
+                ],
+                [
+                    "___Claim___",
+                    "Government programmes cut through bureaucracy by delivering targeted training that sparks innovation for everyone left behind."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare claims affordability, yet it always prioritises profits, excluding the vulnerable despite any policies."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls demand government oversight to enforce those clear rules fairly and prevent exploitation."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare as temporary aid only works with sustained support to build real independence, not leave people to fail."
+                ]
+            ],
+            "sentences_no_utterance_types": "Markets create jobs, yet they trap the poorest in poverty without government intervention to break those cycles. Government programmes cut through bureaucracy by delivering targeted training that sparks innovation for everyone left behind. Private healthcare claims affordability, yet it always prioritises profits, excluding the vulnerable despite any policies. Immigration controls demand government oversight to enforce those clear rules fairly and prevent exploitation. Welfare as temporary aid only works with sustained support to build real independence, not leave people to fail.",
+            "timestamp": "2025-10-30 15:29:55"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Markets create jobs and lift people out of poverty."
+                ],
+                [
+                    "___Claim___",
+                    "Government programmes add bureaucracy that stifles innovation."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare can be affordable and inclusive with the right policies."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls work best with clear, fair rules."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare should be a temporary aid, not a permanent solution."
+                ]
+            ],
+            "sentences_no_utterance_types": "Markets create jobs and lift people out of poverty. Government programmes add bureaucracy that stifles innovation. Private healthcare can be affordable and inclusive with the right policies. Immigration controls work best with clear, fair rules. Welfare should be a temporary aid, not a permanent solution.",
+            "timestamp": "2025-10-30 15:30:03"
+        },
+        {
+            "speaker": "grok-4_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Markets create jobs, yet they trap the poorest in poverty without government intervention to break those cycles."
+                ],
+                [
+                    "___Claim___",
+                    "Government programmes cut through bureaucracy by delivering targeted training that sparks innovation for everyone left behind."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare claims affordability, yet it always prioritises profits, excluding the vulnerable despite any policies."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls demand government oversight to enforce those clear rules fairly and prevent exploitation."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare as temporary aid only works with sustained support to build real independence, not leave people to fail."
+                ]
+            ],
+            "sentences_no_utterance_types": "Markets create jobs, yet they trap the poorest in poverty without government intervention to break those cycles. Government programmes cut through bureaucracy by delivering targeted training that sparks innovation for everyone left behind. Private healthcare claims affordability, yet it always prioritises profits, excluding the vulnerable despite any policies. Immigration controls demand government oversight to enforce those clear rules fairly and prevent exploitation. Welfare as temporary aid only works with sustained support to build real independence, not leave people to fail.",
+            "timestamp": "2025-10-30 15:30:10"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Markets create jobs and lift people out of poverty."
+                ],
+                [
+                    "___Claim___",
+                    "Government programmes add bureaucracy that stifles innovation."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare can be affordable and inclusive with the right policies."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls work best with clear, fair rules."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare should be a temporary aid, not a permanent solution."
+                ]
+            ],
+            "sentences_no_utterance_types": "Markets create jobs and lift people out of poverty. Government programmes add bureaucracy that stifles innovation. Private healthcare can be affordable and inclusive with the right policies. Immigration controls work best with clear, fair rules. Welfare should be a temporary aid, not a permanent solution.",
+            "timestamp": "2025-10-30 15:30:26"
+        },
+        {
+            "speaker": "grok-4_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Markets create jobs, yet they trap the poorest in poverty without government intervention to break those cycles."
+                ],
+                [
+                    "___Claim___",
+                    "Government programmes cut through bureaucracy by delivering targeted training that sparks innovation for everyone left behind."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare claims affordability, yet it always prioritises profits, excluding the vulnerable despite any policies."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls demand government oversight to enforce those clear rules fairly and prevent exploitation."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare as temporary aid only works with sustained support to build real independence, not leave people to fail."
+                ]
+            ],
+            "sentences_no_utterance_types": "Markets create jobs, yet they trap the poorest in poverty without government intervention to break those cycles. Government programmes cut through bureaucracy by delivering targeted training that sparks innovation for everyone left behind. Private healthcare claims affordability, yet it always prioritises profits, excluding the vulnerable despite any policies. Immigration controls demand government oversight to enforce those clear rules fairly and prevent exploitation. Welfare as temporary aid only works with sustained support to build real independence, not leave people to fail.",
+            "timestamp": "2025-10-30 15:30:33"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Markets create jobs and lift people out of poverty."
+                ],
+                [
+                    "___Claim___",
+                    "Government programmes add layers of bureaucracy that stifle innovation."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare can be made affordable and inclusive with the right policies."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls work best with clear, fair rules."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare should be a temporary aid, not a permanent solution."
+                ]
+            ],
+            "sentences_no_utterance_types": "Markets create jobs and lift people out of poverty. Government programmes add layers of bureaucracy that stifle innovation. Private healthcare can be made affordable and inclusive with the right policies. Immigration controls work best with clear, fair rules. Welfare should be a temporary aid, not a permanent solution.",
+            "timestamp": "2025-10-30 15:30:41"
+        },
+        {
+            "speaker": "grok-4_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Markets create jobs, yet they trap the poorest in poverty without government intervention to break those cycles."
+                ],
+                [
+                    "___Claim___",
+                    "Government programmes cut through bureaucracy by delivering targeted training that sparks innovation for everyone left behind."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare claims affordability, yet it always prioritises profits, excluding the vulnerable despite any policies."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls demand government oversight to enforce those clear rules fairly and prevent exploitation."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare as temporary aid only works with sustained support to build real independence, not leave people to fail."
+                ]
+            ],
+            "sentences_no_utterance_types": "Markets create jobs, yet they trap the poorest in poverty without government intervention to break those cycles. Government programmes cut through bureaucracy by delivering targeted training that sparks innovation for everyone left behind. Private healthcare claims affordability, yet it always prioritises profits, excluding the vulnerable despite any policies. Immigration controls demand government oversight to enforce those clear rules fairly and prevent exploitation. Welfare as temporary aid only works with sustained support to build real independence, not leave people to fail.",
+            "timestamp": "2025-10-30 15:30:47"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Markets create jobs and lift people out of poverty."
+                ],
+                [
+                    "___Claim___",
+                    "Government programmes add bureaucracy that stifles innovation."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare can be affordable and inclusive with the right policies."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls work best with clear, fair rules."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare should be a temporary aid, not a permanent solution."
+                ]
+            ],
+            "sentences_no_utterance_types": "Markets create jobs and lift people out of poverty. Government programmes add bureaucracy that stifles innovation. Private healthcare can be affordable and inclusive with the right policies. Immigration controls work best with clear, fair rules. Welfare should be a temporary aid, not a permanent solution.",
+            "timestamp": "2025-10-30 15:31:32"
+        },
+        {
+            "speaker": "grok-4_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Markets create jobs, yet they trap the poorest in poverty without government intervention to break those cycles."
+                ],
+                [
+                    "___Claim___",
+                    "Government programmes cut through bureaucracy by delivering targeted training that sparks innovation for everyone left behind."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare claims affordability, yet it always prioritises profits, excluding the vulnerable despite any policies."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls demand government oversight to enforce those clear rules fairly and prevent exploitation."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare as temporary aid only works with sustained support to build real independence, not leave people to fail."
+                ]
+            ],
+            "sentences_no_utterance_types": "Markets create jobs, yet they trap the poorest in poverty without government intervention to break those cycles. Government programmes cut through bureaucracy by delivering targeted training that sparks innovation for everyone left behind. Private healthcare claims affordability, yet it always prioritises profits, excluding the vulnerable despite any policies. Immigration controls demand government oversight to enforce those clear rules fairly and prevent exploitation. Welfare as temporary aid only works with sustained support to build real independence, not leave people to fail.",
+            "timestamp": "2025-10-30 15:31:39"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Markets create jobs and lift people out of poverty."
+                ],
+                [
+                    "___Claim___",
+                    "Government programmes add bureaucracy that stifles innovation."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare can be affordable and inclusive with the right policies."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls work best with clear, fair rules."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare should be a temporary aid, not a permanent solution."
+                ]
+            ],
+            "sentences_no_utterance_types": "Markets create jobs and lift people out of poverty. Government programmes add bureaucracy that stifles innovation. Private healthcare can be affordable and inclusive with the right policies. Immigration controls work best with clear, fair rules. Welfare should be a temporary aid, not a permanent solution.",
+            "timestamp": "2025-10-30 15:32:17"
+        },
+        {
+            "speaker": "grok-4_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Markets create jobs, yet they trap the poorest in poverty without government intervention to break those cycles."
+                ],
+                [
+                    "___Claim___",
+                    "Government programmes cut through bureaucracy by delivering targeted training that sparks innovation for everyone left behind."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare claims affordability, yet it always prioritises profits, excluding the vulnerable despite any policies."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls demand government oversight to enforce those clear rules fairly and prevent exploitation."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare as temporary aid only works with sustained support to build real independence, not leave people to fail."
+                ]
+            ],
+            "sentences_no_utterance_types": "Markets create jobs, yet they trap the poorest in poverty without government intervention to break those cycles. Government programmes cut through bureaucracy by delivering targeted training that sparks innovation for everyone left behind. Private healthcare claims affordability, yet it always prioritises profits, excluding the vulnerable despite any policies. Immigration controls demand government oversight to enforce those clear rules fairly and prevent exploitation. Welfare as temporary aid only works with sustained support to build real independence, not leave people to fail.",
+            "timestamp": "2025-10-30 15:32:24"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Markets create jobs and lift people out of poverty."
+                ],
+                [
+                    "___Claim___",
+                    "Government programmes add layers of bureaucracy that stifle innovation."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare can be made affordable and inclusive with the right policies."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls work best with clear, fair rules."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare should be a temporary aid, not a permanent solution."
+                ]
+            ],
+            "sentences_no_utterance_types": "Markets create jobs and lift people out of poverty. Government programmes add layers of bureaucracy that stifle innovation. Private healthcare can be made affordable and inclusive with the right policies. Immigration controls work best with clear, fair rules. Welfare should be a temporary aid, not a permanent solution.",
+            "timestamp": "2025-10-30 15:32:33"
+        },
+        {
+            "speaker": "grok-4_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Markets create jobs, yet they trap the poorest in poverty without government intervention to break those cycles."
+                ],
+                [
+                    "___Claim___",
+                    "Government programmes cut through bureaucracy by delivering targeted training that sparks innovation for everyone left behind."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare claims affordability, yet it always prioritises profits, excluding the vulnerable despite any policies."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls demand government oversight to enforce those clear rules fairly and prevent exploitation."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare as temporary aid only works with sustained support to build real independence, not leave people to fail."
+                ]
+            ],
+            "sentences_no_utterance_types": "Markets create jobs, yet they trap the poorest in poverty without government intervention to break those cycles. Government programmes cut through bureaucracy by delivering targeted training that sparks innovation for everyone left behind. Private healthcare claims affordability, yet it always prioritises profits, excluding the vulnerable despite any policies. Immigration controls demand government oversight to enforce those clear rules fairly and prevent exploitation. Welfare as temporary aid only works with sustained support to build real independence, not leave people to fail.",
+            "timestamp": "2025-10-30 15:32:40"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Markets create jobs and lift people out of poverty."
+                ],
+                [
+                    "___Claim___",
+                    "Government programmes add bureaucracy that stifles innovation."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare can be affordable and inclusive with the right policies."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls work best with clear, fair rules."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare should be a temporary aid, not a permanent solution."
+                ]
+            ],
+            "sentences_no_utterance_types": "Markets create jobs and lift people out of poverty. Government programmes add bureaucracy that stifles innovation. Private healthcare can be affordable and inclusive with the right policies. Immigration controls work best with clear, fair rules. Welfare should be a temporary aid, not a permanent solution.",
+            "timestamp": "2025-10-30 15:32:51"
+        },
+        {
+            "speaker": "grok-4_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Markets create jobs, yet they trap the poorest in poverty without government intervention to break those cycles."
+                ],
+                [
+                    "___Claim___",
+                    "Government programmes cut through bureaucracy by delivering targeted training that sparks innovation for everyone left behind."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare claims affordability, yet it always prioritises profits, excluding the vulnerable despite any policies."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls demand government oversight to enforce those clear rules fairly and prevent exploitation."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare as temporary aid only works with sustained support to build real independence, not leave people to fail."
+                ]
+            ],
+            "sentences_no_utterance_types": "Markets create jobs, yet they trap the poorest in poverty without government intervention to break those cycles. Government programmes cut through bureaucracy by delivering targeted training that sparks innovation for everyone left behind. Private healthcare claims affordability, yet it always prioritises profits, excluding the vulnerable despite any policies. Immigration controls demand government oversight to enforce those clear rules fairly and prevent exploitation. Welfare as temporary aid only works with sustained support to build real independence, not leave people to fail.",
+            "timestamp": "2025-10-30 15:32:58"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Markets create jobs and lift people out of poverty."
+                ],
+                [
+                    "___Claim___",
+                    "Government programmes add bureaucracy that stifles innovation."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare can be affordable and inclusive with the right policies."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls work best with clear, fair rules."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare should be a temporary aid, not a permanent solution."
+                ]
+            ],
+            "sentences_no_utterance_types": "Markets create jobs and lift people out of poverty. Government programmes add bureaucracy that stifles innovation. Private healthcare can be affordable and inclusive with the right policies. Immigration controls work best with clear, fair rules. Welfare should be a temporary aid, not a permanent solution.",
+            "timestamp": "2025-10-30 15:33:06"
+        },
+        {
+            "speaker": "grok-4_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Markets create jobs, yet they trap the poorest in poverty without government intervention to break those cycles."
+                ],
+                [
+                    "___Claim___",
+                    "Government programmes cut through bureaucracy by delivering targeted training that sparks innovation for everyone left behind."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare claims affordability, yet it always prioritises profits, excluding the vulnerable despite any policies."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls demand government oversight to enforce those clear rules fairly and prevent exploitation."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare as temporary aid only works with sustained support to build real independence, not leave people to fail."
+                ]
+            ],
+            "sentences_no_utterance_types": "Markets create jobs, yet they trap the poorest in poverty without government intervention to break those cycles. Government programmes cut through bureaucracy by delivering targeted training that sparks innovation for everyone left behind. Private healthcare claims affordability, yet it always prioritises profits, excluding the vulnerable despite any policies. Immigration controls demand government oversight to enforce those clear rules fairly and prevent exploitation. Welfare as temporary aid only works with sustained support to build real independence, not leave people to fail.",
+            "timestamp": "2025-10-30 15:33:12"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Markets create jobs and lift people out of poverty."
+                ],
+                [
+                    "___Claim___",
+                    "Government programmes add layers of bureaucracy that stifle innovation."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare can be made affordable and inclusive with the right policies."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls work best with clear, fair rules."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare should be a temporary aid, not a permanent solution."
+                ]
+            ],
+            "sentences_no_utterance_types": "Markets create jobs and lift people out of poverty. Government programmes add layers of bureaucracy that stifle innovation. Private healthcare can be made affordable and inclusive with the right policies. Immigration controls work best with clear, fair rules. Welfare should be a temporary aid, not a permanent solution.",
+            "timestamp": "2025-10-30 15:33:23"
+        },
+        {
+            "speaker": "grok-4_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Markets create jobs, yet they trap the poorest in poverty without government intervention to break those cycles."
+                ],
+                [
+                    "___Claim___",
+                    "Government programmes cut through bureaucracy by delivering targeted training that sparks innovation for everyone left behind."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare claims affordability, yet it always prioritises profits, excluding the vulnerable despite any policies."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls demand government oversight to enforce those clear rules fairly and prevent exploitation."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare as temporary aid only works with sustained support to build real independence, not leave people to fail."
+                ]
+            ],
+            "sentences_no_utterance_types": "Markets create jobs, yet they trap the poorest in poverty without government intervention to break those cycles. Government programmes cut through bureaucracy by delivering targeted training that sparks innovation for everyone left behind. Private healthcare claims affordability, yet it always prioritises profits, excluding the vulnerable despite any policies. Immigration controls demand government oversight to enforce those clear rules fairly and prevent exploitation. Welfare as temporary aid only works with sustained support to build real independence, not leave people to fail.",
+            "timestamp": "2025-10-30 15:33:29"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Markets create jobs and lift people out of poverty."
+                ],
+                [
+                    "___Claim___",
+                    "Government programmes add bureaucracy that stifles innovation."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare can be affordable and inclusive with the right policies."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls work best with clear, fair rules."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare should be a temporary aid, not a permanent solution."
+                ]
+            ],
+            "sentences_no_utterance_types": "Markets create jobs and lift people out of poverty. Government programmes add bureaucracy that stifles innovation. Private healthcare can be affordable and inclusive with the right policies. Immigration controls work best with clear, fair rules. Welfare should be a temporary aid, not a permanent solution.",
+            "timestamp": "2025-10-30 15:33:37"
+        },
+        {
+            "speaker": "grok-4_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Markets create jobs, yet they trap the poorest in poverty without government intervention to break those cycles."
+                ],
+                [
+                    "___Claim___",
+                    "Government programmes cut through bureaucracy by delivering targeted training that sparks innovation for everyone left behind."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare claims affordability, yet it always prioritises profits, excluding the vulnerable despite any policies."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls demand government oversight to enforce those clear rules fairly and prevent exploitation."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare as temporary aid only works with sustained support to build real independence, not leave people to fail."
+                ]
+            ],
+            "sentences_no_utterance_types": "Markets create jobs, yet they trap the poorest in poverty without government intervention to break those cycles. Government programmes cut through bureaucracy by delivering targeted training that sparks innovation for everyone left behind. Private healthcare claims affordability, yet it always prioritises profits, excluding the vulnerable despite any policies. Immigration controls demand government oversight to enforce those clear rules fairly and prevent exploitation. Welfare as temporary aid only works with sustained support to build real independence, not leave people to fail.",
+            "timestamp": "2025-10-30 15:33:43"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Markets create jobs and lift people out of poverty."
+                ],
+                [
+                    "___Claim___",
+                    "Government programmes add bureaucracy that stifles innovation."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare can be affordable and inclusive with the right policies."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls work best with clear, fair rules."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare should be a temporary aid, not a permanent solution."
+                ]
+            ],
+            "sentences_no_utterance_types": "Markets create jobs and lift people out of poverty. Government programmes add bureaucracy that stifles innovation. Private healthcare can be affordable and inclusive with the right policies. Immigration controls work best with clear, fair rules. Welfare should be a temporary aid, not a permanent solution.",
+            "timestamp": "2025-10-30 15:33:54"
+        },
+        {
+            "speaker": "grok-4_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Markets create jobs, yet they trap the poorest in poverty without government intervention to break those cycles."
+                ],
+                [
+                    "___Claim___",
+                    "Government programmes cut through bureaucracy by delivering targeted training that sparks innovation for everyone left behind."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare claims affordability, yet it always prioritises profits, excluding the vulnerable despite any policies."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls demand government oversight to enforce those clear rules fairly and prevent exploitation."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare as temporary aid only works with sustained support to build real independence, not leave people to fail."
+                ]
+            ],
+            "sentences_no_utterance_types": "Markets create jobs, yet they trap the poorest in poverty without government intervention to break those cycles. Government programmes cut through bureaucracy by delivering targeted training that sparks innovation for everyone left behind. Private healthcare claims affordability, yet it always prioritises profits, excluding the vulnerable despite any policies. Immigration controls demand government oversight to enforce those clear rules fairly and prevent exploitation. Welfare as temporary aid only works with sustained support to build real independence, not leave people to fail.",
+            "timestamp": "2025-10-30 15:34:01"
+        }
+    ],
+    "first_speaker": "mistral-medium_base",
+    "first_speaker_utterance": "",
+    "first_speaker_commitments": [
+        "Government intervention in healthcare, immigration, and welfare often leads to inefficiencies and stifles individual responsibility.",
+        "Markets don't fail the poorest; they empower them.",
+        "Private healthcare can be affordable with competition and innovation.",
+        "Immigration controls should be fair but not stifling.",
+        "Welfare should be a safety net, not a hammock.",
+        "They thrive with less red tape, not more safety nets.",
+        "Markets create jobs and lift people out of poverty."
+    ],
+    "first_speaker_original_claim": "Government intervention in healthcare, immigration, and welfare often leads to inefficiencies and stifles individual responsibility.",
+    "first_speaker_typical_replies_for_second_speakers_response": [],
+    "second_speaker": "grok-4_base",
+    "second_speaker_utterance": "Markets create jobs, yet they trap the poorest in poverty without government intervention to break those cycles. Government programmes cut through bureaucracy by delivering targeted training that sparks innovation for everyone left behind. Private healthcare claims affordability, yet it always prioritises profits, excluding the vulnerable despite any policies. Immigration controls demand government oversight to enforce those clear rules fairly and prevent exploitation. Welfare as temporary aid only works with sustained support to build real independence, not leave people to fail.",
+    "second_speaker_commitments": [
+        "Government intervention in healthcare, immigration, and welfare is essential to protect vulnerable people and ensure fairness in society.",
+        "Government intervention prevents that dependency by building skills and opportunities, not creating it."
+    ],
+    "second_speaker_original_claim": "Government intervention in healthcare, immigration, and welfare is essential to protect vulnerable people and ensure fairness in society.",
+    "second_speaker_typical_replies_for_first_speakers_response": [],
+    "winner": "None",
+    "loser": "None",
+    "reason_for_dialogue_termination": {
+        "reason": "Maximum number of dialogue turns reached (40 dialogue turns).",
+        "utterance_type": null,
+        "utterance": null
+    },
+    "session_status": "Finished."
+}

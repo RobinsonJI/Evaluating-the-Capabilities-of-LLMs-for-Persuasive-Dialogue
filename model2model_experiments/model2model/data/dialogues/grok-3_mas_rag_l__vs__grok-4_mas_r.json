@@ -1,0 +1,1009 @@
+{
+    "dialogue_history": [
+        {
+            "speaker": "grok-3_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "I reckon government intervention in healthcare is non-negotiable since universal access cuts inequality and saves lives, no matter the cost to public funds."
+                ]
+            ],
+            "sentences_no_utterance_types": "I reckon government intervention in healthcare is non-negotiable since universal access cuts inequality and saves lives, no matter the cost to public funds.",
+            "timestamp": "2025-10-30 13:54:55"
+        },
+        {
+            "speaker": "grok-4_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why do you reckon universal healthcare access truly cuts inequality when private options often deliver faster and better care for those who can afford it?"
+                ],
+                [
+                    "___Question___",
+                    "What evidence supports your view that non-negotiable government control in healthcare truly saves more lives than a mixed system with private options?"
+                ],
+                [
+                    "___Question___",
+                    "How do you justify ignoring the costs to public funds when government intervention often leads to inefficiencies and higher taxes that hit working families hardest?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Why do you reckon universal healthcare access truly cuts inequality when private options often deliver faster and better care for those who can afford it? What evidence supports your view that non-negotiable government control in healthcare truly saves more lives than a mixed system with private options? How do you justify ignoring the costs to public funds when government intervention often leads to inefficiencies and higher taxes that hit working families hardest?",
+            "timestamp": "2025-10-30 13:55:00"
+        },
+        {
+            "speaker": "grok-3_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The evidence is clear from NHS data showing that in areas with strong public health services, life expectancy gaps between rich and poor shrink compared to privatised systems."
+                ],
+                [
+                    "___Claim___",
+                    "Higher taxes might sting, but a properly funded NHS means we all get care when we need it, saving lives over penny-pinching inefficiencies."
+                ],
+                [
+                    "___Since___",
+                    "I reckon the evidence is clear from studies like those in The Lancet, showing countries with universal healthcare systems like ours have lower mortality rates for preventable diseases compared to mixed systems where private care leaves gaps for the poor."
+                ],
+                [
+                    "___Since___",
+                    "Even with flaws, our system\u2019s focus on public health campaigns and emergency care means we\u2019re catching issues early and saving more lives across the board than any patchwork private setup ever could."
+                ]
+            ],
+            "sentences_no_utterance_types": "The evidence is clear from NHS data showing that in areas with strong public health services, life expectancy gaps between rich and poor shrink compared to privatised systems. Higher taxes might sting, but a properly funded NHS means we all get care when we need it, saving lives over penny-pinching inefficiencies. I reckon the evidence is clear from studies like those in The Lancet, showing countries with universal healthcare systems like ours have lower mortality rates for preventable diseases compared to mixed systems where private care leaves gaps for the poor. Even with flaws, our system\u2019s focus on public health campaigns and emergency care means we\u2019re catching issues early and saving more lives across the board than any patchwork private setup ever could.",
+            "timestamp": "2025-10-30 13:56:01"
+        },
+        {
+            "speaker": "grok-4_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Public health campaigns in the NHS waste billions on ineffective messaging while private systems use targeted tech to catch issues faster and save more lives without the bureaucracy. Emergency care under government control means endless queues and delayed treatments that cost lives, unlike private setups where competition drives quick responses for everyone who pays up. The so-called universal NHS leaves gaps for the poor with its rationing and long waits, proving that a patchwork private system delivers better outcomes overall by incentivising efficiency and innovation."
+                ],
+                [
+                    "___Question___",
+                    "Why do you believe private care in mixed systems leaves gaps for the poor when data from countries like Germany shows their hybrid model achieves better health outcomes without the NHS's waiting lists?"
+                ],
+                [
+                    "___Why___",
+                    "Why do you believe a patchwork private setup couldn't outperform the NHS when evidence from Singapore shows hybrid systems deliver better outcomes at lower costs without the same flaws?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Public health campaigns in the NHS waste billions on ineffective messaging while private systems use targeted tech to catch issues faster and save more lives without the bureaucracy. Emergency care under government control means endless queues and delayed treatments that cost lives, unlike private setups where competition drives quick responses for everyone who pays up. The so-called universal NHS leaves gaps for the poor with its rationing and long waits, proving that a patchwork private system delivers better outcomes overall by incentivising efficiency and innovation. Why do you believe private care in mixed systems leaves gaps for the poor when data from countries like Germany shows their hybrid model achieves better health outcomes without the NHS's waiting lists? Why do you believe a patchwork private setup couldn't outperform the NHS when evidence from Singapore shows hybrid systems deliver better outcomes at lower costs without the same flaws?",
+            "timestamp": "2025-10-30 13:56:26"
+        },
+        {
+            "speaker": "grok-3_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Emergency care under government control ensures that everyone, not just those with cash, gets treatment without being turned away due to inability to pay."
+                ],
+                [
+                    "___Claim___",
+                    "Long waits in the NHS are a funding issue, not a flaw in the concept, and with proper investment, we can deliver care for all without the exclusion of a patchwork private setup."
+                ],
+                [
+                    "___Question___",
+                    "How can you claim a patchwork private system delivers better outcomes when it risks leaving the most vulnerable without any safety net?"
+                ],
+                [
+                    "___Since___",
+                    "The NHS, for all its flaws, guarantees that everyone gets treatment regardless of income, whereas private-heavy systems risk creating a two-tier setup where only the wealthy get timely care."
+                ],
+                [
+                    "___Claim___",
+                    "Private setups might be quicker for the wealthy, yet they leave the poor stranded with no access when seconds count in a crisis."
+                ]
+            ],
+            "sentences_no_utterance_types": "Emergency care under government control ensures that everyone, not just those with cash, gets treatment without being turned away due to inability to pay. Long waits in the NHS are a funding issue, not a flaw in the concept, and with proper investment, we can deliver care for all without the exclusion of a patchwork private setup. How can you claim a patchwork private system delivers better outcomes when it risks leaving the most vulnerable without any safety net? The NHS, for all its flaws, guarantees that everyone gets treatment regardless of income, whereas private-heavy systems risk creating a two-tier setup where only the wealthy get timely care. Private setups might be quicker for the wealthy, yet they leave the poor stranded with no access when seconds count in a crisis.",
+            "timestamp": "2025-10-30 13:58:16"
+        },
+        {
+            "speaker": "grok-4_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "A patchwork private system delivers better outcomes by introducing competition that drives down costs and improves efficiency, allowing even the vulnerable to access affordable care through targeted subsidies rather than bloated government bureaucracy. Evidence from hybrid models like Germany's shows lower waiting times and higher patient satisfaction across all income levels, proving that private involvement doesn't leave people stranded but actually fills gaps the NHS can't. I said my last utterance to highlight how government rationing in the NHS already fails the vulnerable with endless queues, while private incentives ensure quicker, innovative care that benefits everyone without the waste of universal mandates."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS's so-called guarantee means everyone endures the same endless waits and rationed care, while private systems ensure swift treatment for those who contribute through taxes or premiums without dragging everyone down. Private-heavy setups don't create a two-tier system; they reward hard work and efficiency, lifting overall standards far beyond the NHS's mediocre baseline for all. Claiming the NHS treats everyone equally ignores how its flaws hit the poor hardest with subpar outcomes, whereas competition in private models drives innovation that benefits society as a whole."
+                ],
+                [
+                    "___Claim___",
+                    "Long waits in the NHS stem from the inherent flaws of a bloated government monopoly that stifles innovation, not just funding shortfalls, and throwing more money at it only digs a deeper hole without fixing the core problems. A patchwork private setup doesn't exclude anyone; it empowers competition to drive down costs and waits for all, including the vulnerable, far better than the NHS's one-size-fits-all failures. Proper investment in the NHS just props up inefficiency and bureaucracy, while private systems prove they can deliver faster, fairer care without the endless queues that leave everyone suffering."
+                ],
+                [
+                    "___Claim___",
+                    "The myth that government-run emergency care treats everyone equally crumbles under the reality of rationed resources that prioritise bureaucracy over lives, leaving the poor worse off than in competitive private systems."
+                ],
+                [
+                    "___Why___",
+                    "Why ignore the evidence from hybrid models like Germany's where universal access combines public safety nets with private efficiency to reduce delays without turning anyone away?"
+                ]
+            ],
+            "sentences_no_utterance_types": "A patchwork private system delivers better outcomes by introducing competition that drives down costs and improves efficiency, allowing even the vulnerable to access affordable care through targeted subsidies rather than bloated government bureaucracy. Evidence from hybrid models like Germany's shows lower waiting times and higher patient satisfaction across all income levels, proving that private involvement doesn't leave people stranded but actually fills gaps the NHS can't. I said my last utterance to highlight how government rationing in the NHS already fails the vulnerable with endless queues, while private incentives ensure quicker, innovative care that benefits everyone without the waste of universal mandates. The NHS's so-called guarantee means everyone endures the same endless waits and rationed care, while private systems ensure swift treatment for those who contribute through taxes or premiums without dragging everyone down. Private-heavy setups don't create a two-tier system; they reward hard work and efficiency, lifting overall standards far beyond the NHS's mediocre baseline for all. Claiming the NHS treats everyone equally ignores how its flaws hit the poor hardest with subpar outcomes, whereas competition in private models drives innovation that benefits society as a whole. Long waits in the NHS stem from the inherent flaws of a bloated government monopoly that stifles innovation, not just funding shortfalls, and throwing more money at it only digs a deeper hole without fixing the core problems. A patchwork private setup doesn't exclude anyone; it empowers competition to drive down costs and waits for all, including the vulnerable, far better than the NHS's one-size-fits-all failures. Proper investment in the NHS just props up inefficiency and bureaucracy, while private systems prove they can deliver faster, fairer care without the endless queues that leave everyone suffering. The myth that government-run emergency care treats everyone equally crumbles under the reality of rationed resources that prioritise bureaucracy over lives, leaving the poor worse off than in competitive private systems. Why ignore the evidence from hybrid models like Germany's where universal access combines public safety nets with private efficiency to reduce delays without turning anyone away?",
+            "timestamp": "2025-10-30 13:58:52"
+        },
+        {
+            "speaker": "grok-3_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "A government-run NHS isn't a bloated monopoly stifling progress; it's a vital safety net that ensures care for all, and with the right funding, it can match or outpace private efficiency."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS's guarantee ensures that no one is left behind, providing care to all regardless of their ability to pay, unlike private systems that prioritise those with deeper pockets."
+                ],
+                [
+                    "___Claim___",
+                    "Long waits in the NHS are primarily due to chronic underfunding, not some inherent flaw in government control, and proper investment can slash delays by boosting staff and resources."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS emergency system, even with rationed resources, stands as a lifeline for the poor, offering equal access that competitive private systems simply can't match with their pay-to-play barriers."
+                ],
+                [
+                    "___Claim___",
+                    "Throwing more money at the NHS isn't digging a deeper hole; it's the lifeline needed to modernise systems and drive innovation through public health initiatives."
+                ]
+            ],
+            "sentences_no_utterance_types": "A government-run NHS isn't a bloated monopoly stifling progress; it's a vital safety net that ensures care for all, and with the right funding, it can match or outpace private efficiency. The NHS's guarantee ensures that no one is left behind, providing care to all regardless of their ability to pay, unlike private systems that prioritise those with deeper pockets. Long waits in the NHS are primarily due to chronic underfunding, not some inherent flaw in government control, and proper investment can slash delays by boosting staff and resources. The NHS emergency system, even with rationed resources, stands as a lifeline for the poor, offering equal access that competitive private systems simply can't match with their pay-to-play barriers. Throwing more money at the NHS isn't digging a deeper hole; it's the lifeline needed to modernise systems and drive innovation through public health initiatives.",
+            "timestamp": "2025-10-30 14:03:01"
+        },
+        {
+            "speaker": "grok-4_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The NHS emergency system, far from being a lifeline, traps the poor in deadly queues due to rationed resources, while private systems smash those barriers with swift, affordable care for all through competition. Private setups don't impose pay-to-play barriers; they drive down costs via efficiency, ensuring even the vulnerable get faster treatment than the NHS's equal misery for everyone. Claiming the NHS offers equal access ignores how its rationing hits the poor hardest with substandard outcomes, whereas competitive private systems deliver real equity by innovating to serve everyone without the government's wasteful chokehold."
+                ],
+                [
+                    "___Claim___",
+                    "Throwing more money at the NHS just digs a deeper hole of bureaucracy and waste, failing to modernise anything while private systems innovate with real efficiency. Public health initiatives in the NHS squander funds on ineffective campaigns that don't drive true innovation, unlike targeted private tech that actually saves lives. The lifeline myth crumbles when evidence shows extra funding props up the same old flaws, leaving waits longer and outcomes worse than in competitive hybrid models."
+                ],
+                [
+                    "___Claim___",
+                    "Blaming chronic underfunding ignores how government-run systems like the NHS inherently ration care through red tape and poor incentives, making waits inevitable while private competition would drive real speed and savings."
+                ]
+            ],
+            "sentences_no_utterance_types": "The NHS emergency system, far from being a lifeline, traps the poor in deadly queues due to rationed resources, while private systems smash those barriers with swift, affordable care for all through competition. Private setups don't impose pay-to-play barriers; they drive down costs via efficiency, ensuring even the vulnerable get faster treatment than the NHS's equal misery for everyone. Claiming the NHS offers equal access ignores how its rationing hits the poor hardest with substandard outcomes, whereas competitive private systems deliver real equity by innovating to serve everyone without the government's wasteful chokehold. Throwing more money at the NHS just digs a deeper hole of bureaucracy and waste, failing to modernise anything while private systems innovate with real efficiency. Public health initiatives in the NHS squander funds on ineffective campaigns that don't drive true innovation, unlike targeted private tech that actually saves lives. The lifeline myth crumbles when evidence shows extra funding props up the same old flaws, leaving waits longer and outcomes worse than in competitive hybrid models. Blaming chronic underfunding ignores how government-run systems like the NHS inherently ration care through red tape and poor incentives, making waits inevitable while private competition would drive real speed and savings.",
+            "timestamp": "2025-10-30 14:03:32"
+        },
+        {
+            "speaker": "grok-3_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The real evidence shows that with proper investment, the NHS can deliver better care for all, outstripping hybrid setups that prioritise profit over people."
+                ],
+                [
+                    "___Claim___",
+                    "Throwing more money at the NHS isn't digging a deeper hole; it's the key to cutting through bureaucracy and driving modernisation with proper resources."
+                ],
+                [
+                    "___Question___",
+                    "How can you claim private competition drives real speed and savings when it risks leaving the poorest without any care while the NHS guarantees access for all?"
+                ],
+                [
+                    "___Claim___",
+                    "Rationed resources in the NHS are a result of underfunding, not failure, and with proper investment, we can cut queues and save lives without handing healthcare over to competitive private interests."
+                ],
+                [
+                    "___Claim___",
+                    "Investing in the NHS builds a stronger foundation for all, ensuring real modernisation through public health initiatives that private setups can't replicate."
+                ]
+            ],
+            "sentences_no_utterance_types": "The real evidence shows that with proper investment, the NHS can deliver better care for all, outstripping hybrid setups that prioritise profit over people. Throwing more money at the NHS isn't digging a deeper hole; it's the key to cutting through bureaucracy and driving modernisation with proper resources. How can you claim private competition drives real speed and savings when it risks leaving the poorest without any care while the NHS guarantees access for all? Rationed resources in the NHS are a result of underfunding, not failure, and with proper investment, we can cut queues and save lives without handing healthcare over to competitive private interests. Investing in the NHS builds a stronger foundation for all, ensuring real modernisation through public health initiatives that private setups can't replicate.",
+            "timestamp": "2025-10-30 14:06:02"
+        },
+        {
+            "speaker": "grok-4_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Private competition drives real speed and savings by slashing costs through efficiency, allowing subsidies to cover the poorest far better than the NHS's bloated waste that leaves everyone in queues. The NHS doesn't guarantee access for all; it guarantees equal misery with rationed care that hits the poor hardest, while private systems innovate to deliver timely treatment without turning anyone away. I said my last utterance to expose how government rationing in the NHS already fails the vulnerable with endless delays, proving private incentives create true equity and faster care for everyone without the red tape."
+                ],
+                [
+                    "___Question___",
+                    "How can you claim extra funding isn't digging a deeper hole when hybrid private systems like Germany's achieve better outcomes with less overall spending?"
+                ],
+                [
+                    "___Claim___",
+                    "Hybrid systems like Germany's smash the NHS's performance by blending private competition with public safety nets, ensuring faster access and better results for everyone, not just the elite."
+                ],
+                [
+                    "___Claim___",
+                    "Private competition drives real speed and savings by slashing costs through efficiency, allowing subsidies to cover the poorest far better than the NHS's bloated waste that leaves everyone in queues. The NHS doesn't guarantee access for all; it guarantees equal misery with rationed care that hits the poor hardest, while private systems innovate to deliver timely treatment without turning anyone away. I said my last utterance to expose how government rationing in the NHS already fails the vulnerable with deadly delays, proving private incentives create true equity by rewarding efficiency and lifting standards for everyone."
+                ],
+                [
+                    "___Claim___",
+                    "Handing healthcare to competitive private interests isn't a handover; it's the smart way to smash rationing and ensure faster, better care for everyone, unlike the NHS's endless failures."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private competition drives real speed and savings by slashing costs through efficiency, allowing subsidies to cover the poorest far better than the NHS's bloated waste that leaves everyone in queues. The NHS doesn't guarantee access for all; it guarantees equal misery with rationed care that hits the poor hardest, while private systems innovate to deliver timely treatment without turning anyone away. I said my last utterance to expose how government rationing in the NHS already fails the vulnerable with endless delays, proving private incentives create true equity and faster care for everyone without the red tape. How can you claim extra funding isn't digging a deeper hole when hybrid private systems like Germany's achieve better outcomes with less overall spending? Hybrid systems like Germany's smash the NHS's performance by blending private competition with public safety nets, ensuring faster access and better results for everyone, not just the elite. Private competition drives real speed and savings by slashing costs through efficiency, allowing subsidies to cover the poorest far better than the NHS's bloated waste that leaves everyone in queues. The NHS doesn't guarantee access for all; it guarantees equal misery with rationed care that hits the poor hardest, while private systems innovate to deliver timely treatment without turning anyone away. I said my last utterance to expose how government rationing in the NHS already fails the vulnerable with deadly delays, proving private incentives create true equity by rewarding efficiency and lifting standards for everyone. Handing healthcare to competitive private interests isn't a handover; it's the smart way to smash rationing and ensure faster, better care for everyone, unlike the NHS's endless failures.",
+            "timestamp": "2025-10-30 14:06:36"
+        },
+        {
+            "speaker": "grok-3_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Hybrid models look efficient, yet they risk widening inequality if private interests dominate, whereas NHS funding boosts staff and tech to cut waits and save lives for everyone, no exceptions."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS's struggles aren't endless failures but a call for more investment to ensure better, fairer care for all, not a sell-off to private firms who prioritise profit over people."
+                ],
+                [
+                    "___Claim___",
+                    "Our NHS can outdo hybrid systems with proper funds by cutting waits and boosting access, focusing on equity over just cost-cutting like in Germany."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS absolutely guarantees access for all, ensuring that even the poorest among us get care without fear of being turned away, unlike private systems that often prioritise profit over people."
+                ],
+                [
+                    "___Claim___",
+                    "Handing healthcare to competitive private interests is a dangerous handover that risks leaving the poorest without care, while the NHS fights to protect everyone despite its challenges."
+                ]
+            ],
+            "sentences_no_utterance_types": "Hybrid models look efficient, yet they risk widening inequality if private interests dominate, whereas NHS funding boosts staff and tech to cut waits and save lives for everyone, no exceptions. The NHS's struggles aren't endless failures but a call for more investment to ensure better, fairer care for all, not a sell-off to private firms who prioritise profit over people. Our NHS can outdo hybrid systems with proper funds by cutting waits and boosting access, focusing on equity over just cost-cutting like in Germany. The NHS absolutely guarantees access for all, ensuring that even the poorest among us get care without fear of being turned away, unlike private systems that often prioritise profit over people. Handing healthcare to competitive private interests is a dangerous handover that risks leaving the poorest without care, while the NHS fights to protect everyone despite its challenges.",
+            "timestamp": "2025-10-30 14:09:31"
+        },
+        {
+            "speaker": "grok-4_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private systems don't prioritise profit over people; they harness competition to drive down costs and innovate faster care that benefits everyone, including the vulnerable, far beyond the NHS's equal misery for all."
+                ],
+                [
+                    "___Claim___",
+                    "Hybrid models like Germany's deliver superior efficiency and equity without widening inequality, as private competition drives down costs and improves access for all through targeted public support, unlike the NHS's wasteful spending that fails to cut waits despite billions poured in."
+                ],
+                [
+                    "___Claim___",
+                    "Handing healthcare to competitive private interests isn't dangerous; it unleashes efficiency that slashes costs and ensures even the poorest get swift care through targeted subsidies, unlike the NHS's failing protection that traps everyone in deadly queues."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS's struggles are endless failures rooted in government inefficiency, and more investment just pours money into a broken system that can't deliver fair care for anyone. Private firms prioritise profit to drive real innovation and speed, smashing the NHS's queues without the waste of endless public funding. Selling off to private interests isn't a betrayal; it's the only way to rescue healthcare from the NHS's grip and ensure better outcomes for all through competition."
+                ],
+                [
+                    "___Question___",
+                    "Why do you claim the NHS can outdo hybrid systems like Germany's with proper funds when evidence shows their model already delivers shorter waits and better access without the same funding demands?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Private systems don't prioritise profit over people; they harness competition to drive down costs and innovate faster care that benefits everyone, including the vulnerable, far beyond the NHS's equal misery for all. Hybrid models like Germany's deliver superior efficiency and equity without widening inequality, as private competition drives down costs and improves access for all through targeted public support, unlike the NHS's wasteful spending that fails to cut waits despite billions poured in. Handing healthcare to competitive private interests isn't dangerous; it unleashes efficiency that slashes costs and ensures even the poorest get swift care through targeted subsidies, unlike the NHS's failing protection that traps everyone in deadly queues. The NHS's struggles are endless failures rooted in government inefficiency, and more investment just pours money into a broken system that can't deliver fair care for anyone. Private firms prioritise profit to drive real innovation and speed, smashing the NHS's queues without the waste of endless public funding. Selling off to private interests isn't a betrayal; it's the only way to rescue healthcare from the NHS's grip and ensure better outcomes for all through competition. Why do you claim the NHS can outdo hybrid systems like Germany's with proper funds when evidence shows their model already delivers shorter waits and better access without the same funding demands?",
+            "timestamp": "2025-10-30 14:10:14"
+        },
+        {
+            "speaker": "grok-3_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government inefficiency isn't the root of the NHS's issues; chronic underfunding is, and with the right support, we can ensure equitable care for all."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS doesn't deliver equal misery; it\u2019s a lifeline that prioritises human need over financial gain, something private systems can\u2019t guarantee when profit is their core motive."
+                ],
+                [
+                    "___Claim___",
+                    "Handing healthcare to competitive private interests is a reckless gamble that risks leaving the poorest without any care, while the NHS strives to protect everyone despite its struggles."
+                ],
+                [
+                    "___Claim___",
+                    "Speed in private healthcare comes at a cost of equity, whereas investing in the NHS ensures we cut waits without wasting lives on a profit-driven model."
+                ],
+                [
+                    "___Claim___",
+                    "Private competition in hybrid setups often inflates costs for the vulnerable when subsidies fall short, whereas a fully funded NHS prioritises access over profit and delivers care to all without discrimination."
+                ]
+            ],
+            "sentences_no_utterance_types": "Government inefficiency isn't the root of the NHS's issues; chronic underfunding is, and with the right support, we can ensure equitable care for all. The NHS doesn't deliver equal misery; it\u2019s a lifeline that prioritises human need over financial gain, something private systems can\u2019t guarantee when profit is their core motive. Handing healthcare to competitive private interests is a reckless gamble that risks leaving the poorest without any care, while the NHS strives to protect everyone despite its struggles. Speed in private healthcare comes at a cost of equity, whereas investing in the NHS ensures we cut waits without wasting lives on a profit-driven model. Private competition in hybrid setups often inflates costs for the vulnerable when subsidies fall short, whereas a fully funded NHS prioritises access over profit and delivers care to all without discrimination.",
+            "timestamp": "2025-10-30 14:12:52"
+        },
+        {
+            "speaker": "grok-4_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government inefficiency is absolutely the root of the NHS's issues, and no amount of extra funding will fix the bloated bureaucracy that's choking equitable care for everyone."
+                ],
+                [
+                    "___Claim___",
+                    "Handing healthcare to competitive private interests isn't a reckless gamble; it's a bold move that unleashes efficiency to deliver swift care to everyone, including the poorest, through targeted subsidies that the NHS's bloated system can't match."
+                ],
+                [
+                    "___Claim___",
+                    "Private competition in hybrid setups drives down costs for the vulnerable through efficiency and targeted subsidies that far outperform the NHS's wasteful spending, ensuring real access without the endless queues. A fully funded NHS doesn't prioritise access over profit; it squanders billions on bureaucracy that discriminates against everyone by delivering subpar care and deadly delays. The NHS fails to deliver care to all without discrimination, trapping the poor in rationed misery while private systems innovate to provide swift, equitable treatment for everyone."
+                ]
+            ],
+            "sentences_no_utterance_types": "Government inefficiency is absolutely the root of the NHS's issues, and no amount of extra funding will fix the bloated bureaucracy that's choking equitable care for everyone. Handing healthcare to competitive private interests isn't a reckless gamble; it's a bold move that unleashes efficiency to deliver swift care to everyone, including the poorest, through targeted subsidies that the NHS's bloated system can't match. Private competition in hybrid setups drives down costs for the vulnerable through efficiency and targeted subsidies that far outperform the NHS's wasteful spending, ensuring real access without the endless queues. A fully funded NHS doesn't prioritise access over profit; it squanders billions on bureaucracy that discriminates against everyone by delivering subpar care and deadly delays. The NHS fails to deliver care to all without discrimination, trapping the poor in rationed misery while private systems innovate to provide swift, equitable treatment for everyone.",
+            "timestamp": "2025-10-30 14:13:25"
+        },
+        {
+            "speaker": "grok-3_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Question___",
+                    "How can you claim private systems provide equitable treatment for all when they often prioritise those who can pay over the most vulnerable?"
+                ],
+                [
+                    "___Claim___",
+                    "The NHS isn't bloated; it's underfunded, and with the right investment, it can outmatch private setups by prioritising need over financial gain."
+                ],
+                [
+                    "___Claim___",
+                    "Far from delivering subpar care, a well-supported NHS offers equitable treatment that saves lives across the board, avoiding the deadly gaps of profit-driven models."
+                ],
+                [
+                    "___Claim___",
+                    "Far from trapping the poor in misery, the NHS offers a vital safety net that guarantees treatment regardless of income, while private setups risk leaving the vulnerable behind."
+                ],
+                [
+                    "___Claim___",
+                    "Extra funding for the NHS isn't a lost cause; it\u2019s the only way to cut through the red tape and rebuild a system that puts people first."
+                ]
+            ],
+            "sentences_no_utterance_types": "How can you claim private systems provide equitable treatment for all when they often prioritise those who can pay over the most vulnerable? The NHS isn't bloated; it's underfunded, and with the right investment, it can outmatch private setups by prioritising need over financial gain. Far from delivering subpar care, a well-supported NHS offers equitable treatment that saves lives across the board, avoiding the deadly gaps of profit-driven models. Far from trapping the poor in misery, the NHS offers a vital safety net that guarantees treatment regardless of income, while private setups risk leaving the vulnerable behind. Extra funding for the NHS isn't a lost cause; it\u2019s the only way to cut through the red tape and rebuild a system that puts people first.",
+            "timestamp": "2025-10-30 14:15:00"
+        },
+        {
+            "speaker": "grok-4_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The NHS can't be rebuilt with extra funding alone because its core flaws in government control demand private competition to truly slash red tape and prioritise real efficiency over empty promises."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems provide equitable treatment by driving down costs through fierce competition, making quality care affordable for everyone including the vulnerable via targeted subsidies that the NHS's wasteful bureaucracy can't touch. I said my last utterance to hammer home how government inefficiency chokes the NHS, proving private incentives deliver real equity without the deadly delays that hit the poor hardest. Evidence from hybrid models like Germany's shows private involvement ensures faster access and better outcomes for all income levels, smashing the myth that they prioritise payers over the needy."
+                ],
+                [
+                    "___Claim___",
+                    "Even with extra funding, the NHS can't avoid its inherent flaws that widen gaps for the vulnerable, proving profit-driven models deliver superior life-saving treatment without the equal misery of public rationing."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS is bloated with bureaucracy that no amount of extra funding can fix, leaving it unable to outmatch efficient private setups that prioritise real results over endless red tape."
+                ]
+            ],
+            "sentences_no_utterance_types": "The NHS can't be rebuilt with extra funding alone because its core flaws in government control demand private competition to truly slash red tape and prioritise real efficiency over empty promises. Private systems provide equitable treatment by driving down costs through fierce competition, making quality care affordable for everyone including the vulnerable via targeted subsidies that the NHS's wasteful bureaucracy can't touch. I said my last utterance to hammer home how government inefficiency chokes the NHS, proving private incentives deliver real equity without the deadly delays that hit the poor hardest. Evidence from hybrid models like Germany's shows private involvement ensures faster access and better outcomes for all income levels, smashing the myth that they prioritise payers over the needy. Even with extra funding, the NHS can't avoid its inherent flaws that widen gaps for the vulnerable, proving profit-driven models deliver superior life-saving treatment without the equal misery of public rationing. The NHS is bloated with bureaucracy that no amount of extra funding can fix, leaving it unable to outmatch efficient private setups that prioritise real results over endless red tape.",
+            "timestamp": "2025-10-30 14:15:34"
+        },
+        {
+            "speaker": "grok-3_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Question___",
+                    "How can you argue that the NHS is bloated beyond repair when proper funding could streamline operations and match private efficiency without sacrificing equity?"
+                ],
+                [
+                    "___Claim___",
+                    "Deadly delays in the NHS hit the poor hardest because of underfunding, not government control, and pumping resources into our public system will save more lives than any private setup ever could."
+                ],
+                [
+                    "___Claim___",
+                    "Private incentives don\u2019t deliver real equity; they often sideline the most vulnerable by prioritising profit, while a strengthened NHS ensures no one is left behind regardless of their wallet."
+                ],
+                [
+                    "___Question___",
+                    "How can you be so sure that private incentives deliver real equity when they often leave the poorest without guaranteed care, unlike the NHS's universal promise?"
+                ],
+                [
+                    "___Question___",
+                    "How can you be so sure that hybrid models like Germany's don't still prioritise those who can pay more when subsidies often fall short for the poorest?"
+                ]
+            ],
+            "sentences_no_utterance_types": "How can you argue that the NHS is bloated beyond repair when proper funding could streamline operations and match private efficiency without sacrificing equity? Deadly delays in the NHS hit the poor hardest because of underfunding, not government control, and pumping resources into our public system will save more lives than any private setup ever could. Private incentives don\u2019t deliver real equity; they often sideline the most vulnerable by prioritising profit, while a strengthened NHS ensures no one is left behind regardless of their wallet. How can you be so sure that private incentives deliver real equity when they often leave the poorest without guaranteed care, unlike the NHS's universal promise? How can you be so sure that hybrid models like Germany's don't still prioritise those who can pay more when subsidies often fall short for the poorest?",
+            "timestamp": "2025-10-30 14:17:27"
+        },
+        {
+            "speaker": "grok-4_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "A strengthened NHS doesn't ensure no one is left behind; it traps everyone in deadly queues and rationed misery, sidelining the vulnerable far worse than profit-driven private systems that innovate for all."
+                ],
+                [
+                    "___Question___",
+                    "Why do you claim private incentives sideline the vulnerable when hybrid systems like Germany's deliver faster care and better outcomes for low-income groups through targeted subsidies that the NHS can't match?"
+                ],
+                [
+                    "___Claim___",
+                    "Deadly delays in the NHS hammer the poor hardest due to the suffocating grip of government control, not mere underfunding, and chucking more cash at it just fuels the bureaucracy without saving a single extra life compared to nimble private setups."
+                ],
+                [
+                    "___Since___",
+                    "Private incentives deliver real equity by slashing costs through competition, making care affordable for the poorest via targeted subsidies that actually work, unlike the NHS's universal promise which just means equal misery in endless queues for everyone. I said my last utterance to drive home how the NHS's so-called universal promise traps the vulnerable in deadly delays, while private systems innovate to provide swift, guaranteed care without the government's wasteful grip. Evidence from hybrid models like Germany's proves private incentives ensure the poorest get faster, better treatment without falling through cracks, smashing the myth that they leave anyone behind compared to the NHS's failing safety net."
+                ]
+            ],
+            "sentences_no_utterance_types": "A strengthened NHS doesn't ensure no one is left behind; it traps everyone in deadly queues and rationed misery, sidelining the vulnerable far worse than profit-driven private systems that innovate for all. Why do you claim private incentives sideline the vulnerable when hybrid systems like Germany's deliver faster care and better outcomes for low-income groups through targeted subsidies that the NHS can't match? Deadly delays in the NHS hammer the poor hardest due to the suffocating grip of government control, not mere underfunding, and chucking more cash at it just fuels the bureaucracy without saving a single extra life compared to nimble private setups. Private incentives deliver real equity by slashing costs through competition, making care affordable for the poorest via targeted subsidies that actually work, unlike the NHS's universal promise which just means equal misery in endless queues for everyone. I said my last utterance to drive home how the NHS's so-called universal promise traps the vulnerable in deadly delays, while private systems innovate to provide swift, guaranteed care without the government's wasteful grip. Evidence from hybrid models like Germany's proves private incentives ensure the poorest get faster, better treatment without falling through cracks, smashing the myth that they leave anyone behind compared to the NHS's failing safety net.",
+            "timestamp": "2025-10-30 14:17:58"
+        },
+        {
+            "speaker": "grok-3_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Question___",
+                    "How can you claim that more funding for the NHS just fuels bureaucracy when proper investment could directly cut queues and save lives for everyone, especially the most vulnerable?"
+                ],
+                [
+                    "___Claim___",
+                    "Slashing costs through competition sounds nice, yet it risks turning healthcare into a luxury for the wealthy, unlike the NHS which fights to keep access universal despite the challenges."
+                ],
+                [
+                    "___Claim___",
+                    "A strengthened NHS absolutely ensures no one is left behind by guaranteeing care for all, unlike profit-driven private systems that often exclude the vulnerable when profits dip."
+                ],
+                [
+                    "___Claim___",
+                    "Deadly delays in the NHS hit the poor hardest because of chronic underfunding, not government control, and proper investment can save countless lives by cutting queues."
+                ],
+                [
+                    "___Claim___",
+                    "Far from trapping everyone in deadly queues, a properly funded NHS slashes wait times and delivers equitable treatment, outpacing private setups that prioritise the wealthy."
+                ]
+            ],
+            "sentences_no_utterance_types": "How can you claim that more funding for the NHS just fuels bureaucracy when proper investment could directly cut queues and save lives for everyone, especially the most vulnerable? Slashing costs through competition sounds nice, yet it risks turning healthcare into a luxury for the wealthy, unlike the NHS which fights to keep access universal despite the challenges. A strengthened NHS absolutely ensures no one is left behind by guaranteeing care for all, unlike profit-driven private systems that often exclude the vulnerable when profits dip. Deadly delays in the NHS hit the poor hardest because of chronic underfunding, not government control, and proper investment can save countless lives by cutting queues. Far from trapping everyone in deadly queues, a properly funded NHS slashes wait times and delivers equitable treatment, outpacing private setups that prioritise the wealthy.",
+            "timestamp": "2025-10-30 14:19:47"
+        },
+        {
+            "speaker": "grok-4_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why do you insist profit-driven private systems exclude the vulnerable when hybrid models like Germany's deliver faster, equitable care through competition and subsidies without the NHS's failures?"
+                ],
+                [
+                    "___Claim___",
+                    "Deadly delays in the NHS hammer the poor hardest due to the suffocating bureaucracy of government control, not just underfunding, and throwing more cash at it only bloats the system without slashing queues or saving lives."
+                ],
+                [
+                    "___Claim___",
+                    "Private setups don't prioritise the wealthy\u2014they drive down costs through competition, delivering faster treatment to everyone including the poor, far outstripping the NHS's endless delays even with extra funds."
+                ],
+                [
+                    "___Why___",
+                    "Why claim underfunding alone causes the NHS's deadly delays for the poor when government bureaucracy clearly rations care and stifles innovation that a competitive private setup would smash?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Why do you insist profit-driven private systems exclude the vulnerable when hybrid models like Germany's deliver faster, equitable care through competition and subsidies without the NHS's failures? Deadly delays in the NHS hammer the poor hardest due to the suffocating bureaucracy of government control, not just underfunding, and throwing more cash at it only bloats the system without slashing queues or saving lives. Private setups don't prioritise the wealthy\u2014they drive down costs through competition, delivering faster treatment to everyone including the poor, far outstripping the NHS's endless delays even with extra funds. Why claim underfunding alone causes the NHS's deadly delays for the poor when government bureaucracy clearly rations care and stifles innovation that a competitive private setup would smash?",
+            "timestamp": "2025-10-30 14:20:10"
+        },
+        {
+            "speaker": "grok-3_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Throwing more cash at the NHS doesn't bloat the system; it equips us to cut through red tape and deliver faster, fairer care for everyone."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS, despite its flaws, guarantees care for everyone regardless of income, while private systems, even with subsidies, can still prioritise those who pay more."
+                ],
+                [
+                    "___Since___",
+                    "Competition might speed things up for some, yet it risks creating a two-tier setup where the vulnerable get left with scraps, unlike a properly funded NHS that prioritises need over profit."
+                ],
+                [
+                    "___Claim___",
+                    "Deadly delays in the NHS hit the poor hardest because of chronic underfunding, not bureaucracy, and proper investment can slash queues and save countless lives."
+                ],
+                [
+                    "___Since___",
+                    "I insist profit-driven private systems exclude the vulnerable because even in hybrid models like Germany's, subsidies often fall short, leaving the poorest struggling to access care when private providers chase higher-paying clients."
+                ]
+            ],
+            "sentences_no_utterance_types": "Throwing more cash at the NHS doesn't bloat the system; it equips us to cut through red tape and deliver faster, fairer care for everyone. The NHS, despite its flaws, guarantees care for everyone regardless of income, while private systems, even with subsidies, can still prioritise those who pay more. Competition might speed things up for some, yet it risks creating a two-tier setup where the vulnerable get left with scraps, unlike a properly funded NHS that prioritises need over profit. Deadly delays in the NHS hit the poor hardest because of chronic underfunding, not bureaucracy, and proper investment can slash queues and save countless lives. I insist profit-driven private systems exclude the vulnerable because even in hybrid models like Germany's, subsidies often fall short, leaving the poorest struggling to access care when private providers chase higher-paying clients.",
+            "timestamp": "2025-10-30 14:21:23"
+        },
+        {
+            "speaker": "grok-4_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why believe proper investment can slash queues in the NHS and save countless lives when evidence from hybrid systems like Germany's shows private involvement delivers faster care without the same funding black hole?"
+                ],
+                [
+                    "___Question___",
+                    "How can you insist proper investment will slash queues and save countless lives in the NHS when decades of increased funding have only bloated bureaucracy without fixing the core inefficiencies?"
+                ],
+                [
+                    "___Claim___",
+                    "The NHS doesn't guarantee care for everyone; it traps everyone in endless queues and rationed misery regardless of income, while private systems with subsidies ensure swift access for all without prioritising payers. Private systems smash the myth of prioritising the wealthy by driving down costs through competition, delivering faster care to the vulnerable far better than the NHS's failing universal promise. Even with subsidies, private systems outperform the NHS by innovating equitable treatment for everyone, unlike the government's bloated control that leaves the poor worst off despite its so-called guarantees."
+                ]
+            ],
+            "sentences_no_utterance_types": "Why believe proper investment can slash queues in the NHS and save countless lives when evidence from hybrid systems like Germany's shows private involvement delivers faster care without the same funding black hole? How can you insist proper investment will slash queues and save countless lives in the NHS when decades of increased funding have only bloated bureaucracy without fixing the core inefficiencies? The NHS doesn't guarantee care for everyone; it traps everyone in endless queues and rationed misery regardless of income, while private systems with subsidies ensure swift access for all without prioritising payers. Private systems smash the myth of prioritising the wealthy by driving down costs through competition, delivering faster care to the vulnerable far better than the NHS's failing universal promise. Even with subsidies, private systems outperform the NHS by innovating equitable treatment for everyone, unlike the government's bloated control that leaves the poor worst off despite its so-called guarantees.",
+            "timestamp": "2025-10-30 14:21:49"
+        },
+        {
+            "speaker": "grok-3_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Proper investment in the NHS can slash queues by directly funding more staff and better tech, targeting the root issue of under-resourcing rather than just bloating bureaucracy."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS absolutely guarantees care for everyone, ensuring no one is turned away regardless of income, unlike private systems that can still favour those who pay more even with subsidies."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems with subsidies don't ensure swift access for all; they often create hidden barriers for the poorest, while the NHS fights to provide fair care despite its challenges."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS's universal promise isn't failing; it's underfunded, and with proper investment, it can deliver faster, fairer care to everyone without the profit-driven gaps of private setups."
+                ],
+                [
+                    "___Claim___",
+                    "Decades of funding might not have fixed everything, yet with a focused push on streamlining operations now, we can save countless lives by cutting delays for everyone."
+                ]
+            ],
+            "sentences_no_utterance_types": "Proper investment in the NHS can slash queues by directly funding more staff and better tech, targeting the root issue of under-resourcing rather than just bloating bureaucracy. The NHS absolutely guarantees care for everyone, ensuring no one is turned away regardless of income, unlike private systems that can still favour those who pay more even with subsidies. Private systems with subsidies don't ensure swift access for all; they often create hidden barriers for the poorest, while the NHS fights to provide fair care despite its challenges. The NHS's universal promise isn't failing; it's underfunded, and with proper investment, it can deliver faster, fairer care to everyone without the profit-driven gaps of private setups. Decades of funding might not have fixed everything, yet with a focused push on streamlining operations now, we can save countless lives by cutting delays for everyone.",
+            "timestamp": "2025-10-30 14:23:27"
+        },
+        {
+            "speaker": "grok-4_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private systems with subsidies smash hidden barriers by driving down costs through competition, ensuring swift access for the poorest far better than the NHS's endless queues. The NHS doesn't fight for fair care; it traps everyone in rationed misery despite its so-called challenges. Evidence from hybrid models proves subsidies in private setups deliver equitable, speedy treatment without the NHS's failing promises."
+                ],
+                [
+                    "___Why___",
+                    "Why do you claim private systems with subsidies create hidden barriers for the poorest when evidence from Germany's hybrid model shows they deliver faster access and better outcomes for low-income groups without the NHS's endless queues?"
+                ],
+                [
+                    "___Why___",
+                    "Why insist private setups create profit-driven gaps when hybrid models like Germany's prove competition delivers equitable, swift care for all without the NHS's wasteful underfunding excuses?"
+                ],
+                [
+                    "___Question___",
+                    "How can you insist proper investment will deliver faster, fairer care in the NHS when evidence from hybrid systems like Germany's shows private competition achieves that without the same funding demands?"
+                ],
+                [
+                    "___Claim___",
+                    "The NHS's universal promise is utterly failing due to its bloated bureaucracy that no amount of extra funding can fix, trapping everyone in deadly queues unlike efficient private systems that deliver real speed and equity."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private systems with subsidies smash hidden barriers by driving down costs through competition, ensuring swift access for the poorest far better than the NHS's endless queues. The NHS doesn't fight for fair care; it traps everyone in rationed misery despite its so-called challenges. Evidence from hybrid models proves subsidies in private setups deliver equitable, speedy treatment without the NHS's failing promises. Why do you claim private systems with subsidies create hidden barriers for the poorest when evidence from Germany's hybrid model shows they deliver faster access and better outcomes for low-income groups without the NHS's endless queues? Why insist private setups create profit-driven gaps when hybrid models like Germany's prove competition delivers equitable, swift care for all without the NHS's wasteful underfunding excuses? How can you insist proper investment will deliver faster, fairer care in the NHS when evidence from hybrid systems like Germany's shows private competition achieves that without the same funding demands? The NHS's universal promise is utterly failing due to its bloated bureaucracy that no amount of extra funding can fix, trapping everyone in deadly queues unlike efficient private systems that deliver real speed and equity.",
+            "timestamp": "2025-10-30 14:23:54"
+        },
+        {
+            "speaker": "grok-3_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Germany's model might show faster access on paper, yet real equity comes from a fully funded NHS that prioritises need over profit, avoiding the risk of hidden costs or coverage gaps for the most vulnerable."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS fights tooth and nail for fair care, ensuring everyone gets treatment regardless of their bank balance, unlike private setups that cherry-pick patients."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS's universal promise isn't failing due to bureaucracy; it's strained by underfunding, and with proper investment, we can cut deadly queues and deliver care for all."
+                ],
+                [
+                    "___Since___",
+                    "I insist proper investment in the NHS will deliver faster, fairer care because it directly tackles under-resourcing by hiring more staff and upgrading tech, cutting queues without relying on private profit motives."
+                ],
+                [
+                    "___Since___",
+                    "Hybrid systems like Germany's might look efficient, yet they still risk leaving the poorest behind when subsidies don't cover everyone, unlike a fully funded NHS that guarantees care for all."
+                ]
+            ],
+            "sentences_no_utterance_types": "Germany's model might show faster access on paper, yet real equity comes from a fully funded NHS that prioritises need over profit, avoiding the risk of hidden costs or coverage gaps for the most vulnerable. The NHS fights tooth and nail for fair care, ensuring everyone gets treatment regardless of their bank balance, unlike private setups that cherry-pick patients. The NHS's universal promise isn't failing due to bureaucracy; it's strained by underfunding, and with proper investment, we can cut deadly queues and deliver care for all. I insist proper investment in the NHS will deliver faster, fairer care because it directly tackles under-resourcing by hiring more staff and upgrading tech, cutting queues without relying on private profit motives. Hybrid systems like Germany's might look efficient, yet they still risk leaving the poorest behind when subsidies don't cover everyone, unlike a fully funded NHS that guarantees care for all.",
+            "timestamp": "2025-10-30 14:26:14"
+        },
+        {
+            "speaker": "grok-4_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Hybrid systems like Germany's don't risk leaving the poorest behind; their targeted subsidies ensure swift, equitable care for everyone, smashing the NHS's endless queues that trap the vulnerable in misery."
+                ],
+                [
+                    "___Claim___",
+                    "A fully funded NHS doesn't guarantee care for all; it just bloats bureaucracy and delivers rationed delays that hit the poor hardest, while Germany's model proves private competition covers everyone without the waste."
+                ],
+                [
+                    "___Why___",
+                    "Why do you claim real equity comes from a fully funded NHS when Germany's hybrid model delivers faster access and better outcomes for the vulnerable without the hidden costs of endless bureaucracy?"
+                ],
+                [
+                    "___Why___",
+                    "Why believe the NHS can achieve fairer care without private profit motives when hybrid systems like Germany's prove competition delivers equitable outcomes without the same wasteful spending?"
+                ],
+                [
+                    "___Claim___",
+                    "The NHS doesn't fight for fair care; it traps everyone in endless queues and rationed misery regardless of bank balance, while private setups deliver swift treatment to all through competition. Private systems don't cherry-pick patients; they drive down costs and innovate to serve everyone efficiently, smashing the NHS's failing universal promise. Claiming the NHS ensures treatment for all ignores how its bureaucracy leaves the vulnerable worst off, unlike private setups that provide real access without the deadly delays."
+                ]
+            ],
+            "sentences_no_utterance_types": "Hybrid systems like Germany's don't risk leaving the poorest behind; their targeted subsidies ensure swift, equitable care for everyone, smashing the NHS's endless queues that trap the vulnerable in misery. A fully funded NHS doesn't guarantee care for all; it just bloats bureaucracy and delivers rationed delays that hit the poor hardest, while Germany's model proves private competition covers everyone without the waste. Why do you claim real equity comes from a fully funded NHS when Germany's hybrid model delivers faster access and better outcomes for the vulnerable without the hidden costs of endless bureaucracy? Why believe the NHS can achieve fairer care without private profit motives when hybrid systems like Germany's prove competition delivers equitable outcomes without the same wasteful spending? The NHS doesn't fight for fair care; it traps everyone in endless queues and rationed misery regardless of bank balance, while private setups deliver swift treatment to all through competition. Private systems don't cherry-pick patients; they drive down costs and innovate to serve everyone efficiently, smashing the NHS's failing universal promise. Claiming the NHS ensures treatment for all ignores how its bureaucracy leaves the vulnerable worst off, unlike private setups that provide real access without the deadly delays.",
+            "timestamp": "2025-10-30 14:26:49"
+        },
+        {
+            "speaker": "grok-3_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The NHS fights relentlessly for fair care, ensuring everyone gets treatment no matter their bank balance, unlike private setups that can prioritise profit over need."
+                ],
+                [
+                    "___Claim___",
+                    "Real equity comes from a fully funded NHS because it guarantees care for every single person, no matter their income, unlike Germany's hybrid model where private interests can still edge out the poorest if subsidies don't keep up."
+                ],
+                [
+                    "___Claim___",
+                    "Wasteful spending isn't the NHS's core issue; underfunding is, and with proper resources, we can slash queues and provide equitable care without relying on private motives that often sideline the poorest."
+                ],
+                [
+                    "___Claim___",
+                    "Far from trapping us in misery, the NHS is a lifeline that saves lives with universal access, while private competition risks leaving the vulnerable behind."
+                ],
+                [
+                    "___Claim___",
+                    "Private setups don\u2019t deliver swift treatment to all; they often cater to those who can pay, whereas a properly funded NHS can cut queues and provide equitable care."
+                ]
+            ],
+            "sentences_no_utterance_types": "The NHS fights relentlessly for fair care, ensuring everyone gets treatment no matter their bank balance, unlike private setups that can prioritise profit over need. Real equity comes from a fully funded NHS because it guarantees care for every single person, no matter their income, unlike Germany's hybrid model where private interests can still edge out the poorest if subsidies don't keep up. Wasteful spending isn't the NHS's core issue; underfunding is, and with proper resources, we can slash queues and provide equitable care without relying on private motives that often sideline the poorest. Far from trapping us in misery, the NHS is a lifeline that saves lives with universal access, while private competition risks leaving the vulnerable behind. Private setups don\u2019t deliver swift treatment to all; they often cater to those who can pay, whereas a properly funded NHS can cut queues and provide equitable care.",
+            "timestamp": "2025-10-30 14:29:04"
+        },
+        {
+            "speaker": "grok-4_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private setups deliver swift treatment to everyone by slashing costs through fierce competition, making care affordable for all without the NHS's endless queues. A properly funded NHS just bloats bureaucracy and fails to cut queues, trapping the vulnerable in deadly delays unlike efficient private systems. Private systems don't cater only to those who can pay; they innovate equitable care for the poorest via targeted subsidies, outpacing the NHS's so-called equitable promise that leaves everyone suffering."
+                ],
+                [
+                    "___Claim___",
+                    "Universal access in the NHS means equal suffering for all with endless delays that hit the poor hardest, unlike private systems that innovate to ensure no one gets left behind."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS isn't a lifeline; it traps everyone in deadly queues and rationed misery that costs lives, while private competition delivers swift care to the vulnerable through efficiency and targeted subsidies."
+                ],
+                [
+                    "___Question___",
+                    "How can you insist real equity comes from the NHS's universal promise when hybrid systems like Germany's prove private competition ensures better access and outcomes for the vulnerable without the bureaucracy of full public funding?"
+                ],
+                [
+                    "___Question___",
+                    "How can you insist underfunding is the main problem when hybrid systems like Germany's deliver faster access and better outcomes for the poorest with less overall spending than the NHS?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Private setups deliver swift treatment to everyone by slashing costs through fierce competition, making care affordable for all without the NHS's endless queues. A properly funded NHS just bloats bureaucracy and fails to cut queues, trapping the vulnerable in deadly delays unlike efficient private systems. Private systems don't cater only to those who can pay; they innovate equitable care for the poorest via targeted subsidies, outpacing the NHS's so-called equitable promise that leaves everyone suffering. Universal access in the NHS means equal suffering for all with endless delays that hit the poor hardest, unlike private systems that innovate to ensure no one gets left behind. The NHS isn't a lifeline; it traps everyone in deadly queues and rationed misery that costs lives, while private competition delivers swift care to the vulnerable through efficiency and targeted subsidies. How can you insist real equity comes from the NHS's universal promise when hybrid systems like Germany's prove private competition ensures better access and outcomes for the vulnerable without the bureaucracy of full public funding? How can you insist underfunding is the main problem when hybrid systems like Germany's deliver faster access and better outcomes for the poorest with less overall spending than the NHS?",
+            "timestamp": "2025-10-30 14:29:34"
+        },
+        {
+            "speaker": "grok-3_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private systems aren't inherently efficient; they often prioritise profit over need, while a funded NHS guarantees treatment for all without discrimination."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS is absolutely a lifeline, saving countless lives by ensuring care for everyone, unlike private systems that can leave the vulnerable behind when subsidies don't cover all."
+                ],
+                [
+                    "___Claim___",
+                    "I insist underfunding is the main problem because the NHS, with proper resources, can deliver faster access and better outcomes for everyone without the risk of private interests sidelining the poorest."
+                ],
+                [
+                    "___Claim___",
+                    "Real equity comes from the NHS's universal promise because it guarantees care for every single person, no matter their income, unlike Germany's hybrid system where private competition can still leave gaps for the poorest if subsidies don't cover all."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS ensures that the most vulnerable aren't sidelined by profit motives, while hybrid systems like Germany's risk prioritising those who can pay more despite their claims of better access."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private systems aren't inherently efficient; they often prioritise profit over need, while a funded NHS guarantees treatment for all without discrimination. The NHS is absolutely a lifeline, saving countless lives by ensuring care for everyone, unlike private systems that can leave the vulnerable behind when subsidies don't cover all. I insist underfunding is the main problem because the NHS, with proper resources, can deliver faster access and better outcomes for everyone without the risk of private interests sidelining the poorest. Real equity comes from the NHS's universal promise because it guarantees care for every single person, no matter their income, unlike Germany's hybrid system where private competition can still leave gaps for the poorest if subsidies don't cover all. The NHS ensures that the most vulnerable aren't sidelined by profit motives, while hybrid systems like Germany's risk prioritising those who can pay more despite their claims of better access.",
+            "timestamp": "2025-10-30 14:31:27"
+        },
+        {
+            "speaker": "grok-4_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The NHS isn't a lifeline at all; it traps everyone in deadly queues and rationed misery that costs lives, while private systems deliver swift care to the vulnerable through competition and targeted subsidies."
+                ],
+                [
+                    "___Question___",
+                    "Why do you claim private systems prioritise profit over need when hybrid models like Germany's deliver faster, equitable care for all through competition without the NHS's endless queues?"
+                ],
+                [
+                    "___Why___",
+                    "Why do you claim the NHS's universal promise delivers real equity when it traps everyone in endless queues and rationed misery that hits the poorest hardest, unlike Germany's hybrid model that ensures swift care for all through targeted subsidies?"
+                ],
+                [
+                    "___Why___",
+                    "Why claim a fully funded NHS avoids sidelining the poorest when its bureaucracy already rations care and creates deadly delays that hit the vulnerable hardest, unlike efficient private setups?"
+                ],
+                [
+                    "___Question___",
+                    "How can you insist private systems leave the vulnerable behind when hybrid models like Germany's targeted subsidies ensure swift care for everyone without the NHS's deadly delays?"
+                ]
+            ],
+            "sentences_no_utterance_types": "The NHS isn't a lifeline at all; it traps everyone in deadly queues and rationed misery that costs lives, while private systems deliver swift care to the vulnerable through competition and targeted subsidies. Why do you claim private systems prioritise profit over need when hybrid models like Germany's deliver faster, equitable care for all through competition without the NHS's endless queues? Why do you claim the NHS's universal promise delivers real equity when it traps everyone in endless queues and rationed misery that hits the poorest hardest, unlike Germany's hybrid model that ensures swift care for all through targeted subsidies? Why claim a fully funded NHS avoids sidelining the poorest when its bureaucracy already rations care and creates deadly delays that hit the vulnerable hardest, unlike efficient private setups? How can you insist private systems leave the vulnerable behind when hybrid models like Germany's targeted subsidies ensure swift care for everyone without the NHS's deadly delays?",
+            "timestamp": "2025-10-30 14:31:59"
+        },
+        {
+            "speaker": "grok-3_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Faster care in hybrid systems might look good on paper, yet it often hides inequities where need takes a backseat to financial gain, unlike a properly funded NHS that puts people first."
+                ],
+                [
+                    "___Claim___",
+                    "Far from trapping us in misery, the NHS saves countless lives with universal access, while private competition risks prioritising profit over the poorest in need."
+                ],
+                [
+                    "___Claim___",
+                    "I claim the NHS's universal promise delivers real equity because it ensures everyone, no matter their income, gets access to care without being turned away, unlike Germany's hybrid model where private interests can still create gaps for the poorest if subsidies fall short."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS might have queues, yet it ensures care based on need, not ability to pay, unlike Germany's system where competition can create hidden inequities for the most vulnerable."
+                ],
+                [
+                    "___Claim___",
+                    "Endless queues and rationed misery in the NHS are down to underfunding, not the concept of universal care, and with proper investment, we can slash delays to deliver fairer outcomes for all, especially the most vulnerable."
+                ]
+            ],
+            "sentences_no_utterance_types": "Faster care in hybrid systems might look good on paper, yet it often hides inequities where need takes a backseat to financial gain, unlike a properly funded NHS that puts people first. Far from trapping us in misery, the NHS saves countless lives with universal access, while private competition risks prioritising profit over the poorest in need. I claim the NHS's universal promise delivers real equity because it ensures everyone, no matter their income, gets access to care without being turned away, unlike Germany's hybrid model where private interests can still create gaps for the poorest if subsidies fall short. The NHS might have queues, yet it ensures care based on need, not ability to pay, unlike Germany's system where competition can create hidden inequities for the most vulnerable. Endless queues and rationed misery in the NHS are down to underfunding, not the concept of universal care, and with proper investment, we can slash delays to deliver fairer outcomes for all, especially the most vulnerable.",
+            "timestamp": "2025-10-30 14:33:55"
+        },
+        {
+            "speaker": "grok-4_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "The NHS traps everyone in deadly queues and rationed misery that costs countless lives, while private competition drives down costs to deliver swift care to the poorest without prioritising profit over need."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS doesn't truly ensure care based on need; its endless queues ration treatment by delay, creating deadly inequities for the poorest, while Germany's model delivers swift access without hidden barriers."
+                ],
+                [
+                    "___Why___",
+                    "Why do you claim the NHS's universal promise delivers real equity when it traps everyone in endless queues and rationed misery that hits the poorest hardest, unlike Germany's hybrid model that ensures swift care for all through targeted subsidies?"
+                ],
+                [
+                    "___Question___",
+                    "How can you insist proper investment will slash delays and deliver fairer outcomes for the vulnerable when decades of increased NHS funding have only bloated the system without fixing core flaws?"
+                ],
+                [
+                    "___Claim___",
+                    "Universal access in the NHS means equal suffering for all with endless delays that hit the vulnerable hardest, unlike private systems that innovate equitable treatment through efficiency and targeted subsidies."
+                ]
+            ],
+            "sentences_no_utterance_types": "The NHS traps everyone in deadly queues and rationed misery that costs countless lives, while private competition drives down costs to deliver swift care to the poorest without prioritising profit over need. The NHS doesn't truly ensure care based on need; its endless queues ration treatment by delay, creating deadly inequities for the poorest, while Germany's model delivers swift access without hidden barriers. Why do you claim the NHS's universal promise delivers real equity when it traps everyone in endless queues and rationed misery that hits the poorest hardest, unlike Germany's hybrid model that ensures swift care for all through targeted subsidies? How can you insist proper investment will slash delays and deliver fairer outcomes for the vulnerable when decades of increased NHS funding have only bloated the system without fixing core flaws? Universal access in the NHS means equal suffering for all with endless delays that hit the vulnerable hardest, unlike private systems that innovate equitable treatment through efficiency and targeted subsidies.",
+            "timestamp": "2025-10-30 14:34:31"
+        },
+        {
+            "speaker": "grok-3_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "I claim the NHS's universal promise delivers real equity because it guarantees care for everyone, no matter their income, unlike Germany's hybrid model where private interests can still leave the poorest struggling if subsidies don't cover all."
+                ],
+                [
+                    "___Claim___",
+                    "Endless queues and rationed misery in the NHS are due to underfunding, not the concept of universal care, and with proper investment, we can slash delays to ensure fair access for all, especially the most vulnerable."
+                ],
+                [
+                    "___Claim___",
+                    "I insist proper investment will slash delays in the NHS by directly funding more staff and cutting-edge tech to tackle under-resourcing head-on, delivering fairer outcomes for the vulnerable."
+                ]
+            ],
+            "sentences_no_utterance_types": "I claim the NHS's universal promise delivers real equity because it guarantees care for everyone, no matter their income, unlike Germany's hybrid model where private interests can still leave the poorest struggling if subsidies don't cover all. Endless queues and rationed misery in the NHS are due to underfunding, not the concept of universal care, and with proper investment, we can slash delays to ensure fair access for all, especially the most vulnerable. I insist proper investment will slash delays in the NHS by directly funding more staff and cutting-edge tech to tackle under-resourcing head-on, delivering fairer outcomes for the vulnerable.",
+            "timestamp": "2025-10-30 14:35:43"
+        },
+        {
+            "speaker": "grok-4_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why insist the NHS guarantees care for everyone no matter their income when its bureaucracy rations treatment through endless waits that cost the vulnerable lives, while private interests in hybrids like Germany innovate equitable treatment for all?"
+                ],
+                [
+                    "___Why___",
+                    "Why believe Germany's hybrid model leaves the poorest struggling if subsidies don't cover all when evidence shows their targeted support delivers faster access and better outcomes for low-income groups without the NHS's deadly delays?"
+                ],
+                [
+                    "___Claim___",
+                    "Endless queues and rationed misery in the NHS stem from the rotten core of universal care that breeds bureaucracy and inefficiency, not just underfunding, and no amount of extra cash will slash those delays without ripping out the government's stranglehold."
+                ],
+                [
+                    "___Why___",
+                    "Why do you claim the NHS's universal promise delivers real equity when it traps everyone in endless queues and rationed misery that hits the poorest hardest, unlike Germany's hybrid model that ensures swift care for all through targeted subsidies?"
+                ],
+                [
+                    "___Question___",
+                    "How can you claim direct funding tackles under-resourcing head-on in the NHS when hybrid systems like Germany's achieve faster care for the vulnerable with less overall spending and no such endless queues?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Why insist the NHS guarantees care for everyone no matter their income when its bureaucracy rations treatment through endless waits that cost the vulnerable lives, while private interests in hybrids like Germany innovate equitable treatment for all? Why believe Germany's hybrid model leaves the poorest struggling if subsidies don't cover all when evidence shows their targeted support delivers faster access and better outcomes for low-income groups without the NHS's deadly delays? Endless queues and rationed misery in the NHS stem from the rotten core of universal care that breeds bureaucracy and inefficiency, not just underfunding, and no amount of extra cash will slash those delays without ripping out the government's stranglehold. Why do you claim the NHS's universal promise delivers real equity when it traps everyone in endless queues and rationed misery that hits the poorest hardest, unlike Germany's hybrid model that ensures swift care for all through targeted subsidies? How can you claim direct funding tackles under-resourcing head-on in the NHS when hybrid systems like Germany's achieve faster care for the vulnerable with less overall spending and no such endless queues?",
+            "timestamp": "2025-10-30 14:36:02"
+        },
+        {
+            "speaker": "grok-3_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "I claim direct funding tackles under-resourcing head-on in the NHS because it pumps money straight into hiring more staff and upgrading tech to slash queues, unlike hybrid systems that can still leave gaps for the poorest."
+                ],
+                [
+                    "___Since___",
+                    "Endless waits in the NHS come from underfunding, not the idea of universal care, and with proper investment, we can cut those delays to save vulnerable lives without handing healthcare to profit-driven firms."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS, with proper funding, can eliminate deadly delays and ensure no one is left behind, unlike Germany's system where the poorest could fall through cracks if subsidies aren't enough."
+                ],
+                [
+                    "___Claim___",
+                    "I insist the NHS guarantees care for everyone no matter their income because it ensures treatment based on need, not ability to pay, unlike hybrid systems like Germany's where private interests can still create gaps for the poorest."
+                ]
+            ],
+            "sentences_no_utterance_types": "I claim direct funding tackles under-resourcing head-on in the NHS because it pumps money straight into hiring more staff and upgrading tech to slash queues, unlike hybrid systems that can still leave gaps for the poorest. Endless waits in the NHS come from underfunding, not the idea of universal care, and with proper investment, we can cut those delays to save vulnerable lives without handing healthcare to profit-driven firms. The NHS, with proper funding, can eliminate deadly delays and ensure no one is left behind, unlike Germany's system where the poorest could fall through cracks if subsidies aren't enough. I insist the NHS guarantees care for everyone no matter their income because it ensures treatment based on need, not ability to pay, unlike hybrid systems like Germany's where private interests can still create gaps for the poorest.",
+            "timestamp": "2025-10-30 14:37:40"
+        },
+        {
+            "speaker": "grok-4_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Question___",
+                    "Why do you insist the NHS guarantees care for everyone no matter their income when its endless queues ration treatment by delay, hitting the poorest hardest unlike Germany's hybrid model that delivers swift access through targeted subsidies?"
+                ],
+                [
+                    "___Question___",
+                    "How can you claim the NHS ensures treatment based on need not ability to pay when government bureaucracy creates deadly delays for the vulnerable, while private interests in Germany's system innovate equitable care without such gaps?"
+                ],
+                [
+                    "___Claim___",
+                    "Handing healthcare to profit-driven firms isn't a handover; it's the smart way to smash queues and save vulnerable lives through efficiency that a bloated NHS can't match."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS can't eliminate deadly delays no matter how much funding it gets because its government bureaucracy just bloats up and keeps trapping everyone in queues, unlike Germany's hybrid system that delivers swift care to the poorest through targeted subsidies without leaving anyone behind."
+                ],
+                [
+                    "___Why___",
+                    "Why insist we can slash NHS waits without handing healthcare to profit-driven firms when private competition in models like Germany's delivers faster, equitable care for the vulnerable without the same funding black hole?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Why do you insist the NHS guarantees care for everyone no matter their income when its endless queues ration treatment by delay, hitting the poorest hardest unlike Germany's hybrid model that delivers swift access through targeted subsidies? How can you claim the NHS ensures treatment based on need not ability to pay when government bureaucracy creates deadly delays for the vulnerable, while private interests in Germany's system innovate equitable care without such gaps? Handing healthcare to profit-driven firms isn't a handover; it's the smart way to smash queues and save vulnerable lives through efficiency that a bloated NHS can't match. The NHS can't eliminate deadly delays no matter how much funding it gets because its government bureaucracy just bloats up and keeps trapping everyone in queues, unlike Germany's hybrid system that delivers swift care to the poorest through targeted subsidies without leaving anyone behind. Why insist we can slash NHS waits without handing healthcare to profit-driven firms when private competition in models like Germany's delivers faster, equitable care for the vulnerable without the same funding black hole?",
+            "timestamp": "2025-10-30 14:38:08"
+        },
+        {
+            "speaker": "grok-3_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private firms might promise efficiency, yet they often sideline the poorest when profits dip, while a strengthened NHS guarantees treatment based on need, not ability to pay."
+                ],
+                [
+                    "___Claim___",
+                    "I insist we can slash NHS waits without handing healthcare to profit-driven firms because proper funding can directly boost staff numbers and tech to cut delays for everyone, especially the vulnerable."
+                ],
+                [
+                    "___Claim___",
+                    "I insist the NHS guarantees care for everyone no matter their income because it ensures treatment based on need, not cash, unlike Germany's hybrid model where private interests can still leave the poorest behind if subsidies don't cover all."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private firms might promise efficiency, yet they often sideline the poorest when profits dip, while a strengthened NHS guarantees treatment based on need, not ability to pay. I insist we can slash NHS waits without handing healthcare to profit-driven firms because proper funding can directly boost staff numbers and tech to cut delays for everyone, especially the vulnerable. I insist the NHS guarantees care for everyone no matter their income because it ensures treatment based on need, not cash, unlike Germany's hybrid model where private interests can still leave the poorest behind if subsidies don't cover all.",
+            "timestamp": "2025-10-30 14:39:26"
+        },
+        {
+            "speaker": "grok-4_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why do you insist proper funding can slash NHS waits when decades of increased spending have only bloated bureaucracy without cutting delays for the vulnerable?"
+                ],
+                [
+                    "___Question___",
+                    "Why do you insist proper funding can slash NHS waits when decades of increased spending have only bloated bureaucracy without cutting delays for the vulnerable?"
+                ],
+                [
+                    "___Question___",
+                    "Why do you insist the NHS guarantees care for everyone no matter their income when its endless queues ration treatment by delay and hit the poorest hardest?"
+                ],
+                [
+                    "___Question___",
+                    "How can you claim the NHS ensures treatment based on need not cash when government bureaucracy creates deadly delays for the vulnerable unlike Germany's efficient hybrid model?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Why do you insist proper funding can slash NHS waits when decades of increased spending have only bloated bureaucracy without cutting delays for the vulnerable? Why do you insist proper funding can slash NHS waits when decades of increased spending have only bloated bureaucracy without cutting delays for the vulnerable? Why do you insist the NHS guarantees care for everyone no matter their income when its endless queues ration treatment by delay and hit the poorest hardest? How can you claim the NHS ensures treatment based on need not cash when government bureaucracy creates deadly delays for the vulnerable unlike Germany's efficient hybrid model?",
+            "timestamp": "2025-10-30 14:39:40"
+        },
+        {
+            "speaker": "grok-3_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Deadly delays in the NHS are down to a lack of resources, not government control, and with proper investment, we can slash waits to deliver care based purely on need."
+                ],
+                [
+                    "___Claim___",
+                    "I insist the NHS guarantees care for everyone no matter their income because it ensures treatment based on need, not cash, even if queues are a problem due to underfunding."
+                ],
+                [
+                    "___Since___",
+                    "Decades of increased spending might not have cut delays, yet with a sharp focus on streamlining operations now, we can prioritise vulnerable patients and slash queues effectively."
+                ],
+                [
+                    "___Since___",
+                    "The NHS can deliver faster care for everyone if we channel funds into real solutions like more nurses and better systems, proving bureaucracy isn't the core issue but a lack of precise investment is."
+                ]
+            ],
+            "sentences_no_utterance_types": "Deadly delays in the NHS are down to a lack of resources, not government control, and with proper investment, we can slash waits to deliver care based purely on need. I insist the NHS guarantees care for everyone no matter their income because it ensures treatment based on need, not cash, even if queues are a problem due to underfunding. Decades of increased spending might not have cut delays, yet with a sharp focus on streamlining operations now, we can prioritise vulnerable patients and slash queues effectively. The NHS can deliver faster care for everyone if we channel funds into real solutions like more nurses and better systems, proving bureaucracy isn't the core issue but a lack of precise investment is.",
+            "timestamp": "2025-10-30 14:40:47"
+        },
+        {
+            "speaker": "grok-4_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Question___",
+                    "How can you claim the NHS ensures treatment based on need not cash when government bureaucracy creates deadly delays for the vulnerable unlike efficient hybrid models?"
+                ],
+                [
+                    "___Why___",
+                    "Why insist government control isn't the culprit for NHS delays when private competition in models like Germany's ensures faster, need-based care for the vulnerable without endless queues?"
+                ],
+                [
+                    "___Question___",
+                    "How can you insist bureaucracy isn't the core issue in the NHS when evidence from hybrid systems like Germany's shows private competition cuts delays without the same funding demands?"
+                ],
+                [
+                    "___Question___",
+                    "Why do you claim deadly delays in the NHS stem solely from a lack of resources rather than the inherent inefficiencies of government control that hybrid systems like Germany's avoid through private competition?"
+                ],
+                [
+                    "___Question___",
+                    "Why do you insist the NHS guarantees care for everyone no matter their income when its endless queues ration treatment by delay and hit the poorest hardest?"
+                ]
+            ],
+            "sentences_no_utterance_types": "How can you claim the NHS ensures treatment based on need not cash when government bureaucracy creates deadly delays for the vulnerable unlike efficient hybrid models? Why insist government control isn't the culprit for NHS delays when private competition in models like Germany's ensures faster, need-based care for the vulnerable without endless queues? How can you insist bureaucracy isn't the core issue in the NHS when evidence from hybrid systems like Germany's shows private competition cuts delays without the same funding demands? Why do you claim deadly delays in the NHS stem solely from a lack of resources rather than the inherent inefficiencies of government control that hybrid systems like Germany's avoid through private competition? Why do you insist the NHS guarantees care for everyone no matter their income when its endless queues ration treatment by delay and hit the poorest hardest?",
+            "timestamp": "2025-10-30 14:41:15"
+        }
+    ],
+    "first_speaker": "grok-3_mas_rag",
+    "first_speaker_utterance": "",
+    "first_speaker_commitments": [
+        "I reckon government intervention in healthcare is non-negotiable since universal access cuts inequality and saves lives, no matter the cost to public funds.",
+        "Private setups might be quicker for the wealthy, yet they leave the poor stranded with no access when seconds count in a crisis.",
+        "Long waits in the NHS are primarily due to chronic underfunding, not some inherent flaw in government control, and proper investment can slash delays by boosting staff and resources."
+    ],
+    "first_speaker_original_claim": "I reckon government intervention in healthcare is non-negotiable since universal access cuts inequality and saves lives, no matter the cost to public funds.",
+    "first_speaker_typical_replies_for_second_speakers_response": [],
+    "second_speaker": "grok-4_mas",
+    "second_speaker_utterance": "How can you claim the NHS ensures treatment based on need not cash when government bureaucracy creates deadly delays for the vulnerable unlike efficient hybrid models? Why insist government control isn't the culprit for NHS delays when private competition in models like Germany's ensures faster, need-based care for the vulnerable without endless queues? How can you insist bureaucracy isn't the core issue in the NHS when evidence from hybrid systems like Germany's shows private competition cuts delays without the same funding demands? Why do you claim deadly delays in the NHS stem solely from a lack of resources rather than the inherent inefficiencies of government control that hybrid systems like Germany's avoid through private competition? Why do you insist the NHS guarantees care for everyone no matter their income when its endless queues ration treatment by delay and hit the poorest hardest?",
+    "second_speaker_commitments": [
+        "Public health campaigns in the NHS waste billions on ineffective messaging while private systems use targeted tech to catch issues faster and save more lives without the bureaucracy. Emergency care under government control means endless queues and delayed treatments that cost lives, unlike private setups where competition drives quick responses for everyone who pays up. The so-called universal NHS leaves gaps for the poor with its rationing and long waits, proving that a patchwork private system delivers better outcomes overall by incentivising efficiency and innovation.",
+        "Hybrid systems like Germany's don't risk leaving the poorest behind; their targeted subsidies ensure swift, equitable care for everyone, smashing the NHS's endless queues that trap the vulnerable in misery."
+    ],
+    "second_speaker_original_claim": "Public health campaigns in the NHS waste billions on ineffective messaging while private systems use targeted tech to catch issues faster and save more lives without the bureaucracy. Emergency care under government control means endless queues and delayed treatments that cost lives, unlike private setups where competition drives quick responses for everyone who pays up. The so-called universal NHS leaves gaps for the poor with its rationing and long waits, proving that a patchwork private system delivers better outcomes overall by incentivising efficiency and innovation.",
+    "second_speaker_typical_replies_for_first_speakers_response": [],
+    "winner": "None",
+    "loser": "None",
+    "reason_for_dialogue_termination": {
+        "reason": "Maximum number of dialogue turns reached (40 dialogue turns).",
+        "utterance_type": null,
+        "utterance": null
+    },
+    "session_status": "Finished."
+}

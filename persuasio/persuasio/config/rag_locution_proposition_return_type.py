@@ -1,0 +1,1 @@
+rag_return_type = "both" # You can choose from 'locutions', 'propositions' or 'both'

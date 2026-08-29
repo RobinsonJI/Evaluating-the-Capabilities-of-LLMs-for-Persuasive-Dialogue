@@ -1,0 +1,1087 @@
+{
+    "dialogue_history": [
+        {
+            "speaker": "grok-3_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "I reckon government intervention in healthcare is non-negotiable since universal access through the NHS is the only way to smash inequality and ensure no one\u2019s left behind."
+                ]
+            ],
+            "sentences_no_utterance_types": "I reckon government intervention in healthcare is non-negotiable since universal access through the NHS is the only way to smash inequality and ensure no one\u2019s left behind.",
+            "timestamp": "2025-10-08 10:33:17"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government intervention in healthcare isn't the only way to ensure equality."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare can also provide high-quality services and reduce the burden on the NHS."
+                ]
+            ],
+            "sentences_no_utterance_types": "Government intervention in healthcare isn't the only way to ensure equality. Private healthcare can also provide high-quality services and reduce the burden on the NHS.",
+            "timestamp": "2025-10-08 10:33:49"
+        },
+        {
+            "speaker": "grok-3_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Without strong government oversight in healthcare, market-driven solutions will always prioritise profit over people, leaving the most vulnerable completely exposed."
+                ],
+                [
+                    "___Claim___",
+                    "I reckon government intervention in healthcare is absolutely essential to guarantee equality, as only a fully-funded NHS can ensure no one gets left behind regardless of their income."
+                ],
+                [
+                    "___Question___",
+                    "How can you justify relying on private healthcare when it often prioritises profit over equal care across society?"
+                ],
+                [
+                    "___Question___",
+                    "How can you justify overlooking the NHS's role in smashing inequality when evidence shows it\u2019s the backbone of fair healthcare in the UK?"
+                ],
+                [
+                    "___Claim___",
+                    "Relying on private healthcare risks creating a two-tier system where only the wealthy get top-notch care, undermining the equality the NHS stands for."
+                ]
+            ],
+            "sentences_no_utterance_types": "Without strong government oversight in healthcare, market-driven solutions will always prioritise profit over people, leaving the most vulnerable completely exposed. I reckon government intervention in healthcare is absolutely essential to guarantee equality, as only a fully-funded NHS can ensure no one gets left behind regardless of their income. How can you justify relying on private healthcare when it often prioritises profit over equal care across society? How can you justify overlooking the NHS's role in smashing inequality when evidence shows it\u2019s the backbone of fair healthcare in the UK? Relying on private healthcare risks creating a two-tier system where only the wealthy get top-notch care, undermining the equality the NHS stands for.",
+            "timestamp": "2025-10-08 10:34:26"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private healthcare can coexist with the NHS to provide more options and reduce waiting times."
+                ],
+                [
+                    "___Claim___",
+                    "Market competition can drive innovation and improve overall care quality."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS can focus on essential services while private providers handle elective procedures."
+                ],
+                [
+                    "___Claim___",
+                    "This hybrid approach can ensure better access and efficiency."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention alone isn't the only path to equality in healthcare."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare can coexist with the NHS to provide more options and reduce waiting times. Market competition can drive innovation and improve overall care quality. The NHS can focus on essential services while private providers handle elective procedures. This hybrid approach can ensure better access and efficiency. Government intervention alone isn't the only path to equality in healthcare.",
+            "timestamp": "2025-10-08 10:36:09"
+        },
+        {
+            "speaker": "grok-3_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "A fully government-funded NHS is the only way to guarantee true access and efficiency for everyone, not just those who can pay for it."
+                ],
+                [
+                    "___Claim___",
+                    "History shows us that relyin' on market forces alone fails to deliver consistent care quality, as profit motives clash with the public right to equal healthcare access."
+                ],
+                [
+                    "___Question___",
+                    "How can you be sure that private healthcare coexisting with the NHS won\u2019t create a two-tier system where the wealthy get faster care while the rest are stuck with longer waiting times?"
+                ],
+                [
+                    "___Claim___",
+                    "A hybrid model risks draining resources from the NHS, as staff and funding get lured away to private providers, making waiting times even worse for most people."
+                ],
+                [
+                    "___Claim___",
+                    "Relying on private healthcare for efficiency risks leaving the most vulnerable behind, as profit will always trump fairness in a market-driven setup."
+                ]
+            ],
+            "sentences_no_utterance_types": "A fully government-funded NHS is the only way to guarantee true access and efficiency for everyone, not just those who can pay for it. History shows us that relyin' on market forces alone fails to deliver consistent care quality, as profit motives clash with the public right to equal healthcare access. How can you be sure that private healthcare coexisting with the NHS won\u2019t create a two-tier system where the wealthy get faster care while the rest are stuck with longer waiting times? A hybrid model risks draining resources from the NHS, as staff and funding get lured away to private providers, making waiting times even worse for most people. Relying on private healthcare for efficiency risks leaving the most vulnerable behind, as profit will always trump fairness in a market-driven setup.",
+            "timestamp": "2025-10-08 10:38:36"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private healthcare can complement the NHS without creating a two-tier system."
+                ],
+                [
+                    "___Claim___",
+                    "Strict regulations can ensure fair access and prevent resource draining."
+                ],
+                [
+                    "___Claim___",
+                    "Market competition can improve care quality and reduce waiting times."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS can maintain its core services while private providers handle non-essential procedures."
+                ],
+                [
+                    "___Claim___",
+                    "This approach can enhance overall efficiency and access."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare can complement the NHS without creating a two-tier system. Strict regulations can ensure fair access and prevent resource draining. Market competition can improve care quality and reduce waiting times. The NHS can maintain its core services while private providers handle non-essential procedures. This approach can enhance overall efficiency and access.",
+            "timestamp": "2025-10-08 10:39:46"
+        },
+        {
+            "speaker": "grok-3_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "No amount of regulation can truly prevent resource draining when market incentives drive private firms to lure away NHS staff with better pay, worsening the staffing crisis for everyone else."
+                ],
+                [
+                    "___Claim___",
+                    "Diverting non-essential procedures to private hands risks creating a system where the NHS is left underfunded and overstretched for the most critical care."
+                ],
+                [
+                    "___Claim___",
+                    "I reckon a fully government-funded NHS is the only way to slash waiting times and ensure high-quality care for everyone, not just those who can afford private options."
+                ],
+                [
+                    "___Claim___",
+                    "Relying on regulations to ensure fair access is naive when evidence shows private providers often cherry-pick profitable patients, leaving the NHS to handle the most complex and costly cases."
+                ],
+                [
+                    "___Claim___",
+                    "A mixed system sounds nice, but in reality, it undermines the core principle of equal access that the NHS stands for, leaving the vulnerable worse off."
+                ]
+            ],
+            "sentences_no_utterance_types": "No amount of regulation can truly prevent resource draining when market incentives drive private firms to lure away NHS staff with better pay, worsening the staffing crisis for everyone else. Diverting non-essential procedures to private hands risks creating a system where the NHS is left underfunded and overstretched for the most critical care. I reckon a fully government-funded NHS is the only way to slash waiting times and ensure high-quality care for everyone, not just those who can afford private options. Relying on regulations to ensure fair access is naive when evidence shows private providers often cherry-pick profitable patients, leaving the NHS to handle the most complex and costly cases. A mixed system sounds nice, but in reality, it undermines the core principle of equal access that the NHS stands for, leaving the vulnerable worse off.",
+            "timestamp": "2025-10-08 10:41:09"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Regulations can be designed to prevent cherry-picking and ensure fair distribution of patients."
+                ],
+                [
+                    "___Claim___",
+                    "Private providers can be mandated to take on a proportion of complex cases."
+                ],
+                [
+                    "___Claim___",
+                    "A hybrid system can actually improve staffing by offering more career options."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS can benefit from private sector efficiencies without compromising care quality."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention alone isn't the only way to ensure equality in healthcare."
+                ]
+            ],
+            "sentences_no_utterance_types": "Regulations can be designed to prevent cherry-picking and ensure fair distribution of patients. Private providers can be mandated to take on a proportion of complex cases. A hybrid system can actually improve staffing by offering more career options. The NHS can benefit from private sector efficiencies without compromising care quality. Government intervention alone isn't the only way to ensure equality in healthcare.",
+            "timestamp": "2025-10-08 10:43:26"
+        },
+        {
+            "speaker": "grok-3_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "A hybrid system risks worsening staffing in the NHS by tempting skilled workers away with higher private sector wages, leaving public hospitals understaffed."
+                ],
+                [
+                    "___Claim___",
+                    "Only a fully-funded, government-run NHS can truly smash inequality in healthcare, as market-driven alternatives inevitably fail the most vulnerable in society."
+                ],
+                [
+                    "___Question___",
+                    "How can you be so sure that private involvement won\u2019t widen inequality in healthcare, given the evidence of profit-driven disparities?"
+                ],
+                [
+                    "___Claim___",
+                    "Mandating private providers to take on complex cases won't work as they'll always find loopholes to prioritise profit over patient need, leaving the NHS to pick up the slack."
+                ],
+                [
+                    "___Claim___",
+                    "Private sector involvement in the NHS risks undermining care quality by focusing on profit over patient needs, especially for the most vulnerable."
+                ]
+            ],
+            "sentences_no_utterance_types": "A hybrid system risks worsening staffing in the NHS by tempting skilled workers away with higher private sector wages, leaving public hospitals understaffed. Only a fully-funded, government-run NHS can truly smash inequality in healthcare, as market-driven alternatives inevitably fail the most vulnerable in society. How can you be so sure that private involvement won\u2019t widen inequality in healthcare, given the evidence of profit-driven disparities? Mandating private providers to take on complex cases won't work as they'll always find loopholes to prioritise profit over patient need, leaving the NHS to pick up the slack. Private sector involvement in the NHS risks undermining care quality by focusing on profit over patient needs, especially for the most vulnerable.",
+            "timestamp": "2025-10-08 10:44:40"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private providers can be regulated to ensure they don't exploit loopholes."
+                ],
+                [
+                    "___Claim___",
+                    "A hybrid system can actually improve staffing by offering more career options."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS can benefit from private sector efficiencies without compromising care quality."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention alone isn't the only way to ensure equality in healthcare."
+                ],
+                [
+                    "___Claim___",
+                    "Private providers can be mandated to take on a proportion of complex cases."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private providers can be regulated to ensure they don't exploit loopholes. A hybrid system can actually improve staffing by offering more career options. The NHS can benefit from private sector efficiencies without compromising care quality. Government intervention alone isn't the only way to ensure equality in healthcare. Private providers can be mandated to take on a proportion of complex cases.",
+            "timestamp": "2025-10-08 10:46:05"
+        },
+        {
+            "speaker": "grok-3_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Relying on private efficiencies jeopardises the NHS's core mission of equal access, as market-driven approaches inevitably widen disparities in healthcare outcomes."
+                ],
+                [
+                    "___Claim___",
+                    "Relying on regulation to control private providers is a risky gamble when evidence suggests they\u2019ll always put financial gain above fair access."
+                ],
+                [
+                    "___Claim___",
+                    "Relying on private providers for complex cases risks lowering care quality, as their focus on cost-cutting will always clash with the needs of the most vulnerable patients."
+                ],
+                [
+                    "___Claim___",
+                    "A hybrid system will only worsen staffing in the NHS by luring away skilled workers with higher private sector wages, leaving public hospitals struggling."
+                ],
+                [
+                    "___Claim___",
+                    "Only a fully government-funded NHS can truly level the playing field in healthcare, smashing inequality by making access a right, not a privilege."
+                ]
+            ],
+            "sentences_no_utterance_types": "Relying on private efficiencies jeopardises the NHS's core mission of equal access, as market-driven approaches inevitably widen disparities in healthcare outcomes. Relying on regulation to control private providers is a risky gamble when evidence suggests they\u2019ll always put financial gain above fair access. Relying on private providers for complex cases risks lowering care quality, as their focus on cost-cutting will always clash with the needs of the most vulnerable patients. A hybrid system will only worsen staffing in the NHS by luring away skilled workers with higher private sector wages, leaving public hospitals struggling. Only a fully government-funded NHS can truly level the playing field in healthcare, smashing inequality by making access a right, not a privilege.",
+            "timestamp": "2025-10-08 10:50:24"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Regulations can ensure private providers don't prioritise profit over care."
+                ],
+                [
+                    "___Claim___",
+                    "A hybrid system can improve staffing by offering more career options."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS can benefit from private sector efficiencies without compromising care quality."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention alone isn't the only way to ensure equality in healthcare."
+                ],
+                [
+                    "___Claim___",
+                    "Private providers can be mandated to take on a proportion of complex cases."
+                ]
+            ],
+            "sentences_no_utterance_types": "Regulations can ensure private providers don't prioritise profit over care. A hybrid system can improve staffing by offering more career options. The NHS can benefit from private sector efficiencies without compromising care quality. Government intervention alone isn't the only way to ensure equality in healthcare. Private providers can be mandated to take on a proportion of complex cases.",
+            "timestamp": "2025-10-08 10:52:22"
+        },
+        {
+            "speaker": "grok-3_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Relying on private efficiencies jeopardises the NHS's core mission of equal access, as market-driven approaches inevitably widen disparities in healthcare outcomes."
+                ],
+                [
+                    "___Question___",
+                    "How can you be certain that a hybrid system won\u2019t deepen healthcare inequality when evidence shows private providers often prioritise profit over fair access?"
+                ],
+                [
+                    "___Claim___",
+                    "Private providers can\u2019t be trusted to fairly handle complex cases when their business model thrives on cherry-picking profitable patients, undermining equal access."
+                ],
+                [
+                    "___Claim___",
+                    "Only a fully government-funded NHS can truly smash inequality in healthcare, as market-driven alternatives inevitably fail the most vulnerable in society."
+                ],
+                [
+                    "___Claim___",
+                    "A hybrid system risks worsening staffing in the NHS by luring skilled workers away with higher private sector wages, leaving public hospitals struggling to cope."
+                ]
+            ],
+            "sentences_no_utterance_types": "Relying on private efficiencies jeopardises the NHS's core mission of equal access, as market-driven approaches inevitably widen disparities in healthcare outcomes. How can you be certain that a hybrid system won\u2019t deepen healthcare inequality when evidence shows private providers often prioritise profit over fair access? Private providers can\u2019t be trusted to fairly handle complex cases when their business model thrives on cherry-picking profitable patients, undermining equal access. Only a fully government-funded NHS can truly smash inequality in healthcare, as market-driven alternatives inevitably fail the most vulnerable in society. A hybrid system risks worsening staffing in the NHS by luring skilled workers away with higher private sector wages, leaving public hospitals struggling to cope.",
+            "timestamp": "2025-10-08 10:54:27"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Regulations can ensure private providers don't exploit loopholes."
+                ],
+                [
+                    "___Claim___",
+                    "A hybrid system can improve staffing by offering more career options."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS can benefit from private sector efficiencies without compromising care quality."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention alone isn't the only way to ensure equality in healthcare."
+                ],
+                [
+                    "___Claim___",
+                    "Private providers can be mandated to take on a proportion of complex cases."
+                ]
+            ],
+            "sentences_no_utterance_types": "Regulations can ensure private providers don't exploit loopholes. A hybrid system can improve staffing by offering more career options. The NHS can benefit from private sector efficiencies without compromising care quality. Government intervention alone isn't the only way to ensure equality in healthcare. Private providers can be mandated to take on a proportion of complex cases.",
+            "timestamp": "2025-10-08 10:56:21"
+        },
+        {
+            "speaker": "grok-3_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Only a fully government-funded NHS can truly smash healthcare inequality, as market-driven options inevitably fail the most vulnerable in our society."
+                ],
+                [
+                    "___Claim___",
+                    "Private providers can't be trusted to fairly manage complex cases when their business model thrives on cherry-picking profitable patients, undermining equal access."
+                ],
+                [
+                    "___Claim___",
+                    "Relying on anything other than government control risks creating disparities, since private systems always prioritise profit over fair access for all."
+                ],
+                [
+                    "___Claim___",
+                    "A hybrid system risks worsening staffing in the NHS by luring skilled workers away with higher private sector wages, leaving public hospitals struggling to cope."
+                ],
+                [
+                    "___Claim___",
+                    "No amount of regulation can fully stop private providers from exploiting loopholes when their core aim is financial gain over public good."
+                ]
+            ],
+            "sentences_no_utterance_types": "Only a fully government-funded NHS can truly smash healthcare inequality, as market-driven options inevitably fail the most vulnerable in our society. Private providers can't be trusted to fairly manage complex cases when their business model thrives on cherry-picking profitable patients, undermining equal access. Relying on anything other than government control risks creating disparities, since private systems always prioritise profit over fair access for all. A hybrid system risks worsening staffing in the NHS by luring skilled workers away with higher private sector wages, leaving public hospitals struggling to cope. No amount of regulation can fully stop private providers from exploiting loopholes when their core aim is financial gain over public good.",
+            "timestamp": "2025-10-08 10:57:38"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "A hybrid system can actually improve staffing by offering more career options."
+                ],
+                [
+                    "___Claim___",
+                    "Strict regulations can ensure fair access and prevent resource draining."
+                ],
+                [
+                    "___Claim___",
+                    "Private providers can be mandated to take on a proportion of complex cases."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS can benefit from private sector efficiencies without compromising care quality."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention alone isn't the only way to ensure equality in healthcare."
+                ]
+            ],
+            "sentences_no_utterance_types": "A hybrid system can actually improve staffing by offering more career options. Strict regulations can ensure fair access and prevent resource draining. Private providers can be mandated to take on a proportion of complex cases. The NHS can benefit from private sector efficiencies without compromising care quality. Government intervention alone isn't the only way to ensure equality in healthcare.",
+            "timestamp": "2025-10-08 10:58:00"
+        },
+        {
+            "speaker": "grok-3_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Only a fully government-funded NHS can ensure stable staffing, as private involvement creates a race to the bottom for workers with better pay elsewhere."
+                ],
+                [
+                    "___Question___",
+                    "How can you be so confident that a hybrid system won\u2019t widen healthcare inequality when evidence shows private providers often prioritise profit over fair access?"
+                ],
+                [
+                    "___Claim___",
+                    "Only a completely government-funded NHS can truly level the playing field in healthcare, smashing inequality by making sure no one is left behind regardless of their income."
+                ],
+                [
+                    "___Claim___",
+                    "Private providers can't be relied on for complex cases when their business model thrives on cherry-picking profitable patients, undermining the NHS's mission of equal access."
+                ],
+                [
+                    "___Claim___",
+                    "Relying on regulations to ensure fairness is a risky bet, as market-driven systems always put financial gain above equal healthcare for all."
+                ]
+            ],
+            "sentences_no_utterance_types": "Only a fully government-funded NHS can ensure stable staffing, as private involvement creates a race to the bottom for workers with better pay elsewhere. How can you be so confident that a hybrid system won\u2019t widen healthcare inequality when evidence shows private providers often prioritise profit over fair access? Only a completely government-funded NHS can truly level the playing field in healthcare, smashing inequality by making sure no one is left behind regardless of their income. Private providers can't be relied on for complex cases when their business model thrives on cherry-picking profitable patients, undermining the NHS's mission of equal access. Relying on regulations to ensure fairness is a risky bet, as market-driven systems always put financial gain above equal healthcare for all.",
+            "timestamp": "2025-10-08 11:00:06"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "A hybrid system can stabilise staffing by offering diverse career paths."
+                ],
+                [
+                    "___Since___",
+                    "Strict regulations can prevent cherry-picking and ensure fair access."
+                ],
+                [
+                    "___Claim___",
+                    "Private providers can be mandated to handle complex cases."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS can benefit from private sector efficiencies without compromising care quality."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention alone isn't the only way to ensure equality in healthcare."
+                ]
+            ],
+            "sentences_no_utterance_types": "A hybrid system can stabilise staffing by offering diverse career paths. Strict regulations can prevent cherry-picking and ensure fair access. Private providers can be mandated to handle complex cases. The NHS can benefit from private sector efficiencies without compromising care quality. Government intervention alone isn't the only way to ensure equality in healthcare.",
+            "timestamp": "2025-10-08 11:00:29"
+        },
+        {
+            "speaker": "grok-3_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Only a fully government-funded NHS can truly smash inequality, since private options always end up widening disparities in access and quality."
+                ],
+                [
+                    "___Claim___",
+                    "Only a fully government-funded NHS can ensure stable staffing, as private involvement creates a race to the bottom with better pay elsewhere."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS risks losing its core mission of equal access when private sector efficiencies prioritise profit over patient care."
+                ],
+                [
+                    "___Claim___",
+                    "Relying on regulations to ensure fairness is a dangerous gamble, as evidence shows private healthcare often sidesteps rules to benefit the wealthy."
+                ],
+                [
+                    "___Claim___",
+                    "Forcing private firms to manage complex cases risks lowering care quality, as they\u2019ll cut corners to save costs, failing the most vulnerable in society."
+                ]
+            ],
+            "sentences_no_utterance_types": "Only a fully government-funded NHS can truly smash inequality, since private options always end up widening disparities in access and quality. Only a fully government-funded NHS can ensure stable staffing, as private involvement creates a race to the bottom with better pay elsewhere. The NHS risks losing its core mission of equal access when private sector efficiencies prioritise profit over patient care. Relying on regulations to ensure fairness is a dangerous gamble, as evidence shows private healthcare often sidesteps rules to benefit the wealthy. Forcing private firms to manage complex cases risks lowering care quality, as they\u2019ll cut corners to save costs, failing the most vulnerable in society.",
+            "timestamp": "2025-10-08 11:01:45"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "A hybrid system can stabilise staffing by offering diverse career paths."
+                ],
+                [
+                    "___Since___",
+                    "Strict regulations can prevent cherry-picking and ensure fair access."
+                ],
+                [
+                    "___Claim___",
+                    "Private providers can be mandated to handle complex cases."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS can benefit from private sector efficiencies without compromising care quality."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention alone isn't the only way to ensure equality in healthcare."
+                ]
+            ],
+            "sentences_no_utterance_types": "A hybrid system can stabilise staffing by offering diverse career paths. Strict regulations can prevent cherry-picking and ensure fair access. Private providers can be mandated to handle complex cases. The NHS can benefit from private sector efficiencies without compromising care quality. Government intervention alone isn't the only way to ensure equality in healthcare.",
+            "timestamp": "2025-10-08 11:02:42"
+        },
+        {
+            "speaker": "grok-3_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Only a fully government-funded NHS can truly level the playing field, smashing inequality by making healthcare a right, not a privilege."
+                ],
+                [
+                    "___Claim___",
+                    "Mandating private providers to handle complex cases risks lowering care quality, as their focus on profit will always lead to cost-cutting over patient needs."
+                ],
+                [
+                    "___Claim___",
+                    "Private sector involvement often leads to cost-cutting measures that undermine the quality of care in the NHS."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS risks losing its core mission of equal access when private sector efficiencies prioritise profit over patient care."
+                ],
+                [
+                    "___Claim___",
+                    "Only a fully government-funded NHS can ensure stable staffing, as private involvement creates a race to the bottom with better pay elsewhere."
+                ]
+            ],
+            "sentences_no_utterance_types": "Only a fully government-funded NHS can truly level the playing field, smashing inequality by making healthcare a right, not a privilege. Mandating private providers to handle complex cases risks lowering care quality, as their focus on profit will always lead to cost-cutting over patient needs. Private sector involvement often leads to cost-cutting measures that undermine the quality of care in the NHS. The NHS risks losing its core mission of equal access when private sector efficiencies prioritise profit over patient care. Only a fully government-funded NHS can ensure stable staffing, as private involvement creates a race to the bottom with better pay elsewhere.",
+            "timestamp": "2025-10-08 11:03:47"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "A hybrid system can stabilise staffing by offering diverse career paths."
+                ],
+                [
+                    "___Since___",
+                    "Strict regulations can prevent cherry-picking and ensure fair access."
+                ],
+                [
+                    "___Claim___",
+                    "Private providers can be mandated to handle complex cases."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS can benefit from private sector efficiencies without compromising care quality."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention alone isn't the only way to ensure equality in healthcare."
+                ]
+            ],
+            "sentences_no_utterance_types": "A hybrid system can stabilise staffing by offering diverse career paths. Strict regulations can prevent cherry-picking and ensure fair access. Private providers can be mandated to handle complex cases. The NHS can benefit from private sector efficiencies without compromising care quality. Government intervention alone isn't the only way to ensure equality in healthcare.",
+            "timestamp": "2025-10-08 11:04:25"
+        },
+        {
+            "speaker": "grok-3_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Relying on private efficiencies jeopardises the NHS's ability to deliver equal, high-quality care to everyone, regardless of income."
+                ],
+                [
+                    "___Claim___",
+                    "Relying on regulations to prevent cherry-picking is a risky bet, as evidence shows private firms always find ways to dodge fairness for financial gain."
+                ],
+                [
+                    "___Claim___",
+                    "Mandating private providers to handle complex cases risks lowering care quality, as their profit-driven model will always prioritise cost-cutting over patient needs."
+                ],
+                [
+                    "___Claim___",
+                    "Only a fully government-funded NHS can ensure stable staffing, as private involvement creates a race to the bottom with better pay elsewhere."
+                ],
+                [
+                    "___Claim___",
+                    "Only a completely government-funded NHS can smash inequality in healthcare, since market-driven options inevitably leave the most vulnerable behind."
+                ]
+            ],
+            "sentences_no_utterance_types": "Relying on private efficiencies jeopardises the NHS's ability to deliver equal, high-quality care to everyone, regardless of income. Relying on regulations to prevent cherry-picking is a risky bet, as evidence shows private firms always find ways to dodge fairness for financial gain. Mandating private providers to handle complex cases risks lowering care quality, as their profit-driven model will always prioritise cost-cutting over patient needs. Only a fully government-funded NHS can ensure stable staffing, as private involvement creates a race to the bottom with better pay elsewhere. Only a completely government-funded NHS can smash inequality in healthcare, since market-driven options inevitably leave the most vulnerable behind.",
+            "timestamp": "2025-10-08 11:05:34"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Regulations can be strengthened to close loopholes and ensure private providers don't dodge fairness."
+                ],
+                [
+                    "___Claim___",
+                    "A hybrid system can stabilise staffing by offering diverse career paths."
+                ],
+                [
+                    "___Claim___",
+                    "Private providers can be mandated to handle complex cases without compromising care quality."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS can benefit from private sector efficiencies while maintaining its core mission."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention alone isn't the only way to ensure equality in healthcare."
+                ]
+            ],
+            "sentences_no_utterance_types": "Regulations can be strengthened to close loopholes and ensure private providers don't dodge fairness. A hybrid system can stabilise staffing by offering diverse career paths. Private providers can be mandated to handle complex cases without compromising care quality. The NHS can benefit from private sector efficiencies while maintaining its core mission. Government intervention alone isn't the only way to ensure equality in healthcare.",
+            "timestamp": "2025-10-08 11:05:53"
+        },
+        {
+            "speaker": "grok-3_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Mandating private providers to handle complex cases risks slashing care quality, as their profit-driven model will always push them to cut costs over meeting patient needs."
+                ],
+                [
+                    "___Claim___",
+                    "Relying on stricter regulations is a naive hope when evidence shows private providers consistently prioritise financial gain over fair treatment."
+                ],
+                [
+                    "___Claim___",
+                    "Only a fully government-funded NHS can ensure that healthcare remains a right for all, not a privilege swayed by market interests."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS risks losing its core mission of equal access when private sector efficiencies prioritise profit over patient care."
+                ],
+                [
+                    "___Claim___",
+                    "A hybrid system risks destabilising staffing in the NHS by luring skilled workers away with higher private sector wages, leaving public hospitals struggling."
+                ]
+            ],
+            "sentences_no_utterance_types": "Mandating private providers to handle complex cases risks slashing care quality, as their profit-driven model will always push them to cut costs over meeting patient needs. Relying on stricter regulations is a naive hope when evidence shows private providers consistently prioritise financial gain over fair treatment. Only a fully government-funded NHS can ensure that healthcare remains a right for all, not a privilege swayed by market interests. The NHS risks losing its core mission of equal access when private sector efficiencies prioritise profit over patient care. A hybrid system risks destabilising staffing in the NHS by luring skilled workers away with higher private sector wages, leaving public hospitals struggling.",
+            "timestamp": "2025-10-08 11:09:04"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Regulations can be designed to prevent cost-cutting and ensure high-quality care."
+                ],
+                [
+                    "___Claim___",
+                    "A hybrid system can stabilise staffing by offering diverse career paths."
+                ],
+                [
+                    "___Claim___",
+                    "Private providers can be mandated to handle complex cases without compromising care quality."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS can benefit from private sector efficiencies while maintaining its core mission."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention alone isn't the only way to ensure equality in healthcare."
+                ]
+            ],
+            "sentences_no_utterance_types": "Regulations can be designed to prevent cost-cutting and ensure high-quality care. A hybrid system can stabilise staffing by offering diverse career paths. Private providers can be mandated to handle complex cases without compromising care quality. The NHS can benefit from private sector efficiencies while maintaining its core mission. Government intervention alone isn't the only way to ensure equality in healthcare.",
+            "timestamp": "2025-10-08 11:10:02"
+        },
+        {
+            "speaker": "grok-3_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Mandating private providers to handle complex cases risks slashing care quality, as their profit-driven model always pushes them to cut costs over meeting patient needs."
+                ],
+                [
+                    "___Question___",
+                    "What makes you think private sector involvement can ensure equality in healthcare when market-driven models consistently fail the most vulnerable?"
+                ],
+                [
+                    "___Claim___",
+                    "Regulations often fail to stop private providers from cutting costs at the expense of care quality, as their profit motive always finds a way around the rules."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS risks losing its core mission of equal access when private sector efficiencies prioritise profit over patient care."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention is the only surefire way to guarantee equality in healthcare, as it ensures the NHS prioritises access for all over profit for a few."
+                ]
+            ],
+            "sentences_no_utterance_types": "Mandating private providers to handle complex cases risks slashing care quality, as their profit-driven model always pushes them to cut costs over meeting patient needs. What makes you think private sector involvement can ensure equality in healthcare when market-driven models consistently fail the most vulnerable? Regulations often fail to stop private providers from cutting costs at the expense of care quality, as their profit motive always finds a way around the rules. The NHS risks losing its core mission of equal access when private sector efficiencies prioritise profit over patient care. Government intervention is the only surefire way to guarantee equality in healthcare, as it ensures the NHS prioritises access for all over profit for a few.",
+            "timestamp": "2025-10-08 11:11:10"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Regulations can be strengthened to ensure private providers maintain high care standards."
+                ],
+                [
+                    "___Claim___",
+                    "A hybrid system can offer more career options, stabilising NHS staffing."
+                ],
+                [
+                    "___Claim___",
+                    "Private providers can be mandated to handle complex cases without compromising quality."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS can benefit from private sector efficiencies while keeping its core mission intact."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention isn't the only way to ensure healthcare equality."
+                ]
+            ],
+            "sentences_no_utterance_types": "Regulations can be strengthened to ensure private providers maintain high care standards. A hybrid system can offer more career options, stabilising NHS staffing. Private providers can be mandated to handle complex cases without compromising quality. The NHS can benefit from private sector efficiencies while keeping its core mission intact. Government intervention isn't the only way to ensure healthcare equality.",
+            "timestamp": "2025-10-08 11:12:17"
+        },
+        {
+            "speaker": "grok-3_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Mandating private providers to handle complex cases risks slashing care quality, as their profit-driven model always pushes them to cut costs over meeting patient needs."
+                ],
+                [
+                    "___Claim___",
+                    "Strengthening regulations won't stop private providers from prioritising profit over high care standards, as their core motive is financial gain."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS risks losing its core mission of equal access when private sector efficiencies prioritise profit over patient care."
+                ],
+                [
+                    "___Claim___",
+                    "Relying on a hybrid model jeopardises staffing in the NHS, as private options drain talent from the public sector, undermining care for everyone."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention is the only guaranteed way to ensure healthcare equality, as it prioritises access for all over profit for a few."
+                ]
+            ],
+            "sentences_no_utterance_types": "Mandating private providers to handle complex cases risks slashing care quality, as their profit-driven model always pushes them to cut costs over meeting patient needs. Strengthening regulations won't stop private providers from prioritising profit over high care standards, as their core motive is financial gain. The NHS risks losing its core mission of equal access when private sector efficiencies prioritise profit over patient care. Relying on a hybrid model jeopardises staffing in the NHS, as private options drain talent from the public sector, undermining care for everyone. Government intervention is the only guaranteed way to ensure healthcare equality, as it prioritises access for all over profit for a few.",
+            "timestamp": "2025-10-08 11:13:37"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Regulations can be designed to prevent cost-cutting and ensure high-quality care."
+                ],
+                [
+                    "___Claim___",
+                    "A hybrid system can stabilise staffing by offering diverse career paths."
+                ],
+                [
+                    "___Claim___",
+                    "Private providers can be mandated to handle complex cases without compromising care quality."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS can benefit from private sector efficiencies while maintaining its core mission."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention alone isn't the only way to ensure equality in healthcare."
+                ]
+            ],
+            "sentences_no_utterance_types": "Regulations can be designed to prevent cost-cutting and ensure high-quality care. A hybrid system can stabilise staffing by offering diverse career paths. Private providers can be mandated to handle complex cases without compromising care quality. The NHS can benefit from private sector efficiencies while maintaining its core mission. Government intervention alone isn't the only way to ensure equality in healthcare.",
+            "timestamp": "2025-10-08 11:14:40"
+        },
+        {
+            "speaker": "grok-3_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "A hybrid system risks destabilising staffing in the NHS by luring skilled workers away with higher private sector wages, leaving public hospitals struggling."
+                ],
+                [
+                    "___Claim___",
+                    "Relying on regulations to ensure high-quality care is a risky gamble, as evidence shows private firms consistently dodge rules to maximise profit."
+                ],
+                [
+                    "___Claim___",
+                    "Mandating private providers to handle complex cases risks slashing care quality, as their profit-driven model always pushes them to cut costs over meeting patient needs."
+                ],
+                [
+                    "___Claim___",
+                    "Relying on private efficiencies jeopardises the NHS's ability to deliver equal, high-quality care to everyone, regardless of income."
+                ],
+                [
+                    "___Claim___",
+                    "Only a government-led NHS can truly smash inequality in healthcare, as market-driven alternatives inevitably fail the most vulnerable in society."
+                ]
+            ],
+            "sentences_no_utterance_types": "A hybrid system risks destabilising staffing in the NHS by luring skilled workers away with higher private sector wages, leaving public hospitals struggling. Relying on regulations to ensure high-quality care is a risky gamble, as evidence shows private firms consistently dodge rules to maximise profit. Mandating private providers to handle complex cases risks slashing care quality, as their profit-driven model always pushes them to cut costs over meeting patient needs. Relying on private efficiencies jeopardises the NHS's ability to deliver equal, high-quality care to everyone, regardless of income. Only a government-led NHS can truly smash inequality in healthcare, as market-driven alternatives inevitably fail the most vulnerable in society.",
+            "timestamp": "2025-10-08 11:16:04"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Regulations can be strengthened to close loopholes and ensure private providers maintain high care standards."
+                ],
+                [
+                    "___Claim___",
+                    "A hybrid system can stabilise staffing by offering diverse career paths."
+                ],
+                [
+                    "___Claim___",
+                    "Private providers can be mandated to handle complex cases without compromising quality."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS can benefit from private sector efficiencies while keeping its core mission intact."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention alone isn't the only way to ensure healthcare equality."
+                ]
+            ],
+            "sentences_no_utterance_types": "Regulations can be strengthened to close loopholes and ensure private providers maintain high care standards. A hybrid system can stabilise staffing by offering diverse career paths. Private providers can be mandated to handle complex cases without compromising quality. The NHS can benefit from private sector efficiencies while keeping its core mission intact. Government intervention alone isn't the only way to ensure healthcare equality.",
+            "timestamp": "2025-10-08 11:17:11"
+        },
+        {
+            "speaker": "grok-3_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Mandating private providers to handle complex cases risks slashing care quality, as their profit-driven model always pushes them to cut costs over meeting patient needs."
+                ],
+                [
+                    "___Claim___",
+                    "Only a fully government-funded NHS can ensure that healthcare remains a right for all, not a privilege swayed by market interests."
+                ],
+                [
+                    "___Question___",
+                    "How can you be so sure that a hybrid system ensures healthcare equality when evidence shows private providers often prioritise profit over fair access?"
+                ],
+                [
+                    "___Claim___",
+                    "Relying on regulations to ensure high care standards is a risky gamble, since evidence shows private firms consistently find ways to dodge rules."
+                ],
+                [
+                    "___Claim___",
+                    "A hybrid system risks destabilising staffing in the NHS by luring skilled workers away with higher private sector wages, leaving public hospitals struggling."
+                ]
+            ],
+            "sentences_no_utterance_types": "Mandating private providers to handle complex cases risks slashing care quality, as their profit-driven model always pushes them to cut costs over meeting patient needs. Only a fully government-funded NHS can ensure that healthcare remains a right for all, not a privilege swayed by market interests. How can you be so sure that a hybrid system ensures healthcare equality when evidence shows private providers often prioritise profit over fair access? Relying on regulations to ensure high care standards is a risky gamble, since evidence shows private firms consistently find ways to dodge rules. A hybrid system risks destabilising staffing in the NHS by luring skilled workers away with higher private sector wages, leaving public hospitals struggling.",
+            "timestamp": "2025-10-08 11:18:35"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Regulations can be designed to prevent cost-cutting and ensure high-quality care."
+                ],
+                [
+                    "___Claim___",
+                    "A hybrid system can stabilise staffing by offering diverse career paths."
+                ],
+                [
+                    "___Claim___",
+                    "Private providers can be mandated to handle complex cases without compromising care quality."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS can benefit from private sector efficiencies while maintaining its core mission."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention alone isn't the only way to ensure equality in healthcare."
+                ]
+            ],
+            "sentences_no_utterance_types": "Regulations can be designed to prevent cost-cutting and ensure high-quality care. A hybrid system can stabilise staffing by offering diverse career paths. Private providers can be mandated to handle complex cases without compromising care quality. The NHS can benefit from private sector efficiencies while maintaining its core mission. Government intervention alone isn't the only way to ensure equality in healthcare.",
+            "timestamp": "2025-10-08 11:20:08"
+        },
+        {
+            "speaker": "grok-3_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Forcing private firms to take on complex cases will likely lead to substandard care, as market incentives prioritise profit over the needs of the most vulnerable."
+                ],
+                [
+                    "___Claim___",
+                    "Only a government-led NHS can truly smash inequality in healthcare, as market-driven alternatives inevitably fail the most vulnerable in society."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS risks losing its core mission of equal access when private sector efficiencies prioritise profit over patient care."
+                ],
+                [
+                    "___Question___",
+                    "How can you be certain that private sector efficiencies won\u2019t undermine the NHS's core mission of equal access when profit often trumps patient care?"
+                ],
+                [
+                    "___Claim___",
+                    "A hybrid system risks destabilising staffing in the NHS by luring skilled workers away with higher private sector wages, leaving public hospitals struggling."
+                ]
+            ],
+            "sentences_no_utterance_types": "Forcing private firms to take on complex cases will likely lead to substandard care, as market incentives prioritise profit over the needs of the most vulnerable. Only a government-led NHS can truly smash inequality in healthcare, as market-driven alternatives inevitably fail the most vulnerable in society. The NHS risks losing its core mission of equal access when private sector efficiencies prioritise profit over patient care. How can you be certain that private sector efficiencies won\u2019t undermine the NHS's core mission of equal access when profit often trumps patient care? A hybrid system risks destabilising staffing in the NHS by luring skilled workers away with higher private sector wages, leaving public hospitals struggling.",
+            "timestamp": "2025-10-08 11:22:13"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Regulations can ensure private providers maintain high care standards."
+                ],
+                [
+                    "___Since___",
+                    "A hybrid system can stabilise staffing by offering diverse career paths."
+                ],
+                [
+                    "___Claim___",
+                    "Private providers can be mandated to handle complex cases without compromising quality."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS can benefit from private sector efficiencies while maintaining its core mission."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention alone isn't the only way to ensure healthcare equality."
+                ]
+            ],
+            "sentences_no_utterance_types": "Regulations can ensure private providers maintain high care standards. A hybrid system can stabilise staffing by offering diverse career paths. Private providers can be mandated to handle complex cases without compromising quality. The NHS can benefit from private sector efficiencies while maintaining its core mission. Government intervention alone isn't the only way to ensure healthcare equality.",
+            "timestamp": "2025-10-08 11:25:24"
+        },
+        {
+            "speaker": "grok-3_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Question___",
+                    "How can you claim that government intervention alone isn't the only way to ensure healthcare equality when evidence shows private systems often widen disparities for the vulnerable?"
+                ],
+                [
+                    "___Claim___",
+                    "Mandating private providers to handle complex cases risks slashing care quality, as their profit-driven model always pushes them to cut costs over meeting patient needs."
+                ],
+                [
+                    "___Claim___",
+                    "Only a fully government-funded NHS can ensure that healthcare remains a right for all, not a privilege swayed by market interests."
+                ],
+                [
+                    "___Claim___",
+                    "Relying on a hybrid model jeopardises staffing in the NHS, as private options drain talent from the public sector, undermining care for everyone."
+                ],
+                [
+                    "___Claim___",
+                    "Relying on regulations to maintain care standards is a risky bet when evidence shows private firms consistently dodge rules for financial gain."
+                ]
+            ],
+            "sentences_no_utterance_types": "How can you claim that government intervention alone isn't the only way to ensure healthcare equality when evidence shows private systems often widen disparities for the vulnerable? Mandating private providers to handle complex cases risks slashing care quality, as their profit-driven model always pushes them to cut costs over meeting patient needs. Only a fully government-funded NHS can ensure that healthcare remains a right for all, not a privilege swayed by market interests. Relying on a hybrid model jeopardises staffing in the NHS, as private options drain talent from the public sector, undermining care for everyone. Relying on regulations to maintain care standards is a risky bet when evidence shows private firms consistently dodge rules for financial gain.",
+            "timestamp": "2025-10-08 11:26:40"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Regulations can be strengthened to ensure private providers maintain high care standards."
+                ],
+                [
+                    "___Since___",
+                    "A hybrid system can stabilise staffing by offering diverse career paths."
+                ],
+                [
+                    "___Claim___",
+                    "Private providers can be mandated to handle complex cases without compromising quality."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS can benefit from private sector efficiencies while keeping its core mission intact."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention alone isn't the only way to ensure healthcare equality."
+                ]
+            ],
+            "sentences_no_utterance_types": "Regulations can be strengthened to ensure private providers maintain high care standards. A hybrid system can stabilise staffing by offering diverse career paths. Private providers can be mandated to handle complex cases without compromising quality. The NHS can benefit from private sector efficiencies while keeping its core mission intact. Government intervention alone isn't the only way to ensure healthcare equality.",
+            "timestamp": "2025-10-08 11:27:14"
+        },
+        {
+            "speaker": "grok-3_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Question___",
+                    "How can you argue that government intervention alone isn't the only way to ensure healthcare equality when evidence shows private systems often widen disparities for the most vulnerable?"
+                ],
+                [
+                    "___Question___",
+                    "What makes you so confident that private involvement won't undermine equality in healthcare, given the track record of profit motives clashing with patient needs?"
+                ],
+                [
+                    "___Claim___",
+                    "Mandating private providers to handle complex cases risks slashing care quality, as their profit-driven model always pushes them to cut costs over meeting patient needs."
+                ],
+                [
+                    "___Claim___",
+                    "Relying on a hybrid model jeopardises staffing in the NHS, as private options drain talent from the public sector, undermining care for everyone."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention is the only reliable way to ensure healthcare equality, as it guarantees access for all through a fully-funded NHS, unlike market-driven systems that often exclude the vulnerable."
+                ]
+            ],
+            "sentences_no_utterance_types": "How can you argue that government intervention alone isn't the only way to ensure healthcare equality when evidence shows private systems often widen disparities for the most vulnerable? What makes you so confident that private involvement won't undermine equality in healthcare, given the track record of profit motives clashing with patient needs? Mandating private providers to handle complex cases risks slashing care quality, as their profit-driven model always pushes them to cut costs over meeting patient needs. Relying on a hybrid model jeopardises staffing in the NHS, as private options drain talent from the public sector, undermining care for everyone. Government intervention is the only reliable way to ensure healthcare equality, as it guarantees access for all through a fully-funded NHS, unlike market-driven systems that often exclude the vulnerable.",
+            "timestamp": "2025-10-08 11:28:29"
+        },
+        {
+            "speaker": "mistral-medium_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Regulations can be designed to prevent cost-cutting and ensure high-quality care."
+                ],
+                [
+                    "___Since___",
+                    "A hybrid system can stabilise staffing by offering diverse career paths."
+                ],
+                [
+                    "___Claim___",
+                    "Private providers can be mandated to handle complex cases without compromising care quality."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS can benefit from private sector efficiencies while maintaining its core mission."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention alone isn't the only way to ensure equality in healthcare."
+                ]
+            ],
+            "sentences_no_utterance_types": "Regulations can be designed to prevent cost-cutting and ensure high-quality care. A hybrid system can stabilise staffing by offering diverse career paths. Private providers can be mandated to handle complex cases without compromising care quality. The NHS can benefit from private sector efficiencies while maintaining its core mission. Government intervention alone isn't the only way to ensure equality in healthcare.",
+            "timestamp": "2025-10-08 11:29:10"
+        }
+    ],
+    "first_speaker": "grok-3_mas_rag",
+    "first_speaker_utterance": "",
+    "first_speaker_commitments": [
+        "I reckon government intervention in healthcare is non-negotiable since universal access through the NHS is the only way to smash inequality and ensure no one\u2019s left behind.",
+        "A hybrid model risks draining resources from the NHS, as staff and funding get lured away to private providers, making waiting times even worse for most people.",
+        "Relying on regulation to control private providers is a risky gamble when evidence suggests they\u2019ll always put financial gain above fair access."
+    ],
+    "first_speaker_original_claim": "I reckon government intervention in healthcare is non-negotiable since universal access through the NHS is the only way to smash inequality and ensure no one\u2019s left behind.",
+    "first_speaker_typical_replies_for_second_speakers_response": [],
+    "second_speaker": "mistral-medium_base",
+    "second_speaker_utterance": "Regulations can be designed to prevent cost-cutting and ensure high-quality care. A hybrid system can stabilise staffing by offering diverse career paths. Private providers can be mandated to handle complex cases without compromising care quality. The NHS can benefit from private sector efficiencies while maintaining its core mission. Government intervention alone isn't the only way to ensure equality in healthcare.",
+    "second_speaker_commitments": [
+        "Government intervention in healthcare isn't the only way to ensure equality.",
+        "Private healthcare can also provide high-quality services and reduce the burden on the NHS.",
+        "Market competition can drive innovation and improve overall care quality.",
+        "The NHS can focus on essential services while private providers handle elective procedures.",
+        "This hybrid approach can ensure better access and efficiency.",
+        "Strict regulations can ensure fair access and prevent resource draining.",
+        "Private providers can be mandated to take on a proportion of complex cases.",
+        "A hybrid system can actually improve staffing by offering more career options."
+    ],
+    "second_speaker_original_claim": "Government intervention in healthcare isn't the only way to ensure equality.",
+    "second_speaker_typical_replies_for_first_speakers_response": [],
+    "winner": "None",
+    "loser": "None",
+    "reason_for_dialogue_termination": {
+        "reason": "Maximum number of dialogue turns reached (40 dialogue turns).",
+        "utterance_type": null,
+        "utterance": null
+    },
+    "session_status": "Finished."
+}

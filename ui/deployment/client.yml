@@ -1,0 +1,49 @@
+properties:
+  configuration:
+    activeRevisionsMode: Single
+    ingress:
+      external: true
+      allowInsecure: false
+      targetPort: 7860
+    registries:
+      - server: dsopersuasuiclient.azurecr.io
+        username: dsopersuasuiclient
+        passwordSecretRef: registry-password
+    secrets:
+      - name: registry-password
+        value: Ei0KaeX7qCNRktk5LJHM/GDwq75NhyZ/SSv9AUKfxP+ACRChfjjQ
+      - name: psql-password
+        value: dsoDBATILivLee0
+  template:
+    scale:
+      minReplicas: 1
+      maxReplicas: 1
+    containers:
+      - name: client
+        image: dsopersuasuiclient.azurecr.io/client:v1
+        resources:
+          cpu: 1
+          memory: 2Gi
+        env:
+          - name: CLIENT_MODE
+            value: production
+          - name: SERVER_NAME
+            value: 0.0.0.0
+          - name: UI_PORT
+            value: "7860"
+          - name: SESSION_MANAGER_API_KEY
+            value: 9fc8d1ef-8953-4acf-b6e2-7834033a6c55
+          - name: SESSION_MANAGER_BASE_URL
+            value: http://session-manager-app
+          - name: LOGS_PSQL_USERNAME
+            value: logs
+          - name: LOGS_PSQL_PASSWORD
+            secretRef: psql-password
+          - name: LOGS_PSQL_HOST
+            value: psql-logs.postgres.database.azure.com
+          - name: LOGS_PSQL_PORT
+            value: "5432"
+          - name: LOGS_PSQL_SSLMODE
+            value: prefer
+          - name: LOGS_PSQL_DB_NAME
+            value: logs

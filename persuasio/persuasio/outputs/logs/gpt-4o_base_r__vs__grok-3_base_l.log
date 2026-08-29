@@ -1,0 +1,104 @@
+[2025-10-08 17:24:45,064] [INFO] Trying to create session gpt-4o_base:r__vs__grok-3_base:l...
+[2025-10-08 17:24:45,094] [INFO] DIALOGUE START: Parent graph invoked, waiting for Langgraph return state...
+[2025-10-08 17:24:46,389] [INFO] ENTER: 'BaseModelAgent' calling '_create_prompt'; CURRENT SPEAKER: gpt-4o_base, DIALOGUE TURN NUM = 0.
+[2025-10-08 17:24:46,389] [INFO] EXIT: 'BaseModelAgent' calling '_create_prompt' (1.811981201171875e-05 secs).
+[2025-10-08 17:24:46,389] [INFO] ENTER: 'BaseModelAgent' calling '_generate_response'; CURRENT SPEAKER: gpt-4o_base, DIALOGUE TURN NUM = 0.
+[2025-10-08 17:24:46,956] [INFO] 'BaseModelAgent' generated a response; MODEL = 'gpt-4o'.
+[2025-10-08 17:24:46,956] [INFO] EXIT: 'BaseModelAgent' calling '_generate_response' (0.5665655136108398 secs).
+[2025-10-08 17:24:46,956] [INFO] ENTER: 'BaseModelAgent' calling 'return_base_model_response'; CURRENT SPEAKER: gpt-4o_base, DIALOGUE TURN NUM = 0.
+[2025-10-08 17:24:46,956] [INFO] EXIT: 'BaseModelAgent' calling 'return_base_model_response' (1.430511474609375e-06 secs).
+[2025-10-08 17:24:46,959] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "model_seed", "model_temp", "model_top_p", "political_position_range", "political_position_std", "speaker_model_name"
+[2025-10-08 17:24:46,959] [ERROR] Wrong state used; State of type GenerationAgentsState; error message: dict has unexpected extra key(s): "utterance"
+[2025-10-08 17:24:46,959] [INFO] Correct state used; State of type BaseModelState; 'IGNORE THE ABOVE ERRORS'.
+[2025-10-08 17:24:46,959] [INFO] ENTER: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types'; CURRENT SPEAKER: gpt-4o_base, DIALOGUE TURN NUM = 0.
+[2025-10-08 17:24:47,272] [INFO] 'UtteranceClassificationAgent' completion returned and validated from MODEL = 'ModelName.GPT_4O'.
+[2025-10-08 17:24:47,604] [INFO] 'UtteranceClassificationAgent' completion returned and validated from MODEL = 'ModelName.GPT_4O'.
+[2025-10-08 17:24:47,604] [INFO] EXIT: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types' (0.6448440551757812 secs).
+[2025-10-08 17:24:47,604] [INFO] ENTER: 'UtteranceClassificationAgent' calling 'return_classified_sentences'; CURRENT SPEAKER: gpt-4o_base, DIALOGUE TURN NUM = 0.
+[2025-10-08 17:24:47,604] [INFO] EXIT: 'UtteranceClassificationAgent' calling 'return_classified_sentences' (2.6226043701171875e-06 secs).
+[2025-10-08 17:24:47,604] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "model_seed", "model_temp", "model_top_p", "political_position_range", "political_position_std", "speaker_model_name"
+[2025-10-08 17:24:47,604] [ERROR] Wrong state used; State of type GenerationAgentsState; error message: dict has unexpected extra key(s): "utterance"
+[2025-10-08 17:24:47,605] [INFO] Correct state used; State of type BaseModelState; 'IGNORE THE ABOVE ERRORS'.
+[2025-10-08 17:24:47,933] [INFO] 'commitment_update' completed '___Claim___' update for current speaker's commitments; MODEL = 'gpt-4o'.
+[2025-10-08 17:24:48,322] [INFO] 'commitment_update' completed '___Claim___' update for current speaker's commitments; MODEL = 'gpt-4o'.
+[2025-10-08 17:24:48,379] [INFO] ENTER: 'BaseModelAgent' calling '_create_prompt'; CURRENT SPEAKER: grok-3_base, DIALOGUE TURN NUM = 1.
+[2025-10-08 17:24:48,379] [INFO] EXIT: 'BaseModelAgent' calling '_create_prompt' (1.8596649169921875e-05 secs).
+[2025-10-08 17:24:48,379] [INFO] ENTER: 'BaseModelAgent' calling '_generate_response'; CURRENT SPEAKER: grok-3_base, DIALOGUE TURN NUM = 1.
+[2025-10-08 17:24:55,260] [INFO] 'BaseModelAgent' generated a response; MODEL = 'grok-3'.
+[2025-10-08 17:24:55,260] [INFO] EXIT: 'BaseModelAgent' calling '_generate_response' (6.88068413734436 secs).
+[2025-10-08 17:24:55,260] [INFO] ENTER: 'BaseModelAgent' calling 'return_base_model_response'; CURRENT SPEAKER: grok-3_base, DIALOGUE TURN NUM = 1.
+[2025-10-08 17:24:55,260] [INFO] EXIT: 'BaseModelAgent' calling 'return_base_model_response' (1.430511474609375e-06 secs).
+[2025-10-08 17:24:55,261] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "model_seed", "model_temp", "model_top_p", "political_position_range", "political_position_std", "speaker_model_name"
+[2025-10-08 17:24:55,261] [ERROR] Wrong state used; State of type GenerationAgentsState; error message: dict has unexpected extra key(s): "utterance"
+[2025-10-08 17:24:55,261] [INFO] Correct state used; State of type BaseModelState; 'IGNORE THE ABOVE ERRORS'.
+[2025-10-08 17:24:55,261] [INFO] ENTER: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types'; CURRENT SPEAKER: grok-3_base, DIALOGUE TURN NUM = 1.
+[2025-10-08 17:24:56,025] [INFO] 'UtteranceClassificationAgent' completion returned and validated from MODEL = 'ModelName.GROK_3'.
+[2025-10-08 17:24:57,017] [INFO] 'UtteranceClassificationAgent' completion returned and validated from MODEL = 'ModelName.GROK_3'.
+[2025-10-08 17:24:58,537] [INFO] 'UtteranceClassificationAgent' completion returned and validated from MODEL = 'ModelName.GROK_3'.
+[2025-10-08 17:24:59,214] [INFO] 'UtteranceClassificationAgent' completion returned and validated from MODEL = 'ModelName.GROK_3'.
+[2025-10-08 17:24:59,214] [INFO] EXIT: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types' (3.9526190757751465 secs).
+[2025-10-08 17:24:59,214] [INFO] ENTER: 'UtteranceClassificationAgent' calling 'return_classified_sentences'; CURRENT SPEAKER: grok-3_base, DIALOGUE TURN NUM = 1.
+[2025-10-08 17:24:59,214] [INFO] EXIT: 'UtteranceClassificationAgent' calling 'return_classified_sentences' (2.6226043701171875e-06 secs).
+[2025-10-08 17:24:59,214] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "model_seed", "model_temp", "model_top_p", "political_position_range", "political_position_std", "speaker_model_name"
+[2025-10-08 17:24:59,214] [ERROR] Wrong state used; State of type GenerationAgentsState; error message: dict has unexpected extra key(s): "utterance"
+[2025-10-08 17:24:59,215] [INFO] Correct state used; State of type BaseModelState; 'IGNORE THE ABOVE ERRORS'.
+[2025-10-08 17:24:59,906] [INFO] 'commitment_update' completed '___Claim___' update for current speaker's commitments; MODEL = 'grok-3'.
+[2025-10-08 17:25:00,593] [INFO] 'commitment_update' completed '___Claim___' update for current speaker's commitments; MODEL = 'grok-3'.
+[2025-10-08 17:25:01,325] [INFO] 'commitment_update' completed '___Claim___' update for current speaker's commitments; MODEL = 'grok-3'.
+[2025-10-08 17:25:01,483] [INFO] ENTER: 'BaseModelAgent' calling '_create_prompt'; CURRENT SPEAKER: gpt-4o_base, DIALOGUE TURN NUM = 2.
+[2025-10-08 17:25:01,484] [INFO] EXIT: 'BaseModelAgent' calling '_create_prompt' (2.384185791015625e-05 secs).
+[2025-10-08 17:25:01,484] [INFO] ENTER: 'BaseModelAgent' calling '_generate_response'; CURRENT SPEAKER: gpt-4o_base, DIALOGUE TURN NUM = 2.
+[2025-10-08 17:25:03,024] [INFO] 'BaseModelAgent' generated a response; MODEL = 'gpt-4o'.
+[2025-10-08 17:25:03,024] [INFO] EXIT: 'BaseModelAgent' calling '_generate_response' (1.5406482219696045 secs).
+[2025-10-08 17:25:03,024] [INFO] ENTER: 'BaseModelAgent' calling 'return_base_model_response'; CURRENT SPEAKER: gpt-4o_base, DIALOGUE TURN NUM = 2.
+[2025-10-08 17:25:03,024] [INFO] EXIT: 'BaseModelAgent' calling 'return_base_model_response' (1.1920928955078125e-06 secs).
+[2025-10-08 17:25:03,025] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "model_seed", "model_temp", "model_top_p", "political_position_range", "political_position_std", "speaker_model_name"
+[2025-10-08 17:25:03,025] [ERROR] Wrong state used; State of type GenerationAgentsState; error message: dict has unexpected extra key(s): "utterance"
+[2025-10-08 17:25:03,025] [INFO] Correct state used; State of type BaseModelState; 'IGNORE THE ABOVE ERRORS'.
+[2025-10-08 17:25:03,025] [INFO] ENTER: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types'; CURRENT SPEAKER: gpt-4o_base, DIALOGUE TURN NUM = 2.
+[2025-10-08 17:25:03,382] [INFO] 'UtteranceClassificationAgent' completion returned and validated from MODEL = 'ModelName.GPT_4O'.
+[2025-10-08 17:25:03,700] [INFO] 'UtteranceClassificationAgent' completion returned and validated from MODEL = 'ModelName.GPT_4O'.
+[2025-10-08 17:25:04,137] [INFO] 'UtteranceClassificationAgent' completion returned and validated from MODEL = 'ModelName.GPT_4O'.
+[2025-10-08 17:25:04,621] [INFO] 'UtteranceClassificationAgent' completion returned and validated from MODEL = 'ModelName.GPT_4O'.
+[2025-10-08 17:25:04,932] [INFO] 'UtteranceClassificationAgent' completion returned and validated from MODEL = 'ModelName.GPT_4O'.
+[2025-10-08 17:25:04,932] [INFO] EXIT: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types' (1.9072391986846924 secs).
+[2025-10-08 17:25:04,932] [INFO] ENTER: 'UtteranceClassificationAgent' calling 'return_classified_sentences'; CURRENT SPEAKER: gpt-4o_base, DIALOGUE TURN NUM = 2.
+[2025-10-08 17:25:04,932] [INFO] EXIT: 'UtteranceClassificationAgent' calling 'return_classified_sentences' (2.384185791015625e-06 secs).
+[2025-10-08 17:25:04,933] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "model_seed", "model_temp", "model_top_p", "political_position_range", "political_position_std", "speaker_model_name"
+[2025-10-08 17:25:04,933] [ERROR] Wrong state used; State of type GenerationAgentsState; error message: dict has unexpected extra key(s): "utterance"
+[2025-10-08 17:25:04,933] [INFO] Correct state used; State of type BaseModelState; 'IGNORE THE ABOVE ERRORS'.
+[2025-10-08 17:25:05,295] [INFO] 'commitment_update' completed '___Since___' update; MODEL = 'gpt-4o'.
+[2025-10-08 17:25:05,778] [INFO] 'commitment_update' completed '___Since___' update; MODEL = 'gpt-4o'.
+[2025-10-08 17:25:06,749] [INFO] 'commitment_update' completed '___Since___' update; MODEL = 'gpt-4o'.
+[2025-10-08 17:25:07,225] [INFO] 'commitment_update' completed '___Claim___' update for current speaker's commitments; MODEL = 'gpt-4o'.
+[2025-10-08 17:25:07,293] [INFO] ENTER: 'BaseModelAgent' calling '_create_prompt'; CURRENT SPEAKER: grok-3_base, DIALOGUE TURN NUM = 3.
+[2025-10-08 17:25:07,294] [INFO] EXIT: 'BaseModelAgent' calling '_create_prompt' (2.765655517578125e-05 secs).
+[2025-10-08 17:25:07,294] [INFO] ENTER: 'BaseModelAgent' calling '_generate_response'; CURRENT SPEAKER: grok-3_base, DIALOGUE TURN NUM = 3.
+[2025-10-08 17:25:10,761] [INFO] 'BaseModelAgent' generated a response; MODEL = 'grok-3'.
+[2025-10-08 17:25:10,761] [INFO] EXIT: 'BaseModelAgent' calling '_generate_response' (3.4669110774993896 secs).
+[2025-10-08 17:25:10,761] [INFO] ENTER: 'BaseModelAgent' calling 'return_base_model_response'; CURRENT SPEAKER: grok-3_base, DIALOGUE TURN NUM = 3.
+[2025-10-08 17:25:10,761] [INFO] EXIT: 'BaseModelAgent' calling 'return_base_model_response' (1.430511474609375e-06 secs).
+[2025-10-08 17:25:10,761] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "model_seed", "model_temp", "model_top_p", "political_position_range", "political_position_std", "speaker_model_name"
+[2025-10-08 17:25:10,761] [ERROR] Wrong state used; State of type GenerationAgentsState; error message: dict has unexpected extra key(s): "utterance"
+[2025-10-08 17:25:10,761] [INFO] Correct state used; State of type BaseModelState; 'IGNORE THE ABOVE ERRORS'.
+[2025-10-08 17:25:10,762] [INFO] ENTER: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types'; CURRENT SPEAKER: grok-3_base, DIALOGUE TURN NUM = 3.
+[2025-10-08 17:25:11,479] [INFO] 'UtteranceClassificationAgent' completion returned and validated from MODEL = 'ModelName.GROK_3'.
+[2025-10-08 17:25:12,099] [INFO] 'UtteranceClassificationAgent' completion returned and validated from MODEL = 'ModelName.GROK_3'.
+[2025-10-08 17:25:14,881] [INFO] 'UtteranceClassificationAgent' completion returned and validated from MODEL = 'ModelName.GROK_3'.
+[2025-10-08 17:25:15,620] [INFO] 'UtteranceClassificationAgent' completion returned and validated from MODEL = 'ModelName.GROK_3'.
+[2025-10-08 17:25:16,439] [INFO] 'UtteranceClassificationAgent' completion returned and validated from MODEL = 'ModelName.GROK_3'.
+[2025-10-08 17:25:16,439] [INFO] EXIT: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types' (5.6771345138549805 secs).
+[2025-10-08 17:25:16,439] [INFO] ENTER: 'UtteranceClassificationAgent' calling 'return_classified_sentences'; CURRENT SPEAKER: grok-3_base, DIALOGUE TURN NUM = 3.
+[2025-10-08 17:25:16,439] [INFO] EXIT: 'UtteranceClassificationAgent' calling 'return_classified_sentences' (2.6226043701171875e-06 secs).
+[2025-10-08 17:25:16,439] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "model_seed", "model_temp", "model_top_p", "political_position_range", "political_position_std", "speaker_model_name"
+[2025-10-08 17:25:16,439] [ERROR] Wrong state used; State of type GenerationAgentsState; error message: dict has unexpected extra key(s): "utterance"
+[2025-10-08 17:25:16,440] [INFO] Correct state used; State of type BaseModelState; 'IGNORE THE ABOVE ERRORS'.
+[2025-10-08 17:25:17,133] [INFO] 'commitment_update' completed '___Concede___' update when checking if concede utterance was similar to current speaker's commitments; MODEL = 'grok-3'.
+[2025-10-08 17:25:17,831] [INFO] 'commitment_update' completed '___Concede___' update when checking if current speaker conceded to opponent's intial claim; MODEL = 'grok-3'.
+[2025-10-08 17:25:18,513] [INFO] 'commitment_update' completed '___Concede___' update when checking whether to terminate dialogue; MODEL = 'grok-3'.
+[2025-10-08 17:25:19,287] [INFO] 'commitment_update' completed '___Claim___' update for current speaker's commitments; MODEL = 'grok-3'.
+[2025-10-08 17:25:19,978] [INFO] 'commitment_update' completed '___Claim___' update for current speaker's commitments; MODEL = 'grok-3'.
+[2025-10-08 17:25:20,725] [INFO] 'commitment_update' completed '___Since___' update; MODEL = 'grok-3'.
+[2025-10-08 17:25:20,885] [INFO] Parent graph returned.
+[2025-10-08 17:25:20,905] [INFO] WINNER: gpt-4o_base; LOSER: grok-3_base, REASON: {'reason': "grok-3_base conceded to gpt-4o_base's original claim, where gpt-4o_base's original claim was: 'Government intervention often leads to inefficiency and dependency.'", 'utterance_type': '___Concede___', 'utterance': 'I’m not saying government systems are immune to inefficiency or waste.'}
+[2025-10-08 17:25:20,905] [INFO] DIALOGUE END: Session finished.

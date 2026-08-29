@@ -1,0 +1,1077 @@
+{
+    "dialogue_history": [
+        {
+            "speaker": "grok-3_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "I believe the government should take a strong role in healthcare, welfare, and immigration to ensure fairness and support for all citizens."
+                ]
+            ],
+            "sentences_no_utterance_types": "I believe the government should take a strong role in healthcare, welfare, and immigration to ensure fairness and support for all citizens.",
+            "timestamp": "2025-10-08 10:32:47"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Question___",
+                    "What evidence do you have that government intervention in these sectors leads to better outcomes?"
+                ],
+                [
+                    "___Claim___",
+                    "Strict immigration controls are necessary to protect national security and economic stability."
+                ]
+            ],
+            "sentences_no_utterance_types": "What evidence do you have that government intervention in these sectors leads to better outcomes? Strict immigration controls are necessary to protect national security and economic stability.",
+            "timestamp": "2025-10-08 10:35:54"
+        },
+        {
+            "speaker": "grok-3_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "I've got plenty of evidence that government intervention works."
+                ],
+                [
+                    "___Since___",
+                    "Take the NHS\u2014it's a prime example of how government-led healthcare ensures everyone gets access to medical services, regardless of income, reducing health inequality across the UK."
+                ],
+                [
+                    "___Claim___",
+                    "On immigration, I reckon a strong government role can balance humanitarian needs with security through managed systems, not just strict controls that shut people out."
+                ],
+                [
+                    "___Why___",
+                    "Why do you think harsh restrictions are the only way to protect national security and the economy?"
+                ]
+            ],
+            "sentences_no_utterance_types": "I've got plenty of evidence that government intervention works. Take the NHS\u2014it's a prime example of how government-led healthcare ensures everyone gets access to medical services, regardless of income, reducing health inequality across the UK. On immigration, I reckon a strong government role can balance humanitarian needs with security through managed systems, not just strict controls that shut people out. Why do you think harsh restrictions are the only way to protect national security and the economy?",
+            "timestamp": "2025-10-08 10:36:03"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Question___",
+                    "What makes you think that government control over welfare doesn't discourage self-sufficiency and personal responsibility?"
+                ],
+                [
+                    "___Question___",
+                    "What evidence do you have that managed systems provide better humanitarian outcomes than strict immigration controls?"
+                ],
+                [
+                    "___Question___",
+                    "What makes you think government-led healthcare is the only way to reduce health inequality, considering the inefficiencies and bureaucratic hurdles it often creates?"
+                ],
+                [
+                    "___Since___",
+                    "Harsh restrictions ensure that we can properly vet individuals entering the country, preventing potential threats from slipping through the cracks."
+                ],
+                [
+                    "___Since___",
+                    "Strict controls help maintain economic stability by ensuring that the labour market isn't flooded, which can drive down wages and strain public services."
+                ]
+            ],
+            "sentences_no_utterance_types": "What makes you think that government control over welfare doesn't discourage self-sufficiency and personal responsibility? What evidence do you have that managed systems provide better humanitarian outcomes than strict immigration controls? What makes you think government-led healthcare is the only way to reduce health inequality, considering the inefficiencies and bureaucratic hurdles it often creates? Harsh restrictions ensure that we can properly vet individuals entering the country, preventing potential threats from slipping through the cracks. Strict controls help maintain economic stability by ensuring that the labour market isn't flooded, which can drive down wages and strain public services.",
+            "timestamp": "2025-10-08 10:40:03"
+        },
+        {
+            "speaker": "grok-3_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "I reckon government control over welfare doesn\u2019t discourage self-sufficiency if it\u2019s designed as a safety net, not a handout\u2014look at Scandinavian models where high welfare support coexists with strong work ethics."
+                ],
+                [
+                    "___Since___",
+                    "On immigration, managed systems like Canada\u2019s points-based approach show better humanitarian outcomes by prioritising need and skills over blanket bans, ensuring fairness without chaos."
+                ],
+                [
+                    "___Claim___",
+                    "As for healthcare, the NHS isn\u2019t perfect, yet it\u2019s the backbone of reducing inequality by guaranteeing care for all, unlike private systems where the poor get left behind."
+                ],
+                [
+                    "___Claim___",
+                    "Your strict controls might vet people, yet they often ignore genuine refugees and choke off economic benefits migrants bring through diversity and labour."
+                ]
+            ],
+            "sentences_no_utterance_types": "I reckon government control over welfare doesn\u2019t discourage self-sufficiency if it\u2019s designed as a safety net, not a handout\u2014look at Scandinavian models where high welfare support coexists with strong work ethics. On immigration, managed systems like Canada\u2019s points-based approach show better humanitarian outcomes by prioritising need and skills over blanket bans, ensuring fairness without chaos. As for healthcare, the NHS isn\u2019t perfect, yet it\u2019s the backbone of reducing inequality by guaranteeing care for all, unlike private systems where the poor get left behind. Your strict controls might vet people, yet they often ignore genuine refugees and choke off economic benefits migrants bring through diversity and labour.",
+            "timestamp": "2025-10-08 10:40:17"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Strict controls ensure that we can properly vet individuals entering the country, preventing potential threats from slipping through the cracks."
+                ],
+                [
+                    "___Claim___",
+                    "Strict controls help maintain economic stability by ensuring that the labour market isn't flooded, which can drive down wages and strain public services."
+                ],
+                [
+                    "___Question___",
+                    "Why do you believe the NHS is the only system capable of guaranteeing care for all, when private systems can also be regulated to ensure accessibility?"
+                ],
+                [
+                    "___Question___",
+                    "What evidence do you have that private healthcare systems inherently leave the poor behind, rather than being a result of poor regulation?"
+                ],
+                [
+                    "___Question___",
+                    "How can you be sure that prioritising skills and need over blanket bans doesn\u2019t still leave room for economic instability or security risks?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Strict controls ensure that we can properly vet individuals entering the country, preventing potential threats from slipping through the cracks. Strict controls help maintain economic stability by ensuring that the labour market isn't flooded, which can drive down wages and strain public services. Why do you believe the NHS is the only system capable of guaranteeing care for all, when private systems can also be regulated to ensure accessibility? What evidence do you have that private healthcare systems inherently leave the poor behind, rather than being a result of poor regulation? How can you be sure that prioritising skills and need over blanket bans doesn\u2019t still leave room for economic instability or security risks?",
+            "timestamp": "2025-10-08 10:48:17"
+        },
+        {
+            "speaker": "grok-3_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "I don\u2019t reckon the NHS is the only system possible, yet it\u2019s proven to guarantee care for all by design, unlike private systems where profit often trumps access."
+                ],
+                [
+                    "___Claim___",
+                    "Look at the US\u2014private healthcare leaves millions uninsured, with the poor hit hardest, and no amount of regulation fixes that core flaw."
+                ],
+                [
+                    "___Claim___",
+                    "On immigration, prioritising skills and need, like Canada does, lets us control numbers and security risks through targeted vetting, not blanket bans that kill off economic diversity."
+                ],
+                [
+                    "___Claim___",
+                    "Your strict controls might sound safe, yet they risk shutting out talent and humanitarian cases we desperately need."
+                ],
+                [
+                    "___Why___",
+                    "Why settle for a sledgehammer approach when a scalpel can do the job better?"
+                ]
+            ],
+            "sentences_no_utterance_types": "I don\u2019t reckon the NHS is the only system possible, yet it\u2019s proven to guarantee care for all by design, unlike private systems where profit often trumps access. Look at the US\u2014private healthcare leaves millions uninsured, with the poor hit hardest, and no amount of regulation fixes that core flaw. On immigration, prioritising skills and need, like Canada does, lets us control numbers and security risks through targeted vetting, not blanket bans that kill off economic diversity. Your strict controls might sound safe, yet they risk shutting out talent and humanitarian cases we desperately need. Why settle for a sledgehammer approach when a scalpel can do the job better?",
+            "timestamp": "2025-10-08 10:50:29"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Question___",
+                    "How can you be sure that no amount of regulation can fix the flaws in private healthcare systems?"
+                ],
+                [
+                    "___Since___",
+                    "Economic stability is maintained through strict immigration controls, preventing the labour market from being flooded and wages from being driven down."
+                ],
+                [
+                    "___Question___",
+                    "How can you be sure that prioritising skills and need won't lead to economic instability or strain on public services?"
+                ],
+                [
+                    "___Claim___",
+                    "The safety of our citizens should always come first, even if it means being more selective about who we let in."
+                ],
+                [
+                    "___Claim___",
+                    "Strict controls are necessary to prevent potential threats from slipping through the cracks, ensuring national security."
+                ]
+            ],
+            "sentences_no_utterance_types": "How can you be sure that no amount of regulation can fix the flaws in private healthcare systems? Economic stability is maintained through strict immigration controls, preventing the labour market from being flooded and wages from being driven down. How can you be sure that prioritising skills and need won't lead to economic instability or strain on public services? The safety of our citizens should always come first, even if it means being more selective about who we let in. Strict controls are necessary to prevent potential threats from slipping through the cracks, ensuring national security.",
+            "timestamp": "2025-10-08 10:56:11"
+        },
+        {
+            "speaker": "grok-3_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "I\u2019m not convinced regulation can fully fix private healthcare flaws when profit motives always push firms to cut corners on access for the poor\u2014look at the US, where even regulated systems fail millions."
+                ],
+                [
+                    "___Claim___",
+                    "On immigration, prioritising skills and need doesn\u2019t mean open borders; it\u2019s about controlled entry that boosts the economy with targeted talent, as Canada shows with lower strain on services than blanket bans create by killing diversity."
+                ],
+                [
+                    "___Claim___",
+                    "Your strict controls might feel safe, yet they often block genuine contributors and refugees, risking both moral and economic damage."
+                ],
+                [
+                    "___Why___",
+                    "Why risk stagnation with rigid barriers when a balanced system can protect security and still let us thrive?"
+                ]
+            ],
+            "sentences_no_utterance_types": "I\u2019m not convinced regulation can fully fix private healthcare flaws when profit motives always push firms to cut corners on access for the poor\u2014look at the US, where even regulated systems fail millions. On immigration, prioritising skills and need doesn\u2019t mean open borders; it\u2019s about controlled entry that boosts the economy with targeted talent, as Canada shows with lower strain on services than blanket bans create by killing diversity. Your strict controls might feel safe, yet they often block genuine contributors and refugees, risking both moral and economic damage. Why risk stagnation with rigid barriers when a balanced system can protect security and still let us thrive?",
+            "timestamp": "2025-10-08 10:56:21"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Regulation can fix private healthcare flaws by ensuring that profit motives don't compromise access for the poor."
+                ],
+                [
+                    "___Claim___",
+                    "Economic stability and national security should always come first, even if it means being more selective about who we let in."
+                ],
+                [
+                    "___Claim___",
+                    "Strict controls are necessary to ensure that only genuine contributors and refugees are allowed in, protecting both our economy and moral standards."
+                ],
+                [
+                    "___Claim___",
+                    "Profit motives don't always push firms to cut corners if there are strong regulations in place to prevent it."
+                ],
+                [
+                    "___Claim___",
+                    "Strict controls are necessary to prevent potential threats from slipping through the cracks, ensuring national security."
+                ]
+            ],
+            "sentences_no_utterance_types": "Regulation can fix private healthcare flaws by ensuring that profit motives don't compromise access for the poor. Economic stability and national security should always come first, even if it means being more selective about who we let in. Strict controls are necessary to ensure that only genuine contributors and refugees are allowed in, protecting both our economy and moral standards. Profit motives don't always push firms to cut corners if there are strong regulations in place to prevent it. Strict controls are necessary to prevent potential threats from slipping through the cracks, ensuring national security.",
+            "timestamp": "2025-10-08 11:00:27"
+        },
+        {
+            "speaker": "grok-3_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "I\u2019m not buying that regulation can fully stop private healthcare firms from prioritising profit over the poor\u2014history shows even tight rules in places like the US still leave millions without care."
+                ],
+                [
+                    "___Claim___",
+                    "On immigration, your strict controls might aim to filter for genuine cases, yet they often exclude desperate refugees and skilled workers who could boost our economy."
+                ],
+                [
+                    "___Claim___",
+                    "A managed system with clear criteria, like Canada\u2019s, secures borders without choking off diversity and humanitarian duty."
+                ],
+                [
+                    "___Why___",
+                    "Why cling to rigid barriers that risk both moral failure and economic loss when a balanced approach can safeguard security and fairness?"
+                ]
+            ],
+            "sentences_no_utterance_types": "I\u2019m not buying that regulation can fully stop private healthcare firms from prioritising profit over the poor\u2014history shows even tight rules in places like the US still leave millions without care. On immigration, your strict controls might aim to filter for genuine cases, yet they often exclude desperate refugees and skilled workers who could boost our economy. A managed system with clear criteria, like Canada\u2019s, secures borders without choking off diversity and humanitarian duty. Why cling to rigid barriers that risk both moral failure and economic loss when a balanced approach can safeguard security and fairness?",
+            "timestamp": "2025-10-08 11:00:38"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "A balanced approach can be achieved through strict controls that ensure only genuine contributors and refugees are allowed in, protecting both our economy and moral standards."
+                ],
+                [
+                    "___Since___",
+                    "Economic stability is maintained through strict immigration controls, preventing the labour market from being flooded and wages from being driven down."
+                ],
+                [
+                    "___Claim___",
+                    "The safety of our citizens should always come first, even if it means being more selective about who we let in."
+                ],
+                [
+                    "___Claim___",
+                    "Strict controls are necessary to prevent potential threats from slipping through the cracks, ensuring national security."
+                ],
+                [
+                    "___Claim___",
+                    "Economic stability is maintained through strict immigration controls, preventing the labour market from being flooded and wages from being driven down."
+                ]
+            ],
+            "sentences_no_utterance_types": "A balanced approach can be achieved through strict controls that ensure only genuine contributors and refugees are allowed in, protecting both our economy and moral standards. Economic stability is maintained through strict immigration controls, preventing the labour market from being flooded and wages from being driven down. The safety of our citizens should always come first, even if it means being more selective about who we let in. Strict controls are necessary to prevent potential threats from slipping through the cracks, ensuring national security. Economic stability is maintained through strict immigration controls, preventing the labour market from being flooded and wages from being driven down.",
+            "timestamp": "2025-10-08 11:05:11"
+        },
+        {
+            "speaker": "grok-3_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "I\u2019m not convinced your strict controls truly balance economy and morals when they often shut out genuine refugees and talent who could strengthen our society."
+                ],
+                [
+                    "___Claim___",
+                    "Look at countries like Canada\u2014managed immigration systems let in skilled workers and humanitarian cases without flooding the labour market or risking security."
+                ],
+                [
+                    "___Claim___",
+                    "Your approach sounds safe, yet it risks stifling diversity and growth with overzealous barriers."
+                ],
+                [
+                    "___Why___",
+                    "Why stick to a rigid system that could harm us long-term when a flexible, government-led framework can secure fairness and prosperity?"
+                ]
+            ],
+            "sentences_no_utterance_types": "I\u2019m not convinced your strict controls truly balance economy and morals when they often shut out genuine refugees and talent who could strengthen our society. Look at countries like Canada\u2014managed immigration systems let in skilled workers and humanitarian cases without flooding the labour market or risking security. Your approach sounds safe, yet it risks stifling diversity and growth with overzealous barriers. Why stick to a rigid system that could harm us long-term when a flexible, government-led framework can secure fairness and prosperity?",
+            "timestamp": "2025-10-08 11:05:21"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Strict controls are necessary to ensure that only genuine contributors and refugees are allowed in, protecting both our economy and moral standards."
+                ],
+                [
+                    "___Since___",
+                    "Economic stability is maintained through strict immigration controls, preventing the labour market from being flooded and wages from being driven down."
+                ],
+                [
+                    "___Claim___",
+                    "Strict immigration controls are necessary to prevent potential threats from slipping through the cracks, ensuring national security."
+                ],
+                [
+                    "___Question___",
+                    "What evidence do you have that overzealous barriers are causing more harm than good in terms of economic stability?"
+                ],
+                [
+                    "___Claim___",
+                    "Economic stability is maintained through strict immigration controls, preventing the labour market from being flooded and wages from being driven down."
+                ]
+            ],
+            "sentences_no_utterance_types": "Strict controls are necessary to ensure that only genuine contributors and refugees are allowed in, protecting both our economy and moral standards. Economic stability is maintained through strict immigration controls, preventing the labour market from being flooded and wages from being driven down. Strict immigration controls are necessary to prevent potential threats from slipping through the cracks, ensuring national security. What evidence do you have that overzealous barriers are causing more harm than good in terms of economic stability? Economic stability is maintained through strict immigration controls, preventing the labour market from being flooded and wages from being driven down.",
+            "timestamp": "2025-10-08 11:07:29"
+        },
+        {
+            "speaker": "grok-3_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "I\u2019ve got evidence that overzealous barriers do more harm than good\u2014look at the UK\u2019s own history with overly tight immigration rules post-Brexit, where labour shortages in key sectors like agriculture and hospitality have spiked costs and hurt growth."
+                ],
+                [
+                    "___Claim___",
+                    "Your strict controls might aim to protect wages, yet they starve industries of needed workers and stifle the diversity that drives innovation."
+                ],
+                [
+                    "___Claim___",
+                    "A government-led, balanced system can vet for security while letting in talent and refugees, as Canada\u2019s model proves with steady economic gains."
+                ],
+                [
+                    "___Why___",
+                    "Why keep pushing a rigid approach that risks tanking our economy when a smarter framework can deliver both safety and prosperity?"
+                ]
+            ],
+            "sentences_no_utterance_types": "I\u2019ve got evidence that overzealous barriers do more harm than good\u2014look at the UK\u2019s own history with overly tight immigration rules post-Brexit, where labour shortages in key sectors like agriculture and hospitality have spiked costs and hurt growth. Your strict controls might aim to protect wages, yet they starve industries of needed workers and stifle the diversity that drives innovation. A government-led, balanced system can vet for security while letting in talent and refugees, as Canada\u2019s model proves with steady economic gains. Why keep pushing a rigid approach that risks tanking our economy when a smarter framework can deliver both safety and prosperity?",
+            "timestamp": "2025-10-08 11:07:38"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Strict controls are necessary to ensure that only genuine contributors and refugees are allowed in, protecting both our economy and moral standards."
+                ],
+                [
+                    "___Claim___",
+                    "Strict controls help maintain economic stability by ensuring that the labour market isn't flooded, which can drive down wages and strain public services."
+                ],
+                [
+                    "___Claim___",
+                    "Strict immigration controls are necessary to prevent potential threats from slipping through the cracks, ensuring national security."
+                ],
+                [
+                    "___Claim___",
+                    "Letting in talent and refugees without strict controls can lead to economic instability and strain on public services."
+                ],
+                [
+                    "___Question___",
+                    "How can you be sure that a government-led, balanced system won't lead to economic instability or strain on public services?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Strict controls are necessary to ensure that only genuine contributors and refugees are allowed in, protecting both our economy and moral standards. Strict controls help maintain economic stability by ensuring that the labour market isn't flooded, which can drive down wages and strain public services. Strict immigration controls are necessary to prevent potential threats from slipping through the cracks, ensuring national security. Letting in talent and refugees without strict controls can lead to economic instability and strain on public services. How can you be sure that a government-led, balanced system won't lead to economic instability or strain on public services?",
+            "timestamp": "2025-10-08 11:12:21"
+        },
+        {
+            "speaker": "grok-3_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "I\u2019m not sold on your strict controls being the only way to protect the economy or morals when they often block genuine talent and refugees who could enrich our society."
+                ],
+                [
+                    "___Claim___",
+                    "A government-led, balanced system, like Canada\u2019s, uses clear criteria to control numbers and vet for security, avoiding the strain on services while still boosting growth through diversity."
+                ],
+                [
+                    "___Claim___",
+                    "Your approach risks shortages in key sectors, as we\u2019ve seen with post-Brexit labour gaps costing us dearly."
+                ],
+                [
+                    "___Claim___",
+                    "I reckon a flexible framework ensures stability by matching immigration to actual need, not just slamming the door shut."
+                ],
+                [
+                    "___Why___",
+                    "Why gamble on rigid barriers when a smarter system can deliver security and prosperity?"
+                ]
+            ],
+            "sentences_no_utterance_types": "I\u2019m not sold on your strict controls being the only way to protect the economy or morals when they often block genuine talent and refugees who could enrich our society. A government-led, balanced system, like Canada\u2019s, uses clear criteria to control numbers and vet for security, avoiding the strain on services while still boosting growth through diversity. Your approach risks shortages in key sectors, as we\u2019ve seen with post-Brexit labour gaps costing us dearly. I reckon a flexible framework ensures stability by matching immigration to actual need, not just slamming the door shut. Why gamble on rigid barriers when a smarter system can deliver security and prosperity?",
+            "timestamp": "2025-10-08 11:12:36"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "A flexible framework can lead to instability by allowing too many immigrants in, which can strain public services and drive down wages."
+                ],
+                [
+                    "___Claim___",
+                    "Strict controls are necessary to ensure that only genuine contributors and refugees are allowed in, protecting both our economy and moral standards."
+                ],
+                [
+                    "___Claim___",
+                    "Strict controls help maintain economic stability by ensuring that the labour market isn't flooded, which can drive down wages and strain public services."
+                ],
+                [
+                    "___Since___",
+                    "A smarter system can't guarantee the same level of security and prosperity as strict controls."
+                ],
+                [
+                    "___Claim___",
+                    "Strict immigration controls are necessary to prevent potential threats from slipping through the cracks, ensuring national security."
+                ],
+                [
+                    "___Since___",
+                    "Strict controls help maintain economic stability by ensuring that the labour market isn't flooded, which can drive down wages and strain public services."
+                ]
+            ],
+            "sentences_no_utterance_types": "A flexible framework can lead to instability by allowing too many immigrants in, which can strain public services and drive down wages. Strict controls are necessary to ensure that only genuine contributors and refugees are allowed in, protecting both our economy and moral standards. Strict controls help maintain economic stability by ensuring that the labour market isn't flooded, which can drive down wages and strain public services. A smarter system can't guarantee the same level of security and prosperity as strict controls. Strict immigration controls are necessary to prevent potential threats from slipping through the cracks, ensuring national security. Strict controls help maintain economic stability by ensuring that the labour market isn't flooded, which can drive down wages and strain public services.",
+            "timestamp": "2025-10-08 11:19:37"
+        },
+        {
+            "speaker": "grok-3_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "I\u2019m not buying that a flexible framework means unchecked immigration or inevitable instability."
+                ],
+                [
+                    "___Claim___",
+                    "Canada\u2019s system shows a government-led approach can control numbers, vet for security, and still bring in talent and refugees without overloading services or tanking wages."
+                ],
+                [
+                    "___Claim___",
+                    "Your strict controls might feel like a safe bet, yet they\u2019re choking off the diversity and labour we need to grow, as post-Brexit shortages prove with rising costs in key sectors."
+                ],
+                [
+                    "___Why___",
+                    "Why keep pushing a blunt, rigid policy that risks our economy when a smarter, balanced system can secure both fairness and stability?"
+                ]
+            ],
+            "sentences_no_utterance_types": "I\u2019m not buying that a flexible framework means unchecked immigration or inevitable instability. Canada\u2019s system shows a government-led approach can control numbers, vet for security, and still bring in talent and refugees without overloading services or tanking wages. Your strict controls might feel like a safe bet, yet they\u2019re choking off the diversity and labour we need to grow, as post-Brexit shortages prove with rising costs in key sectors. Why keep pushing a blunt, rigid policy that risks our economy when a smarter, balanced system can secure both fairness and stability?",
+            "timestamp": "2025-10-08 11:19:48"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Canada's system can't guarantee that it won't overload services or drive down wages with uncontrolled immigration."
+                ],
+                [
+                    "___Claim___",
+                    "Strict controls help maintain economic stability by ensuring that the labour market isn't flooded, which can drive down wages and strain public services."
+                ],
+                [
+                    "___Question___",
+                    "How can you be sure that a flexible framework won't lead to unchecked immigration and economic instability?"
+                ],
+                [
+                    "___Claim___",
+                    "Strict immigration controls are necessary to prevent potential threats from slipping through the cracks, ensuring national security."
+                ],
+                [
+                    "___Since___",
+                    "Strict controls help maintain economic stability by ensuring that the labour market isn't flooded, which can drive down wages and strain public services."
+                ]
+            ],
+            "sentences_no_utterance_types": "Canada's system can't guarantee that it won't overload services or drive down wages with uncontrolled immigration. Strict controls help maintain economic stability by ensuring that the labour market isn't flooded, which can drive down wages and strain public services. How can you be sure that a flexible framework won't lead to unchecked immigration and economic instability? Strict immigration controls are necessary to prevent potential threats from slipping through the cracks, ensuring national security. Strict controls help maintain economic stability by ensuring that the labour market isn't flooded, which can drive down wages and strain public services.",
+            "timestamp": "2025-10-08 11:24:35"
+        },
+        {
+            "speaker": "grok-3_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "I\u2019m not convinced Canada\u2019s system risks overloading services when it\u2019s built on strict quotas and vetting, matching immigration to economic need without flooding the market."
+                ],
+                [
+                    "___Claim___",
+                    "Your strict controls sound secure, yet they\u2019re strangling growth by blocking talent and refugees, as we\u2019re seeing with post-Brexit shortages jacking up costs."
+                ],
+                [
+                    "___Claim___",
+                    "A flexible, government-led framework can avoid unchecked immigration by setting clear limits, while still reaping the benefits of diversity."
+                ],
+                [
+                    "___Why___",
+                    "Why cling to rigid barriers that hurt our economy when a balanced system can protect security and keep us thriving?"
+                ]
+            ],
+            "sentences_no_utterance_types": "I\u2019m not convinced Canada\u2019s system risks overloading services when it\u2019s built on strict quotas and vetting, matching immigration to economic need without flooding the market. Your strict controls sound secure, yet they\u2019re strangling growth by blocking talent and refugees, as we\u2019re seeing with post-Brexit shortages jacking up costs. A flexible, government-led framework can avoid unchecked immigration by setting clear limits, while still reaping the benefits of diversity. Why cling to rigid barriers that hurt our economy when a balanced system can protect security and keep us thriving?",
+            "timestamp": "2025-10-08 11:24:44"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Strict controls help maintain economic stability by ensuring that the labour market isn't flooded, which can drive down wages and strain public services."
+                ],
+                [
+                    "___Claim___",
+                    "Strict immigration controls are necessary to prevent potential threats from slipping through the cracks, ensuring national security."
+                ],
+                [
+                    "___Claim___",
+                    "A smarter system can't guarantee the same level of security and prosperity as strict controls."
+                ],
+                [
+                    "___Since___",
+                    "Strict controls help maintain economic stability by ensuring that the labour market isn't flooded, which can drive down wages and strain public services."
+                ],
+                [
+                    "___Why___",
+                    "Why do you reckon blocking some talent and refugees outweighs the need for national security and economic stability?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Strict controls help maintain economic stability by ensuring that the labour market isn't flooded, which can drive down wages and strain public services. Strict immigration controls are necessary to prevent potential threats from slipping through the cracks, ensuring national security. A smarter system can't guarantee the same level of security and prosperity as strict controls. Strict controls help maintain economic stability by ensuring that the labour market isn't flooded, which can drive down wages and strain public services. Why do you reckon blocking some talent and refugees outweighs the need for national security and economic stability?",
+            "timestamp": "2025-10-08 11:29:32"
+        },
+        {
+            "speaker": "grok-3_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "I reckon blocking talent and refugees does more harm than good when it cripples our economy and betrays our values."
+                ],
+                [
+                    "___Claim___",
+                    "Your strict controls might feel like a shield, yet they\u2019re causing labour shortages that spike costs, as we\u2019re seeing post-Brexit in sectors like farming and care."
+                ],
+                [
+                    "___Claim___",
+                    "A government-led system with smart vetting, like Canada\u2019s, can prioritise security without slamming the door on those who\u2019d boost our prosperity."
+                ],
+                [
+                    "___Why___",
+                    "Why keep choking growth with rigid rules when a balanced approach can keep us safe and thriving?"
+                ]
+            ],
+            "sentences_no_utterance_types": "I reckon blocking talent and refugees does more harm than good when it cripples our economy and betrays our values. Your strict controls might feel like a shield, yet they\u2019re causing labour shortages that spike costs, as we\u2019re seeing post-Brexit in sectors like farming and care. A government-led system with smart vetting, like Canada\u2019s, can prioritise security without slamming the door on those who\u2019d boost our prosperity. Why keep choking growth with rigid rules when a balanced approach can keep us safe and thriving?",
+            "timestamp": "2025-10-08 11:29:43"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Question___",
+                    "What evidence do you have that a flexible framework won't lead to economic instability and unchecked immigration?"
+                ],
+                [
+                    "___Claim___",
+                    "Strict controls are necessary to ensure that only genuine contributors and refugees are allowed in, protecting both our economy and moral standards."
+                ],
+                [
+                    "___Claim___",
+                    "Strict controls help maintain economic stability by ensuring that the labour market isn't flooded, which can drive down wages and strain public services."
+                ],
+                [
+                    "___Claim___",
+                    "Strict controls are necessary to prevent potential threats from slipping through the cracks, ensuring national security."
+                ],
+                [
+                    "___Claim___",
+                    "A smarter system can't guarantee the same level of security and prosperity as strict controls."
+                ],
+                [
+                    "___Since___",
+                    "Strict controls are necessary to ensure that only genuine contributors and refugees are allowed in, protecting both our economy and moral standards."
+                ],
+                [
+                    "___Since___",
+                    "Strict controls help maintain economic stability by ensuring that the labour market isn't flooded, which can drive down wages and strain public services."
+                ]
+            ],
+            "sentences_no_utterance_types": "What evidence do you have that a flexible framework won't lead to economic instability and unchecked immigration? Strict controls are necessary to ensure that only genuine contributors and refugees are allowed in, protecting both our economy and moral standards. Strict controls help maintain economic stability by ensuring that the labour market isn't flooded, which can drive down wages and strain public services. Strict controls are necessary to prevent potential threats from slipping through the cracks, ensuring national security. A smarter system can't guarantee the same level of security and prosperity as strict controls. Strict controls are necessary to ensure that only genuine contributors and refugees are allowed in, protecting both our economy and moral standards. Strict controls help maintain economic stability by ensuring that the labour market isn't flooded, which can drive down wages and strain public services.",
+            "timestamp": "2025-10-08 11:34:35"
+        },
+        {
+            "speaker": "grok-3_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "I\u2019ve got solid evidence that a flexible framework doesn\u2019t mean economic chaos or unchecked immigration\u2014Canada\u2019s points-based system controls numbers with strict quotas, keeping services steady while boosting growth with skilled migrants."
+                ],
+                [
+                    "___Claim___",
+                    "Your strict controls might sound like they protect wages, yet they\u2019re strangling sectors like farming and care with shortages, driving up costs as we\u2019re seeing post-Brexit."
+                ],
+                [
+                    "___Claim___",
+                    "A government-led approach can vet for security just as well, without binning the diversity and talent we need."
+                ],
+                [
+                    "___Why___",
+                    "Why stick to a rigid setup that\u2019s costing us when a balanced system can deliver safety and fairness?"
+                ]
+            ],
+            "sentences_no_utterance_types": "I\u2019ve got solid evidence that a flexible framework doesn\u2019t mean economic chaos or unchecked immigration\u2014Canada\u2019s points-based system controls numbers with strict quotas, keeping services steady while boosting growth with skilled migrants. Your strict controls might sound like they protect wages, yet they\u2019re strangling sectors like farming and care with shortages, driving up costs as we\u2019re seeing post-Brexit. A government-led approach can vet for security just as well, without binning the diversity and talent we need. Why stick to a rigid setup that\u2019s costing us when a balanced system can deliver safety and fairness?",
+            "timestamp": "2025-10-08 11:34:45"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Strict controls are necessary to ensure that only genuine contributors and refugees are allowed in, protecting both our economy and moral standards."
+                ],
+                [
+                    "___Claim___",
+                    "Strict controls ensure that only genuine contributors are allowed in, which helps maintain economic stability and protect wages."
+                ],
+                [
+                    "___Claim___",
+                    "A government-led approach can't guarantee the same level of security as strict controls, and it risks letting in too many immigrants, which can strain public services."
+                ],
+                [
+                    "___Question___",
+                    "Why do you believe that a flexible framework is the best way to ensure economic stability and controlled immigration?"
+                ],
+                [
+                    "___Since___",
+                    "Strict controls are necessary to ensure that only genuine contributors and refugees are allowed in, protecting both our economy and moral standards."
+                ],
+                [
+                    "___Claim___",
+                    "The shortages and rising costs in sectors like farming and care are not due to strict controls but rather other economic factors."
+                ]
+            ],
+            "sentences_no_utterance_types": "Strict controls are necessary to ensure that only genuine contributors and refugees are allowed in, protecting both our economy and moral standards. Strict controls ensure that only genuine contributors are allowed in, which helps maintain economic stability and protect wages. A government-led approach can't guarantee the same level of security as strict controls, and it risks letting in too many immigrants, which can strain public services. Why do you believe that a flexible framework is the best way to ensure economic stability and controlled immigration? Strict controls are necessary to ensure that only genuine contributors and refugees are allowed in, protecting both our economy and moral standards. The shortages and rising costs in sectors like farming and care are not due to strict controls but rather other economic factors.",
+            "timestamp": "2025-10-08 11:41:30"
+        },
+        {
+            "speaker": "grok-3_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "I reckon a flexible framework is the best way because it lets us control immigration with precision, like Canada does, matching numbers to need without overloading services or risking security."
+                ],
+                [
+                    "___Claim___",
+                    "Your strict controls might sound like a safeguard, yet they\u2019re clearly causing shortages in farming and care, jacking up costs no matter what other factors you blame."
+                ],
+                [
+                    "___Claim___",
+                    "A government-led system can vet just as tightly for genuine contributors while still bringing in the diversity and labour we\u2019re desperate for."
+                ],
+                [
+                    "___Why___",
+                    "Why keep defending a rigid policy that\u2019s visibly hurting us when a smarter approach can balance safety and growth?"
+                ]
+            ],
+            "sentences_no_utterance_types": "I reckon a flexible framework is the best way because it lets us control immigration with precision, like Canada does, matching numbers to need without overloading services or risking security. Your strict controls might sound like a safeguard, yet they\u2019re clearly causing shortages in farming and care, jacking up costs no matter what other factors you blame. A government-led system can vet just as tightly for genuine contributors while still bringing in the diversity and labour we\u2019re desperate for. Why keep defending a rigid policy that\u2019s visibly hurting us when a smarter approach can balance safety and growth?",
+            "timestamp": "2025-10-08 11:41:42"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why do you think a government-led system can bring in the diversity and labour we need without flooding the labour market?"
+                ],
+                [
+                    "___Claim___",
+                    "Strict controls are necessary to ensure that only genuine contributors and refugees are allowed in, protecting both our economy and moral standards."
+                ],
+                [
+                    "___Question___",
+                    "Why do you believe a flexible framework can control immigration with precision without risking security?"
+                ],
+                [
+                    "___Claim___",
+                    "A government-led system can't guarantee the same level of vetting as strict controls, risking security and economic stability."
+                ],
+                [
+                    "___Question___",
+                    "What evidence do you have that a government-led system won't lead to economic instability or strain on public services?"
+                ],
+                [
+                    "___Since___",
+                    "Strict controls are necessary to ensure that only genuine contributors and refugees are allowed in, protecting both our economy and moral standards."
+                ]
+            ],
+            "sentences_no_utterance_types": "Why do you think a government-led system can bring in the diversity and labour we need without flooding the labour market? Strict controls are necessary to ensure that only genuine contributors and refugees are allowed in, protecting both our economy and moral standards. Why do you believe a flexible framework can control immigration with precision without risking security? A government-led system can't guarantee the same level of vetting as strict controls, risking security and economic stability. What evidence do you have that a government-led system won't lead to economic instability or strain on public services? Strict controls are necessary to ensure that only genuine contributors and refugees are allowed in, protecting both our economy and moral standards.",
+            "timestamp": "2025-10-08 11:43:53"
+        },
+        {
+            "speaker": "grok-3_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "I reckon a government-led system can bring in diversity and labour without flooding the market by using targeted quotas, like Canada\u2019s model, which matches migrants to specific economic needs."
+                ],
+                [
+                    "___Since___",
+                    "A flexible framework controls immigration with precision by setting strict criteria and vetting processes, ensuring security isn\u2019t compromised while still welcoming talent."
+                ],
+                [
+                    "___Since___",
+                    "I\u2019ve got evidence from Canada\u2019s system, which keeps services steady and boosts growth without instability, unlike your rigid controls that choke off needed workers."
+                ],
+                [
+                    "___Claim___",
+                    "Your strict approach might feel safe, yet it\u2019s costing us with shortages and lost growth."
+                ],
+                [
+                    "___Why___",
+                    "Why back a failing policy when a smarter system can nail both security and prosperity?"
+                ]
+            ],
+            "sentences_no_utterance_types": "I reckon a government-led system can bring in diversity and labour without flooding the market by using targeted quotas, like Canada\u2019s model, which matches migrants to specific economic needs. A flexible framework controls immigration with precision by setting strict criteria and vetting processes, ensuring security isn\u2019t compromised while still welcoming talent. I\u2019ve got evidence from Canada\u2019s system, which keeps services steady and boosts growth without instability, unlike your rigid controls that choke off needed workers. Your strict approach might feel safe, yet it\u2019s costing us with shortages and lost growth. Why back a failing policy when a smarter system can nail both security and prosperity?",
+            "timestamp": "2025-10-08 11:44:03"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Question___",
+                    "What evidence do you have that a flexible framework won't lead to economic instability or strain on public services?"
+                ],
+                [
+                    "___Why___",
+                    "Why do you believe that a flexible framework won't risk security or economic stability?"
+                ],
+                [
+                    "___Claim___",
+                    "Strict controls help maintain economic stability by ensuring that the labour market isn't flooded, which can drive down wages and strain public services."
+                ],
+                [
+                    "___Since___",
+                    "A smarter system can't guarantee the same level of security and prosperity as strict controls."
+                ],
+                [
+                    "___Claim___",
+                    "Strict immigration controls are necessary to prevent potential threats from slipping through the cracks, ensuring national security."
+                ],
+                [
+                    "___Claim___",
+                    "A smarter system can't guarantee the same level of security and prosperity as strict controls."
+                ],
+                [
+                    "___Since___",
+                    "Strict controls help maintain economic stability by ensuring that the labour market isn't flooded, which can drive down wages and strain public services."
+                ]
+            ],
+            "sentences_no_utterance_types": "What evidence do you have that a flexible framework won't lead to economic instability or strain on public services? Why do you believe that a flexible framework won't risk security or economic stability? Strict controls help maintain economic stability by ensuring that the labour market isn't flooded, which can drive down wages and strain public services. A smarter system can't guarantee the same level of security and prosperity as strict controls. Strict immigration controls are necessary to prevent potential threats from slipping through the cracks, ensuring national security. A smarter system can't guarantee the same level of security and prosperity as strict controls. Strict controls help maintain economic stability by ensuring that the labour market isn't flooded, which can drive down wages and strain public services.",
+            "timestamp": "2025-10-08 11:50:10"
+        },
+        {
+            "speaker": "grok-3_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "I\u2019ve got clear evidence that a flexible framework doesn\u2019t lead to economic instability\u2014Canada\u2019s points-based system keeps immigration tied to labour needs, avoiding strain on services while driving growth."
+                ],
+                [
+                    "___Since___",
+                    "I reckon it won\u2019t risk security or stability because it uses tough vetting and quotas to control who comes in, matching your strict controls without killing off diversity."
+                ],
+                [
+                    "___Claim___",
+                    "Your rigid approach is costing us with shortages in key sectors like farming, as we\u2019re seeing right now."
+                ],
+                [
+                    "___Why___",
+                    "Why keep pushing a policy that\u2019s choking our economy when a balanced, government-led system can deliver safety and fairness?"
+                ]
+            ],
+            "sentences_no_utterance_types": "I\u2019ve got clear evidence that a flexible framework doesn\u2019t lead to economic instability\u2014Canada\u2019s points-based system keeps immigration tied to labour needs, avoiding strain on services while driving growth. I reckon it won\u2019t risk security or stability because it uses tough vetting and quotas to control who comes in, matching your strict controls without killing off diversity. Your rigid approach is costing us with shortages in key sectors like farming, as we\u2019re seeing right now. Why keep pushing a policy that\u2019s choking our economy when a balanced, government-led system can deliver safety and fairness?",
+            "timestamp": "2025-10-08 11:50:19"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Strict controls are necessary to ensure that only genuine contributors and refugees are allowed in, protecting both our economy and moral standards."
+                ],
+                [
+                    "___Claim___",
+                    "A government-led system can't guarantee the same level of security as strict controls, and it risks letting in too many immigrants, which can strain public services."
+                ],
+                [
+                    "___Why___",
+                    "Why do you think tough vetting and quotas can match the security of strict controls without risking economic instability?"
+                ],
+                [
+                    "___Since___",
+                    "Strict controls are necessary to ensure that only genuine contributors and refugees are allowed in, protecting both our economy and moral standards."
+                ],
+                [
+                    "___Claim___",
+                    "The shortages and rising costs in sectors like farming and care are not due to strict controls but rather other economic factors."
+                ],
+                [
+                    "___Question___",
+                    "What evidence do you have that a flexible framework won\u2019t risk security or economic stability?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Strict controls are necessary to ensure that only genuine contributors and refugees are allowed in, protecting both our economy and moral standards. A government-led system can't guarantee the same level of security as strict controls, and it risks letting in too many immigrants, which can strain public services. Why do you think tough vetting and quotas can match the security of strict controls without risking economic instability? Strict controls are necessary to ensure that only genuine contributors and refugees are allowed in, protecting both our economy and moral standards. The shortages and rising costs in sectors like farming and care are not due to strict controls but rather other economic factors. What evidence do you have that a flexible framework won\u2019t risk security or economic stability?",
+            "timestamp": "2025-10-08 11:55:24"
+        },
+        {
+            "speaker": "grok-3_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "I reckon tough vetting and quotas match the security of strict controls because they\u2019re tailored to screen out risks while still letting in needed talent, like Canada\u2019s system shows with its tight criteria."
+                ],
+                [
+                    "___Claim___",
+                    "I\u2019ve got evidence that a flexible framework doesn\u2019t risk security or stability\u2014Canada\u2019s immigration model keeps numbers controlled and boosts growth without overloading services."
+                ],
+                [
+                    "___Claim___",
+                    "Your strict controls might sound secure, yet they\u2019re strangling sectors like farming with shortages, no matter what other factors you point to."
+                ],
+                [
+                    "___Why___",
+                    "Why keep backing a policy that\u2019s visibly costing us when a balanced, government-led approach can nail safety and prosperity?"
+                ]
+            ],
+            "sentences_no_utterance_types": "I reckon tough vetting and quotas match the security of strict controls because they\u2019re tailored to screen out risks while still letting in needed talent, like Canada\u2019s system shows with its tight criteria. I\u2019ve got evidence that a flexible framework doesn\u2019t risk security or stability\u2014Canada\u2019s immigration model keeps numbers controlled and boosts growth without overloading services. Your strict controls might sound secure, yet they\u2019re strangling sectors like farming with shortages, no matter what other factors you point to. Why keep backing a policy that\u2019s visibly costing us when a balanced, government-led approach can nail safety and prosperity?",
+            "timestamp": "2025-10-08 11:55:34"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "A government-led approach can't guarantee the same level of security as strict controls, and it risks letting in too many immigrants, which can strain public services."
+                ],
+                [
+                    "___Claim___",
+                    "Strict controls are necessary to ensure that only genuine contributors and refugees are allowed in, protecting both our economy and moral standards."
+                ],
+                [
+                    "___Claim___",
+                    "Strict controls help maintain economic stability by preventing the labour market from being flooded, which can drive down wages and strain public services."
+                ],
+                [
+                    "___Question___",
+                    "What makes you think that Canada\u2019s system can guarantee the same level of security and prosperity as strict controls?"
+                ],
+                [
+                    "___Claim___",
+                    "A government-led approach can't guarantee the same level of security as strict controls, and it risks letting in too many immigrants, which can strain public services."
+                ],
+                [
+                    "___Since___",
+                    "Strict controls are necessary to ensure that only genuine contributors and refugees are allowed in, protecting both our economy and moral standards."
+                ],
+                [
+                    "___Question___",
+                    "How can you be sure that loosening controls won\u2019t just flood the market and make these shortages worse?"
+                ]
+            ],
+            "sentences_no_utterance_types": "A government-led approach can't guarantee the same level of security as strict controls, and it risks letting in too many immigrants, which can strain public services. Strict controls are necessary to ensure that only genuine contributors and refugees are allowed in, protecting both our economy and moral standards. Strict controls help maintain economic stability by preventing the labour market from being flooded, which can drive down wages and strain public services. What makes you think that Canada\u2019s system can guarantee the same level of security and prosperity as strict controls? A government-led approach can't guarantee the same level of security as strict controls, and it risks letting in too many immigrants, which can strain public services. Strict controls are necessary to ensure that only genuine contributors and refugees are allowed in, protecting both our economy and moral standards. How can you be sure that loosening controls won\u2019t just flood the market and make these shortages worse?",
+            "timestamp": "2025-10-08 12:00:27"
+        },
+        {
+            "speaker": "grok-3_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "I reckon Canada\u2019s system can match security and prosperity because it uses strict vetting and quotas to control who comes in, keeping risks low while still boosting the economy with needed talent."
+                ],
+                [
+                    "___Since___",
+                    "I\u2019m certain loosening controls won\u2019t flood the market since a government-led approach, like Canada\u2019s, ties immigration to actual demand, avoiding strain on services."
+                ],
+                [
+                    "___Claim___",
+                    "Your strict controls are already causing shortages in key sectors like farming, hiking up costs."
+                ],
+                [
+                    "___Why___",
+                    "Why keep pushing a failing policy when a balanced system can deliver safety and growth?"
+                ]
+            ],
+            "sentences_no_utterance_types": "I reckon Canada\u2019s system can match security and prosperity because it uses strict vetting and quotas to control who comes in, keeping risks low while still boosting the economy with needed talent. I\u2019m certain loosening controls won\u2019t flood the market since a government-led approach, like Canada\u2019s, ties immigration to actual demand, avoiding strain on services. Your strict controls are already causing shortages in key sectors like farming, hiking up costs. Why keep pushing a failing policy when a balanced system can deliver safety and growth?",
+            "timestamp": "2025-10-08 12:00:36"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Question___",
+                    "What evidence do you have that Canada\u2019s system can match the security and prosperity of strict controls?"
+                ],
+                [
+                    "___Question___",
+                    "How can you be sure that a government-led approach won't strain public services in the long run?"
+                ],
+                [
+                    "___Claim___",
+                    "Strict controls are necessary to ensure that only genuine contributors and refugees are allowed in, protecting both our economy and moral standards."
+                ],
+                [
+                    "___Claim___",
+                    "Strict controls help maintain economic stability by ensuring that the labour market isn't flooded, which can drive down wages and strain public services."
+                ],
+                [
+                    "___Question___",
+                    "What evidence do you have that tying immigration to demand won't lead to shortages in other sectors?"
+                ],
+                [
+                    "___Since___",
+                    "Strict controls are necessary to ensure that only genuine contributors and refugees are allowed in, protecting both our economy and moral standards."
+                ]
+            ],
+            "sentences_no_utterance_types": "What evidence do you have that Canada\u2019s system can match the security and prosperity of strict controls? How can you be sure that a government-led approach won't strain public services in the long run? Strict controls are necessary to ensure that only genuine contributors and refugees are allowed in, protecting both our economy and moral standards. Strict controls help maintain economic stability by ensuring that the labour market isn't flooded, which can drive down wages and strain public services. What evidence do you have that tying immigration to demand won't lead to shortages in other sectors? Strict controls are necessary to ensure that only genuine contributors and refugees are allowed in, protecting both our economy and moral standards.",
+            "timestamp": "2025-10-08 12:04:38"
+        },
+        {
+            "speaker": "grok-3_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "I\u2019ve got solid evidence that Canada\u2019s system matches security and prosperity\u2014its strict vetting and points-based criteria keep risks low while driving economic growth with skilled migrants."
+                ],
+                [
+                    "___Since___",
+                    "I\u2019m confident a government-led approach won\u2019t strain services long-term since it adjusts immigration to actual capacity, unlike your rigid controls that are already causing shortages."
+                ],
+                [
+                    "___Claim___",
+                    "Tying immigration to demand avoids shortages across sectors by targeting specific needs, as Canada\u2019s data shows with balanced labour distribution."
+                ],
+                [
+                    "___Claim___",
+                    "Your strict controls are choking off talent we need right now."
+                ],
+                [
+                    "___Why___",
+                    "Why stick to a failing setup when a smarter system can secure safety and growth?"
+                ]
+            ],
+            "sentences_no_utterance_types": "I\u2019ve got solid evidence that Canada\u2019s system matches security and prosperity\u2014its strict vetting and points-based criteria keep risks low while driving economic growth with skilled migrants. I\u2019m confident a government-led approach won\u2019t strain services long-term since it adjusts immigration to actual capacity, unlike your rigid controls that are already causing shortages. Tying immigration to demand avoids shortages across sectors by targeting specific needs, as Canada\u2019s data shows with balanced labour distribution. Your strict controls are choking off talent we need right now. Why stick to a failing setup when a smarter system can secure safety and growth?",
+            "timestamp": "2025-10-08 12:04:50"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "We need to prioritise national security and economic stability over unchecked immigration."
+                ],
+                [
+                    "___Claim___",
+                    "Strict controls are necessary to ensure that only genuine contributors and refugees are allowed in, protecting both our economy and moral standards."
+                ],
+                [
+                    "___Claim___",
+                    "Strict controls help maintain economic stability by ensuring that the labour market isn't flooded, which can drive down wages and strain public services."
+                ],
+                [
+                    "___Claim___",
+                    "A government-led approach can't guarantee the same level of security as strict controls, and it risks letting in too many immigrants, which can strain public services."
+                ],
+                [
+                    "___Since___",
+                    "Strict controls are necessary to ensure that only genuine contributors and refugees are allowed in, protecting both our economy and moral standards."
+                ],
+                [
+                    "___Question___",
+                    "What evidence do you have that Canada\u2019s system can guarantee the same level of security and prosperity as strict controls?"
+                ],
+                [
+                    "___Since___",
+                    "Strict controls help maintain economic stability by ensuring that the labour market isn't flooded, which can drive down wages and strain public services."
+                ]
+            ],
+            "sentences_no_utterance_types": "We need to prioritise national security and economic stability over unchecked immigration. Strict controls are necessary to ensure that only genuine contributors and refugees are allowed in, protecting both our economy and moral standards. Strict controls help maintain economic stability by ensuring that the labour market isn't flooded, which can drive down wages and strain public services. A government-led approach can't guarantee the same level of security as strict controls, and it risks letting in too many immigrants, which can strain public services. Strict controls are necessary to ensure that only genuine contributors and refugees are allowed in, protecting both our economy and moral standards. What evidence do you have that Canada\u2019s system can guarantee the same level of security and prosperity as strict controls? Strict controls help maintain economic stability by ensuring that the labour market isn't flooded, which can drive down wages and strain public services.",
+            "timestamp": "2025-10-08 12:12:23"
+        },
+        {
+            "speaker": "grok-3_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "I\u2019ve got hard evidence that Canada\u2019s system matches security and prosperity\u2014its points-based model uses rigorous vetting to screen out risks while pulling in talent that fuels growth, without flooding the market."
+                ],
+                [
+                    "___Claim___",
+                    "Your strict controls are already tanking our economy with labour shortages in key areas like farming, jacking up costs."
+                ],
+                [
+                    "___Claim___",
+                    "A government-led approach controls numbers with precision, keeping services safe from strain."
+                ],
+                [
+                    "___Why___",
+                    "Why cling to a rigid policy that\u2019s failing us when a balanced system can deliver both safety and success?"
+                ]
+            ],
+            "sentences_no_utterance_types": "I\u2019ve got hard evidence that Canada\u2019s system matches security and prosperity\u2014its points-based model uses rigorous vetting to screen out risks while pulling in talent that fuels growth, without flooding the market. Your strict controls are already tanking our economy with labour shortages in key areas like farming, jacking up costs. A government-led approach controls numbers with precision, keeping services safe from strain. Why cling to a rigid policy that\u2019s failing us when a balanced system can deliver both safety and success?",
+            "timestamp": "2025-10-08 12:12:31"
+        },
+        {
+            "speaker": "mistral-medium_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "A government-led approach can't guarantee the same level of security as strict controls, and it risks letting in too many immigrants, which can strain public services."
+                ],
+                [
+                    "___Claim___",
+                    "Strict controls are necessary to ensure that only genuine contributors and refugees are allowed in, protecting both our economy and moral standards."
+                ],
+                [
+                    "___Claim___",
+                    "A government-led approach can't guarantee the same level of security as strict controls, and it risks letting in too many immigrants, which can strain public services."
+                ],
+                [
+                    "___Since___",
+                    "Strict controls are necessary to ensure that only genuine contributors and refugees are allowed in, protecting both our economy and moral standards."
+                ],
+                [
+                    "___Claim___",
+                    "The shortages and rising costs in sectors like farming and care are not due to strict controls but rather other economic factors."
+                ]
+            ],
+            "sentences_no_utterance_types": "A government-led approach can't guarantee the same level of security as strict controls, and it risks letting in too many immigrants, which can strain public services. Strict controls are necessary to ensure that only genuine contributors and refugees are allowed in, protecting both our economy and moral standards. A government-led approach can't guarantee the same level of security as strict controls, and it risks letting in too many immigrants, which can strain public services. Strict controls are necessary to ensure that only genuine contributors and refugees are allowed in, protecting both our economy and moral standards. The shortages and rising costs in sectors like farming and care are not due to strict controls but rather other economic factors.",
+            "timestamp": "2025-10-08 12:15:56"
+        }
+    ],
+    "first_speaker": "grok-3_base",
+    "first_speaker_utterance": "",
+    "first_speaker_commitments": [
+        "I believe the government should take a strong role in healthcare, welfare, and immigration to ensure fairness and support for all citizens.",
+        "Your strict controls might vet people, yet they often ignore genuine refugees and choke off economic benefits migrants bring through diversity and labour.",
+        "I\u2019m not convinced regulation can fully fix private healthcare flaws when profit motives always push firms to cut corners on access for the poor\u2014look at the US, where even regulated systems fail millions.",
+        "Look at countries like Canada\u2014managed immigration systems let in skilled workers and humanitarian cases without flooding the labour market or risking security.",
+        "I\u2019m not buying that a flexible framework means unchecked immigration or inevitable instability."
+    ],
+    "first_speaker_original_claim": "I believe the government should take a strong role in healthcare, welfare, and immigration to ensure fairness and support for all citizens.",
+    "first_speaker_typical_replies_for_second_speakers_response": [],
+    "second_speaker": "mistral-medium_mas_rag",
+    "second_speaker_utterance": "A government-led approach can't guarantee the same level of security as strict controls, and it risks letting in too many immigrants, which can strain public services. Strict controls are necessary to ensure that only genuine contributors and refugees are allowed in, protecting both our economy and moral standards. A government-led approach can't guarantee the same level of security as strict controls, and it risks letting in too many immigrants, which can strain public services. Strict controls are necessary to ensure that only genuine contributors and refugees are allowed in, protecting both our economy and moral standards. The shortages and rising costs in sectors like farming and care are not due to strict controls but rather other economic factors.",
+    "second_speaker_commitments": [
+        "Strict immigration controls are necessary to protect national security and economic stability.",
+        "Regulation can fix private healthcare flaws by ensuring that profit motives don't compromise access for the poor.",
+        "A smarter system can't guarantee the same level of security and prosperity as strict controls.",
+        "The shortages and rising costs in sectors like farming and care are not due to strict controls but rather other economic factors."
+    ],
+    "second_speaker_original_claim": "Strict immigration controls are necessary to protect national security and economic stability.",
+    "second_speaker_typical_replies_for_first_speakers_response": [],
+    "winner": "None",
+    "loser": "None",
+    "reason_for_dialogue_termination": {
+        "reason": "Maximum number of dialogue turns reached (40 dialogue turns).",
+        "utterance_type": null,
+        "utterance": null
+    },
+    "session_status": "Finished."
+}

@@ -1,0 +1,13 @@
+[2025-10-16 15:55:56,639] [INFO] Trying to create session grok-4_mas_rag:l__vs__mistral-medium_base:r...
+[2025-10-16 15:55:56,672] [INFO] DIALOGUE START: Parent graph invoked, waiting for Langgraph return state...
+[2025-10-16 15:55:56,758] [INFO] ENTER: 'VectorBasedRAG' calling '_vector_based_examples'; CURRENT SPEAKER: grok-4_mas_rag, DIALOGUE TURN NUM = 0.
+[2025-10-16 15:55:56,758] [INFO] ENTER: 'VectorBasedRAG' calling '_query_graph'; CURRENT SPEAKER: grok-4_mas_rag, DIALOGUE TURN NUM = 0.
+[2025-10-16 15:55:56,828] [INFO] EXIT: 'VectorBasedRAG' calling '_query_graph' (0.07036256790161133 secs).
+[2025-10-16 15:55:56,829] [INFO] EXIT: 'VectorBasedRAG' calling '_vector_based_examples' (0.07106518745422363 secs).
+[2025-10-16 15:55:56,829] [INFO] ENTER: 'VectorBasedRAG' calling '_vector_based_examples'; CURRENT SPEAKER: grok-4_mas_rag, DIALOGUE TURN NUM = 0.
+[2025-10-16 15:55:56,829] [INFO] ENTER: 'VectorBasedRAG' calling '_query_graph'; CURRENT SPEAKER: grok-4_mas_rag, DIALOGUE TURN NUM = 0.
+[2025-10-16 15:55:56,892] [INFO] EXIT: 'VectorBasedRAG' calling '_query_graph' (0.06338095664978027 secs).
+[2025-10-16 15:55:56,893] [INFO] EXIT: 'VectorBasedRAG' calling '_vector_based_examples' (0.06391191482543945 secs).
+[2025-10-16 15:55:56,893] [INFO] ENTER: 'VectorBasedRAG' calling '_create_prompt'; CURRENT SPEAKER: grok-4_mas_rag, DIALOGUE TURN NUM = 0.
+[2025-10-16 15:55:56,893] [INFO] EXIT: 'VectorBasedRAG' calling '_create_prompt' (1.0967254638671875e-05 secs).
+[2025-10-16 15:55:56,893] [INFO] ENTER: 'VectorBasedRAG' calling '_generate_completion'; CURRENT SPEAKER: grok-4_mas_rag, DIALOGUE TURN NUM = 0.

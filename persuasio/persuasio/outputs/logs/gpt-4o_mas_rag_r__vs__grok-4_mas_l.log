@@ -1,0 +1,1322 @@
+[2025-11-04 15:14:53,961] [INFO] Trying to create session gpt-4o_mas_rag:r__vs__grok-4_mas:l...
+[2025-11-04 15:14:53,961] [INFO] DIALOGUE START: Parent graph invoked, waiting for Langgraph return state...
+[2025-11-04 15:14:54,178] [INFO] ENTER: 'VectorBasedRAG' calling '_vector_based_examples'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 0.
+[2025-11-04 15:14:54,178] [INFO] ENTER: 'VectorBasedRAG' calling '_query_graph'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 0.
+[2025-11-04 15:14:54,244] [INFO] EXIT: 'VectorBasedRAG' calling '_query_graph' (0.06682372093200684 secs).
+[2025-11-04 15:14:54,244] [INFO] EXIT: 'VectorBasedRAG' calling '_vector_based_examples' (0.06682372093200684 secs).
+[2025-11-04 15:14:54,254] [INFO] ENTER: 'VectorBasedRAG' calling '_vector_based_examples'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 0.
+[2025-11-04 15:14:54,254] [INFO] ENTER: 'VectorBasedRAG' calling '_query_graph'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 0.
+[2025-11-04 15:14:54,287] [INFO] EXIT: 'VectorBasedRAG' calling '_query_graph' (0.03352761268615723 secs).
+[2025-11-04 15:14:54,287] [INFO] EXIT: 'VectorBasedRAG' calling '_vector_based_examples' (0.03352761268615723 secs).
+[2025-11-04 15:14:54,287] [INFO] ENTER: 'VectorBasedRAG' calling '_create_prompt'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 0.
+[2025-11-04 15:14:54,287] [INFO] EXIT: 'VectorBasedRAG' calling '_create_prompt' (0.0 secs).
+[2025-11-04 15:14:54,287] [INFO] ENTER: 'VectorBasedRAG' calling '_generate_completion'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 0.
+[2025-11-04 15:15:00,305] [INFO] 'VectorBasedRAG' agent persona completion returned and validated; MODEL = 'gpt-4o'.
+[2025-11-04 15:15:00,305] [INFO] EXIT: 'VectorBasedRAG' calling '_generate_completion' (6.0176637172698975 secs).
+[2025-11-04 15:15:00,305] [INFO] ENTER: 'VectorBasedRAG' calling 'persona_string'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 0.
+[2025-11-04 15:15:00,305] [INFO] 'VectorBasedRAG' agent persona string generated; MODEL = 'gpt-4o'.
+[2025-11-04 15:15:00,305] [INFO] EXIT: 'VectorBasedRAG' calling 'persona_string' (0.0 secs).
+[2025-11-04 15:15:00,305] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 0.
+[2025-11-04 15:15:00,305] [INFO] ENTER: 'MASPromptGenerator' calling 'initial_llm_claim'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 0.
+[2025-11-04 15:15:00,305] [INFO] EXIT: 'MASPromptGenerator' calling 'initial_llm_claim' (0.0 secs).
+[2025-11-04 15:15:01,373] [INFO] Completion returned and validated from MODEL = 'gpt-4o'.
+[2025-11-04 15:15:01,373] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (1.0675079822540283 secs).
+[2025-11-04 15:15:01,373] [INFO] ENTER: 'MASPromptGenerator' calling 'persuasiveness_choice'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 0.
+[2025-11-04 15:15:01,373] [INFO] EXIT: 'MASPromptGenerator' calling 'persuasiveness_choice' (0.0 secs).
+[2025-11-04 15:15:02,053] [INFO] Completion returned and validated within 'PersuasivenessChoiceAgent'; MODEL = 'gpt-4o'; DIALOGUE TURN NUM = 0.
+[2025-11-04 15:15:02,054] [INFO] ENTER: 'DisambiguationAgent' calling 'return_disambiguated_sentences'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 0.
+[2025-11-04 15:15:02,054] [INFO] EXIT: 'DisambiguationAgent' calling 'return_disambiguated_sentences' (0.0 secs).
+[2025-11-04 15:15:02,055] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:02,056] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:02,530] [INFO] 'commitment_update' completed '___Claim___' update for current speaker's commitments; MODEL = 'gpt-4o'.
+[2025-11-04 15:15:02,533] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:02,533] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:02,534] [INFO] ENTER: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 1.
+[2025-11-04 15:15:03,294] [INFO] 'UtteranceClassificationAgent' completion returned and validated from MODEL = 'ModelName.GROK_4'.
+[2025-11-04 15:15:03,294] [INFO] EXIT: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types' (0.7602038383483887 secs).
+[2025-11-04 15:15:03,294] [INFO] ENTER: 'UtteranceClassificationAgent' calling 'return_classified_sentences'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 1.
+[2025-11-04 15:15:03,294] [INFO] EXIT: 'UtteranceClassificationAgent' calling 'return_classified_sentences' (0.0 secs).
+[2025-11-04 15:15:03,295] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 1.
+[2025-11-04 15:15:03,296] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 1.
+[2025-11-04 15:15:03,296] [INFO] ENTER: 'MASPromptGenerator' calling 'claim_negation'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 1.
+[2025-11-04 15:15:03,296] [INFO] ENTER: 'MASPromptGenerator' calling 'concede_claim'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 1.
+[2025-11-04 15:15:03,296] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 1.
+[2025-11-04 15:15:03,296] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 1.
+[2025-11-04 15:15:03,296] [INFO] EXIT: 'MASPromptGenerator' calling 'claim_negation' (0.0 secs).
+[2025-11-04 15:15:03,296] [INFO] EXIT: 'MASPromptGenerator' calling 'concede_claim' (0.0 secs).
+[2025-11-04 15:15:03,296] [INFO] ENTER: 'MASPromptGenerator' calling 'question_claim'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 1.
+[2025-11-04 15:15:03,297] [INFO] ENTER: 'MASPromptGenerator' calling 'why_claim'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 1.
+[2025-11-04 15:15:03,297] [INFO] EXIT: 'MASPromptGenerator' calling 'question_claim' (0.0 secs).
+[2025-11-04 15:15:03,297] [INFO] EXIT: 'MASPromptGenerator' calling 'why_claim' (0.0 secs).
+[2025-11-04 15:15:05,072] [INFO] Completion returned and validated from MODEL = 'grok-4'.
+[2025-11-04 15:15:05,073] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (1.77744722366333 secs).
+[2025-11-04 15:15:05,077] [INFO] Completion returned and validated from MODEL = 'grok-4'.
+[2025-11-04 15:15:05,077] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (1.7815029621124268 secs).
+[2025-11-04 15:15:05,200] [INFO] Completion returned and validated from MODEL = 'grok-4'.
+[2025-11-04 15:15:05,201] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (1.905198097229004 secs).
+[2025-11-04 15:15:05,342] [INFO] Completion returned and validated from MODEL = 'grok-4'.
+[2025-11-04 15:15:05,343] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (2.0465738773345947 secs).
+[2025-11-04 15:15:05,343] [INFO] ENTER: 'MASPromptGenerator' calling 'persuasiveness_choice'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 1.
+[2025-11-04 15:15:05,343] [INFO] EXIT: 'MASPromptGenerator' calling 'persuasiveness_choice' (0.0 secs).
+[2025-11-04 15:15:07,535] [INFO] Completion returned and validated within 'PersuasivenessChoiceAgent'; MODEL = 'grok-4'; DIALOGUE TURN NUM = 1.
+[2025-11-04 15:15:07,537] [INFO] ENTER: 'DisambiguationAgent' calling 'return_disambiguated_sentences'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 1.
+[2025-11-04 15:15:07,537] [INFO] EXIT: 'DisambiguationAgent' calling 'return_disambiguated_sentences' (0.0 secs).
+[2025-11-04 15:15:07,537] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:07,537] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:07,540] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:07,540] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:07,540] [INFO] ENTER: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 2.
+[2025-11-04 15:15:08,038] [INFO] 'UtteranceClassificationAgent' completion returned and validated from MODEL = 'ModelName.GPT_4O'.
+[2025-11-04 15:15:08,038] [INFO] EXIT: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types' (0.4980292320251465 secs).
+[2025-11-04 15:15:08,038] [INFO] ENTER: 'UtteranceClassificationAgent' calling 'return_classified_sentences'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 2.
+[2025-11-04 15:15:08,038] [INFO] EXIT: 'UtteranceClassificationAgent' calling 'return_classified_sentences' (0.0 secs).
+[2025-11-04 15:15:08,061] [INFO] ENTER: 'GraphRAG' calling 'since'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 2.
+[2025-11-04 15:15:08,061] [INFO] ENTER: 'GraphRAG' calling 'query_graph'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 2.
+[2025-11-04 15:15:08,090] [INFO] EXIT: 'GraphRAG' calling 'query_graph' (0.029370546340942383 secs).
+[2025-11-04 15:15:08,090] [INFO] EXIT: 'GraphRAG' calling 'since' (0.029370546340942383 secs).
+[2025-11-04 15:15:08,090] [INFO] ENTER: 'GraphRAG' calling 'claim'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 2.
+[2025-11-04 15:15:08,090] [INFO] ENTER: 'GraphRAG' calling 'query_graph'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 2.
+[2025-11-04 15:15:08,109] [INFO] EXIT: 'GraphRAG' calling 'query_graph' (0.019287109375 secs).
+[2025-11-04 15:15:08,109] [INFO] EXIT: 'GraphRAG' calling 'claim' (0.019287109375 secs).
+[2025-11-04 15:15:08,109] [INFO] ENTER: 'GraphRAG' calling 'return_rag_examples'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 2.
+[2025-11-04 15:15:08,109] [INFO] EXIT: 'GraphRAG' calling 'return_rag_examples' (0.0 secs).
+[2025-11-04 15:15:08,111] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 2.
+[2025-11-04 15:15:08,111] [INFO] ENTER: 'MASPromptGenerator' calling 'claim'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 2.
+[2025-11-04 15:15:08,111] [INFO] EXIT: 'MASPromptGenerator' calling 'claim' (0.0 secs).
+[2025-11-04 15:15:08,111] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0 secs).
+[2025-11-04 15:15:08,112] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 2.
+[2025-11-04 15:15:08,112] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 2.
+[2025-11-04 15:15:08,112] [INFO] ENTER: 'MASPromptGenerator' calling 'retract_claim'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 2.
+[2025-11-04 15:15:08,112] [INFO] ENTER: 'MASPromptGenerator' calling 'since_claim'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 2.
+[2025-11-04 15:15:08,112] [INFO] EXIT: 'MASPromptGenerator' calling 'retract_claim' (0.0 secs).
+[2025-11-04 15:15:08,112] [INFO] EXIT: 'MASPromptGenerator' calling 'since_claim' (0.0 secs).
+[2025-11-04 15:15:08,112] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0 secs).
+[2025-11-04 15:15:08,112] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0 secs).
+[2025-11-04 15:15:08,113] [INFO] ENTER: 'MASPromptGenerator' calling 'persuasiveness_choice'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 2.
+[2025-11-04 15:15:08,113] [INFO] EXIT: 'MASPromptGenerator' calling 'persuasiveness_choice' (0.0 secs).
+[2025-11-04 15:15:08,616] [INFO] Completion returned and validated within 'PersuasivenessChoiceAgent'; MODEL = 'gpt-4o'; DIALOGUE TURN NUM = 2.
+[2025-11-04 15:15:08,617] [INFO] ENTER: 'DisambiguationAgent' calling 'return_disambiguated_sentences'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 2.
+[2025-11-04 15:15:08,617] [INFO] EXIT: 'DisambiguationAgent' calling 'return_disambiguated_sentences' (0.0 secs).
+[2025-11-04 15:15:08,618] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:08,618] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:08,621] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:08,621] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:08,621] [INFO] ENTER: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 3.
+[2025-11-04 15:15:09,231] [INFO] 'UtteranceClassificationAgent' completion returned and validated from MODEL = 'ModelName.GROK_4'.
+[2025-11-04 15:15:09,231] [INFO] EXIT: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types' (0.609783411026001 secs).
+[2025-11-04 15:15:09,231] [INFO] ENTER: 'UtteranceClassificationAgent' calling 'return_classified_sentences'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 3.
+[2025-11-04 15:15:09,231] [INFO] EXIT: 'UtteranceClassificationAgent' calling 'return_classified_sentences' (0.0 secs).
+[2025-11-04 15:15:09,233] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 3.
+[2025-11-04 15:15:09,233] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 3.
+[2025-11-04 15:15:09,233] [INFO] ENTER: 'MASPromptGenerator' calling 'claim_negation'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 3.
+[2025-11-04 15:15:09,233] [INFO] ENTER: 'MASPromptGenerator' calling 'concede_claim'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 3.
+[2025-11-04 15:15:09,233] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 3.
+[2025-11-04 15:15:09,234] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 3.
+[2025-11-04 15:15:09,234] [INFO] EXIT: 'MASPromptGenerator' calling 'claim_negation' (0.0 secs).
+[2025-11-04 15:15:09,234] [INFO] EXIT: 'MASPromptGenerator' calling 'concede_claim' (0.0 secs).
+[2025-11-04 15:15:09,234] [INFO] ENTER: 'MASPromptGenerator' calling 'question_claim'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 3.
+[2025-11-04 15:15:09,234] [INFO] ENTER: 'MASPromptGenerator' calling 'why_claim'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 3.
+[2025-11-04 15:15:09,234] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.001001119613647461 secs).
+[2025-11-04 15:15:09,234] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.001001119613647461 secs).
+[2025-11-04 15:15:09,234] [INFO] EXIT: 'MASPromptGenerator' calling 'question_claim' (0.0 secs).
+[2025-11-04 15:15:09,234] [INFO] EXIT: 'MASPromptGenerator' calling 'why_claim' (0.0 secs).
+[2025-11-04 15:15:09,234] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0 secs).
+[2025-11-04 15:15:09,234] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0 secs).
+[2025-11-04 15:15:09,235] [INFO] ENTER: 'MASPromptGenerator' calling 'persuasiveness_choice'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 3.
+[2025-11-04 15:15:09,235] [INFO] EXIT: 'MASPromptGenerator' calling 'persuasiveness_choice' (0.0 secs).
+[2025-11-04 15:15:10,006] [INFO] Completion returned and validated within 'PersuasivenessChoiceAgent'; MODEL = 'grok-4'; DIALOGUE TURN NUM = 3.
+[2025-11-04 15:15:10,007] [INFO] ENTER: 'DisambiguationAgent' calling 'return_disambiguated_sentences'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 3.
+[2025-11-04 15:15:10,007] [INFO] EXIT: 'DisambiguationAgent' calling 'return_disambiguated_sentences' (0.0 secs).
+[2025-11-04 15:15:10,008] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:10,008] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:10,011] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:10,012] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:10,012] [INFO] ENTER: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 4.
+[2025-11-04 15:15:10,927] [INFO] 'UtteranceClassificationAgent' completion returned and validated from MODEL = 'ModelName.GPT_4O'.
+[2025-11-04 15:15:10,927] [INFO] EXIT: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types' (0.9153933525085449 secs).
+[2025-11-04 15:15:10,927] [INFO] ENTER: 'UtteranceClassificationAgent' calling 'return_classified_sentences'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 4.
+[2025-11-04 15:15:10,927] [INFO] EXIT: 'UtteranceClassificationAgent' calling 'return_classified_sentences' (0.0 secs).
+[2025-11-04 15:15:10,937] [INFO] ENTER: 'GraphRAG' calling 'claim'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 4.
+[2025-11-04 15:15:10,938] [INFO] ENTER: 'GraphRAG' calling 'query_graph'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 4.
+[2025-11-04 15:15:11,021] [INFO] EXIT: 'GraphRAG' calling 'query_graph' (0.08295679092407227 secs).
+[2025-11-04 15:15:11,021] [INFO] EXIT: 'GraphRAG' calling 'claim' (0.08395743370056152 secs).
+[2025-11-04 15:15:11,021] [INFO] ENTER: 'GraphRAG' calling 'claim_negation'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 4.
+[2025-11-04 15:15:11,021] [INFO] ENTER: 'GraphRAG' calling 'query_graph'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 4.
+[2025-11-04 15:15:11,056] [INFO] EXIT: 'GraphRAG' calling 'query_graph' (0.033270835876464844 secs).
+[2025-11-04 15:15:11,056] [INFO] EXIT: 'GraphRAG' calling 'claim_negation' (0.03440046310424805 secs).
+[2025-11-04 15:15:11,056] [INFO] ENTER: 'GraphRAG' calling 'return_rag_examples'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 4.
+[2025-11-04 15:15:11,056] [INFO] EXIT: 'GraphRAG' calling 'return_rag_examples' (0.0 secs).
+[2025-11-04 15:15:11,059] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 4.
+[2025-11-04 15:15:11,059] [INFO] ENTER: 'MASPromptGenerator' calling 'claim'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 4.
+[2025-11-04 15:15:11,059] [INFO] EXIT: 'MASPromptGenerator' calling 'claim' (0.0 secs).
+[2025-11-04 15:15:11,059] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0 secs).
+[2025-11-04 15:15:11,061] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 4.
+[2025-11-04 15:15:11,061] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 4.
+[2025-11-04 15:15:11,061] [INFO] ENTER: 'MASPromptGenerator' calling 'claim_negation'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 4.
+[2025-11-04 15:15:11,061] [INFO] ENTER: 'MASPromptGenerator' calling 'retract_claim'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 4.
+[2025-11-04 15:15:11,061] [INFO] EXIT: 'MASPromptGenerator' calling 'claim_negation' (0.0 secs).
+[2025-11-04 15:15:11,061] [INFO] EXIT: 'MASPromptGenerator' calling 'retract_claim' (0.0 secs).
+[2025-11-04 15:15:11,061] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0 secs).
+[2025-11-04 15:15:11,061] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0 secs).
+[2025-11-04 15:15:11,063] [INFO] ENTER: 'MASPromptGenerator' calling 'persuasiveness_choice'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 4.
+[2025-11-04 15:15:11,064] [INFO] EXIT: 'MASPromptGenerator' calling 'persuasiveness_choice' (0.0 secs).
+[2025-11-04 15:15:11,578] [INFO] Completion returned and validated within 'PersuasivenessChoiceAgent'; MODEL = 'gpt-4o'; DIALOGUE TURN NUM = 4.
+[2025-11-04 15:15:11,580] [INFO] ENTER: 'DisambiguationAgent' calling 'return_disambiguated_sentences'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 4.
+[2025-11-04 15:15:11,580] [INFO] EXIT: 'DisambiguationAgent' calling 'return_disambiguated_sentences' (0.0 secs).
+[2025-11-04 15:15:11,580] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:11,581] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:11,585] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:11,585] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:11,585] [INFO] ENTER: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 5.
+[2025-11-04 15:15:12,431] [INFO] 'UtteranceClassificationAgent' completion returned and validated from MODEL = 'ModelName.GROK_4'.
+[2025-11-04 15:15:12,431] [INFO] EXIT: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types' (0.845367431640625 secs).
+[2025-11-04 15:15:12,431] [INFO] ENTER: 'UtteranceClassificationAgent' calling 'return_classified_sentences'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 5.
+[2025-11-04 15:15:12,431] [INFO] EXIT: 'UtteranceClassificationAgent' calling 'return_classified_sentences' (0.0 secs).
+[2025-11-04 15:15:12,432] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 5.
+[2025-11-04 15:15:12,432] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 5.
+[2025-11-04 15:15:12,432] [INFO] ENTER: 'MASPromptGenerator' calling 'claim_negation'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 5.
+[2025-11-04 15:15:12,432] [INFO] ENTER: 'MASPromptGenerator' calling 'concede_claim'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 5.
+[2025-11-04 15:15:12,433] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 5.
+[2025-11-04 15:15:12,433] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 5.
+[2025-11-04 15:15:12,433] [INFO] EXIT: 'MASPromptGenerator' calling 'claim_negation' (0.0 secs).
+[2025-11-04 15:15:12,433] [INFO] EXIT: 'MASPromptGenerator' calling 'concede_claim' (0.0 secs).
+[2025-11-04 15:15:12,433] [INFO] ENTER: 'MASPromptGenerator' calling 'question_claim'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 5.
+[2025-11-04 15:15:12,433] [INFO] ENTER: 'MASPromptGenerator' calling 'why_claim'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 5.
+[2025-11-04 15:15:12,433] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0010006427764892578 secs).
+[2025-11-04 15:15:12,433] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0010006427764892578 secs).
+[2025-11-04 15:15:12,433] [INFO] EXIT: 'MASPromptGenerator' calling 'question_claim' (0.0 secs).
+[2025-11-04 15:15:12,433] [INFO] EXIT: 'MASPromptGenerator' calling 'why_claim' (0.0 secs).
+[2025-11-04 15:15:12,433] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0 secs).
+[2025-11-04 15:15:12,434] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0010006427764892578 secs).
+[2025-11-04 15:15:12,434] [INFO] ENTER: 'MASPromptGenerator' calling 'persuasiveness_choice'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 5.
+[2025-11-04 15:15:12,434] [INFO] EXIT: 'MASPromptGenerator' calling 'persuasiveness_choice' (0.0 secs).
+[2025-11-04 15:15:13,070] [INFO] Completion returned and validated within 'PersuasivenessChoiceAgent'; MODEL = 'grok-4'; DIALOGUE TURN NUM = 5.
+[2025-11-04 15:15:13,071] [INFO] ENTER: 'DisambiguationAgent' calling 'return_disambiguated_sentences'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 5.
+[2025-11-04 15:15:13,071] [INFO] EXIT: 'DisambiguationAgent' calling 'return_disambiguated_sentences' (0.0 secs).
+[2025-11-04 15:15:13,072] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:13,072] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:13,077] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:13,077] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:13,077] [INFO] ENTER: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 6.
+[2025-11-04 15:15:13,579] [INFO] 'UtteranceClassificationAgent' completion returned and validated from MODEL = 'ModelName.GPT_4O'.
+[2025-11-04 15:15:13,579] [INFO] EXIT: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types' (0.5022189617156982 secs).
+[2025-11-04 15:15:13,580] [INFO] ENTER: 'UtteranceClassificationAgent' calling 'return_classified_sentences'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 6.
+[2025-11-04 15:15:13,580] [INFO] EXIT: 'UtteranceClassificationAgent' calling 'return_classified_sentences' (0.0 secs).
+[2025-11-04 15:15:13,586] [INFO] ENTER: 'GraphRAG' calling 'claim'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 6.
+[2025-11-04 15:15:13,587] [INFO] ENTER: 'GraphRAG' calling 'query_graph'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 6.
+[2025-11-04 15:15:13,627] [INFO] EXIT: 'GraphRAG' calling 'query_graph' (0.03946995735168457 secs).
+[2025-11-04 15:15:13,627] [INFO] EXIT: 'GraphRAG' calling 'claim' (0.03946995735168457 secs).
+[2025-11-04 15:15:13,627] [INFO] ENTER: 'GraphRAG' calling 'claim_negation'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 6.
+[2025-11-04 15:15:13,627] [INFO] ENTER: 'GraphRAG' calling 'query_graph'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 6.
+[2025-11-04 15:15:13,633] [INFO] EXIT: 'GraphRAG' calling 'query_graph' (0.006097078323364258 secs).
+[2025-11-04 15:15:13,633] [INFO] EXIT: 'GraphRAG' calling 'claim_negation' (0.006097078323364258 secs).
+[2025-11-04 15:15:13,633] [INFO] ENTER: 'GraphRAG' calling 'return_rag_examples'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 6.
+[2025-11-04 15:15:13,633] [INFO] EXIT: 'GraphRAG' calling 'return_rag_examples' (0.0 secs).
+[2025-11-04 15:15:13,635] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 6.
+[2025-11-04 15:15:13,635] [INFO] ENTER: 'MASPromptGenerator' calling 'claim'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 6.
+[2025-11-04 15:15:13,635] [INFO] EXIT: 'MASPromptGenerator' calling 'claim' (0.0 secs).
+[2025-11-04 15:15:13,635] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 6.
+[2025-11-04 15:15:13,635] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 6.
+[2025-11-04 15:15:13,635] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0 secs).
+[2025-11-04 15:15:13,636] [INFO] ENTER: 'MASPromptGenerator' calling 'claim_negation'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 6.
+[2025-11-04 15:15:13,636] [INFO] ENTER: 'MASPromptGenerator' calling 'retract_claim'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 6.
+[2025-11-04 15:15:13,636] [INFO] EXIT: 'MASPromptGenerator' calling 'claim_negation' (0.0 secs).
+[2025-11-04 15:15:13,636] [INFO] EXIT: 'MASPromptGenerator' calling 'retract_claim' (0.0 secs).
+[2025-11-04 15:15:13,636] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0 secs).
+[2025-11-04 15:15:13,636] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0 secs).
+[2025-11-04 15:15:13,637] [INFO] ENTER: 'MASPromptGenerator' calling 'persuasiveness_choice'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 6.
+[2025-11-04 15:15:13,637] [INFO] EXIT: 'MASPromptGenerator' calling 'persuasiveness_choice' (0.0 secs).
+[2025-11-04 15:15:14,142] [INFO] Completion returned and validated within 'PersuasivenessChoiceAgent'; MODEL = 'gpt-4o'; DIALOGUE TURN NUM = 6.
+[2025-11-04 15:15:14,143] [INFO] ENTER: 'DisambiguationAgent' calling 'return_disambiguated_sentences'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 6.
+[2025-11-04 15:15:14,143] [INFO] EXIT: 'DisambiguationAgent' calling 'return_disambiguated_sentences' (0.0 secs).
+[2025-11-04 15:15:14,143] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:14,143] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:14,151] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:14,151] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:14,151] [INFO] ENTER: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 7.
+[2025-11-04 15:15:16,509] [INFO] 'UtteranceClassificationAgent' completion returned and validated from MODEL = 'ModelName.GROK_4'.
+[2025-11-04 15:15:16,509] [INFO] EXIT: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types' (2.3583600521087646 secs).
+[2025-11-04 15:15:16,509] [INFO] ENTER: 'UtteranceClassificationAgent' calling 'return_classified_sentences'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 7.
+[2025-11-04 15:15:16,509] [INFO] EXIT: 'UtteranceClassificationAgent' calling 'return_classified_sentences' (0.0 secs).
+[2025-11-04 15:15:16,510] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 7.
+[2025-11-04 15:15:16,511] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 7.
+[2025-11-04 15:15:16,511] [INFO] ENTER: 'MASPromptGenerator' calling 'claim_negation'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 7.
+[2025-11-04 15:15:16,511] [INFO] ENTER: 'MASPromptGenerator' calling 'concede_claim'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 7.
+[2025-11-04 15:15:16,511] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 7.
+[2025-11-04 15:15:16,511] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 7.
+[2025-11-04 15:15:16,511] [INFO] EXIT: 'MASPromptGenerator' calling 'claim_negation' (0.0 secs).
+[2025-11-04 15:15:16,511] [INFO] EXIT: 'MASPromptGenerator' calling 'concede_claim' (0.0 secs).
+[2025-11-04 15:15:16,511] [INFO] ENTER: 'MASPromptGenerator' calling 'question_claim'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 7.
+[2025-11-04 15:15:16,511] [INFO] ENTER: 'MASPromptGenerator' calling 'why_claim'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 7.
+[2025-11-04 15:15:16,511] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0 secs).
+[2025-11-04 15:15:16,512] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0010008811950683594 secs).
+[2025-11-04 15:15:16,512] [INFO] EXIT: 'MASPromptGenerator' calling 'question_claim' (0.0 secs).
+[2025-11-04 15:15:16,512] [INFO] EXIT: 'MASPromptGenerator' calling 'why_claim' (0.0 secs).
+[2025-11-04 15:15:16,512] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0010008811950683594 secs).
+[2025-11-04 15:15:16,512] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0010008811950683594 secs).
+[2025-11-04 15:15:16,513] [INFO] ENTER: 'MASPromptGenerator' calling 'persuasiveness_choice'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 7.
+[2025-11-04 15:15:16,513] [INFO] EXIT: 'MASPromptGenerator' calling 'persuasiveness_choice' (0.0 secs).
+[2025-11-04 15:15:17,137] [INFO] Completion returned and validated within 'PersuasivenessChoiceAgent'; MODEL = 'grok-4'; DIALOGUE TURN NUM = 7.
+[2025-11-04 15:15:17,138] [INFO] ENTER: 'DisambiguationAgent' calling 'return_disambiguated_sentences'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 7.
+[2025-11-04 15:15:17,138] [INFO] EXIT: 'DisambiguationAgent' calling 'return_disambiguated_sentences' (0.0 secs).
+[2025-11-04 15:15:17,138] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:17,139] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:17,143] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:17,143] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:17,143] [INFO] ENTER: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 8.
+[2025-11-04 15:15:17,652] [INFO] 'UtteranceClassificationAgent' completion returned and validated from MODEL = 'ModelName.GPT_4O'.
+[2025-11-04 15:15:17,653] [INFO] EXIT: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types' (0.5091328620910645 secs).
+[2025-11-04 15:15:17,653] [INFO] ENTER: 'UtteranceClassificationAgent' calling 'return_classified_sentences'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 8.
+[2025-11-04 15:15:17,653] [INFO] EXIT: 'UtteranceClassificationAgent' calling 'return_classified_sentences' (0.0 secs).
+[2025-11-04 15:15:17,662] [INFO] ENTER: 'GraphRAG' calling 'claim'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 8.
+[2025-11-04 15:15:17,662] [INFO] ENTER: 'GraphRAG' calling 'query_graph'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 8.
+[2025-11-04 15:15:17,717] [INFO] EXIT: 'GraphRAG' calling 'query_graph' (0.05540752410888672 secs).
+[2025-11-04 15:15:17,718] [INFO] EXIT: 'GraphRAG' calling 'claim' (0.05640816688537598 secs).
+[2025-11-04 15:15:17,718] [INFO] ENTER: 'GraphRAG' calling 'claim_negation'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 8.
+[2025-11-04 15:15:17,718] [INFO] ENTER: 'GraphRAG' calling 'query_graph'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 8.
+[2025-11-04 15:15:17,723] [INFO] EXIT: 'GraphRAG' calling 'query_graph' (0.005061626434326172 secs).
+[2025-11-04 15:15:17,723] [INFO] EXIT: 'GraphRAG' calling 'claim_negation' (0.005061626434326172 secs).
+[2025-11-04 15:15:17,723] [INFO] ENTER: 'GraphRAG' calling 'return_rag_examples'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 8.
+[2025-11-04 15:15:17,723] [INFO] EXIT: 'GraphRAG' calling 'return_rag_examples' (0.0 secs).
+[2025-11-04 15:15:17,725] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 8.
+[2025-11-04 15:15:17,725] [INFO] ENTER: 'MASPromptGenerator' calling 'claim'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 8.
+[2025-11-04 15:15:17,725] [INFO] EXIT: 'MASPromptGenerator' calling 'claim' (0.0 secs).
+[2025-11-04 15:15:17,725] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0 secs).
+[2025-11-04 15:15:17,725] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 8.
+[2025-11-04 15:15:17,725] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 8.
+[2025-11-04 15:15:17,725] [INFO] ENTER: 'MASPromptGenerator' calling 'claim_negation'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 8.
+[2025-11-04 15:15:17,726] [INFO] ENTER: 'MASPromptGenerator' calling 'retract_claim'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 8.
+[2025-11-04 15:15:17,726] [INFO] EXIT: 'MASPromptGenerator' calling 'claim_negation' (0.0 secs).
+[2025-11-04 15:15:17,726] [INFO] EXIT: 'MASPromptGenerator' calling 'retract_claim' (0.0 secs).
+[2025-11-04 15:15:17,726] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0010004043579101562 secs).
+[2025-11-04 15:15:17,726] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0 secs).
+[2025-11-04 15:15:17,726] [INFO] ENTER: 'MASPromptGenerator' calling 'persuasiveness_choice'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 8.
+[2025-11-04 15:15:17,726] [INFO] EXIT: 'MASPromptGenerator' calling 'persuasiveness_choice' (0.0 secs).
+[2025-11-04 15:15:18,204] [INFO] Completion returned and validated within 'PersuasivenessChoiceAgent'; MODEL = 'gpt-4o'; DIALOGUE TURN NUM = 8.
+[2025-11-04 15:15:18,205] [INFO] ENTER: 'DisambiguationAgent' calling 'return_disambiguated_sentences'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 8.
+[2025-11-04 15:15:18,205] [INFO] EXIT: 'DisambiguationAgent' calling 'return_disambiguated_sentences' (0.0 secs).
+[2025-11-04 15:15:18,205] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:18,206] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:18,209] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:18,209] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:18,209] [INFO] ENTER: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 9.
+[2025-11-04 15:15:18,778] [INFO] 'UtteranceClassificationAgent' completion returned and validated from MODEL = 'ModelName.GROK_4'.
+[2025-11-04 15:15:18,779] [INFO] EXIT: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types' (0.5692355632781982 secs).
+[2025-11-04 15:15:18,779] [INFO] ENTER: 'UtteranceClassificationAgent' calling 'return_classified_sentences'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 9.
+[2025-11-04 15:15:18,779] [INFO] EXIT: 'UtteranceClassificationAgent' calling 'return_classified_sentences' (0.0 secs).
+[2025-11-04 15:15:18,780] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 9.
+[2025-11-04 15:15:18,780] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 9.
+[2025-11-04 15:15:18,781] [INFO] ENTER: 'MASPromptGenerator' calling 'claim_negation'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 9.
+[2025-11-04 15:15:18,781] [INFO] ENTER: 'MASPromptGenerator' calling 'concede_claim'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 9.
+[2025-11-04 15:15:18,781] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 9.
+[2025-11-04 15:15:18,781] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 9.
+[2025-11-04 15:15:18,781] [INFO] EXIT: 'MASPromptGenerator' calling 'claim_negation' (0.0 secs).
+[2025-11-04 15:15:18,781] [INFO] EXIT: 'MASPromptGenerator' calling 'concede_claim' (0.0 secs).
+[2025-11-04 15:15:18,781] [INFO] ENTER: 'MASPromptGenerator' calling 'question_claim'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 9.
+[2025-11-04 15:15:18,781] [INFO] ENTER: 'MASPromptGenerator' calling 'why_claim'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 9.
+[2025-11-04 15:15:18,781] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0 secs).
+[2025-11-04 15:15:18,781] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0 secs).
+[2025-11-04 15:15:18,781] [INFO] EXIT: 'MASPromptGenerator' calling 'question_claim' (0.0 secs).
+[2025-11-04 15:15:18,781] [INFO] EXIT: 'MASPromptGenerator' calling 'why_claim' (0.0 secs).
+[2025-11-04 15:15:18,782] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.001056671142578125 secs).
+[2025-11-04 15:15:18,782] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.001056671142578125 secs).
+[2025-11-04 15:15:18,782] [INFO] ENTER: 'MASPromptGenerator' calling 'persuasiveness_choice'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 9.
+[2025-11-04 15:15:18,782] [INFO] EXIT: 'MASPromptGenerator' calling 'persuasiveness_choice' (0.0 secs).
+[2025-11-04 15:15:19,451] [INFO] Completion returned and validated within 'PersuasivenessChoiceAgent'; MODEL = 'grok-4'; DIALOGUE TURN NUM = 9.
+[2025-11-04 15:15:19,452] [INFO] ENTER: 'DisambiguationAgent' calling 'return_disambiguated_sentences'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 9.
+[2025-11-04 15:15:19,452] [INFO] EXIT: 'DisambiguationAgent' calling 'return_disambiguated_sentences' (0.0 secs).
+[2025-11-04 15:15:19,453] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:19,453] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:19,456] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:19,456] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:19,456] [INFO] ENTER: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 10.
+[2025-11-04 15:15:19,971] [INFO] 'UtteranceClassificationAgent' completion returned and validated from MODEL = 'ModelName.GPT_4O'.
+[2025-11-04 15:15:19,971] [INFO] EXIT: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types' (0.5150504112243652 secs).
+[2025-11-04 15:15:19,971] [INFO] ENTER: 'UtteranceClassificationAgent' calling 'return_classified_sentences'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 10.
+[2025-11-04 15:15:19,972] [INFO] EXIT: 'UtteranceClassificationAgent' calling 'return_classified_sentences' (0.0010614395141601562 secs).
+[2025-11-04 15:15:19,979] [INFO] ENTER: 'GraphRAG' calling 'claim'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 10.
+[2025-11-04 15:15:19,979] [INFO] ENTER: 'GraphRAG' calling 'query_graph'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 10.
+[2025-11-04 15:15:20,028] [INFO] EXIT: 'GraphRAG' calling 'query_graph' (0.04860687255859375 secs).
+[2025-11-04 15:15:20,028] [INFO] EXIT: 'GraphRAG' calling 'claim' (0.04860687255859375 secs).
+[2025-11-04 15:15:20,028] [INFO] ENTER: 'GraphRAG' calling 'claim_negation'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 10.
+[2025-11-04 15:15:20,028] [INFO] ENTER: 'GraphRAG' calling 'query_graph'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 10.
+[2025-11-04 15:15:20,034] [INFO] EXIT: 'GraphRAG' calling 'query_graph' (0.005068302154541016 secs).
+[2025-11-04 15:15:20,034] [INFO] EXIT: 'GraphRAG' calling 'claim_negation' (0.00606989860534668 secs).
+[2025-11-04 15:15:20,034] [INFO] ENTER: 'GraphRAG' calling 'return_rag_examples'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 10.
+[2025-11-04 15:15:20,034] [INFO] EXIT: 'GraphRAG' calling 'return_rag_examples' (0.0 secs).
+[2025-11-04 15:15:20,035] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 10.
+[2025-11-04 15:15:20,035] [INFO] ENTER: 'MASPromptGenerator' calling 'claim'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 10.
+[2025-11-04 15:15:20,035] [INFO] EXIT: 'MASPromptGenerator' calling 'claim' (0.0 secs).
+[2025-11-04 15:15:20,036] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0010519027709960938 secs).
+[2025-11-04 15:15:20,036] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 10.
+[2025-11-04 15:15:20,036] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 10.
+[2025-11-04 15:15:20,036] [INFO] ENTER: 'MASPromptGenerator' calling 'claim_negation'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 10.
+[2025-11-04 15:15:20,036] [INFO] ENTER: 'MASPromptGenerator' calling 'retract_claim'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 10.
+[2025-11-04 15:15:20,036] [INFO] EXIT: 'MASPromptGenerator' calling 'claim_negation' (0.0 secs).
+[2025-11-04 15:15:20,036] [INFO] EXIT: 'MASPromptGenerator' calling 'retract_claim' (0.0 secs).
+[2025-11-04 15:15:20,036] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0 secs).
+[2025-11-04 15:15:20,036] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0 secs).
+[2025-11-04 15:15:20,037] [INFO] ENTER: 'MASPromptGenerator' calling 'persuasiveness_choice'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 10.
+[2025-11-04 15:15:20,037] [INFO] EXIT: 'MASPromptGenerator' calling 'persuasiveness_choice' (0.0 secs).
+[2025-11-04 15:15:20,527] [INFO] Completion returned and validated within 'PersuasivenessChoiceAgent'; MODEL = 'gpt-4o'; DIALOGUE TURN NUM = 10.
+[2025-11-04 15:15:20,528] [INFO] ENTER: 'DisambiguationAgent' calling 'return_disambiguated_sentences'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 10.
+[2025-11-04 15:15:20,528] [INFO] EXIT: 'DisambiguationAgent' calling 'return_disambiguated_sentences' (0.0 secs).
+[2025-11-04 15:15:20,528] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:20,528] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:20,532] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:20,533] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:20,533] [INFO] ENTER: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 11.
+[2025-11-04 15:15:21,152] [INFO] 'UtteranceClassificationAgent' completion returned and validated from MODEL = 'ModelName.GROK_4'.
+[2025-11-04 15:15:21,152] [INFO] EXIT: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types' (0.618896484375 secs).
+[2025-11-04 15:15:21,153] [INFO] ENTER: 'UtteranceClassificationAgent' calling 'return_classified_sentences'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 11.
+[2025-11-04 15:15:21,153] [INFO] EXIT: 'UtteranceClassificationAgent' calling 'return_classified_sentences' (0.0 secs).
+[2025-11-04 15:15:21,155] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 11.
+[2025-11-04 15:15:21,155] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 11.
+[2025-11-04 15:15:21,155] [INFO] ENTER: 'MASPromptGenerator' calling 'claim_negation'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 11.
+[2025-11-04 15:15:21,155] [INFO] ENTER: 'MASPromptGenerator' calling 'concede_claim'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 11.
+[2025-11-04 15:15:21,155] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 11.
+[2025-11-04 15:15:21,156] [INFO] EXIT: 'MASPromptGenerator' calling 'claim_negation' (0.0 secs).
+[2025-11-04 15:15:21,156] [INFO] EXIT: 'MASPromptGenerator' calling 'concede_claim' (0.0 secs).
+[2025-11-04 15:15:21,156] [INFO] ENTER: 'MASPromptGenerator' calling 'question_claim'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 11.
+[2025-11-04 15:15:21,156] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0010008811950683594 secs).
+[2025-11-04 15:15:21,156] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0010008811950683594 secs).
+[2025-11-04 15:15:21,156] [INFO] EXIT: 'MASPromptGenerator' calling 'question_claim' (0.0 secs).
+[2025-11-04 15:15:21,163] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 11.
+[2025-11-04 15:15:21,163] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.00712275505065918 secs).
+[2025-11-04 15:15:21,163] [INFO] ENTER: 'MASPromptGenerator' calling 'why_claim'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 11.
+[2025-11-04 15:15:21,164] [INFO] EXIT: 'MASPromptGenerator' calling 'why_claim' (0.0 secs).
+[2025-11-04 15:15:21,164] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.001001119613647461 secs).
+[2025-11-04 15:15:21,164] [INFO] ENTER: 'MASPromptGenerator' calling 'persuasiveness_choice'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 11.
+[2025-11-04 15:15:21,164] [INFO] EXIT: 'MASPromptGenerator' calling 'persuasiveness_choice' (0.0 secs).
+[2025-11-04 15:15:21,884] [INFO] Completion returned and validated within 'PersuasivenessChoiceAgent'; MODEL = 'grok-4'; DIALOGUE TURN NUM = 11.
+[2025-11-04 15:15:21,885] [INFO] ENTER: 'DisambiguationAgent' calling 'return_disambiguated_sentences'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 11.
+[2025-11-04 15:15:21,885] [INFO] EXIT: 'DisambiguationAgent' calling 'return_disambiguated_sentences' (0.0 secs).
+[2025-11-04 15:15:21,886] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:21,886] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:21,889] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:21,890] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:21,890] [INFO] ENTER: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 12.
+[2025-11-04 15:15:22,355] [INFO] 'UtteranceClassificationAgent' completion returned and validated from MODEL = 'ModelName.GPT_4O'.
+[2025-11-04 15:15:22,355] [INFO] EXIT: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types' (0.46480536460876465 secs).
+[2025-11-04 15:15:22,355] [INFO] ENTER: 'UtteranceClassificationAgent' calling 'return_classified_sentences'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 12.
+[2025-11-04 15:15:22,355] [INFO] EXIT: 'UtteranceClassificationAgent' calling 'return_classified_sentences' (0.0 secs).
+[2025-11-04 15:15:22,362] [INFO] ENTER: 'GraphRAG' calling 'claim'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 12.
+[2025-11-04 15:15:22,362] [INFO] ENTER: 'GraphRAG' calling 'query_graph'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 12.
+[2025-11-04 15:15:22,402] [INFO] EXIT: 'GraphRAG' calling 'query_graph' (0.03955554962158203 secs).
+[2025-11-04 15:15:22,402] [INFO] EXIT: 'GraphRAG' calling 'claim' (0.03955554962158203 secs).
+[2025-11-04 15:15:22,402] [INFO] ENTER: 'GraphRAG' calling 'claim_negation'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 12.
+[2025-11-04 15:15:22,402] [INFO] ENTER: 'GraphRAG' calling 'query_graph'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 12.
+[2025-11-04 15:15:22,407] [INFO] EXIT: 'GraphRAG' calling 'query_graph' (0.005121946334838867 secs).
+[2025-11-04 15:15:22,407] [INFO] EXIT: 'GraphRAG' calling 'claim_negation' (0.005121946334838867 secs).
+[2025-11-04 15:15:22,407] [INFO] ENTER: 'GraphRAG' calling 'return_rag_examples'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 12.
+[2025-11-04 15:15:22,407] [INFO] EXIT: 'GraphRAG' calling 'return_rag_examples' (0.0 secs).
+[2025-11-04 15:15:22,409] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 12.
+[2025-11-04 15:15:22,410] [INFO] ENTER: 'MASPromptGenerator' calling 'claim'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 12.
+[2025-11-04 15:15:22,410] [INFO] EXIT: 'MASPromptGenerator' calling 'claim' (0.0 secs).
+[2025-11-04 15:15:22,410] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0 secs).
+[2025-11-04 15:15:22,410] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 12.
+[2025-11-04 15:15:22,410] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 12.
+[2025-11-04 15:15:22,410] [INFO] ENTER: 'MASPromptGenerator' calling 'claim_negation'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 12.
+[2025-11-04 15:15:22,410] [INFO] ENTER: 'MASPromptGenerator' calling 'retract_claim'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 12.
+[2025-11-04 15:15:22,410] [INFO] EXIT: 'MASPromptGenerator' calling 'claim_negation' (0.0 secs).
+[2025-11-04 15:15:22,410] [INFO] EXIT: 'MASPromptGenerator' calling 'retract_claim' (0.0 secs).
+[2025-11-04 15:15:22,410] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0 secs).
+[2025-11-04 15:15:22,410] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0 secs).
+[2025-11-04 15:15:22,411] [INFO] ENTER: 'MASPromptGenerator' calling 'persuasiveness_choice'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 12.
+[2025-11-04 15:15:22,411] [INFO] EXIT: 'MASPromptGenerator' calling 'persuasiveness_choice' (0.0 secs).
+[2025-11-04 15:15:22,985] [INFO] Completion returned and validated within 'PersuasivenessChoiceAgent'; MODEL = 'gpt-4o'; DIALOGUE TURN NUM = 12.
+[2025-11-04 15:15:22,986] [INFO] ENTER: 'DisambiguationAgent' calling 'return_disambiguated_sentences'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 12.
+[2025-11-04 15:15:22,986] [INFO] EXIT: 'DisambiguationAgent' calling 'return_disambiguated_sentences' (0.0 secs).
+[2025-11-04 15:15:22,987] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:22,987] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:22,990] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:22,990] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:22,990] [INFO] ENTER: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 13.
+[2025-11-04 15:15:23,669] [INFO] 'UtteranceClassificationAgent' completion returned and validated from MODEL = 'ModelName.GROK_4'.
+[2025-11-04 15:15:23,669] [INFO] EXIT: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types' (0.6787676811218262 secs).
+[2025-11-04 15:15:23,670] [INFO] ENTER: 'UtteranceClassificationAgent' calling 'return_classified_sentences'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 13.
+[2025-11-04 15:15:23,670] [INFO] EXIT: 'UtteranceClassificationAgent' calling 'return_classified_sentences' (0.0 secs).
+[2025-11-04 15:15:23,671] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 13.
+[2025-11-04 15:15:23,671] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 13.
+[2025-11-04 15:15:23,671] [INFO] ENTER: 'MASPromptGenerator' calling 'claim_negation'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 13.
+[2025-11-04 15:15:23,671] [INFO] ENTER: 'MASPromptGenerator' calling 'concede_claim'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 13.
+[2025-11-04 15:15:23,671] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 13.
+[2025-11-04 15:15:23,671] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 13.
+[2025-11-04 15:15:23,672] [INFO] EXIT: 'MASPromptGenerator' calling 'claim_negation' (0.0 secs).
+[2025-11-04 15:15:23,672] [INFO] EXIT: 'MASPromptGenerator' calling 'concede_claim' (0.0 secs).
+[2025-11-04 15:15:23,672] [INFO] ENTER: 'MASPromptGenerator' calling 'question_claim'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 13.
+[2025-11-04 15:15:23,672] [INFO] ENTER: 'MASPromptGenerator' calling 'why_claim'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 13.
+[2025-11-04 15:15:23,672] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0010006427764892578 secs).
+[2025-11-04 15:15:23,672] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0010006427764892578 secs).
+[2025-11-04 15:15:23,672] [INFO] EXIT: 'MASPromptGenerator' calling 'question_claim' (0.0 secs).
+[2025-11-04 15:15:23,672] [INFO] EXIT: 'MASPromptGenerator' calling 'why_claim' (0.0 secs).
+[2025-11-04 15:15:23,672] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0 secs).
+[2025-11-04 15:15:23,673] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0010006427764892578 secs).
+[2025-11-04 15:15:23,673] [INFO] ENTER: 'MASPromptGenerator' calling 'persuasiveness_choice'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 13.
+[2025-11-04 15:15:23,673] [INFO] EXIT: 'MASPromptGenerator' calling 'persuasiveness_choice' (0.0 secs).
+[2025-11-04 15:15:24,472] [INFO] Completion returned and validated within 'PersuasivenessChoiceAgent'; MODEL = 'grok-4'; DIALOGUE TURN NUM = 13.
+[2025-11-04 15:15:24,473] [INFO] ENTER: 'DisambiguationAgent' calling 'return_disambiguated_sentences'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 13.
+[2025-11-04 15:15:24,473] [INFO] EXIT: 'DisambiguationAgent' calling 'return_disambiguated_sentences' (0.0 secs).
+[2025-11-04 15:15:24,474] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:24,474] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:24,477] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:24,477] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:24,477] [INFO] ENTER: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 14.
+[2025-11-04 15:15:24,957] [INFO] 'UtteranceClassificationAgent' completion returned and validated from MODEL = 'ModelName.GPT_4O'.
+[2025-11-04 15:15:24,957] [INFO] EXIT: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types' (0.4803602695465088 secs).
+[2025-11-04 15:15:24,957] [INFO] ENTER: 'UtteranceClassificationAgent' calling 'return_classified_sentences'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 14.
+[2025-11-04 15:15:24,957] [INFO] EXIT: 'UtteranceClassificationAgent' calling 'return_classified_sentences' (0.0 secs).
+[2025-11-04 15:15:24,964] [INFO] ENTER: 'GraphRAG' calling 'claim'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 14.
+[2025-11-04 15:15:24,964] [INFO] ENTER: 'GraphRAG' calling 'query_graph'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 14.
+[2025-11-04 15:15:25,004] [INFO] EXIT: 'GraphRAG' calling 'query_graph' (0.039368629455566406 secs).
+[2025-11-04 15:15:25,004] [INFO] EXIT: 'GraphRAG' calling 'claim' (0.039368629455566406 secs).
+[2025-11-04 15:15:25,004] [INFO] ENTER: 'GraphRAG' calling 'claim_negation'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 14.
+[2025-11-04 15:15:25,004] [INFO] ENTER: 'GraphRAG' calling 'query_graph'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 14.
+[2025-11-04 15:15:25,010] [INFO] EXIT: 'GraphRAG' calling 'query_graph' (0.006058454513549805 secs).
+[2025-11-04 15:15:25,010] [INFO] EXIT: 'GraphRAG' calling 'claim_negation' (0.006058454513549805 secs).
+[2025-11-04 15:15:25,010] [INFO] ENTER: 'GraphRAG' calling 'return_rag_examples'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 14.
+[2025-11-04 15:15:25,010] [INFO] EXIT: 'GraphRAG' calling 'return_rag_examples' (0.0 secs).
+[2025-11-04 15:15:25,011] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 14.
+[2025-11-04 15:15:25,011] [INFO] ENTER: 'MASPromptGenerator' calling 'claim'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 14.
+[2025-11-04 15:15:25,011] [INFO] EXIT: 'MASPromptGenerator' calling 'claim' (0.0 secs).
+[2025-11-04 15:15:25,011] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0 secs).
+[2025-11-04 15:15:25,012] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 14.
+[2025-11-04 15:15:25,012] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 14.
+[2025-11-04 15:15:25,012] [INFO] ENTER: 'MASPromptGenerator' calling 'claim_negation'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 14.
+[2025-11-04 15:15:25,012] [INFO] ENTER: 'MASPromptGenerator' calling 'retract_claim'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 14.
+[2025-11-04 15:15:25,012] [INFO] EXIT: 'MASPromptGenerator' calling 'claim_negation' (0.0 secs).
+[2025-11-04 15:15:25,012] [INFO] EXIT: 'MASPromptGenerator' calling 'retract_claim' (0.0 secs).
+[2025-11-04 15:15:25,012] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0 secs).
+[2025-11-04 15:15:25,012] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0 secs).
+[2025-11-04 15:15:25,013] [INFO] ENTER: 'MASPromptGenerator' calling 'persuasiveness_choice'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 14.
+[2025-11-04 15:15:25,013] [INFO] EXIT: 'MASPromptGenerator' calling 'persuasiveness_choice' (0.0 secs).
+[2025-11-04 15:15:25,533] [INFO] Completion returned and validated within 'PersuasivenessChoiceAgent'; MODEL = 'gpt-4o'; DIALOGUE TURN NUM = 14.
+[2025-11-04 15:15:25,534] [INFO] ENTER: 'DisambiguationAgent' calling 'return_disambiguated_sentences'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 14.
+[2025-11-04 15:15:25,534] [INFO] EXIT: 'DisambiguationAgent' calling 'return_disambiguated_sentences' (0.0 secs).
+[2025-11-04 15:15:25,534] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:25,534] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:25,538] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:25,538] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:25,538] [INFO] ENTER: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 15.
+[2025-11-04 15:15:26,136] [INFO] 'UtteranceClassificationAgent' completion returned and validated from MODEL = 'ModelName.GROK_4'.
+[2025-11-04 15:15:26,143] [INFO] EXIT: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types' (0.6048762798309326 secs).
+[2025-11-04 15:15:26,143] [INFO] ENTER: 'UtteranceClassificationAgent' calling 'return_classified_sentences'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 15.
+[2025-11-04 15:15:26,143] [INFO] EXIT: 'UtteranceClassificationAgent' calling 'return_classified_sentences' (0.0 secs).
+[2025-11-04 15:15:26,145] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 15.
+[2025-11-04 15:15:26,145] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 15.
+[2025-11-04 15:15:26,145] [INFO] ENTER: 'MASPromptGenerator' calling 'claim_negation'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 15.
+[2025-11-04 15:15:26,145] [INFO] ENTER: 'MASPromptGenerator' calling 'concede_claim'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 15.
+[2025-11-04 15:15:26,145] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 15.
+[2025-11-04 15:15:26,145] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 15.
+[2025-11-04 15:15:26,145] [INFO] EXIT: 'MASPromptGenerator' calling 'claim_negation' (0.0 secs).
+[2025-11-04 15:15:26,145] [INFO] EXIT: 'MASPromptGenerator' calling 'concede_claim' (0.0 secs).
+[2025-11-04 15:15:26,146] [INFO] ENTER: 'MASPromptGenerator' calling 'question_claim'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 15.
+[2025-11-04 15:15:26,146] [INFO] ENTER: 'MASPromptGenerator' calling 'why_claim'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 15.
+[2025-11-04 15:15:26,146] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.001001119613647461 secs).
+[2025-11-04 15:15:26,146] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.001001119613647461 secs).
+[2025-11-04 15:15:26,146] [INFO] EXIT: 'MASPromptGenerator' calling 'question_claim' (0.0 secs).
+[2025-11-04 15:15:26,146] [INFO] EXIT: 'MASPromptGenerator' calling 'why_claim' (0.0 secs).
+[2025-11-04 15:15:26,146] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0 secs).
+[2025-11-04 15:15:26,146] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0 secs).
+[2025-11-04 15:15:26,147] [INFO] ENTER: 'MASPromptGenerator' calling 'persuasiveness_choice'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 15.
+[2025-11-04 15:15:26,147] [INFO] EXIT: 'MASPromptGenerator' calling 'persuasiveness_choice' (0.0 secs).
+[2025-11-04 15:15:26,722] [INFO] Completion returned and validated within 'PersuasivenessChoiceAgent'; MODEL = 'grok-4'; DIALOGUE TURN NUM = 15.
+[2025-11-04 15:15:26,723] [INFO] ENTER: 'DisambiguationAgent' calling 'return_disambiguated_sentences'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 15.
+[2025-11-04 15:15:26,723] [INFO] EXIT: 'DisambiguationAgent' calling 'return_disambiguated_sentences' (0.0 secs).
+[2025-11-04 15:15:26,723] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:26,723] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:26,726] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:26,727] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:26,727] [INFO] ENTER: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 16.
+[2025-11-04 15:15:27,243] [INFO] 'UtteranceClassificationAgent' completion returned and validated from MODEL = 'ModelName.GPT_4O'.
+[2025-11-04 15:15:27,243] [INFO] EXIT: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types' (0.5154023170471191 secs).
+[2025-11-04 15:15:27,243] [INFO] ENTER: 'UtteranceClassificationAgent' calling 'return_classified_sentences'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 16.
+[2025-11-04 15:15:27,243] [INFO] EXIT: 'UtteranceClassificationAgent' calling 'return_classified_sentences' (0.0 secs).
+[2025-11-04 15:15:27,251] [INFO] ENTER: 'GraphRAG' calling 'claim'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 16.
+[2025-11-04 15:15:27,251] [INFO] ENTER: 'GraphRAG' calling 'query_graph'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 16.
+[2025-11-04 15:15:27,291] [INFO] EXIT: 'GraphRAG' calling 'query_graph' (0.040083885192871094 secs).
+[2025-11-04 15:15:27,291] [INFO] EXIT: 'GraphRAG' calling 'claim' (0.040083885192871094 secs).
+[2025-11-04 15:15:27,291] [INFO] ENTER: 'GraphRAG' calling 'claim_negation'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 16.
+[2025-11-04 15:15:27,291] [INFO] ENTER: 'GraphRAG' calling 'query_graph'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 16.
+[2025-11-04 15:15:27,296] [INFO] EXIT: 'GraphRAG' calling 'query_graph' (0.0050601959228515625 secs).
+[2025-11-04 15:15:27,296] [INFO] EXIT: 'GraphRAG' calling 'claim_negation' (0.0050601959228515625 secs).
+[2025-11-04 15:15:27,296] [INFO] ENTER: 'GraphRAG' calling 'return_rag_examples'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 16.
+[2025-11-04 15:15:27,296] [INFO] EXIT: 'GraphRAG' calling 'return_rag_examples' (0.0 secs).
+[2025-11-04 15:15:27,298] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 16.
+[2025-11-04 15:15:27,298] [INFO] ENTER: 'MASPromptGenerator' calling 'claim'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 16.
+[2025-11-04 15:15:27,298] [INFO] EXIT: 'MASPromptGenerator' calling 'claim' (0.0 secs).
+[2025-11-04 15:15:27,298] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 16.
+[2025-11-04 15:15:27,298] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 16.
+[2025-11-04 15:15:27,298] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0 secs).
+[2025-11-04 15:15:27,298] [INFO] ENTER: 'MASPromptGenerator' calling 'claim_negation'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 16.
+[2025-11-04 15:15:27,298] [INFO] ENTER: 'MASPromptGenerator' calling 'retract_claim'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 16.
+[2025-11-04 15:15:27,299] [INFO] EXIT: 'MASPromptGenerator' calling 'claim_negation' (0.0 secs).
+[2025-11-04 15:15:27,299] [INFO] EXIT: 'MASPromptGenerator' calling 'retract_claim' (0.0 secs).
+[2025-11-04 15:15:27,299] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0010008811950683594 secs).
+[2025-11-04 15:15:27,299] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0010008811950683594 secs).
+[2025-11-04 15:15:27,299] [INFO] ENTER: 'MASPromptGenerator' calling 'persuasiveness_choice'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 16.
+[2025-11-04 15:15:27,299] [INFO] EXIT: 'MASPromptGenerator' calling 'persuasiveness_choice' (0.0 secs).
+[2025-11-04 15:15:27,774] [INFO] Completion returned and validated within 'PersuasivenessChoiceAgent'; MODEL = 'gpt-4o'; DIALOGUE TURN NUM = 16.
+[2025-11-04 15:15:27,775] [INFO] ENTER: 'DisambiguationAgent' calling 'return_disambiguated_sentences'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 16.
+[2025-11-04 15:15:27,775] [INFO] EXIT: 'DisambiguationAgent' calling 'return_disambiguated_sentences' (0.0 secs).
+[2025-11-04 15:15:27,775] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:27,776] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:27,779] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:27,779] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:27,779] [INFO] ENTER: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 17.
+[2025-11-04 15:15:28,379] [INFO] 'UtteranceClassificationAgent' completion returned and validated from MODEL = 'ModelName.GROK_4'.
+[2025-11-04 15:15:28,379] [INFO] EXIT: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types' (0.5992918014526367 secs).
+[2025-11-04 15:15:28,379] [INFO] ENTER: 'UtteranceClassificationAgent' calling 'return_classified_sentences'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 17.
+[2025-11-04 15:15:28,379] [INFO] EXIT: 'UtteranceClassificationAgent' calling 'return_classified_sentences' (0.0 secs).
+[2025-11-04 15:15:28,381] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 17.
+[2025-11-04 15:15:28,381] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 17.
+[2025-11-04 15:15:28,381] [INFO] ENTER: 'MASPromptGenerator' calling 'claim_negation'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 17.
+[2025-11-04 15:15:28,381] [INFO] ENTER: 'MASPromptGenerator' calling 'concede_claim'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 17.
+[2025-11-04 15:15:28,381] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 17.
+[2025-11-04 15:15:28,381] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 17.
+[2025-11-04 15:15:28,381] [INFO] EXIT: 'MASPromptGenerator' calling 'claim_negation' (0.0 secs).
+[2025-11-04 15:15:28,381] [INFO] EXIT: 'MASPromptGenerator' calling 'concede_claim' (0.0 secs).
+[2025-11-04 15:15:28,381] [INFO] ENTER: 'MASPromptGenerator' calling 'question_claim'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 17.
+[2025-11-04 15:15:28,381] [INFO] ENTER: 'MASPromptGenerator' calling 'why_claim'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 17.
+[2025-11-04 15:15:28,381] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0 secs).
+[2025-11-04 15:15:28,382] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0 secs).
+[2025-11-04 15:15:28,382] [INFO] EXIT: 'MASPromptGenerator' calling 'question_claim' (0.0 secs).
+[2025-11-04 15:15:28,382] [INFO] EXIT: 'MASPromptGenerator' calling 'why_claim' (0.0 secs).
+[2025-11-04 15:15:28,382] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.001001119613647461 secs).
+[2025-11-04 15:15:28,382] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.001001119613647461 secs).
+[2025-11-04 15:15:28,382] [INFO] ENTER: 'MASPromptGenerator' calling 'persuasiveness_choice'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 17.
+[2025-11-04 15:15:28,383] [INFO] EXIT: 'MASPromptGenerator' calling 'persuasiveness_choice' (0.0 secs).
+[2025-11-04 15:15:28,974] [INFO] Completion returned and validated within 'PersuasivenessChoiceAgent'; MODEL = 'grok-4'; DIALOGUE TURN NUM = 17.
+[2025-11-04 15:15:28,975] [INFO] ENTER: 'DisambiguationAgent' calling 'return_disambiguated_sentences'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 17.
+[2025-11-04 15:15:28,975] [INFO] EXIT: 'DisambiguationAgent' calling 'return_disambiguated_sentences' (0.0 secs).
+[2025-11-04 15:15:28,975] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:28,975] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:28,978] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:28,979] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:28,979] [INFO] ENTER: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 18.
+[2025-11-04 15:15:29,459] [INFO] 'UtteranceClassificationAgent' completion returned and validated from MODEL = 'ModelName.GPT_4O'.
+[2025-11-04 15:15:29,459] [INFO] EXIT: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types' (0.47971558570861816 secs).
+[2025-11-04 15:15:29,459] [INFO] ENTER: 'UtteranceClassificationAgent' calling 'return_classified_sentences'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 18.
+[2025-11-04 15:15:29,459] [INFO] EXIT: 'UtteranceClassificationAgent' calling 'return_classified_sentences' (0.0 secs).
+[2025-11-04 15:15:29,466] [INFO] ENTER: 'GraphRAG' calling 'claim'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 18.
+[2025-11-04 15:15:29,466] [INFO] ENTER: 'GraphRAG' calling 'query_graph'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 18.
+[2025-11-04 15:15:29,505] [INFO] EXIT: 'GraphRAG' calling 'query_graph' (0.03836560249328613 secs).
+[2025-11-04 15:15:29,505] [INFO] EXIT: 'GraphRAG' calling 'claim' (0.03836560249328613 secs).
+[2025-11-04 15:15:29,505] [INFO] ENTER: 'GraphRAG' calling 'claim_negation'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 18.
+[2025-11-04 15:15:29,505] [INFO] ENTER: 'GraphRAG' calling 'query_graph'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 18.
+[2025-11-04 15:15:29,511] [INFO] EXIT: 'GraphRAG' calling 'query_graph' (0.006085872650146484 secs).
+[2025-11-04 15:15:29,511] [INFO] EXIT: 'GraphRAG' calling 'claim_negation' (0.006085872650146484 secs).
+[2025-11-04 15:15:29,511] [INFO] ENTER: 'GraphRAG' calling 'return_rag_examples'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 18.
+[2025-11-04 15:15:29,511] [INFO] EXIT: 'GraphRAG' calling 'return_rag_examples' (0.0 secs).
+[2025-11-04 15:15:29,513] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 18.
+[2025-11-04 15:15:29,513] [INFO] ENTER: 'MASPromptGenerator' calling 'claim'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 18.
+[2025-11-04 15:15:29,513] [INFO] EXIT: 'MASPromptGenerator' calling 'claim' (0.0 secs).
+[2025-11-04 15:15:29,513] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0 secs).
+[2025-11-04 15:15:29,514] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 18.
+[2025-11-04 15:15:29,514] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 18.
+[2025-11-04 15:15:29,514] [INFO] ENTER: 'MASPromptGenerator' calling 'claim_negation'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 18.
+[2025-11-04 15:15:29,514] [INFO] ENTER: 'MASPromptGenerator' calling 'retract_claim'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 18.
+[2025-11-04 15:15:29,514] [INFO] EXIT: 'MASPromptGenerator' calling 'claim_negation' (0.0 secs).
+[2025-11-04 15:15:29,514] [INFO] EXIT: 'MASPromptGenerator' calling 'retract_claim' (0.0 secs).
+[2025-11-04 15:15:29,514] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0 secs).
+[2025-11-04 15:15:29,514] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0 secs).
+[2025-11-04 15:15:29,515] [INFO] ENTER: 'MASPromptGenerator' calling 'persuasiveness_choice'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 18.
+[2025-11-04 15:15:29,515] [INFO] EXIT: 'MASPromptGenerator' calling 'persuasiveness_choice' (0.0 secs).
+[2025-11-04 15:15:29,997] [INFO] Completion returned and validated within 'PersuasivenessChoiceAgent'; MODEL = 'gpt-4o'; DIALOGUE TURN NUM = 18.
+[2025-11-04 15:15:29,998] [INFO] ENTER: 'DisambiguationAgent' calling 'return_disambiguated_sentences'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 18.
+[2025-11-04 15:15:29,998] [INFO] EXIT: 'DisambiguationAgent' calling 'return_disambiguated_sentences' (0.0 secs).
+[2025-11-04 15:15:29,999] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:29,999] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:30,004] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:30,004] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:30,004] [INFO] ENTER: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 19.
+[2025-11-04 15:15:30,574] [INFO] 'UtteranceClassificationAgent' completion returned and validated from MODEL = 'ModelName.GROK_4'.
+[2025-11-04 15:15:30,574] [INFO] EXIT: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types' (0.5702657699584961 secs).
+[2025-11-04 15:15:30,574] [INFO] ENTER: 'UtteranceClassificationAgent' calling 'return_classified_sentences'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 19.
+[2025-11-04 15:15:30,574] [INFO] EXIT: 'UtteranceClassificationAgent' calling 'return_classified_sentences' (0.0 secs).
+[2025-11-04 15:15:30,575] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 19.
+[2025-11-04 15:15:30,575] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 19.
+[2025-11-04 15:15:30,576] [INFO] ENTER: 'MASPromptGenerator' calling 'claim_negation'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 19.
+[2025-11-04 15:15:30,576] [INFO] ENTER: 'MASPromptGenerator' calling 'concede_claim'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 19.
+[2025-11-04 15:15:30,576] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 19.
+[2025-11-04 15:15:30,576] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 19.
+[2025-11-04 15:15:30,576] [INFO] EXIT: 'MASPromptGenerator' calling 'claim_negation' (0.0 secs).
+[2025-11-04 15:15:30,576] [INFO] EXIT: 'MASPromptGenerator' calling 'concede_claim' (0.0 secs).
+[2025-11-04 15:15:30,576] [INFO] ENTER: 'MASPromptGenerator' calling 'question_claim'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 19.
+[2025-11-04 15:15:30,576] [INFO] ENTER: 'MASPromptGenerator' calling 'why_claim'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 19.
+[2025-11-04 15:15:30,576] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0010004043579101562 secs).
+[2025-11-04 15:15:30,576] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0 secs).
+[2025-11-04 15:15:30,576] [INFO] EXIT: 'MASPromptGenerator' calling 'question_claim' (0.0 secs).
+[2025-11-04 15:15:30,576] [INFO] EXIT: 'MASPromptGenerator' calling 'why_claim' (0.0 secs).
+[2025-11-04 15:15:30,577] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0010018348693847656 secs).
+[2025-11-04 15:15:30,577] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0010018348693847656 secs).
+[2025-11-04 15:15:30,577] [INFO] ENTER: 'MASPromptGenerator' calling 'persuasiveness_choice'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 19.
+[2025-11-04 15:15:30,577] [INFO] EXIT: 'MASPromptGenerator' calling 'persuasiveness_choice' (0.0 secs).
+[2025-11-04 15:15:31,202] [INFO] Completion returned and validated within 'PersuasivenessChoiceAgent'; MODEL = 'grok-4'; DIALOGUE TURN NUM = 19.
+[2025-11-04 15:15:31,203] [INFO] ENTER: 'DisambiguationAgent' calling 'return_disambiguated_sentences'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 19.
+[2025-11-04 15:15:31,203] [INFO] EXIT: 'DisambiguationAgent' calling 'return_disambiguated_sentences' (0.0 secs).
+[2025-11-04 15:15:31,203] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:31,203] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:31,207] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:31,207] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:31,207] [INFO] ENTER: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 20.
+[2025-11-04 15:15:31,690] [INFO] 'UtteranceClassificationAgent' completion returned and validated from MODEL = 'ModelName.GPT_4O'.
+[2025-11-04 15:15:31,691] [INFO] EXIT: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types' (0.4839475154876709 secs).
+[2025-11-04 15:15:31,691] [INFO] ENTER: 'UtteranceClassificationAgent' calling 'return_classified_sentences'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 20.
+[2025-11-04 15:15:31,691] [INFO] EXIT: 'UtteranceClassificationAgent' calling 'return_classified_sentences' (0.0 secs).
+[2025-11-04 15:15:31,698] [INFO] ENTER: 'GraphRAG' calling 'claim'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 20.
+[2025-11-04 15:15:31,698] [INFO] ENTER: 'GraphRAG' calling 'query_graph'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 20.
+[2025-11-04 15:15:31,764] [INFO] EXIT: 'GraphRAG' calling 'query_graph' (0.06609201431274414 secs).
+[2025-11-04 15:15:31,764] [INFO] EXIT: 'GraphRAG' calling 'claim' (0.06609201431274414 secs).
+[2025-11-04 15:15:31,764] [INFO] ENTER: 'GraphRAG' calling 'claim_negation'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 20.
+[2025-11-04 15:15:31,764] [INFO] ENTER: 'GraphRAG' calling 'query_graph'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 20.
+[2025-11-04 15:15:31,771] [INFO] EXIT: 'GraphRAG' calling 'query_graph' (0.007132530212402344 secs).
+[2025-11-04 15:15:31,771] [INFO] EXIT: 'GraphRAG' calling 'claim_negation' (0.007132530212402344 secs).
+[2025-11-04 15:15:31,771] [INFO] ENTER: 'GraphRAG' calling 'return_rag_examples'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 20.
+[2025-11-04 15:15:31,771] [INFO] EXIT: 'GraphRAG' calling 'return_rag_examples' (0.0 secs).
+[2025-11-04 15:15:31,773] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 20.
+[2025-11-04 15:15:31,773] [INFO] ENTER: 'MASPromptGenerator' calling 'claim'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 20.
+[2025-11-04 15:15:31,773] [INFO] EXIT: 'MASPromptGenerator' calling 'claim' (0.0 secs).
+[2025-11-04 15:15:31,773] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0 secs).
+[2025-11-04 15:15:31,773] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 20.
+[2025-11-04 15:15:31,773] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 20.
+[2025-11-04 15:15:31,773] [INFO] ENTER: 'MASPromptGenerator' calling 'claim_negation'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 20.
+[2025-11-04 15:15:31,773] [INFO] ENTER: 'MASPromptGenerator' calling 'retract_claim'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 20.
+[2025-11-04 15:15:31,774] [INFO] EXIT: 'MASPromptGenerator' calling 'claim_negation' (0.0 secs).
+[2025-11-04 15:15:31,774] [INFO] EXIT: 'MASPromptGenerator' calling 'retract_claim' (0.0 secs).
+[2025-11-04 15:15:31,774] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.001001119613647461 secs).
+[2025-11-04 15:15:31,774] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.001001119613647461 secs).
+[2025-11-04 15:15:31,774] [INFO] ENTER: 'MASPromptGenerator' calling 'persuasiveness_choice'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 20.
+[2025-11-04 15:15:31,774] [INFO] EXIT: 'MASPromptGenerator' calling 'persuasiveness_choice' (0.0 secs).
+[2025-11-04 15:15:32,287] [INFO] Completion returned and validated within 'PersuasivenessChoiceAgent'; MODEL = 'gpt-4o'; DIALOGUE TURN NUM = 20.
+[2025-11-04 15:15:32,288] [INFO] ENTER: 'DisambiguationAgent' calling 'return_disambiguated_sentences'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 20.
+[2025-11-04 15:15:32,288] [INFO] EXIT: 'DisambiguationAgent' calling 'return_disambiguated_sentences' (0.0 secs).
+[2025-11-04 15:15:32,289] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:32,289] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:32,292] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:32,292] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:32,292] [INFO] ENTER: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 21.
+[2025-11-04 15:15:32,917] [INFO] 'UtteranceClassificationAgent' completion returned and validated from MODEL = 'ModelName.GROK_4'.
+[2025-11-04 15:15:32,917] [INFO] EXIT: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types' (0.6252398490905762 secs).
+[2025-11-04 15:15:32,917] [INFO] ENTER: 'UtteranceClassificationAgent' calling 'return_classified_sentences'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 21.
+[2025-11-04 15:15:32,917] [INFO] EXIT: 'UtteranceClassificationAgent' calling 'return_classified_sentences' (0.0 secs).
+[2025-11-04 15:15:32,918] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 21.
+[2025-11-04 15:15:32,918] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 21.
+[2025-11-04 15:15:32,919] [INFO] ENTER: 'MASPromptGenerator' calling 'claim_negation'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 21.
+[2025-11-04 15:15:32,919] [INFO] ENTER: 'MASPromptGenerator' calling 'concede_claim'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 21.
+[2025-11-04 15:15:32,919] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 21.
+[2025-11-04 15:15:32,919] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 21.
+[2025-11-04 15:15:32,919] [INFO] EXIT: 'MASPromptGenerator' calling 'claim_negation' (0.0 secs).
+[2025-11-04 15:15:32,919] [INFO] EXIT: 'MASPromptGenerator' calling 'concede_claim' (0.0 secs).
+[2025-11-04 15:15:32,919] [INFO] ENTER: 'MASPromptGenerator' calling 'question_claim'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 21.
+[2025-11-04 15:15:32,919] [INFO] ENTER: 'MASPromptGenerator' calling 'why_claim'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 21.
+[2025-11-04 15:15:32,919] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0 secs).
+[2025-11-04 15:15:32,919] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0 secs).
+[2025-11-04 15:15:32,919] [INFO] EXIT: 'MASPromptGenerator' calling 'question_claim' (0.0 secs).
+[2025-11-04 15:15:32,919] [INFO] EXIT: 'MASPromptGenerator' calling 'why_claim' (0.0 secs).
+[2025-11-04 15:15:32,920] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0010008811950683594 secs).
+[2025-11-04 15:15:32,920] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0010008811950683594 secs).
+[2025-11-04 15:15:32,920] [INFO] ENTER: 'MASPromptGenerator' calling 'persuasiveness_choice'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 21.
+[2025-11-04 15:15:32,920] [INFO] EXIT: 'MASPromptGenerator' calling 'persuasiveness_choice' (0.0 secs).
+[2025-11-04 15:15:33,579] [INFO] Completion returned and validated within 'PersuasivenessChoiceAgent'; MODEL = 'grok-4'; DIALOGUE TURN NUM = 21.
+[2025-11-04 15:15:33,580] [INFO] ENTER: 'DisambiguationAgent' calling 'return_disambiguated_sentences'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 21.
+[2025-11-04 15:15:33,580] [INFO] EXIT: 'DisambiguationAgent' calling 'return_disambiguated_sentences' (0.0 secs).
+[2025-11-04 15:15:33,580] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:33,580] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:33,583] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:33,584] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:33,584] [INFO] ENTER: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 22.
+[2025-11-04 15:15:34,073] [INFO] 'UtteranceClassificationAgent' completion returned and validated from MODEL = 'ModelName.GPT_4O'.
+[2025-11-04 15:15:34,073] [INFO] EXIT: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types' (0.48897695541381836 secs).
+[2025-11-04 15:15:34,073] [INFO] ENTER: 'UtteranceClassificationAgent' calling 'return_classified_sentences'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 22.
+[2025-11-04 15:15:34,073] [INFO] EXIT: 'UtteranceClassificationAgent' calling 'return_classified_sentences' (0.0 secs).
+[2025-11-04 15:15:34,090] [INFO] ENTER: 'GraphRAG' calling 'claim'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 22.
+[2025-11-04 15:15:34,090] [INFO] ENTER: 'GraphRAG' calling 'query_graph'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 22.
+[2025-11-04 15:15:34,148] [INFO] EXIT: 'GraphRAG' calling 'query_graph' (0.057778358459472656 secs).
+[2025-11-04 15:15:34,148] [INFO] EXIT: 'GraphRAG' calling 'claim' (0.057778358459472656 secs).
+[2025-11-04 15:15:34,148] [INFO] ENTER: 'GraphRAG' calling 'claim_negation'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 22.
+[2025-11-04 15:15:34,148] [INFO] ENTER: 'GraphRAG' calling 'query_graph'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 22.
+[2025-11-04 15:15:34,155] [INFO] EXIT: 'GraphRAG' calling 'query_graph' (0.007006168365478516 secs).
+[2025-11-04 15:15:34,155] [INFO] EXIT: 'GraphRAG' calling 'claim_negation' (0.007006168365478516 secs).
+[2025-11-04 15:15:34,155] [INFO] ENTER: 'GraphRAG' calling 'return_rag_examples'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 22.
+[2025-11-04 15:15:34,155] [INFO] EXIT: 'GraphRAG' calling 'return_rag_examples' (0.0 secs).
+[2025-11-04 15:15:34,157] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 22.
+[2025-11-04 15:15:34,157] [INFO] ENTER: 'MASPromptGenerator' calling 'claim'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 22.
+[2025-11-04 15:15:34,158] [INFO] EXIT: 'MASPromptGenerator' calling 'claim' (0.001001596450805664 secs).
+[2025-11-04 15:15:34,158] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.001001596450805664 secs).
+[2025-11-04 15:15:34,158] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 22.
+[2025-11-04 15:15:34,158] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 22.
+[2025-11-04 15:15:34,158] [INFO] ENTER: 'MASPromptGenerator' calling 'claim_negation'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 22.
+[2025-11-04 15:15:34,159] [INFO] ENTER: 'MASPromptGenerator' calling 'retract_claim'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 22.
+[2025-11-04 15:15:34,159] [INFO] EXIT: 'MASPromptGenerator' calling 'claim_negation' (0.0 secs).
+[2025-11-04 15:15:34,159] [INFO] EXIT: 'MASPromptGenerator' calling 'retract_claim' (0.0 secs).
+[2025-11-04 15:15:34,159] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.001001119613647461 secs).
+[2025-11-04 15:15:34,159] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.001001119613647461 secs).
+[2025-11-04 15:15:34,159] [INFO] ENTER: 'MASPromptGenerator' calling 'persuasiveness_choice'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 22.
+[2025-11-04 15:15:34,160] [INFO] EXIT: 'MASPromptGenerator' calling 'persuasiveness_choice' (0.0 secs).
+[2025-11-04 15:15:35,531] [INFO] Completion returned and validated within 'PersuasivenessChoiceAgent'; MODEL = 'gpt-4o'; DIALOGUE TURN NUM = 22.
+[2025-11-04 15:15:35,532] [INFO] ENTER: 'DisambiguationAgent' calling 'return_disambiguated_sentences'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 22.
+[2025-11-04 15:15:35,532] [INFO] EXIT: 'DisambiguationAgent' calling 'return_disambiguated_sentences' (0.0 secs).
+[2025-11-04 15:15:35,533] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:35,533] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:35,536] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:35,537] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:35,538] [INFO] ENTER: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 23.
+[2025-11-04 15:15:36,149] [INFO] 'UtteranceClassificationAgent' completion returned and validated from MODEL = 'ModelName.GROK_4'.
+[2025-11-04 15:15:36,150] [INFO] EXIT: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types' (0.6113696098327637 secs).
+[2025-11-04 15:15:36,150] [INFO] ENTER: 'UtteranceClassificationAgent' calling 'return_classified_sentences'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 23.
+[2025-11-04 15:15:36,150] [INFO] EXIT: 'UtteranceClassificationAgent' calling 'return_classified_sentences' (0.0 secs).
+[2025-11-04 15:15:36,151] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 23.
+[2025-11-04 15:15:36,151] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 23.
+[2025-11-04 15:15:36,151] [INFO] ENTER: 'MASPromptGenerator' calling 'claim_negation'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 23.
+[2025-11-04 15:15:36,152] [INFO] ENTER: 'MASPromptGenerator' calling 'concede_claim'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 23.
+[2025-11-04 15:15:36,152] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 23.
+[2025-11-04 15:15:36,152] [INFO] EXIT: 'MASPromptGenerator' calling 'claim_negation' (0.0 secs).
+[2025-11-04 15:15:36,153] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 23.
+[2025-11-04 15:15:36,153] [INFO] EXIT: 'MASPromptGenerator' calling 'concede_claim' (0.0 secs).
+[2025-11-04 15:15:36,153] [INFO] ENTER: 'MASPromptGenerator' calling 'question_claim'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 23.
+[2025-11-04 15:15:36,153] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0020012855529785156 secs).
+[2025-11-04 15:15:36,153] [INFO] ENTER: 'MASPromptGenerator' calling 'why_claim'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 23.
+[2025-11-04 15:15:36,153] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0010008811950683594 secs).
+[2025-11-04 15:15:36,153] [INFO] EXIT: 'MASPromptGenerator' calling 'question_claim' (0.0 secs).
+[2025-11-04 15:15:36,154] [INFO] EXIT: 'MASPromptGenerator' calling 'why_claim' (0.0 secs).
+[2025-11-04 15:15:36,154] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0010013580322265625 secs).
+[2025-11-04 15:15:36,154] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0010013580322265625 secs).
+[2025-11-04 15:15:36,154] [INFO] ENTER: 'MASPromptGenerator' calling 'persuasiveness_choice'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 23.
+[2025-11-04 15:15:36,155] [INFO] EXIT: 'MASPromptGenerator' calling 'persuasiveness_choice' (0.0 secs).
+[2025-11-04 15:15:36,768] [INFO] Completion returned and validated within 'PersuasivenessChoiceAgent'; MODEL = 'grok-4'; DIALOGUE TURN NUM = 23.
+[2025-11-04 15:15:36,769] [INFO] ENTER: 'DisambiguationAgent' calling 'return_disambiguated_sentences'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 23.
+[2025-11-04 15:15:36,770] [INFO] EXIT: 'DisambiguationAgent' calling 'return_disambiguated_sentences' (0.0 secs).
+[2025-11-04 15:15:36,770] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:36,770] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:36,774] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:36,775] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:36,775] [INFO] ENTER: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 24.
+[2025-11-04 15:15:37,258] [INFO] 'UtteranceClassificationAgent' completion returned and validated from MODEL = 'ModelName.GPT_4O'.
+[2025-11-04 15:15:37,258] [INFO] EXIT: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types' (0.4825880527496338 secs).
+[2025-11-04 15:15:37,258] [INFO] ENTER: 'UtteranceClassificationAgent' calling 'return_classified_sentences'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 24.
+[2025-11-04 15:15:37,258] [INFO] EXIT: 'UtteranceClassificationAgent' calling 'return_classified_sentences' (0.0 secs).
+[2025-11-04 15:15:37,266] [INFO] ENTER: 'GraphRAG' calling 'claim'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 24.
+[2025-11-04 15:15:37,266] [INFO] ENTER: 'GraphRAG' calling 'query_graph'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 24.
+[2025-11-04 15:15:37,326] [INFO] EXIT: 'GraphRAG' calling 'query_graph' (0.05980563163757324 secs).
+[2025-11-04 15:15:37,326] [INFO] EXIT: 'GraphRAG' calling 'claim' (0.05980563163757324 secs).
+[2025-11-04 15:15:37,326] [INFO] ENTER: 'GraphRAG' calling 'claim_negation'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 24.
+[2025-11-04 15:15:37,326] [INFO] ENTER: 'GraphRAG' calling 'query_graph'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 24.
+[2025-11-04 15:15:37,353] [INFO] EXIT: 'GraphRAG' calling 'query_graph' (0.026148557662963867 secs).
+[2025-11-04 15:15:37,353] [INFO] EXIT: 'GraphRAG' calling 'claim_negation' (0.027149438858032227 secs).
+[2025-11-04 15:15:37,353] [INFO] ENTER: 'GraphRAG' calling 'return_rag_examples'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 24.
+[2025-11-04 15:15:37,353] [INFO] EXIT: 'GraphRAG' calling 'return_rag_examples' (0.0 secs).
+[2025-11-04 15:15:37,354] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 24.
+[2025-11-04 15:15:37,354] [INFO] ENTER: 'MASPromptGenerator' calling 'claim'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 24.
+[2025-11-04 15:15:37,354] [INFO] EXIT: 'MASPromptGenerator' calling 'claim' (0.0 secs).
+[2025-11-04 15:15:37,354] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0 secs).
+[2025-11-04 15:15:37,355] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 24.
+[2025-11-04 15:15:37,355] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 24.
+[2025-11-04 15:15:37,355] [INFO] ENTER: 'MASPromptGenerator' calling 'claim_negation'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 24.
+[2025-11-04 15:15:37,355] [INFO] ENTER: 'MASPromptGenerator' calling 'retract_claim'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 24.
+[2025-11-04 15:15:37,355] [INFO] EXIT: 'MASPromptGenerator' calling 'claim_negation' (0.0 secs).
+[2025-11-04 15:15:37,355] [INFO] EXIT: 'MASPromptGenerator' calling 'retract_claim' (0.0 secs).
+[2025-11-04 15:15:37,355] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0 secs).
+[2025-11-04 15:15:37,355] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0 secs).
+[2025-11-04 15:15:37,356] [INFO] ENTER: 'MASPromptGenerator' calling 'persuasiveness_choice'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 24.
+[2025-11-04 15:15:37,356] [INFO] EXIT: 'MASPromptGenerator' calling 'persuasiveness_choice' (0.0 secs).
+[2025-11-04 15:15:37,826] [INFO] Completion returned and validated within 'PersuasivenessChoiceAgent'; MODEL = 'gpt-4o'; DIALOGUE TURN NUM = 24.
+[2025-11-04 15:15:37,827] [INFO] ENTER: 'DisambiguationAgent' calling 'return_disambiguated_sentences'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 24.
+[2025-11-04 15:15:37,827] [INFO] EXIT: 'DisambiguationAgent' calling 'return_disambiguated_sentences' (0.0 secs).
+[2025-11-04 15:15:37,828] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:37,828] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:37,832] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:37,832] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:37,832] [INFO] ENTER: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 25.
+[2025-11-04 15:15:38,431] [INFO] 'UtteranceClassificationAgent' completion returned and validated from MODEL = 'ModelName.GROK_4'.
+[2025-11-04 15:15:38,431] [INFO] EXIT: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types' (0.5990450382232666 secs).
+[2025-11-04 15:15:38,431] [INFO] ENTER: 'UtteranceClassificationAgent' calling 'return_classified_sentences'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 25.
+[2025-11-04 15:15:38,431] [INFO] EXIT: 'UtteranceClassificationAgent' calling 'return_classified_sentences' (0.0 secs).
+[2025-11-04 15:15:38,433] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 25.
+[2025-11-04 15:15:38,433] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 25.
+[2025-11-04 15:15:38,433] [INFO] ENTER: 'MASPromptGenerator' calling 'claim_negation'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 25.
+[2025-11-04 15:15:38,433] [INFO] ENTER: 'MASPromptGenerator' calling 'concede_claim'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 25.
+[2025-11-04 15:15:38,433] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 25.
+[2025-11-04 15:15:38,433] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 25.
+[2025-11-04 15:15:38,433] [INFO] EXIT: 'MASPromptGenerator' calling 'claim_negation' (0.0 secs).
+[2025-11-04 15:15:38,433] [INFO] EXIT: 'MASPromptGenerator' calling 'concede_claim' (0.0 secs).
+[2025-11-04 15:15:38,433] [INFO] ENTER: 'MASPromptGenerator' calling 'question_claim'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 25.
+[2025-11-04 15:15:38,434] [INFO] ENTER: 'MASPromptGenerator' calling 'why_claim'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 25.
+[2025-11-04 15:15:38,434] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0010006427764892578 secs).
+[2025-11-04 15:15:38,434] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0010006427764892578 secs).
+[2025-11-04 15:15:38,434] [INFO] EXIT: 'MASPromptGenerator' calling 'question_claim' (0.0 secs).
+[2025-11-04 15:15:38,434] [INFO] EXIT: 'MASPromptGenerator' calling 'why_claim' (0.0 secs).
+[2025-11-04 15:15:38,434] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0010006427764892578 secs).
+[2025-11-04 15:15:38,434] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0010006427764892578 secs).
+[2025-11-04 15:15:38,435] [INFO] ENTER: 'MASPromptGenerator' calling 'persuasiveness_choice'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 25.
+[2025-11-04 15:15:38,435] [INFO] EXIT: 'MASPromptGenerator' calling 'persuasiveness_choice' (0.0 secs).
+[2025-11-04 15:15:39,135] [INFO] Completion returned and validated within 'PersuasivenessChoiceAgent'; MODEL = 'grok-4'; DIALOGUE TURN NUM = 25.
+[2025-11-04 15:15:39,136] [INFO] ENTER: 'DisambiguationAgent' calling 'return_disambiguated_sentences'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 25.
+[2025-11-04 15:15:39,136] [INFO] EXIT: 'DisambiguationAgent' calling 'return_disambiguated_sentences' (0.0 secs).
+[2025-11-04 15:15:39,136] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:39,136] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:39,139] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:39,140] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:39,140] [INFO] ENTER: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 26.
+[2025-11-04 15:15:39,681] [INFO] 'UtteranceClassificationAgent' completion returned and validated from MODEL = 'ModelName.GPT_4O'.
+[2025-11-04 15:15:39,682] [INFO] EXIT: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types' (0.5417540073394775 secs).
+[2025-11-04 15:15:39,682] [INFO] ENTER: 'UtteranceClassificationAgent' calling 'return_classified_sentences'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 26.
+[2025-11-04 15:15:39,682] [INFO] EXIT: 'UtteranceClassificationAgent' calling 'return_classified_sentences' (0.0 secs).
+[2025-11-04 15:15:39,689] [INFO] ENTER: 'GraphRAG' calling 'claim'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 26.
+[2025-11-04 15:15:39,689] [INFO] ENTER: 'GraphRAG' calling 'query_graph'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 26.
+[2025-11-04 15:15:39,730] [INFO] EXIT: 'GraphRAG' calling 'query_graph' (0.040590763092041016 secs).
+[2025-11-04 15:15:39,730] [INFO] EXIT: 'GraphRAG' calling 'claim' (0.040590763092041016 secs).
+[2025-11-04 15:15:39,730] [INFO] ENTER: 'GraphRAG' calling 'claim_negation'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 26.
+[2025-11-04 15:15:39,731] [INFO] ENTER: 'GraphRAG' calling 'query_graph'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 26.
+[2025-11-04 15:15:39,736] [INFO] EXIT: 'GraphRAG' calling 'query_graph' (0.0050754547119140625 secs).
+[2025-11-04 15:15:39,736] [INFO] EXIT: 'GraphRAG' calling 'claim_negation' (0.0060765743255615234 secs).
+[2025-11-04 15:15:39,736] [INFO] ENTER: 'GraphRAG' calling 'return_rag_examples'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 26.
+[2025-11-04 15:15:39,736] [INFO] EXIT: 'GraphRAG' calling 'return_rag_examples' (0.0 secs).
+[2025-11-04 15:15:39,737] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 26.
+[2025-11-04 15:15:39,737] [INFO] ENTER: 'MASPromptGenerator' calling 'claim'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 26.
+[2025-11-04 15:15:39,737] [INFO] EXIT: 'MASPromptGenerator' calling 'claim' (0.0 secs).
+[2025-11-04 15:15:39,737] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 26.
+[2025-11-04 15:15:39,738] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 26.
+[2025-11-04 15:15:39,738] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0010530948638916016 secs).
+[2025-11-04 15:15:39,738] [INFO] ENTER: 'MASPromptGenerator' calling 'claim_negation'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 26.
+[2025-11-04 15:15:39,738] [INFO] ENTER: 'MASPromptGenerator' calling 'retract_claim'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 26.
+[2025-11-04 15:15:39,738] [INFO] EXIT: 'MASPromptGenerator' calling 'claim_negation' (0.0 secs).
+[2025-11-04 15:15:39,738] [INFO] EXIT: 'MASPromptGenerator' calling 'retract_claim' (0.0 secs).
+[2025-11-04 15:15:39,738] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0 secs).
+[2025-11-04 15:15:39,738] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0 secs).
+[2025-11-04 15:15:39,739] [INFO] ENTER: 'MASPromptGenerator' calling 'persuasiveness_choice'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 26.
+[2025-11-04 15:15:39,739] [INFO] EXIT: 'MASPromptGenerator' calling 'persuasiveness_choice' (0.0 secs).
+[2025-11-04 15:15:40,217] [INFO] Completion returned and validated within 'PersuasivenessChoiceAgent'; MODEL = 'gpt-4o'; DIALOGUE TURN NUM = 26.
+[2025-11-04 15:15:40,218] [INFO] ENTER: 'DisambiguationAgent' calling 'return_disambiguated_sentences'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 26.
+[2025-11-04 15:15:40,218] [INFO] EXIT: 'DisambiguationAgent' calling 'return_disambiguated_sentences' (0.0 secs).
+[2025-11-04 15:15:40,218] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:40,218] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:40,222] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:40,222] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:40,222] [INFO] ENTER: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 27.
+[2025-11-04 15:15:40,781] [INFO] 'UtteranceClassificationAgent' completion returned and validated from MODEL = 'ModelName.GROK_4'.
+[2025-11-04 15:15:40,781] [INFO] EXIT: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types' (0.5593898296356201 secs).
+[2025-11-04 15:15:40,781] [INFO] ENTER: 'UtteranceClassificationAgent' calling 'return_classified_sentences'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 27.
+[2025-11-04 15:15:40,781] [INFO] EXIT: 'UtteranceClassificationAgent' calling 'return_classified_sentences' (0.0 secs).
+[2025-11-04 15:15:40,783] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 27.
+[2025-11-04 15:15:40,783] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 27.
+[2025-11-04 15:15:40,783] [INFO] ENTER: 'MASPromptGenerator' calling 'claim_negation'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 27.
+[2025-11-04 15:15:40,783] [INFO] ENTER: 'MASPromptGenerator' calling 'concede_claim'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 27.
+[2025-11-04 15:15:40,783] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 27.
+[2025-11-04 15:15:40,783] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 27.
+[2025-11-04 15:15:40,783] [INFO] EXIT: 'MASPromptGenerator' calling 'claim_negation' (0.0 secs).
+[2025-11-04 15:15:40,784] [INFO] EXIT: 'MASPromptGenerator' calling 'concede_claim' (0.0 secs).
+[2025-11-04 15:15:40,784] [INFO] ENTER: 'MASPromptGenerator' calling 'question_claim'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 27.
+[2025-11-04 15:15:40,784] [INFO] ENTER: 'MASPromptGenerator' calling 'why_claim'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 27.
+[2025-11-04 15:15:40,784] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0010008811950683594 secs).
+[2025-11-04 15:15:40,784] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0010008811950683594 secs).
+[2025-11-04 15:15:40,784] [INFO] EXIT: 'MASPromptGenerator' calling 'question_claim' (0.0 secs).
+[2025-11-04 15:15:40,784] [INFO] EXIT: 'MASPromptGenerator' calling 'why_claim' (0.0 secs).
+[2025-11-04 15:15:40,784] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0 secs).
+[2025-11-04 15:15:40,784] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0 secs).
+[2025-11-04 15:15:40,785] [INFO] ENTER: 'MASPromptGenerator' calling 'persuasiveness_choice'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 27.
+[2025-11-04 15:15:40,785] [INFO] EXIT: 'MASPromptGenerator' calling 'persuasiveness_choice' (0.0 secs).
+[2025-11-04 15:15:41,381] [INFO] Completion returned and validated within 'PersuasivenessChoiceAgent'; MODEL = 'grok-4'; DIALOGUE TURN NUM = 27.
+[2025-11-04 15:15:41,382] [INFO] ENTER: 'DisambiguationAgent' calling 'return_disambiguated_sentences'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 27.
+[2025-11-04 15:15:41,382] [INFO] EXIT: 'DisambiguationAgent' calling 'return_disambiguated_sentences' (0.0 secs).
+[2025-11-04 15:15:41,382] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:41,383] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:41,386] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:41,386] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:41,386] [INFO] ENTER: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 28.
+[2025-11-04 15:15:41,839] [INFO] 'UtteranceClassificationAgent' completion returned and validated from MODEL = 'ModelName.GPT_4O'.
+[2025-11-04 15:15:41,839] [INFO] EXIT: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types' (0.4522414207458496 secs).
+[2025-11-04 15:15:41,839] [INFO] ENTER: 'UtteranceClassificationAgent' calling 'return_classified_sentences'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 28.
+[2025-11-04 15:15:41,839] [INFO] EXIT: 'UtteranceClassificationAgent' calling 'return_classified_sentences' (0.0 secs).
+[2025-11-04 15:15:41,847] [INFO] ENTER: 'GraphRAG' calling 'claim'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 28.
+[2025-11-04 15:15:41,847] [INFO] ENTER: 'GraphRAG' calling 'query_graph'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 28.
+[2025-11-04 15:15:41,886] [INFO] EXIT: 'GraphRAG' calling 'query_graph' (0.038863182067871094 secs).
+[2025-11-04 15:15:41,886] [INFO] EXIT: 'GraphRAG' calling 'claim' (0.038863182067871094 secs).
+[2025-11-04 15:15:41,886] [INFO] ENTER: 'GraphRAG' calling 'claim_negation'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 28.
+[2025-11-04 15:15:41,886] [INFO] ENTER: 'GraphRAG' calling 'query_graph'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 28.
+[2025-11-04 15:15:41,892] [INFO] EXIT: 'GraphRAG' calling 'query_graph' (0.00608515739440918 secs).
+[2025-11-04 15:15:41,892] [INFO] EXIT: 'GraphRAG' calling 'claim_negation' (0.00608515739440918 secs).
+[2025-11-04 15:15:41,892] [INFO] ENTER: 'GraphRAG' calling 'return_rag_examples'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 28.
+[2025-11-04 15:15:41,892] [INFO] EXIT: 'GraphRAG' calling 'return_rag_examples' (0.0 secs).
+[2025-11-04 15:15:41,894] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 28.
+[2025-11-04 15:15:41,894] [INFO] ENTER: 'MASPromptGenerator' calling 'claim'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 28.
+[2025-11-04 15:15:41,894] [INFO] EXIT: 'MASPromptGenerator' calling 'claim' (0.0 secs).
+[2025-11-04 15:15:41,894] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0 secs).
+[2025-11-04 15:15:41,894] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 28.
+[2025-11-04 15:15:41,894] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 28.
+[2025-11-04 15:15:41,895] [INFO] ENTER: 'MASPromptGenerator' calling 'claim_negation'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 28.
+[2025-11-04 15:15:41,895] [INFO] ENTER: 'MASPromptGenerator' calling 'retract_claim'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 28.
+[2025-11-04 15:15:41,895] [INFO] EXIT: 'MASPromptGenerator' calling 'claim_negation' (0.0 secs).
+[2025-11-04 15:15:41,895] [INFO] EXIT: 'MASPromptGenerator' calling 'retract_claim' (0.0 secs).
+[2025-11-04 15:15:41,895] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0 secs).
+[2025-11-04 15:15:41,895] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0 secs).
+[2025-11-04 15:15:41,895] [INFO] ENTER: 'MASPromptGenerator' calling 'persuasiveness_choice'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 28.
+[2025-11-04 15:15:41,896] [INFO] EXIT: 'MASPromptGenerator' calling 'persuasiveness_choice' (0.0 secs).
+[2025-11-04 15:15:42,374] [INFO] Completion returned and validated within 'PersuasivenessChoiceAgent'; MODEL = 'gpt-4o'; DIALOGUE TURN NUM = 28.
+[2025-11-04 15:15:42,375] [INFO] ENTER: 'DisambiguationAgent' calling 'return_disambiguated_sentences'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 28.
+[2025-11-04 15:15:42,375] [INFO] EXIT: 'DisambiguationAgent' calling 'return_disambiguated_sentences' (0.0 secs).
+[2025-11-04 15:15:42,375] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:42,376] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:42,380] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:42,380] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:42,380] [INFO] ENTER: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 29.
+[2025-11-04 15:15:43,040] [INFO] 'UtteranceClassificationAgent' completion returned and validated from MODEL = 'ModelName.GROK_4'.
+[2025-11-04 15:15:43,040] [INFO] EXIT: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types' (0.6601436138153076 secs).
+[2025-11-04 15:15:43,040] [INFO] ENTER: 'UtteranceClassificationAgent' calling 'return_classified_sentences'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 29.
+[2025-11-04 15:15:43,041] [INFO] EXIT: 'UtteranceClassificationAgent' calling 'return_classified_sentences' (0.0 secs).
+[2025-11-04 15:15:43,042] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 29.
+[2025-11-04 15:15:43,042] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 29.
+[2025-11-04 15:15:43,042] [INFO] ENTER: 'MASPromptGenerator' calling 'claim_negation'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 29.
+[2025-11-04 15:15:43,042] [INFO] ENTER: 'MASPromptGenerator' calling 'concede_claim'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 29.
+[2025-11-04 15:15:43,042] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 29.
+[2025-11-04 15:15:43,043] [INFO] EXIT: 'MASPromptGenerator' calling 'claim_negation' (0.001001119613647461 secs).
+[2025-11-04 15:15:43,043] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 29.
+[2025-11-04 15:15:43,043] [INFO] EXIT: 'MASPromptGenerator' calling 'concede_claim' (0.0 secs).
+[2025-11-04 15:15:43,043] [INFO] ENTER: 'MASPromptGenerator' calling 'question_claim'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 29.
+[2025-11-04 15:15:43,043] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.001001119613647461 secs).
+[2025-11-04 15:15:43,043] [INFO] ENTER: 'MASPromptGenerator' calling 'why_claim'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 29.
+[2025-11-04 15:15:43,043] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.001001119613647461 secs).
+[2025-11-04 15:15:43,043] [INFO] EXIT: 'MASPromptGenerator' calling 'question_claim' (0.0 secs).
+[2025-11-04 15:15:43,043] [INFO] EXIT: 'MASPromptGenerator' calling 'why_claim' (0.0 secs).
+[2025-11-04 15:15:43,043] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0 secs).
+[2025-11-04 15:15:43,043] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0 secs).
+[2025-11-04 15:15:43,044] [INFO] ENTER: 'MASPromptGenerator' calling 'persuasiveness_choice'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 29.
+[2025-11-04 15:15:43,044] [INFO] EXIT: 'MASPromptGenerator' calling 'persuasiveness_choice' (0.0 secs).
+[2025-11-04 15:15:43,637] [INFO] Completion returned and validated within 'PersuasivenessChoiceAgent'; MODEL = 'grok-4'; DIALOGUE TURN NUM = 29.
+[2025-11-04 15:15:43,638] [INFO] ENTER: 'DisambiguationAgent' calling 'return_disambiguated_sentences'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 29.
+[2025-11-04 15:15:43,638] [INFO] EXIT: 'DisambiguationAgent' calling 'return_disambiguated_sentences' (0.0 secs).
+[2025-11-04 15:15:43,639] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:43,639] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:43,642] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:43,642] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:43,642] [INFO] ENTER: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 30.
+[2025-11-04 15:15:44,117] [INFO] 'UtteranceClassificationAgent' completion returned and validated from MODEL = 'ModelName.GPT_4O'.
+[2025-11-04 15:15:44,118] [INFO] EXIT: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types' (0.476041316986084 secs).
+[2025-11-04 15:15:44,118] [INFO] ENTER: 'UtteranceClassificationAgent' calling 'return_classified_sentences'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 30.
+[2025-11-04 15:15:44,118] [INFO] EXIT: 'UtteranceClassificationAgent' calling 'return_classified_sentences' (0.0 secs).
+[2025-11-04 15:15:44,134] [INFO] ENTER: 'GraphRAG' calling 'claim'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 30.
+[2025-11-04 15:15:44,134] [INFO] ENTER: 'GraphRAG' calling 'query_graph'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 30.
+[2025-11-04 15:15:44,177] [INFO] EXIT: 'GraphRAG' calling 'query_graph' (0.04386019706726074 secs).
+[2025-11-04 15:15:44,177] [INFO] EXIT: 'GraphRAG' calling 'claim' (0.04386019706726074 secs).
+[2025-11-04 15:15:44,177] [INFO] ENTER: 'GraphRAG' calling 'claim_negation'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 30.
+[2025-11-04 15:15:44,177] [INFO] ENTER: 'GraphRAG' calling 'query_graph'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 30.
+[2025-11-04 15:15:44,183] [INFO] EXIT: 'GraphRAG' calling 'query_graph' (0.006005525588989258 secs).
+[2025-11-04 15:15:44,183] [INFO] EXIT: 'GraphRAG' calling 'claim_negation' (0.006005525588989258 secs).
+[2025-11-04 15:15:44,183] [INFO] ENTER: 'GraphRAG' calling 'return_rag_examples'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 30.
+[2025-11-04 15:15:44,183] [INFO] EXIT: 'GraphRAG' calling 'return_rag_examples' (0.0 secs).
+[2025-11-04 15:15:44,185] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 30.
+[2025-11-04 15:15:44,185] [INFO] ENTER: 'MASPromptGenerator' calling 'claim'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 30.
+[2025-11-04 15:15:44,185] [INFO] EXIT: 'MASPromptGenerator' calling 'claim' (0.0 secs).
+[2025-11-04 15:15:44,185] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0 secs).
+[2025-11-04 15:15:44,185] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 30.
+[2025-11-04 15:15:44,185] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 30.
+[2025-11-04 15:15:44,185] [INFO] ENTER: 'MASPromptGenerator' calling 'claim_negation'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 30.
+[2025-11-04 15:15:44,185] [INFO] ENTER: 'MASPromptGenerator' calling 'retract_claim'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 30.
+[2025-11-04 15:15:44,185] [INFO] EXIT: 'MASPromptGenerator' calling 'claim_negation' (0.0 secs).
+[2025-11-04 15:15:44,185] [INFO] EXIT: 'MASPromptGenerator' calling 'retract_claim' (0.0 secs).
+[2025-11-04 15:15:44,186] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0010013580322265625 secs).
+[2025-11-04 15:15:44,186] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0010013580322265625 secs).
+[2025-11-04 15:15:44,186] [INFO] ENTER: 'MASPromptGenerator' calling 'persuasiveness_choice'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 30.
+[2025-11-04 15:15:44,186] [INFO] EXIT: 'MASPromptGenerator' calling 'persuasiveness_choice' (0.0 secs).
+[2025-11-04 15:15:44,711] [INFO] Completion returned and validated within 'PersuasivenessChoiceAgent'; MODEL = 'gpt-4o'; DIALOGUE TURN NUM = 30.
+[2025-11-04 15:15:44,712] [INFO] ENTER: 'DisambiguationAgent' calling 'return_disambiguated_sentences'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 30.
+[2025-11-04 15:15:44,712] [INFO] EXIT: 'DisambiguationAgent' calling 'return_disambiguated_sentences' (0.0 secs).
+[2025-11-04 15:15:44,712] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:44,713] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:44,717] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:44,717] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:44,717] [INFO] ENTER: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 31.
+[2025-11-04 15:15:45,288] [INFO] 'UtteranceClassificationAgent' completion returned and validated from MODEL = 'ModelName.GROK_4'.
+[2025-11-04 15:15:45,288] [INFO] EXIT: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types' (0.5712919235229492 secs).
+[2025-11-04 15:15:45,288] [INFO] ENTER: 'UtteranceClassificationAgent' calling 'return_classified_sentences'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 31.
+[2025-11-04 15:15:45,288] [INFO] EXIT: 'UtteranceClassificationAgent' calling 'return_classified_sentences' (0.0 secs).
+[2025-11-04 15:15:45,289] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 31.
+[2025-11-04 15:15:45,290] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 31.
+[2025-11-04 15:15:45,290] [INFO] ENTER: 'MASPromptGenerator' calling 'claim_negation'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 31.
+[2025-11-04 15:15:45,290] [INFO] ENTER: 'MASPromptGenerator' calling 'concede_claim'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 31.
+[2025-11-04 15:15:45,290] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 31.
+[2025-11-04 15:15:45,290] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 31.
+[2025-11-04 15:15:45,290] [INFO] EXIT: 'MASPromptGenerator' calling 'claim_negation' (0.0 secs).
+[2025-11-04 15:15:45,290] [INFO] EXIT: 'MASPromptGenerator' calling 'concede_claim' (0.0 secs).
+[2025-11-04 15:15:45,290] [INFO] ENTER: 'MASPromptGenerator' calling 'question_claim'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 31.
+[2025-11-04 15:15:45,290] [INFO] ENTER: 'MASPromptGenerator' calling 'why_claim'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 31.
+[2025-11-04 15:15:45,290] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0 secs).
+[2025-11-04 15:15:45,290] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0 secs).
+[2025-11-04 15:15:45,291] [INFO] EXIT: 'MASPromptGenerator' calling 'question_claim' (0.0 secs).
+[2025-11-04 15:15:45,291] [INFO] EXIT: 'MASPromptGenerator' calling 'why_claim' (0.0 secs).
+[2025-11-04 15:15:45,291] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0010559558868408203 secs).
+[2025-11-04 15:15:45,291] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0010559558868408203 secs).
+[2025-11-04 15:15:45,291] [INFO] ENTER: 'MASPromptGenerator' calling 'persuasiveness_choice'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 31.
+[2025-11-04 15:15:45,292] [INFO] EXIT: 'MASPromptGenerator' calling 'persuasiveness_choice' (0.0 secs).
+[2025-11-04 15:15:45,851] [INFO] Completion returned and validated within 'PersuasivenessChoiceAgent'; MODEL = 'grok-4'; DIALOGUE TURN NUM = 31.
+[2025-11-04 15:15:45,852] [INFO] ENTER: 'DisambiguationAgent' calling 'return_disambiguated_sentences'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 31.
+[2025-11-04 15:15:45,852] [INFO] EXIT: 'DisambiguationAgent' calling 'return_disambiguated_sentences' (0.0 secs).
+[2025-11-04 15:15:45,852] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:45,853] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:45,857] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:45,857] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:45,857] [INFO] ENTER: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 32.
+[2025-11-04 15:15:46,322] [INFO] 'UtteranceClassificationAgent' completion returned and validated from MODEL = 'ModelName.GPT_4O'.
+[2025-11-04 15:15:46,322] [INFO] EXIT: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types' (0.4649019241333008 secs).
+[2025-11-04 15:15:46,322] [INFO] ENTER: 'UtteranceClassificationAgent' calling 'return_classified_sentences'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 32.
+[2025-11-04 15:15:46,322] [INFO] EXIT: 'UtteranceClassificationAgent' calling 'return_classified_sentences' (0.0 secs).
+[2025-11-04 15:15:46,329] [INFO] ENTER: 'GraphRAG' calling 'claim'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 32.
+[2025-11-04 15:15:46,329] [INFO] ENTER: 'GraphRAG' calling 'query_graph'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 32.
+[2025-11-04 15:15:46,375] [INFO] EXIT: 'GraphRAG' calling 'query_graph' (0.045652151107788086 secs).
+[2025-11-04 15:15:46,375] [INFO] EXIT: 'GraphRAG' calling 'claim' (0.045652151107788086 secs).
+[2025-11-04 15:15:46,375] [INFO] ENTER: 'GraphRAG' calling 'claim_negation'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 32.
+[2025-11-04 15:15:46,375] [INFO] ENTER: 'GraphRAG' calling 'query_graph'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 32.
+[2025-11-04 15:15:46,381] [INFO] EXIT: 'GraphRAG' calling 'query_graph' (0.006093263626098633 secs).
+[2025-11-04 15:15:46,381] [INFO] EXIT: 'GraphRAG' calling 'claim_negation' (0.006093263626098633 secs).
+[2025-11-04 15:15:46,381] [INFO] ENTER: 'GraphRAG' calling 'return_rag_examples'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 32.
+[2025-11-04 15:15:46,381] [INFO] EXIT: 'GraphRAG' calling 'return_rag_examples' (0.0 secs).
+[2025-11-04 15:15:46,382] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 32.
+[2025-11-04 15:15:46,383] [INFO] ENTER: 'MASPromptGenerator' calling 'claim'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 32.
+[2025-11-04 15:15:46,383] [INFO] EXIT: 'MASPromptGenerator' calling 'claim' (0.0 secs).
+[2025-11-04 15:15:46,383] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0 secs).
+[2025-11-04 15:15:46,383] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 32.
+[2025-11-04 15:15:46,383] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 32.
+[2025-11-04 15:15:46,383] [INFO] ENTER: 'MASPromptGenerator' calling 'claim_negation'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 32.
+[2025-11-04 15:15:46,383] [INFO] ENTER: 'MASPromptGenerator' calling 'retract_claim'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 32.
+[2025-11-04 15:15:46,383] [INFO] EXIT: 'MASPromptGenerator' calling 'claim_negation' (0.0 secs).
+[2025-11-04 15:15:46,384] [INFO] EXIT: 'MASPromptGenerator' calling 'retract_claim' (0.0 secs).
+[2025-11-04 15:15:46,384] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0010008811950683594 secs).
+[2025-11-04 15:15:46,384] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0010008811950683594 secs).
+[2025-11-04 15:15:46,392] [INFO] ENTER: 'MASPromptGenerator' calling 'persuasiveness_choice'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 32.
+[2025-11-04 15:15:46,392] [INFO] EXIT: 'MASPromptGenerator' calling 'persuasiveness_choice' (0.0 secs).
+[2025-11-04 15:15:46,965] [INFO] Completion returned and validated within 'PersuasivenessChoiceAgent'; MODEL = 'gpt-4o'; DIALOGUE TURN NUM = 32.
+[2025-11-04 15:15:46,966] [INFO] ENTER: 'DisambiguationAgent' calling 'return_disambiguated_sentences'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 32.
+[2025-11-04 15:15:46,966] [INFO] EXIT: 'DisambiguationAgent' calling 'return_disambiguated_sentences' (0.0 secs).
+[2025-11-04 15:15:46,967] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:46,967] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:46,971] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:46,972] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:46,972] [INFO] ENTER: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 33.
+[2025-11-04 15:15:47,570] [INFO] 'UtteranceClassificationAgent' completion returned and validated from MODEL = 'ModelName.GROK_4'.
+[2025-11-04 15:15:47,570] [INFO] EXIT: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types' (0.5979824066162109 secs).
+[2025-11-04 15:15:47,570] [INFO] ENTER: 'UtteranceClassificationAgent' calling 'return_classified_sentences'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 33.
+[2025-11-04 15:15:47,570] [INFO] EXIT: 'UtteranceClassificationAgent' calling 'return_classified_sentences' (0.0 secs).
+[2025-11-04 15:15:47,572] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 33.
+[2025-11-04 15:15:47,572] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 33.
+[2025-11-04 15:15:47,572] [INFO] ENTER: 'MASPromptGenerator' calling 'claim_negation'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 33.
+[2025-11-04 15:15:47,572] [INFO] ENTER: 'MASPromptGenerator' calling 'concede_claim'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 33.
+[2025-11-04 15:15:47,572] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 33.
+[2025-11-04 15:15:47,572] [INFO] EXIT: 'MASPromptGenerator' calling 'claim_negation' (0.0 secs).
+[2025-11-04 15:15:47,573] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 33.
+[2025-11-04 15:15:47,573] [INFO] EXIT: 'MASPromptGenerator' calling 'concede_claim' (0.0 secs).
+[2025-11-04 15:15:47,574] [INFO] ENTER: 'MASPromptGenerator' calling 'question_claim'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 33.
+[2025-11-04 15:15:47,574] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0020017623901367188 secs).
+[2025-11-04 15:15:47,574] [INFO] ENTER: 'MASPromptGenerator' calling 'why_claim'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 33.
+[2025-11-04 15:15:47,574] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0020017623901367188 secs).
+[2025-11-04 15:15:47,574] [INFO] EXIT: 'MASPromptGenerator' calling 'question_claim' (0.0 secs).
+[2025-11-04 15:15:47,574] [INFO] EXIT: 'MASPromptGenerator' calling 'why_claim' (0.0 secs).
+[2025-11-04 15:15:47,574] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0010008811950683594 secs).
+[2025-11-04 15:15:47,574] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0 secs).
+[2025-11-04 15:15:47,575] [INFO] ENTER: 'MASPromptGenerator' calling 'persuasiveness_choice'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 33.
+[2025-11-04 15:15:47,575] [INFO] EXIT: 'MASPromptGenerator' calling 'persuasiveness_choice' (0.0 secs).
+[2025-11-04 15:15:48,208] [INFO] Completion returned and validated within 'PersuasivenessChoiceAgent'; MODEL = 'grok-4'; DIALOGUE TURN NUM = 33.
+[2025-11-04 15:15:48,209] [INFO] ENTER: 'DisambiguationAgent' calling 'return_disambiguated_sentences'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 33.
+[2025-11-04 15:15:48,209] [INFO] EXIT: 'DisambiguationAgent' calling 'return_disambiguated_sentences' (0.0 secs).
+[2025-11-04 15:15:48,209] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:48,209] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:48,214] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:48,214] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:48,214] [INFO] ENTER: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 34.
+[2025-11-04 15:15:48,686] [INFO] 'UtteranceClassificationAgent' completion returned and validated from MODEL = 'ModelName.GPT_4O'.
+[2025-11-04 15:15:48,686] [INFO] EXIT: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types' (0.47185444831848145 secs).
+[2025-11-04 15:15:48,686] [INFO] ENTER: 'UtteranceClassificationAgent' calling 'return_classified_sentences'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 34.
+[2025-11-04 15:15:48,687] [INFO] EXIT: 'UtteranceClassificationAgent' calling 'return_classified_sentences' (0.0 secs).
+[2025-11-04 15:15:48,694] [INFO] ENTER: 'GraphRAG' calling 'claim'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 34.
+[2025-11-04 15:15:48,694] [INFO] ENTER: 'GraphRAG' calling 'query_graph'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 34.
+[2025-11-04 15:15:48,734] [INFO] EXIT: 'GraphRAG' calling 'query_graph' (0.04001164436340332 secs).
+[2025-11-04 15:15:48,734] [INFO] EXIT: 'GraphRAG' calling 'claim' (0.04050755500793457 secs).
+[2025-11-04 15:15:48,734] [INFO] ENTER: 'GraphRAG' calling 'claim_negation'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 34.
+[2025-11-04 15:15:48,734] [INFO] ENTER: 'GraphRAG' calling 'query_graph'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 34.
+[2025-11-04 15:15:48,739] [INFO] EXIT: 'GraphRAG' calling 'query_graph' (0.005000591278076172 secs).
+[2025-11-04 15:15:48,739] [INFO] EXIT: 'GraphRAG' calling 'claim_negation' (0.005000591278076172 secs).
+[2025-11-04 15:15:48,739] [INFO] ENTER: 'GraphRAG' calling 'return_rag_examples'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 34.
+[2025-11-04 15:15:48,739] [INFO] EXIT: 'GraphRAG' calling 'return_rag_examples' (0.0 secs).
+[2025-11-04 15:15:48,742] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 34.
+[2025-11-04 15:15:48,742] [INFO] ENTER: 'MASPromptGenerator' calling 'claim'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 34.
+[2025-11-04 15:15:48,742] [INFO] EXIT: 'MASPromptGenerator' calling 'claim' (0.0 secs).
+[2025-11-04 15:15:48,742] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0 secs).
+[2025-11-04 15:15:48,742] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 34.
+[2025-11-04 15:15:48,742] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 34.
+[2025-11-04 15:15:48,742] [INFO] ENTER: 'MASPromptGenerator' calling 'claim_negation'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 34.
+[2025-11-04 15:15:48,742] [INFO] ENTER: 'MASPromptGenerator' calling 'retract_claim'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 34.
+[2025-11-04 15:15:48,742] [INFO] EXIT: 'MASPromptGenerator' calling 'claim_negation' (0.0 secs).
+[2025-11-04 15:15:48,742] [INFO] EXIT: 'MASPromptGenerator' calling 'retract_claim' (0.0 secs).
+[2025-11-04 15:15:48,742] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0 secs).
+[2025-11-04 15:15:48,742] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0 secs).
+[2025-11-04 15:15:48,743] [INFO] ENTER: 'MASPromptGenerator' calling 'persuasiveness_choice'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 34.
+[2025-11-04 15:15:48,743] [INFO] EXIT: 'MASPromptGenerator' calling 'persuasiveness_choice' (0.0 secs).
+[2025-11-04 15:15:49,258] [INFO] Completion returned and validated within 'PersuasivenessChoiceAgent'; MODEL = 'gpt-4o'; DIALOGUE TURN NUM = 34.
+[2025-11-04 15:15:49,260] [INFO] ENTER: 'DisambiguationAgent' calling 'return_disambiguated_sentences'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 34.
+[2025-11-04 15:15:49,260] [INFO] EXIT: 'DisambiguationAgent' calling 'return_disambiguated_sentences' (0.0 secs).
+[2025-11-04 15:15:49,260] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:49,260] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:49,265] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:49,265] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:49,265] [INFO] ENTER: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 35.
+[2025-11-04 15:15:49,855] [INFO] 'UtteranceClassificationAgent' completion returned and validated from MODEL = 'ModelName.GROK_4'.
+[2025-11-04 15:15:49,855] [INFO] EXIT: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types' (0.5900585651397705 secs).
+[2025-11-04 15:15:49,855] [INFO] ENTER: 'UtteranceClassificationAgent' calling 'return_classified_sentences'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 35.
+[2025-11-04 15:15:49,857] [INFO] EXIT: 'UtteranceClassificationAgent' calling 'return_classified_sentences' (0.0 secs).
+[2025-11-04 15:15:49,857] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 35.
+[2025-11-04 15:15:49,857] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 35.
+[2025-11-04 15:15:49,857] [INFO] ENTER: 'MASPromptGenerator' calling 'claim_negation'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 35.
+[2025-11-04 15:15:49,857] [INFO] ENTER: 'MASPromptGenerator' calling 'concede_claim'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 35.
+[2025-11-04 15:15:49,857] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 35.
+[2025-11-04 15:15:49,857] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 35.
+[2025-11-04 15:15:49,857] [INFO] EXIT: 'MASPromptGenerator' calling 'claim_negation' (0.0 secs).
+[2025-11-04 15:15:49,859] [INFO] EXIT: 'MASPromptGenerator' calling 'concede_claim' (0.0 secs).
+[2025-11-04 15:15:49,859] [INFO] ENTER: 'MASPromptGenerator' calling 'question_claim'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 35.
+[2025-11-04 15:15:49,859] [INFO] ENTER: 'MASPromptGenerator' calling 'why_claim'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 35.
+[2025-11-04 15:15:49,859] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0020034313201904297 secs).
+[2025-11-04 15:15:49,859] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0020034313201904297 secs).
+[2025-11-04 15:15:49,859] [INFO] EXIT: 'MASPromptGenerator' calling 'question_claim' (0.0 secs).
+[2025-11-04 15:15:49,859] [INFO] EXIT: 'MASPromptGenerator' calling 'why_claim' (0.0 secs).
+[2025-11-04 15:15:49,859] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0 secs).
+[2025-11-04 15:15:49,859] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0 secs).
+[2025-11-04 15:15:49,859] [INFO] ENTER: 'MASPromptGenerator' calling 'persuasiveness_choice'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 35.
+[2025-11-04 15:15:49,859] [INFO] EXIT: 'MASPromptGenerator' calling 'persuasiveness_choice' (0.0 secs).
+[2025-11-04 15:15:50,589] [INFO] Completion returned and validated within 'PersuasivenessChoiceAgent'; MODEL = 'grok-4'; DIALOGUE TURN NUM = 35.
+[2025-11-04 15:15:50,589] [INFO] ENTER: 'DisambiguationAgent' calling 'return_disambiguated_sentences'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 35.
+[2025-11-04 15:15:50,589] [INFO] EXIT: 'DisambiguationAgent' calling 'return_disambiguated_sentences' (0.0 secs).
+[2025-11-04 15:15:50,589] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:50,589] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:50,593] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:50,593] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:50,593] [INFO] ENTER: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 36.
+[2025-11-04 15:15:51,075] [INFO] 'UtteranceClassificationAgent' completion returned and validated from MODEL = 'ModelName.GPT_4O'.
+[2025-11-04 15:15:51,076] [INFO] EXIT: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types' (0.4824819564819336 secs).
+[2025-11-04 15:15:51,076] [INFO] ENTER: 'UtteranceClassificationAgent' calling 'return_classified_sentences'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 36.
+[2025-11-04 15:15:51,076] [INFO] EXIT: 'UtteranceClassificationAgent' calling 'return_classified_sentences' (0.0 secs).
+[2025-11-04 15:15:51,086] [INFO] ENTER: 'GraphRAG' calling 'claim'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 36.
+[2025-11-04 15:15:51,086] [INFO] ENTER: 'GraphRAG' calling 'query_graph'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 36.
+[2025-11-04 15:15:51,128] [INFO] EXIT: 'GraphRAG' calling 'query_graph' (0.041872262954711914 secs).
+[2025-11-04 15:15:51,128] [INFO] EXIT: 'GraphRAG' calling 'claim' (0.041872262954711914 secs).
+[2025-11-04 15:15:51,129] [INFO] ENTER: 'GraphRAG' calling 'claim_negation'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 36.
+[2025-11-04 15:15:51,129] [INFO] ENTER: 'GraphRAG' calling 'query_graph'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 36.
+[2025-11-04 15:15:51,134] [INFO] EXIT: 'GraphRAG' calling 'query_graph' (0.004716157913208008 secs).
+[2025-11-04 15:15:51,134] [INFO] EXIT: 'GraphRAG' calling 'claim_negation' (0.004716157913208008 secs).
+[2025-11-04 15:15:51,134] [INFO] ENTER: 'GraphRAG' calling 'return_rag_examples'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 36.
+[2025-11-04 15:15:51,134] [INFO] EXIT: 'GraphRAG' calling 'return_rag_examples' (0.0 secs).
+[2025-11-04 15:15:51,136] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 36.
+[2025-11-04 15:15:51,136] [INFO] ENTER: 'MASPromptGenerator' calling 'claim'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 36.
+[2025-11-04 15:15:51,136] [INFO] EXIT: 'MASPromptGenerator' calling 'claim' (0.0 secs).
+[2025-11-04 15:15:51,136] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 36.
+[2025-11-04 15:15:51,136] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 36.
+[2025-11-04 15:15:51,136] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0 secs).
+[2025-11-04 15:15:51,137] [INFO] ENTER: 'MASPromptGenerator' calling 'claim_negation'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 36.
+[2025-11-04 15:15:51,137] [INFO] ENTER: 'MASPromptGenerator' calling 'retract_claim'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 36.
+[2025-11-04 15:15:51,137] [INFO] EXIT: 'MASPromptGenerator' calling 'claim_negation' (0.0 secs).
+[2025-11-04 15:15:51,137] [INFO] EXIT: 'MASPromptGenerator' calling 'retract_claim' (0.0 secs).
+[2025-11-04 15:15:51,137] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0 secs).
+[2025-11-04 15:15:51,137] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0 secs).
+[2025-11-04 15:15:51,137] [INFO] ENTER: 'MASPromptGenerator' calling 'persuasiveness_choice'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 36.
+[2025-11-04 15:15:51,137] [INFO] EXIT: 'MASPromptGenerator' calling 'persuasiveness_choice' (0.0 secs).
+[2025-11-04 15:15:51,654] [INFO] Completion returned and validated within 'PersuasivenessChoiceAgent'; MODEL = 'gpt-4o'; DIALOGUE TURN NUM = 36.
+[2025-11-04 15:15:51,656] [INFO] ENTER: 'DisambiguationAgent' calling 'return_disambiguated_sentences'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 36.
+[2025-11-04 15:15:51,656] [INFO] EXIT: 'DisambiguationAgent' calling 'return_disambiguated_sentences' (0.0 secs).
+[2025-11-04 15:15:51,657] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:51,657] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:51,661] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:51,661] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:51,661] [INFO] ENTER: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 37.
+[2025-11-04 15:15:52,605] [INFO] 'UtteranceClassificationAgent' completion returned and validated from MODEL = 'ModelName.GROK_4'.
+[2025-11-04 15:15:52,605] [INFO] EXIT: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types' (0.9434483051300049 secs).
+[2025-11-04 15:15:52,605] [INFO] ENTER: 'UtteranceClassificationAgent' calling 'return_classified_sentences'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 37.
+[2025-11-04 15:15:52,605] [INFO] EXIT: 'UtteranceClassificationAgent' calling 'return_classified_sentences' (0.0 secs).
+[2025-11-04 15:15:52,606] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 37.
+[2025-11-04 15:15:52,607] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 37.
+[2025-11-04 15:15:52,607] [INFO] ENTER: 'MASPromptGenerator' calling 'claim_negation'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 37.
+[2025-11-04 15:15:52,607] [INFO] ENTER: 'MASPromptGenerator' calling 'concede_claim'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 37.
+[2025-11-04 15:15:52,607] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 37.
+[2025-11-04 15:15:52,607] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 37.
+[2025-11-04 15:15:52,607] [INFO] EXIT: 'MASPromptGenerator' calling 'claim_negation' (0.0 secs).
+[2025-11-04 15:15:52,607] [INFO] EXIT: 'MASPromptGenerator' calling 'concede_claim' (0.0 secs).
+[2025-11-04 15:15:52,607] [INFO] ENTER: 'MASPromptGenerator' calling 'question_claim'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 37.
+[2025-11-04 15:15:52,607] [INFO] ENTER: 'MASPromptGenerator' calling 'why_claim'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 37.
+[2025-11-04 15:15:52,607] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0 secs).
+[2025-11-04 15:15:52,607] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0 secs).
+[2025-11-04 15:15:52,608] [INFO] EXIT: 'MASPromptGenerator' calling 'question_claim' (0.0 secs).
+[2025-11-04 15:15:52,608] [INFO] EXIT: 'MASPromptGenerator' calling 'why_claim' (0.0 secs).
+[2025-11-04 15:15:52,608] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.001001596450805664 secs).
+[2025-11-04 15:15:52,608] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.001001596450805664 secs).
+[2025-11-04 15:15:52,609] [INFO] ENTER: 'MASPromptGenerator' calling 'persuasiveness_choice'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 37.
+[2025-11-04 15:15:52,609] [INFO] EXIT: 'MASPromptGenerator' calling 'persuasiveness_choice' (0.0 secs).
+[2025-11-04 15:15:53,311] [INFO] Completion returned and validated within 'PersuasivenessChoiceAgent'; MODEL = 'grok-4'; DIALOGUE TURN NUM = 37.
+[2025-11-04 15:15:53,312] [INFO] ENTER: 'DisambiguationAgent' calling 'return_disambiguated_sentences'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 37.
+[2025-11-04 15:15:53,313] [INFO] EXIT: 'DisambiguationAgent' calling 'return_disambiguated_sentences' (0.0 secs).
+[2025-11-04 15:15:53,313] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:53,313] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:53,317] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:53,318] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:53,318] [INFO] ENTER: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 38.
+[2025-11-04 15:15:53,781] [INFO] 'UtteranceClassificationAgent' completion returned and validated from MODEL = 'ModelName.GPT_4O'.
+[2025-11-04 15:15:53,782] [INFO] EXIT: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types' (0.46411657333374023 secs).
+[2025-11-04 15:15:53,782] [INFO] ENTER: 'UtteranceClassificationAgent' calling 'return_classified_sentences'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 38.
+[2025-11-04 15:15:53,782] [INFO] EXIT: 'UtteranceClassificationAgent' calling 'return_classified_sentences' (0.0 secs).
+[2025-11-04 15:15:53,794] [INFO] ENTER: 'GraphRAG' calling 'claim'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 38.
+[2025-11-04 15:15:53,794] [INFO] ENTER: 'GraphRAG' calling 'query_graph'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 38.
+[2025-11-04 15:15:53,835] [INFO] EXIT: 'GraphRAG' calling 'query_graph' (0.04098820686340332 secs).
+[2025-11-04 15:15:53,835] [INFO] EXIT: 'GraphRAG' calling 'claim' (0.04098820686340332 secs).
+[2025-11-04 15:15:53,835] [INFO] ENTER: 'GraphRAG' calling 'claim_negation'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 38.
+[2025-11-04 15:15:53,835] [INFO] ENTER: 'GraphRAG' calling 'query_graph'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 38.
+[2025-11-04 15:15:53,840] [INFO] EXIT: 'GraphRAG' calling 'query_graph' (0.005125522613525391 secs).
+[2025-11-04 15:15:53,840] [INFO] EXIT: 'GraphRAG' calling 'claim_negation' (0.005125522613525391 secs).
+[2025-11-04 15:15:53,840] [INFO] ENTER: 'GraphRAG' calling 'return_rag_examples'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 38.
+[2025-11-04 15:15:53,840] [INFO] EXIT: 'GraphRAG' calling 'return_rag_examples' (0.0 secs).
+[2025-11-04 15:15:53,843] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 38.
+[2025-11-04 15:15:53,843] [INFO] ENTER: 'MASPromptGenerator' calling 'claim'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 38.
+[2025-11-04 15:15:53,843] [INFO] EXIT: 'MASPromptGenerator' calling 'claim' (0.0 secs).
+[2025-11-04 15:15:53,843] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0 secs).
+[2025-11-04 15:15:53,844] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 38.
+[2025-11-04 15:15:53,844] [INFO] ENTER: 'MASPromptGenerator' calling 'claim_negation'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 38.
+[2025-11-04 15:15:53,844] [INFO] EXIT: 'MASPromptGenerator' calling 'claim_negation' (0.0 secs).
+[2025-11-04 15:15:53,844] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0 secs).
+[2025-11-04 15:15:53,844] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 38.
+[2025-11-04 15:15:53,845] [INFO] ENTER: 'MASPromptGenerator' calling 'retract_claim'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 38.
+[2025-11-04 15:15:53,845] [INFO] EXIT: 'MASPromptGenerator' calling 'retract_claim' (0.0 secs).
+[2025-11-04 15:15:53,845] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0009999275207519531 secs).
+[2025-11-04 15:15:53,846] [INFO] ENTER: 'MASPromptGenerator' calling 'persuasiveness_choice'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 38.
+[2025-11-04 15:15:53,846] [INFO] EXIT: 'MASPromptGenerator' calling 'persuasiveness_choice' (0.0 secs).
+[2025-11-04 15:15:54,334] [INFO] Completion returned and validated within 'PersuasivenessChoiceAgent'; MODEL = 'gpt-4o'; DIALOGUE TURN NUM = 38.
+[2025-11-04 15:15:54,335] [INFO] ENTER: 'DisambiguationAgent' calling 'return_disambiguated_sentences'; CURRENT SPEAKER: gpt-4o_mas_rag, DIALOGUE TURN NUM = 38.
+[2025-11-04 15:15:54,335] [INFO] EXIT: 'DisambiguationAgent' calling 'return_disambiguated_sentences' (0.0 secs).
+[2025-11-04 15:15:54,336] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:54,336] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:54,340] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:54,341] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:54,341] [INFO] ENTER: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 39.
+[2025-11-04 15:15:54,946] [INFO] 'UtteranceClassificationAgent' completion returned and validated from MODEL = 'ModelName.GROK_4'.
+[2025-11-04 15:15:54,946] [INFO] EXIT: 'UtteranceClassificationAgent' calling '_classify_sentence_utterance_types' (0.6045615673065186 secs).
+[2025-11-04 15:15:54,946] [INFO] ENTER: 'UtteranceClassificationAgent' calling 'return_classified_sentences'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 39.
+[2025-11-04 15:15:54,946] [INFO] EXIT: 'UtteranceClassificationAgent' calling 'return_classified_sentences' (0.0 secs).
+[2025-11-04 15:15:54,948] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 39.
+[2025-11-04 15:15:54,948] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 39.
+[2025-11-04 15:15:54,948] [INFO] ENTER: 'MASPromptGenerator' calling 'claim_negation'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 39.
+[2025-11-04 15:15:54,948] [INFO] ENTER: 'MASPromptGenerator' calling 'concede_claim'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 39.
+[2025-11-04 15:15:54,948] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 39.
+[2025-11-04 15:15:54,949] [INFO] EXIT: 'MASPromptGenerator' calling 'claim_negation' (0.0 secs).
+[2025-11-04 15:15:54,949] [INFO] ENTER: 'DialogueMoveGenerator' calling 'generate'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 39.
+[2025-11-04 15:15:54,949] [INFO] EXIT: 'MASPromptGenerator' calling 'concede_claim' (0.0 secs).
+[2025-11-04 15:15:54,950] [INFO] ENTER: 'MASPromptGenerator' calling 'question_claim'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 39.
+[2025-11-04 15:15:54,950] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0020017623901367188 secs).
+[2025-11-04 15:15:54,950] [INFO] ENTER: 'MASPromptGenerator' calling 'why_claim'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 39.
+[2025-11-04 15:15:54,950] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0020017623901367188 secs).
+[2025-11-04 15:15:54,950] [INFO] EXIT: 'MASPromptGenerator' calling 'question_claim' (0.0 secs).
+[2025-11-04 15:15:54,950] [INFO] EXIT: 'MASPromptGenerator' calling 'why_claim' (0.0 secs).
+[2025-11-04 15:15:54,950] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0 secs).
+[2025-11-04 15:15:54,950] [INFO] EXIT: 'DialogueMoveGenerator' calling 'generate' (0.0 secs).
+[2025-11-04 15:15:54,951] [INFO] ENTER: 'MASPromptGenerator' calling 'persuasiveness_choice'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 39.
+[2025-11-04 15:15:54,951] [INFO] EXIT: 'MASPromptGenerator' calling 'persuasiveness_choice' (0.0 secs).
+[2025-11-04 15:15:55,639] [INFO] Completion returned and validated within 'PersuasivenessChoiceAgent'; MODEL = 'grok-4'; DIALOGUE TURN NUM = 39.
+[2025-11-04 15:15:55,639] [INFO] ENTER: 'DisambiguationAgent' calling 'return_disambiguated_sentences'; CURRENT SPEAKER: grok-4_mas, DIALOGUE TURN NUM = 39.
+[2025-11-04 15:15:55,639] [INFO] EXIT: 'DisambiguationAgent' calling 'return_disambiguated_sentences' (0.0 secs).
+[2025-11-04 15:15:55,641] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "graph_rag_examples", "intermediate_generations", "knowledge_base_ensemble_or_model_name", "model_seed", "model_temp", "model_top_p", "number_of_graph_rag_examples", "number_of_vector_based_rag_examples", "political_position_prob_of_na", "political_position_range", "political_position_std", "speaker_model_name", "speaker_type", "vector_based_persona_string", "vector_based_persona_sys_prompt"
+[2025-11-04 15:15:55,641] [INFO] Correct state used; State of type GenerationAgentsState; 'IGNORE THE ABOVE ERRORS'.
+[2025-11-04 15:15:55,645] [INFO] Parent graph returned.
+[2025-11-04 15:15:55,645] [INFO] WINNER: None; LOSER: None, REASON: {'reason': 'Maximum number of dialogue turns reached (40 dialogue turns).', 'utterance_type': None, 'utterance': None}
+[2025-11-04 15:15:55,645] [INFO] DIALOGUE END: Session finished.

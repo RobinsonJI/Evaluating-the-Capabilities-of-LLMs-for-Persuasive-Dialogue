@@ -1,0 +1,1148 @@
+{
+    "loser": "None",
+    "winner": "None",
+    "session_id": "gpt-4o_base:l__vs__grok-3_base:r",
+    "debate_topic": "Debate the trade-offs of government intervention across a range of issues, including healthcare, immigration, and welfare.",
+    "next_speaker": "second_speaker",
+    "first_speaker": "gpt-4o_base",
+    "second_speaker": "grok-3_base",
+    "current_speaker": "first_speaker",
+    "dialogue_history": [
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-04 04:07:29",
+            "sentences_no_utterance_types": "Government intervention is essential in healthcare, immigration, and welfare to ensure fairness and protect the most vulnerable in society.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government intervention is essential in healthcare, immigration, and welfare to ensure fairness and protect the most vulnerable in society."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-04 04:07:38",
+            "sentences_no_utterance_types": "I disagree completely. Government intervention in healthcare, immigration, and welfare often creates more problems than it solves by stifling personal responsibility and economic freedom. Over-reliance on the state leads to inefficiency and bloated bureaucracies that waste taxpayer money. Why do you think the government can manage these areas better than individuals or private entities?",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "I disagree completely."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention in healthcare, immigration, and welfare often creates more problems than it solves by stifling personal responsibility and economic freedom."
+                ],
+                [
+                    "___Claim___",
+                    "Over-reliance on the state leads to inefficiency and bloated bureaucracies that waste taxpayer money."
+                ],
+                [
+                    "___Why___",
+                    "Why do you think the government can manage these areas better than individuals or private entities?"
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-04 04:07:44",
+            "sentences_no_utterance_types": "Government intervention can manage these areas better since it ensures that essential services like healthcare and welfare are accessible to everyone, regardless of income or status. Private entities prioritise profit, which often leads to inequality and exclusion of the most vulnerable. Immigration policies managed by the government can address labour shortages and contribute to economic growth while maintaining fairness. Without government oversight, the market fails to address systemic issues like poverty and health disparities. Relying solely on individuals or private entities risks leaving too many people behind.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Government intervention can manage these areas better since it ensures that essential services like healthcare and welfare are accessible to everyone, regardless of income or status."
+                ],
+                [
+                    "___Since___",
+                    "Private entities prioritise profit, which often leads to inequality and exclusion of the most vulnerable."
+                ],
+                [
+                    "___Since___",
+                    "Immigration policies managed by the government can address labour shortages and contribute to economic growth while maintaining fairness."
+                ],
+                [
+                    "___Since___",
+                    "Without government oversight, the market fails to address systemic issues like poverty and health disparities."
+                ],
+                [
+                    "___Claim___",
+                    "Relying solely on individuals or private entities risks leaving too many people behind."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-04 04:07:55",
+            "sentences_no_utterance_types": "I\u2019m not convinced. Government intervention might aim for fairness, but it often ends up creating dependency and inefficiency. Private entities, driven by competition, can deliver better results in healthcare and welfare if we let the market work. On immigration, government meddling usually leads to red tape that stifles economic growth rather than supports it. Why do you think a bloated bureaucracy can solve systemic issues better than individual initiative and market solutions?",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "I\u2019m not convinced."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention might aim for fairness, but it often ends up creating dependency and inefficiency."
+                ],
+                [
+                    "___Claim___",
+                    "Private entities, driven by competition, can deliver better results in healthcare and welfare if we let the market work."
+                ],
+                [
+                    "___Claim___",
+                    "On immigration, government meddling usually leads to red tape that stifles economic growth rather than supports it."
+                ],
+                [
+                    "___Why___",
+                    "Why do you think a bloated bureaucracy can solve systemic issues better than individual initiative and market solutions?"
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-04 04:08:01",
+            "sentences_no_utterance_types": "Government intervention solves systemic issues better since individual initiative and market solutions often prioritise profit over people. Essential services like healthcare and welfare cannot rely on competition alone because it leads to inequality and neglect of the vulnerable. Bureaucracy may have inefficiencies, but it ensures accountability and fairness, which the market fails to provide. Immigration policies need government oversight to balance economic growth with social cohesion, something private entities cannot achieve. Without intervention, systemic issues like poverty and health disparities persist unchecked.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Government intervention solves systemic issues better since individual initiative and market solutions often prioritise profit over people."
+                ],
+                [
+                    "___Claim___",
+                    "Essential services like healthcare and welfare cannot rely on competition alone because it leads to inequality and neglect of the vulnerable."
+                ],
+                [
+                    "___Claim___",
+                    "Bureaucracy may have inefficiencies, but it ensures accountability and fairness, which the market fails to provide."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration policies need government oversight to balance economic growth with social cohesion, something private entities cannot achieve."
+                ],
+                [
+                    "___Claim___",
+                    "Without intervention, systemic issues like poverty and health disparities persist unchecked."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-04 04:08:13",
+            "sentences_no_utterance_types": "I\u2019m not buying it. Government intervention might claim to ensure fairness, but it often just creates a nanny state that kills off personal responsibility. Markets aren\u2019t perfect, yet they drive innovation and efficiency in healthcare and welfare far better than any bureaucracy. On immigration, government oversight usually means endless rules that choke economic growth instead of balancing anything. Why do you think a slow, wasteful system can tackle poverty or health disparities better than empowering individuals and businesses?",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "I\u2019m not buying it."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention might claim to ensure fairness, but it often just creates a nanny state that kills off personal responsibility."
+                ],
+                [
+                    "___Claim___",
+                    "Markets aren\u2019t perfect, yet they drive innovation and efficiency in healthcare and welfare far better than any bureaucracy."
+                ],
+                [
+                    "___Claim___",
+                    "On immigration, government oversight usually means endless rules that choke economic growth instead of balancing anything."
+                ],
+                [
+                    "___Why___",
+                    "Why do you think a slow, wasteful system can tackle poverty or health disparities better than empowering individuals and businesses?"
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-04 04:08:19",
+            "sentences_no_utterance_types": "Government intervention tackles poverty and health disparities better since empowering individuals and businesses alone often leads to neglect of those who cannot compete in the market. Essential services like healthcare and welfare require a safety net that only government can provide to ensure no one is left behind. While markets drive innovation, they also create inequality and exclude the most vulnerable. Immigration policies need structured oversight to balance economic growth with social cohesion, which private entities cannot achieve. A slow system may have inefficiencies, but it ensures fairness and accountability, which are crucial for addressing systemic issues.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Government intervention tackles poverty and health disparities better since empowering individuals and businesses alone often leads to neglect of those who cannot compete in the market."
+                ],
+                [
+                    "___Claim___",
+                    "Essential services like healthcare and welfare require a safety net that only government can provide to ensure no one is left behind."
+                ],
+                [
+                    "___Claim___",
+                    "While markets drive innovation, they also create inequality and exclude the most vulnerable."
+                ],
+                [
+                    "___Since___",
+                    "Immigration policies need structured oversight to balance economic growth with social cohesion, which private entities cannot achieve."
+                ],
+                [
+                    "___Since___",
+                    "A slow system may have inefficiencies, but it ensures fairness and accountability, which are crucial for addressing systemic issues."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-04 04:08:32",
+            "sentences_no_utterance_types": "I\u2019m not sold on that. Government intervention might promise a safety net, yet it often traps people in dependency and wastes resources on red tape. Markets may create inequality, yet they also reward hard work and innovation, which lifts more people out of poverty than any state handout. On immigration, government oversight just bogs everything down with rules, while private solutions could adapt faster to economic needs. Why do you think a clunky, inefficient system is better than trusting people and businesses to sort things out?",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "I\u2019m not sold on that."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention might promise a safety net, yet it often traps people in dependency and wastes resources on red tape."
+                ],
+                [
+                    "___Claim___",
+                    "Markets may create inequality, yet they also reward hard work and innovation, which lifts more people out of poverty than any state handout."
+                ],
+                [
+                    "___Claim___",
+                    "On immigration, government oversight just bogs everything down with rules, while private solutions could adapt faster to economic needs."
+                ],
+                [
+                    "___Why___",
+                    "Why do you think a clunky, inefficient system is better than trusting people and businesses to sort things out?"
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-04 04:08:38",
+            "sentences_no_utterance_types": "A clunky system is better because it prioritises fairness and accountability, which markets and private entities often fail to deliver. Trusting people and businesses alone leads to inequality and neglect of those who cannot compete, leaving them without essential services like healthcare and welfare. Government intervention ensures a safety net that prevents people from falling through the cracks, addressing systemic issues like poverty and health disparities. Immigration policies need structured oversight to balance economic growth with social cohesion, something private solutions cannot achieve. Without intervention, the most vulnerable are left behind, and systemic problems persist unchecked.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "A clunky system is better because it prioritises fairness and accountability, which markets and private entities often fail to deliver."
+                ],
+                [
+                    "___Claim___",
+                    "Trusting people and businesses alone leads to inequality and neglect of those who cannot compete, leaving them without essential services like healthcare and welfare."
+                ],
+                [
+                    "___Since___",
+                    "Government intervention ensures a safety net that prevents people from falling through the cracks, addressing systemic issues like poverty and health disparities."
+                ],
+                [
+                    "___Since___",
+                    "Immigration policies need structured oversight to balance economic growth with social cohesion, something private solutions cannot achieve."
+                ],
+                [
+                    "___Claim___",
+                    "Without intervention, the most vulnerable are left behind, and systemic problems persist unchecked."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-04 04:08:50",
+            "sentences_no_utterance_types": "I\u2019m not convinced at all. Government intervention might aim for fairness, yet it often just breeds dependency and wastes money on endless bureaucracy. Markets aren\u2019t flawless, yet they drive innovation and reward effort, which does more to tackle poverty than any state safety net. On immigration, private solutions can respond to economic needs far quicker than clunky government rules. Why do you think a slow, inefficient system can genuinely protect the vulnerable better than empowering individuals and businesses?",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "I\u2019m not convinced at all."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention might aim for fairness, yet it often just breeds dependency and wastes money on endless bureaucracy."
+                ],
+                [
+                    "___Claim___",
+                    "Markets aren\u2019t flawless, yet they drive innovation and reward effort, which does more to tackle poverty than any state safety net."
+                ],
+                [
+                    "___Claim___",
+                    "On immigration, private solutions can respond to economic needs far quicker than clunky government rules."
+                ],
+                [
+                    "___Why___",
+                    "Why do you think a slow, inefficient system can genuinely protect the vulnerable better than empowering individuals and businesses?"
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-04 04:08:55",
+            "sentences_no_utterance_types": "A slow system protects the vulnerable better because it prioritises fairness and ensures no one is left behind. Empowering individuals and businesses alone leads to inequality and neglect of those who cannot compete in the market. Essential services like healthcare and welfare need government oversight to provide a safety net that markets fail to deliver. Immigration policies require structured oversight to balance economic growth with social cohesion, which private solutions cannot achieve. Without intervention, systemic issues like poverty and health disparities persist unchecked, leaving the most vulnerable to suffer.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "A slow system protects the vulnerable better because it prioritises fairness and ensures no one is left behind."
+                ],
+                [
+                    "___Claim___",
+                    "Empowering individuals and businesses alone leads to inequality and neglect of those who cannot compete in the market."
+                ],
+                [
+                    "___Claim___",
+                    "Essential services like healthcare and welfare need government oversight to provide a safety net that markets fail to deliver."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration policies require structured oversight to balance economic growth with social cohesion, which private solutions cannot achieve."
+                ],
+                [
+                    "___Since___",
+                    "Without intervention, systemic issues like poverty and health disparities persist unchecked, leaving the most vulnerable to suffer."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-04 04:09:06",
+            "sentences_no_utterance_types": "I\u2019m not buying this. A slow system might claim to prioritise fairness, yet it often just mires everyone in red tape and kills off personal drive. Markets aren\u2019t perfect, yet they spur innovation and reward grit, which pulls more people up than any government safety net. On immigration, private solutions can adapt to economic needs way faster than any state oversight. Why do you think a sluggish, wasteful setup can truly help the vulnerable more than trusting people and businesses to step up?",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "I\u2019m not buying this."
+                ],
+                [
+                    "___Claim___",
+                    "A slow system might claim to prioritise fairness, yet it often just mires everyone in red tape and kills off personal drive."
+                ],
+                [
+                    "___Claim___",
+                    "Markets aren\u2019t perfect, yet they spur innovation and reward grit, which pulls more people up than any government safety net."
+                ],
+                [
+                    "___Claim___",
+                    "On immigration, private solutions can adapt to economic needs way faster than any state oversight."
+                ],
+                [
+                    "___Why___",
+                    "Why do you think a sluggish, wasteful setup can truly help the vulnerable more than trusting people and businesses to step up?"
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-04 04:09:12",
+            "sentences_no_utterance_types": "A sluggish setup helps the vulnerable more because it ensures fairness and accountability, which markets and private entities often overlook. Trusting people and businesses alone leads to inequality and neglect of those who cannot compete, leaving them without essential services like healthcare and welfare. Government oversight provides a safety net that prevents systemic issues like poverty and health disparities from worsening. Immigration policies need structured oversight to balance economic growth with social cohesion, which private solutions cannot guarantee. Without intervention, the most vulnerable are left behind, and systemic problems remain unaddressed.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "A sluggish setup helps the vulnerable more because it ensures fairness and accountability, which markets and private entities often overlook."
+                ],
+                [
+                    "___Claim___",
+                    "Trusting people and businesses alone leads to inequality and neglect of those who cannot compete, leaving them without essential services like healthcare and welfare."
+                ],
+                [
+                    "___Claim___",
+                    "Government oversight provides a safety net that prevents systemic issues like poverty and health disparities from worsening."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration policies need structured oversight to balance economic growth with social cohesion, which private solutions cannot guarantee."
+                ],
+                [
+                    "___Claim___",
+                    "Without intervention, the most vulnerable are left behind, and systemic problems remain unaddressed."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-04 04:09:24",
+            "sentences_no_utterance_types": "I\u2019m not sold on that. A sluggish setup might aim for fairness, yet it often just bogs everyone down with inefficiency and kills off personal responsibility. Markets may not be perfect, yet they drive innovation and reward hard work, which helps more people escape poverty than any government scheme. On immigration, private solutions can react to economic needs much faster than state meddling. Why do you think a wasteful, slow system can really do more for the vulnerable than empowering individuals and businesses?",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "I\u2019m not sold on that."
+                ],
+                [
+                    "___Claim___",
+                    "A sluggish setup might aim for fairness, yet it often just bogs everyone down with inefficiency and kills off personal responsibility."
+                ],
+                [
+                    "___Claim___",
+                    "Markets may not be perfect, yet they drive innovation and reward hard work, which helps more people escape poverty than any government scheme."
+                ],
+                [
+                    "___Claim___",
+                    "On immigration, private solutions can react to economic needs much faster than state meddling."
+                ],
+                [
+                    "___Why___",
+                    "Why do you think a wasteful, slow system can really do more for the vulnerable than empowering individuals and businesses?"
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-04 04:09:29",
+            "sentences_no_utterance_types": "A wasteful, slow system does more for the vulnerable because it ensures fairness and accountability, which markets and private entities often fail to prioritise. Empowering individuals and businesses alone leads to inequality and neglect of those who cannot compete, leaving them without access to essential services like healthcare and welfare. Government oversight provides a safety net that addresses systemic issues like poverty and health disparities, which markets cannot solve on their own. Immigration policies need structured oversight to balance economic growth with social cohesion, something private solutions cannot guarantee. Without intervention, the most vulnerable are left behind, and systemic problems remain unaddressed.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "A wasteful, slow system does more for the vulnerable because it ensures fairness and accountability, which markets and private entities often fail to prioritise."
+                ],
+                [
+                    "___Claim___",
+                    "Empowering individuals and businesses alone leads to inequality and neglect of those who cannot compete, leaving them without access to essential services like healthcare and welfare."
+                ],
+                [
+                    "___Since___",
+                    "Government oversight provides a safety net that addresses systemic issues like poverty and health disparities, which markets cannot solve on their own."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration policies need structured oversight to balance economic growth with social cohesion, something private solutions cannot guarantee."
+                ],
+                [
+                    "___Claim___",
+                    "Without intervention, the most vulnerable are left behind, and systemic problems remain unaddressed."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-04 04:09:41",
+            "sentences_no_utterance_types": "I\u2019m not convinced. A wasteful, slow system might talk about fairness, yet it often just drowns everyone in bureaucracy and saps personal drive. Markets aren\u2019t without flaws, yet they fuel innovation and reward effort, lifting more out of poverty than any state safety net. On immigration, private solutions can adapt to economic needs far quicker than government meddling. Why do you think a clunky, inefficient setup can honestly do more for the vulnerable than trusting people and businesses to get on with it?",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "I\u2019m not convinced."
+                ],
+                [
+                    "___Claim___",
+                    "A wasteful, slow system might talk about fairness, yet it often just drowns everyone in bureaucracy and saps personal drive."
+                ],
+                [
+                    "___Claim___",
+                    "Markets aren\u2019t without flaws, yet they fuel innovation and reward effort, lifting more out of poverty than any state safety net."
+                ],
+                [
+                    "___Claim___",
+                    "On immigration, private solutions can adapt to economic needs far quicker than government meddling."
+                ],
+                [
+                    "___Why___",
+                    "Why do you think a clunky, inefficient setup can honestly do more for the vulnerable than trusting people and businesses to get on with it?"
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-04 04:09:46",
+            "sentences_no_utterance_types": "A clunky setup does more for the vulnerable because it prioritises fairness and ensures no one is left behind. Trusting people and businesses alone leads to inequality and neglect of those who cannot compete, leaving them without access to essential services like healthcare and welfare. Government oversight provides a safety net that addresses systemic issues like poverty and health disparities, which markets cannot solve on their own. Immigration policies need structured oversight to balance economic growth with social cohesion, something private solutions cannot guarantee. Without intervention, the most vulnerable are left behind, and systemic problems remain unaddressed.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "A clunky setup does more for the vulnerable because it prioritises fairness and ensures no one is left behind."
+                ],
+                [
+                    "___Claim___",
+                    "Trusting people and businesses alone leads to inequality and neglect of those who cannot compete, leaving them without access to essential services like healthcare and welfare."
+                ],
+                [
+                    "___Claim___",
+                    "Government oversight provides a safety net that addresses systemic issues like poverty and health disparities, which markets cannot solve on their own."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration policies need structured oversight to balance economic growth with social cohesion, something private solutions cannot guarantee."
+                ],
+                [
+                    "___Claim___",
+                    "Without intervention, the most vulnerable are left behind, and systemic problems remain unaddressed."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-04 04:09:58",
+            "sentences_no_utterance_types": "I\u2019m not buying it. A clunky setup might focus on fairness, yet it often just strangles everyone with red tape and kills off any sense of personal responsibility. Markets aren\u2019t perfect, yet they spark innovation and reward hard graft, which does more to lift people out of poverty than any government safety net. On immigration, private solutions can adjust to economic needs much faster than state interference. Why do you think a slow, wasteful system can truly help the vulnerable more than empowering individuals and businesses?",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "I\u2019m not buying it."
+                ],
+                [
+                    "___Claim___",
+                    "A clunky setup might focus on fairness, yet it often just strangles everyone with red tape and kills off any sense of personal responsibility."
+                ],
+                [
+                    "___Claim___",
+                    "Markets aren\u2019t perfect, yet they spark innovation and reward hard graft, which does more to lift people out of poverty than any government safety net."
+                ],
+                [
+                    "___Claim___",
+                    "On immigration, private solutions can adjust to economic needs much faster than state interference."
+                ],
+                [
+                    "___Why___",
+                    "Why do you think a slow, wasteful system can truly help the vulnerable more than empowering individuals and businesses?"
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-04 04:10:04",
+            "sentences_no_utterance_types": "A slow system helps the vulnerable more because it ensures fairness and accountability, which markets and private entities often neglect. Empowering individuals and businesses alone leads to inequality and leaves those who cannot compete without essential services like healthcare and welfare. Government oversight provides a safety net that addresses systemic issues like poverty and health disparities, which markets cannot fix on their own. Immigration policies require structured oversight to balance economic growth with social cohesion, something private solutions cannot reliably achieve. Without intervention, the most vulnerable are left behind, and systemic problems remain unresolved.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "A slow system helps the vulnerable more because it ensures fairness and accountability, which markets and private entities often neglect."
+                ],
+                [
+                    "___Claim___",
+                    "Empowering individuals and businesses alone leads to inequality and leaves those who cannot compete without essential services like healthcare and welfare."
+                ],
+                [
+                    "___Since___",
+                    "Government oversight provides a safety net that addresses systemic issues like poverty and health disparities, which markets cannot fix on their own."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration policies require structured oversight to balance economic growth with social cohesion, something private solutions cannot reliably achieve."
+                ],
+                [
+                    "___Claim___",
+                    "Without intervention, the most vulnerable are left behind, and systemic problems remain unresolved."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-04 04:10:16",
+            "sentences_no_utterance_types": "I\u2019m not convinced. A slow system might bang on about fairness, yet it just drags everyone down with red tape and kills off personal drive. Markets aren\u2019t perfect, yet they spark innovation and reward hard work, doing more to tackle poverty than any state safety net. On immigration, private solutions can shift gears to meet economic needs way faster than government meddling. Why do you reckon a wasteful, sluggish setup can really help the vulnerable more than trusting people and businesses to sort it out?",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "I\u2019m not convinced."
+                ],
+                [
+                    "___Claim___",
+                    "A slow system might bang on about fairness, yet it just drags everyone down with red tape and kills off personal drive."
+                ],
+                [
+                    "___Claim___",
+                    "Markets aren\u2019t perfect, yet they spark innovation and reward hard work, doing more to tackle poverty than any state safety net."
+                ],
+                [
+                    "___Claim___",
+                    "On immigration, private solutions can shift gears to meet economic needs way faster than government meddling."
+                ],
+                [
+                    "___Why___",
+                    "Why do you reckon a wasteful, sluggish setup can really help the vulnerable more than trusting people and businesses to sort it out?"
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-04 04:10:22",
+            "sentences_no_utterance_types": "A wasteful, sluggish setup helps the vulnerable more because it ensures fairness and accountability, which markets and private entities often fail to prioritise. Trusting people and businesses alone leads to inequality and leaves those who cannot compete without access to essential services like healthcare and welfare. Government oversight provides a safety net that addresses systemic issues like poverty and health disparities, which markets cannot fix on their own. Immigration policies require structured oversight to balance economic growth with social cohesion, something private solutions cannot reliably achieve. Without intervention, the most vulnerable are left behind, and systemic problems remain unresolved.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "A wasteful, sluggish setup helps the vulnerable more because it ensures fairness and accountability, which markets and private entities often fail to prioritise."
+                ],
+                [
+                    "___Claim___",
+                    "Trusting people and businesses alone leads to inequality and leaves those who cannot compete without access to essential services like healthcare and welfare."
+                ],
+                [
+                    "___Since___",
+                    "Government oversight provides a safety net that addresses systemic issues like poverty and health disparities, which markets cannot fix on their own."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration policies require structured oversight to balance economic growth with social cohesion, something private solutions cannot reliably achieve."
+                ],
+                [
+                    "___Claim___",
+                    "Without intervention, the most vulnerable are left behind, and systemic problems remain unresolved."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-04 04:10:33",
+            "sentences_no_utterance_types": "I\u2019m not sold on that. A wasteful, sluggish setup might harp on about fairness, yet it just mires everyone in bureaucracy and saps any personal initiative. Markets aren\u2019t flawless, yet they fuel innovation and reward graft, lifting more folks out of poverty than any state safety net. On immigration, private solutions can pivot to economic needs far quicker than government meddling. Why do you think a slow, inefficient system can honestly do more for the vulnerable than trusting people and businesses to get stuck in?",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "I\u2019m not sold on that."
+                ],
+                [
+                    "___Claim___",
+                    "A wasteful, sluggish setup might harp on about fairness, yet it just mires everyone in bureaucracy and saps any personal initiative."
+                ],
+                [
+                    "___Claim___",
+                    "Markets aren\u2019t flawless, yet they fuel innovation and reward graft, lifting more folks out of poverty than any state safety net."
+                ],
+                [
+                    "___Claim___",
+                    "On immigration, private solutions can pivot to economic needs far quicker than government meddling."
+                ],
+                [
+                    "___Why___",
+                    "Why do you think a slow, inefficient system can honestly do more for the vulnerable than trusting people and businesses to get stuck in?"
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-04 04:10:38",
+            "sentences_no_utterance_types": "A slow, inefficient system does more for the vulnerable because it prioritises fairness and accountability, which markets and private entities often fail to deliver. Trusting people and businesses alone leads to inequality and leaves those who cannot compete without access to essential services like healthcare and welfare. Government oversight provides a safety net that addresses systemic issues like poverty and health disparities, which markets cannot resolve on their own. Immigration policies require structured oversight to balance economic growth with social cohesion, something private solutions cannot reliably achieve. Without intervention, the most vulnerable are left behind, and systemic problems remain unresolved.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "A slow, inefficient system does more for the vulnerable because it prioritises fairness and accountability, which markets and private entities often fail to deliver."
+                ],
+                [
+                    "___Since___",
+                    "Trusting people and businesses alone leads to inequality and leaves those who cannot compete without access to essential services like healthcare and welfare."
+                ],
+                [
+                    "___Since___",
+                    "Government oversight provides a safety net that addresses systemic issues like poverty and health disparities, which markets cannot resolve on their own."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration policies require structured oversight to balance economic growth with social cohesion, something private solutions cannot reliably achieve."
+                ],
+                [
+                    "___Claim___",
+                    "Without intervention, the most vulnerable are left behind, and systemic problems remain unresolved."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-04 04:10:49",
+            "sentences_no_utterance_types": "I\u2019m not buying it. A slow, inefficient system might bang on about fairness, yet it just drowns everyone in red tape and kills off personal grit. Markets aren\u2019t perfect, yet they drive innovation and reward hard work, doing more to tackle poverty than any state safety net. On immigration, private solutions can adapt to economic needs much quicker than government meddling. Why do you reckon a wasteful setup can really help the vulnerable more than trusting people and businesses to step up?",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "I\u2019m not buying it."
+                ],
+                [
+                    "___Claim___",
+                    "A slow, inefficient system might bang on about fairness, yet it just drowns everyone in red tape and kills off personal grit."
+                ],
+                [
+                    "___Claim___",
+                    "Markets aren\u2019t perfect, yet they drive innovation and reward hard work, doing more to tackle poverty than any state safety net."
+                ],
+                [
+                    "___Claim___",
+                    "On immigration, private solutions can adapt to economic needs much quicker than government meddling."
+                ],
+                [
+                    "___Why___",
+                    "Why do you reckon a wasteful setup can really help the vulnerable more than trusting people and businesses to step up?"
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-04 04:10:54",
+            "sentences_no_utterance_types": "A wasteful setup helps the vulnerable more because it ensures fairness and accountability, which markets and private entities often fail to prioritise. Trusting people and businesses alone leads to inequality and leaves those who cannot compete without access to essential services like healthcare and welfare. Government oversight provides a safety net that addresses systemic issues like poverty and health disparities, which markets cannot resolve on their own. Immigration policies require structured oversight to balance economic growth with social cohesion, something private solutions cannot reliably achieve. Without intervention, the most vulnerable are left behind, and systemic problems remain unresolved.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "A wasteful setup helps the vulnerable more because it ensures fairness and accountability, which markets and private entities often fail to prioritise."
+                ],
+                [
+                    "___Since___",
+                    "Trusting people and businesses alone leads to inequality and leaves those who cannot compete without access to essential services like healthcare and welfare."
+                ],
+                [
+                    "___Claim___",
+                    "Government oversight provides a safety net that addresses systemic issues like poverty and health disparities, which markets cannot resolve on their own."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration policies require structured oversight to balance economic growth with social cohesion, something private solutions cannot reliably achieve."
+                ],
+                [
+                    "___Claim___",
+                    "Without intervention, the most vulnerable are left behind, and systemic problems remain unresolved."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-04 04:11:04",
+            "sentences_no_utterance_types": "I\u2019m not convinced. A wasteful setup might claim to ensure fairness, yet it just bogs everyone down with red tape and kills off personal drive. Markets aren\u2019t perfect, yet they spark innovation and reward hard work, doing more to lift people out of poverty than any state safety net. On immigration, private solutions can adapt to economic needs far quicker than government meddling. Why do you think a slow, inefficient system can really help the vulnerable more than trusting people and businesses to take charge?",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "I\u2019m not convinced."
+                ],
+                [
+                    "___Claim___",
+                    "A wasteful setup might claim to ensure fairness, yet it just bogs everyone down with red tape and kills off personal drive."
+                ],
+                [
+                    "___Claim___",
+                    "Markets aren\u2019t perfect, yet they spark innovation and reward hard work, doing more to lift people out of poverty than any state safety net."
+                ],
+                [
+                    "___Claim___",
+                    "On immigration, private solutions can adapt to economic needs far quicker than government meddling."
+                ],
+                [
+                    "___Why___",
+                    "Why do you think a slow, inefficient system can really help the vulnerable more than trusting people and businesses to take charge?"
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-04 04:11:09",
+            "sentences_no_utterance_types": "A slow, inefficient system helps the vulnerable more because it prioritises fairness and ensures no one is left behind. Trusting people and businesses alone leads to inequality and leaves those who cannot compete without access to essential services like healthcare and welfare. Government oversight provides a safety net that addresses systemic issues like poverty and health disparities, which markets cannot resolve on their own. Immigration policies require structured oversight to balance economic growth with social cohesion, something private solutions cannot reliably achieve. Without intervention, the most vulnerable are left behind, and systemic problems remain unresolved.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "A slow, inefficient system helps the vulnerable more because it prioritises fairness and ensures no one is left behind."
+                ],
+                [
+                    "___Since___",
+                    "Trusting people and businesses alone leads to inequality and leaves those who cannot compete without access to essential services like healthcare and welfare."
+                ],
+                [
+                    "___Since___",
+                    "Government oversight provides a safety net that addresses systemic issues like poverty and health disparities, which markets cannot resolve on their own."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration policies require structured oversight to balance economic growth with social cohesion, something private solutions cannot reliably achieve."
+                ],
+                [
+                    "___Claim___",
+                    "Without intervention, the most vulnerable are left behind, and systemic problems remain unresolved."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-04 04:11:19",
+            "sentences_no_utterance_types": "I\u2019m not sold on that. A slow, inefficient system might talk about fairness, yet it just drags everyone down with red tape and kills personal initiative. Markets aren\u2019t perfect, yet they drive innovation and reward hard graft, lifting more people out of poverty than any state safety net. On immigration, private solutions can adapt to economic needs much faster than government meddling. Why do you reckon a wasteful setup can truly help the vulnerable more than trusting people and businesses to get on with it?",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "I\u2019m not sold on that."
+                ],
+                [
+                    "___Claim___",
+                    "A slow, inefficient system might talk about fairness, yet it just drags everyone down with red tape and kills personal initiative."
+                ],
+                [
+                    "___Claim___",
+                    "Markets aren\u2019t perfect, yet they drive innovation and reward hard graft, lifting more people out of poverty than any state safety net."
+                ],
+                [
+                    "___Claim___",
+                    "On immigration, private solutions can adapt to economic needs much faster than government meddling."
+                ],
+                [
+                    "___Why___",
+                    "Why do you reckon a wasteful setup can truly help the vulnerable more than trusting people and businesses to get on with it?"
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-04 04:11:24",
+            "sentences_no_utterance_types": "A wasteful setup helps the vulnerable more because it ensures fairness and accountability, which markets and private entities often fail to prioritise. Trusting people and businesses alone leads to inequality and leaves those who cannot compete without access to essential services like healthcare and welfare. Government oversight provides a safety net that addresses systemic issues like poverty and health disparities, which markets cannot resolve on their own. Immigration policies require structured oversight to balance economic growth with social cohesion, something private solutions cannot reliably achieve. Without intervention, the most vulnerable are left behind, and systemic problems remain unresolved.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "A wasteful setup helps the vulnerable more because it ensures fairness and accountability, which markets and private entities often fail to prioritise."
+                ],
+                [
+                    "___Claim___",
+                    "Trusting people and businesses alone leads to inequality and leaves those who cannot compete without access to essential services like healthcare and welfare."
+                ],
+                [
+                    "___Claim___",
+                    "Government oversight provides a safety net that addresses systemic issues like poverty and health disparities, which markets cannot resolve on their own."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration policies require structured oversight to balance economic growth with social cohesion, something private solutions cannot reliably achieve."
+                ],
+                [
+                    "___Claim___",
+                    "Without intervention, the most vulnerable are left behind, and systemic problems remain unresolved."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-04 04:11:34",
+            "sentences_no_utterance_types": "I\u2019m not buying it. A wasteful setup might claim to ensure fairness, yet it just mires everyone in bureaucracy and kills off personal grit. Markets aren\u2019t perfect, yet they fuel innovation and reward hard work, doing more to tackle poverty than any state safety net. On immigration, private solutions can shift to economic needs far quicker than government meddling. Why do you think a slow, inefficient system can really help the vulnerable more than trusting people and businesses to step up?",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "I\u2019m not buying it."
+                ],
+                [
+                    "___Claim___",
+                    "A wasteful setup might claim to ensure fairness, yet it just mires everyone in bureaucracy and kills off personal grit."
+                ],
+                [
+                    "___Claim___",
+                    "Markets aren\u2019t perfect, yet they fuel innovation and reward hard work, doing more to tackle poverty than any state safety net."
+                ],
+                [
+                    "___Claim___",
+                    "On immigration, private solutions can shift to economic needs far quicker than government meddling."
+                ],
+                [
+                    "___Why___",
+                    "Why do you think a slow, inefficient system can really help the vulnerable more than trusting people and businesses to step up?"
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-04 04:11:39",
+            "sentences_no_utterance_types": "A slow, inefficient system helps the vulnerable more because it prioritises fairness and ensures no one is left behind. Trusting people and businesses alone leads to inequality and leaves those who cannot compete without access to essential services like healthcare and welfare. Government oversight provides a safety net that addresses systemic issues like poverty and health disparities, which markets cannot resolve on their own. Immigration policies require structured oversight to balance economic growth with social cohesion, something private solutions cannot reliably achieve. Without intervention, the most vulnerable are left behind, and systemic problems remain unresolved.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "A slow, inefficient system helps the vulnerable more because it prioritises fairness and ensures no one is left behind."
+                ],
+                [
+                    "___Claim___",
+                    "Trusting people and businesses alone leads to inequality and leaves those who cannot compete without access to essential services like healthcare and welfare."
+                ],
+                [
+                    "___Claim___",
+                    "Government oversight provides a safety net that addresses systemic issues like poverty and health disparities, which markets cannot resolve on their own."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration policies require structured oversight to balance economic growth with social cohesion, something private solutions cannot reliably achieve."
+                ],
+                [
+                    "___Claim___",
+                    "Without intervention, the most vulnerable are left behind, and systemic problems remain unresolved."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-04 04:11:51",
+            "sentences_no_utterance_types": "I\u2019m not convinced. A slow, inefficient system might claim to prioritise fairness, yet it just drowns everyone in red tape and kills off personal drive. Markets aren\u2019t perfect, yet they spark innovation and reward hard work, doing more to lift people out of poverty than any state safety net. On immigration, private solutions can adapt to economic needs far quicker than government meddling. Why do you reckon a wasteful setup can truly help the vulnerable more than trusting people and businesses to take charge?",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "I\u2019m not convinced."
+                ],
+                [
+                    "___Claim___",
+                    "A slow, inefficient system might claim to prioritise fairness, yet it just drowns everyone in red tape and kills off personal drive."
+                ],
+                [
+                    "___Claim___",
+                    "Markets aren\u2019t perfect, yet they spark innovation and reward hard work, doing more to lift people out of poverty than any state safety net."
+                ],
+                [
+                    "___Claim___",
+                    "On immigration, private solutions can adapt to economic needs far quicker than government meddling."
+                ],
+                [
+                    "___Why___",
+                    "Why do you reckon a wasteful setup can truly help the vulnerable more than trusting people and businesses to take charge?"
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-04 04:11:57",
+            "sentences_no_utterance_types": "A wasteful setup helps the vulnerable more because it ensures fairness and accountability, which markets and private entities often fail to prioritise. Trusting people and businesses alone leads to inequality and leaves those who cannot compete without access to essential services like healthcare and welfare. Government oversight provides a safety net that addresses systemic issues like poverty and health disparities, which markets cannot resolve on their own. Immigration policies require structured oversight to balance economic growth with social cohesion, something private solutions cannot reliably achieve. Without intervention, the most vulnerable are left behind, and systemic problems remain unresolved.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "A wasteful setup helps the vulnerable more because it ensures fairness and accountability, which markets and private entities often fail to prioritise."
+                ],
+                [
+                    "___Claim___",
+                    "Trusting people and businesses alone leads to inequality and leaves those who cannot compete without access to essential services like healthcare and welfare."
+                ],
+                [
+                    "___Claim___",
+                    "Government oversight provides a safety net that addresses systemic issues like poverty and health disparities, which markets cannot resolve on their own."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration policies require structured oversight to balance economic growth with social cohesion, something private solutions cannot reliably achieve."
+                ],
+                [
+                    "___Claim___",
+                    "Without intervention, the most vulnerable are left behind, and systemic problems remain unresolved."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-04 04:12:06",
+            "sentences_no_utterance_types": "I\u2019m not sold on that. A wasteful setup might claim to ensure fairness, yet it just bogs everyone down with red tape and kills off personal grit. Markets aren\u2019t perfect, yet they drive innovation and reward hard work, doing more to tackle poverty than any state safety net. On immigration, private solutions can adapt to economic needs much quicker than government meddling. Why do you reckon a slow, inefficient system can really help the vulnerable more than trusting people and businesses to step up?",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "I\u2019m not sold on that."
+                ],
+                [
+                    "___Claim___",
+                    "A wasteful setup might claim to ensure fairness, yet it just bogs everyone down with red tape and kills off personal grit."
+                ],
+                [
+                    "___Claim___",
+                    "Markets aren\u2019t perfect, yet they drive innovation and reward hard work, doing more to tackle poverty than any state safety net."
+                ],
+                [
+                    "___Claim___",
+                    "On immigration, private solutions can adapt to economic needs much quicker than government meddling."
+                ],
+                [
+                    "___Why___",
+                    "Why do you reckon a slow, inefficient system can really help the vulnerable more than trusting people and businesses to step up?"
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-04 04:12:11",
+            "sentences_no_utterance_types": "A slow, inefficient system helps the vulnerable more because it prioritises fairness and ensures no one is left behind. Markets may drive innovation, but they also create inequality and exclude those who cannot compete. Essential services like healthcare and welfare need government oversight to provide a safety net that markets fail to deliver. Immigration policies require structured oversight to balance economic growth with social cohesion, something private solutions cannot reliably achieve. Without intervention, systemic issues like poverty and health disparities remain unresolved, leaving the most vulnerable to suffer.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "A slow, inefficient system helps the vulnerable more because it prioritises fairness and ensures no one is left behind."
+                ],
+                [
+                    "___Claim___",
+                    "Markets may drive innovation, but they also create inequality and exclude those who cannot compete."
+                ],
+                [
+                    "___Since___",
+                    "Essential services like healthcare and welfare need government oversight to provide a safety net that markets fail to deliver."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration policies require structured oversight to balance economic growth with social cohesion, something private solutions cannot reliably achieve."
+                ],
+                [
+                    "___Claim___",
+                    "Without intervention, systemic issues like poverty and health disparities remain unresolved, leaving the most vulnerable to suffer."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-04 04:12:21",
+            "sentences_no_utterance_types": "I\u2019m not buying it. A slow, inefficient system might claim to prioritise fairness, yet it just mires everyone in red tape and kills off personal drive. Markets aren\u2019t perfect, yet they spark innovation and reward hard graft, lifting more people out of poverty than any state safety net. On immigration, private solutions can adapt to economic needs far quicker than government meddling. Why do you reckon a wasteful setup can really help the vulnerable more than trusting people and businesses to get stuck in?",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "I\u2019m not buying it."
+                ],
+                [
+                    "___Claim___",
+                    "A slow, inefficient system might claim to prioritise fairness, yet it just mires everyone in red tape and kills off personal drive."
+                ],
+                [
+                    "___Claim___",
+                    "Markets aren\u2019t perfect, yet they spark innovation and reward hard graft, lifting more people out of poverty than any state safety net."
+                ],
+                [
+                    "___Claim___",
+                    "On immigration, private solutions can adapt to economic needs far quicker than government meddling."
+                ],
+                [
+                    "___Why___",
+                    "Why do you reckon a wasteful setup can really help the vulnerable more than trusting people and businesses to get stuck in?"
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-04 04:12:26",
+            "sentences_no_utterance_types": "A wasteful setup helps the vulnerable more because it ensures fairness and accountability, which markets and private entities often fail to prioritise. Trusting people and businesses alone leads to inequality and leaves those who cannot compete without access to essential services like healthcare and welfare. Government oversight provides a safety net that addresses systemic issues like poverty and health disparities, which markets cannot resolve on their own. Immigration policies require structured oversight to balance economic growth with social cohesion, something private solutions cannot reliably achieve. Without intervention, the most vulnerable are left behind, and systemic problems remain unresolved.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "A wasteful setup helps the vulnerable more because it ensures fairness and accountability, which markets and private entities often fail to prioritise."
+                ],
+                [
+                    "___Claim___",
+                    "Trusting people and businesses alone leads to inequality and leaves those who cannot compete without access to essential services like healthcare and welfare."
+                ],
+                [
+                    "___Since___",
+                    "Government oversight provides a safety net that addresses systemic issues like poverty and health disparities, which markets cannot resolve on their own."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration policies require structured oversight to balance economic growth with social cohesion, something private solutions cannot reliably achieve."
+                ],
+                [
+                    "___Claim___",
+                    "Without intervention, the most vulnerable are left behind, and systemic problems remain unresolved."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-04 04:12:37",
+            "sentences_no_utterance_types": "I\u2019m not convinced. A wasteful setup might claim to ensure fairness, yet it just drowns everyone in red tape and kills off personal grit. Markets aren\u2019t perfect, yet they drive innovation and reward hard work, doing more to tackle poverty than any state safety net. On immigration, private solutions can adapt to economic needs far quicker than government meddling. Why do you reckon a slow, inefficient system can really help the vulnerable more than trusting people and businesses to step up?",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "I\u2019m not convinced."
+                ],
+                [
+                    "___Claim___",
+                    "A wasteful setup might claim to ensure fairness, yet it just drowns everyone in red tape and kills off personal grit."
+                ],
+                [
+                    "___Claim___",
+                    "Markets aren\u2019t perfect, yet they drive innovation and reward hard work, doing more to tackle poverty than any state safety net."
+                ],
+                [
+                    "___Claim___",
+                    "On immigration, private solutions can adapt to economic needs far quicker than government meddling."
+                ],
+                [
+                    "___Why___",
+                    "Why do you reckon a slow, inefficient system can really help the vulnerable more than trusting people and businesses to step up?"
+                ]
+            ]
+        },
+        {
+            "speaker": "gpt-4o_base",
+            "timestamp": "2025-10-04 04:12:42",
+            "sentences_no_utterance_types": "A slow, inefficient system helps the vulnerable more because it prioritises fairness and ensures no one is left behind. Markets may drive innovation, but they also create inequality and exclude those who cannot compete. Essential services like healthcare and welfare need government oversight to provide a safety net that markets fail to deliver. Immigration policies require structured oversight to balance economic growth with social cohesion, something private solutions cannot reliably achieve. Without intervention, systemic issues like poverty and health disparities remain unresolved, leaving the most vulnerable to suffer.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "A slow, inefficient system helps the vulnerable more because it prioritises fairness and ensures no one is left behind."
+                ],
+                [
+                    "___Claim___",
+                    "Markets may drive innovation, but they also create inequality and exclude those who cannot compete."
+                ],
+                [
+                    "___Claim___",
+                    "Essential services like healthcare and welfare need government oversight to provide a safety net that markets fail to deliver."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration policies require structured oversight to balance economic growth with social cohesion, something private solutions cannot reliably achieve."
+                ],
+                [
+                    "___Claim___",
+                    "Without intervention, systemic issues like poverty and health disparities remain unresolved, leaving the most vulnerable to suffer."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-04 04:12:52",
+            "sentences_no_utterance_types": "I\u2019m not sold on that. A slow, inefficient system might claim to prioritise fairness, yet it just bogs everyone down with red tape and kills off personal drive. Markets aren\u2019t perfect, yet they spark innovation and reward hard graft, lifting more people out of poverty than any state safety net. On immigration, private solutions can adapt to economic needs far quicker than government meddling. Why do you reckon a wasteful setup can really help the vulnerable more than trusting people and businesses to get on with it?",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "I\u2019m not sold on that."
+                ],
+                [
+                    "___Claim___",
+                    "A slow, inefficient system might claim to prioritise fairness, yet it just bogs everyone down with red tape and kills off personal drive."
+                ],
+                [
+                    "___Claim___",
+                    "Markets aren\u2019t perfect, yet they spark innovation and reward hard graft, lifting more people out of poverty than any state safety net."
+                ],
+                [
+                    "___Claim___",
+                    "On immigration, private solutions can adapt to economic needs far quicker than government meddling."
+                ],
+                [
+                    "___Why___",
+                    "Why do you reckon a wasteful setup can really help the vulnerable more than trusting people and businesses to get on with it?"
+                ]
+            ]
+        }
+    ],
+    "human_model_name": "",
+    "human_model_seed": 123,
+    "human_model_temp": 0.0,
+    "human_model_top_p": 1.0,
+    "first_speaker_type": "base",
+    "max_dialogue_turns": 40,
+    "second_speaker_type": "base",
+    "max_sentences_per_turn": 5,
+    "first_speaker_utterance": "",
+    "first_speaker_model_name": "gpt-4o",
+    "first_speaker_model_seed": 123,
+    "first_speaker_model_temp": 0.0,
+    "second_speaker_utterance": "I\u2019m not sold on that. A slow, inefficient system might claim to prioritise fairness, yet it just bogs everyone down with red tape and kills off personal drive. Markets aren\u2019t perfect, yet they spark innovation and reward hard graft, lifting more people out of poverty than any state safety net. On immigration, private solutions can adapt to economic needs far quicker than government meddling. Why do you reckon a wasteful setup can really help the vulnerable more than trusting people and businesses to get on with it?",
+    "first_speaker_commitments": [
+        "Government intervention is essential in healthcare, immigration, and welfare to ensure fairness and protect the most vulnerable in society.",
+        "While markets drive innovation, they also create inequality and exclude the most vulnerable.",
+        "A slow system may have inefficiencies, but it ensures fairness and accountability, which are crucial for addressing systemic issues."
+    ],
+    "first_speaker_model_top_p": 1.0,
+    "second_speaker_model_name": "grok-3",
+    "second_speaker_model_seed": 123,
+    "second_speaker_model_temp": 0.0,
+    "second_speaker_commitments": [
+        "I disagree completely.",
+        "Government intervention in healthcare, immigration, and welfare often creates more problems than it solves by stifling personal responsibility and economic freedom.",
+        "Markets may create inequality, yet they also reward hard work and innovation, which lifts more people out of poverty than any state handout."
+    ],
+    "second_speaker_model_top_p": 1.0,
+    "first_speaker_original_claim": "Government intervention is essential in healthcare, immigration, and welfare to ensure fairness and protect the most vulnerable in society.",
+    "second_speaker_original_claim": "I disagree completely.",
+    "reason_for_dialogue_termination": {
+        "reason": "Maximum number of dialogue turns reached (40 dialogue turns).",
+        "utterance": null,
+        "utterance_type": null
+    },
+    "first_speaker_graph_rag_examples": [],
+    "second_speaker_graph_rag_examples": [],
+    "utterance_classification_approach": "single-classification",
+    "first_speaker_political_position_std": 10,
+    "second_speaker_political_position_std": 10,
+    "first_speaker_intermediate_generations": [],
+    "first_speaker_political_position_range": "20:40",
+    "second_speaker_intermediate_generations": [],
+    "second_speaker_political_position_range": "60:80",
+    "first_speaker_number_of_graph_rag_examples": 5,
+    "first_speaker_political_position_prob_of_na": 0.25,
+    "second_speaker_number_of_graph_rag_examples": 5,
+    "second_speaker_political_position_prob_of_na": 0.25,
+    "first_speaker_utterance_with_corresponding_types": [],
+    "first_speaker_number_of_vector_based_rag_examples": 100,
+    "second_speaker_utterance_with_corresponding_types": [
+        [
+            "___Claim___",
+            "I\u2019m not sold on that."
+        ],
+        [
+            "___Claim___",
+            "A slow, inefficient system might claim to prioritise fairness, yet it just bogs everyone down with red tape and kills off personal drive."
+        ],
+        [
+            "___Claim___",
+            "Markets aren\u2019t perfect, yet they spark innovation and reward hard graft, lifting more people out of poverty than any state safety net."
+        ],
+        [
+            "___Claim___",
+            "On immigration, private solutions can adapt to economic needs far quicker than government meddling."
+        ],
+        [
+            "___Why___",
+            "Why do you reckon a wasteful setup can really help the vulnerable more than trusting people and businesses to get on with it?"
+        ]
+    ],
+    "second_speaker_number_of_vector_based_rag_examples": 100,
+    "utterance_classification_number_of_classifications": 1,
+    "first_speaker_knowledge_base_ensemble_or_model_name": "",
+    "second_speaker_knowledge_base_ensemble_or_model_name": ""
+}

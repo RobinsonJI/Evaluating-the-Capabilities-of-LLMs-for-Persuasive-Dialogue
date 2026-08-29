@@ -1,0 +1,1125 @@
+{
+    "dialogue_history": [
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government intervention in healthcare ensures that no one is left to suffer due to their financial situation, which is a moral imperative."
+                ]
+            ],
+            "sentences_no_utterance_types": "Government intervention in healthcare ensures that no one is left to suffer due to their financial situation, which is a moral imperative.",
+            "timestamp": "2025-10-08 10:32:49"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Relying on government intervention in healthcare undermines personal responsibility and the freedom to choose what\u2019s best for oneself."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare incentivises innovation and quality, ensuring people get better care without the government meddling."
+                ],
+                [
+                    "___Question___",
+                    "How do you justify the moral imperative of intervention when it could lead to inefficiencies and higher taxes?"
+                ],
+                [
+                    "___Question___",
+                    "What evidence supports the claim that government involvement guarantees better outcomes for all citizens?"
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention in healthcare creates inefficiency and dependency, leaving taxpayers to foot the bill for a bloated system."
+                ]
+            ],
+            "sentences_no_utterance_types": "Relying on government intervention in healthcare undermines personal responsibility and the freedom to choose what\u2019s best for oneself. Private healthcare incentivises innovation and quality, ensuring people get better care without the government meddling. How do you justify the moral imperative of intervention when it could lead to inefficiencies and higher taxes? What evidence supports the claim that government involvement guarantees better outcomes for all citizens? Government intervention in healthcare creates inefficiency and dependency, leaving taxpayers to foot the bill for a bloated system.",
+            "timestamp": "2025-10-08 10:32:54"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Higher taxes are a fair trade-off for a system that guarantees equitable access to life-saving services for all citizens."
+                ],
+                [
+                    "___Claim___",
+                    "Freedom to choose in healthcare is meaningless if financial barriers prevent people from accessing the care they need."
+                ],
+                [
+                    "___Since___",
+                    "Healthcare is a fundamental right, and government intervention ensures that no one is denied care due to their financial situation."
+                ],
+                [
+                    "___Claim___",
+                    "Taxpayer-funded healthcare provides essential services to all citizens, preventing the exploitation and inequality seen in privatised systems."
+                ],
+                [
+                    "___Why___",
+                    "Why should better care be reserved for those who can afford it rather than being accessible to all?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Higher taxes are a fair trade-off for a system that guarantees equitable access to life-saving services for all citizens. Freedom to choose in healthcare is meaningless if financial barriers prevent people from accessing the care they need. Healthcare is a fundamental right, and government intervention ensures that no one is denied care due to their financial situation. Taxpayer-funded healthcare provides essential services to all citizens, preventing the exploitation and inequality seen in privatised systems. Why should better care be reserved for those who can afford it rather than being accessible to all?",
+            "timestamp": "2025-10-08 10:33:28"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why should taxpayers fund a system that might not deliver the same quality of care as private alternatives?"
+                ],
+                [
+                    "___Claim___",
+                    "Relying on higher taxes for healthcare strips individuals of their right to decide how their money is spent and rewards government mismanagement."
+                ],
+                [
+                    "___Claim___",
+                    "Government-controlled healthcare leads to rationing and delays, leaving people waiting for essential treatments while private systems prioritise efficiency."
+                ],
+                [
+                    "___Claim___",
+                    "Freedom to choose in healthcare is vital because it allows individuals to seek the best care available without being restricted by government-imposed systems."
+                ],
+                [
+                    "___Claim___",
+                    "Privatised systems drive competition and innovation, ensuring better services and outcomes compared to bloated government-run healthcare."
+                ]
+            ],
+            "sentences_no_utterance_types": "Why should taxpayers fund a system that might not deliver the same quality of care as private alternatives? Relying on higher taxes for healthcare strips individuals of their right to decide how their money is spent and rewards government mismanagement. Government-controlled healthcare leads to rationing and delays, leaving people waiting for essential treatments while private systems prioritise efficiency. Freedom to choose in healthcare is vital because it allows individuals to seek the best care available without being restricted by government-imposed systems. Privatised systems drive competition and innovation, ensuring better services and outcomes compared to bloated government-run healthcare.",
+            "timestamp": "2025-10-08 10:33:58"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government-run healthcare ensures universal access and prioritises public health over corporate interests."
+                ],
+                [
+                    "___Claim___",
+                    "Spending on universal healthcare through taxes is a collective investment in the well-being of society, not a reward for mismanagement."
+                ],
+                [
+                    "___Claim___",
+                    "Privatised systems prioritise profit over patient care, leading to inequality and neglect for those who can't afford high costs."
+                ],
+                [
+                    "___Since___",
+                    "Since universal healthcare ensures that everyone, regardless of income, has access to essential medical services, it is a moral obligation to fund it collectively."
+                ],
+                [
+                    "___Since___",
+                    "Since government-run healthcare reduces inequality by providing equitable access, it is worth funding even if it requires higher taxes."
+                ]
+            ],
+            "sentences_no_utterance_types": "Government-run healthcare ensures universal access and prioritises public health over corporate interests. Spending on universal healthcare through taxes is a collective investment in the well-being of society, not a reward for mismanagement. Privatised systems prioritise profit over patient care, leading to inequality and neglect for those who can't afford high costs. Since universal healthcare ensures that everyone, regardless of income, has access to essential medical services, it is a moral obligation to fund it collectively. Since government-run healthcare reduces inequality by providing equitable access, it is worth funding even if it requires higher taxes.",
+            "timestamp": "2025-10-08 10:34:35"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Profit-driven models in healthcare incentivise better outcomes and faster treatments, which are often compromised in government-controlled systems."
+                ],
+                [
+                    "___Question___",
+                    "Why should taxpayers trust that their money is being spent efficiently in a government-run healthcare system?"
+                ],
+                [
+                    "___Claim___",
+                    "Privatised systems prioritise efficiency and innovation, ensuring patients receive high-quality care that government-run systems often fail to deliver."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare creates competition that drives down costs and improves services, making care more accessible rather than neglecting those in need."
+                ],
+                [
+                    "___Why___",
+                    "Why should taxpayers accept higher taxes for a system that risks inefficiency and waste?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Profit-driven models in healthcare incentivise better outcomes and faster treatments, which are often compromised in government-controlled systems. Why should taxpayers trust that their money is being spent efficiently in a government-run healthcare system? Privatised systems prioritise efficiency and innovation, ensuring patients receive high-quality care that government-run systems often fail to deliver. Private healthcare creates competition that drives down costs and improves services, making care more accessible rather than neglecting those in need. Why should taxpayers accept higher taxes for a system that risks inefficiency and waste?",
+            "timestamp": "2025-10-08 10:35:01"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Universal healthcare is a collective investment in public health, preventing exploitation and neglect of vulnerable populations."
+                ],
+                [
+                    "___Claim___",
+                    "Profit-driven healthcare prioritises financial gain over patient welfare, often leaving the most vulnerable without access to essential treatments."
+                ],
+                [
+                    "___Claim___",
+                    "Universal healthcare systems prioritise equitable access and public health outcomes over profit, making efficiency a moral priority."
+                ],
+                [
+                    "___Since___",
+                    "Since government-run healthcare prioritises equitable access over profit, it ensures that funds are directed towards patient care rather than corporate gains."
+                ],
+                [
+                    "___Claim___",
+                    "Taxpayer-funded healthcare eliminates the profit motive, focusing resources on patient care rather than corporate gains."
+                ]
+            ],
+            "sentences_no_utterance_types": "Universal healthcare is a collective investment in public health, preventing exploitation and neglect of vulnerable populations. Profit-driven healthcare prioritises financial gain over patient welfare, often leaving the most vulnerable without access to essential treatments. Universal healthcare systems prioritise equitable access and public health outcomes over profit, making efficiency a moral priority. Since government-run healthcare prioritises equitable access over profit, it ensures that funds are directed towards patient care rather than corporate gains. Taxpayer-funded healthcare eliminates the profit motive, focusing resources on patient care rather than corporate gains.",
+            "timestamp": "2025-10-08 10:35:37"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private healthcare systems prioritise innovation and quality, ensuring that even the most vulnerable receive timely and effective treatments."
+                ],
+                [
+                    "___Why___",
+                    "Why should taxpayers accept a system that removes competition, which often drives innovation and improvement in healthcare?"
+                ],
+                [
+                    "___Why___",
+                    "Why should the most vulnerable be left without access in a system that competition could make more efficient and affordable?"
+                ],
+                [
+                    "___Claim___",
+                    "Universal healthcare forces people to pay for services they may never use, undermining personal choice and responsibility."
+                ],
+                [
+                    "___Claim___",
+                    "Profit-driven models in healthcare drive competition, which lowers costs and improves access for everyone, including those who are financially disadvantaged."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private healthcare systems prioritise innovation and quality, ensuring that even the most vulnerable receive timely and effective treatments. Why should taxpayers accept a system that removes competition, which often drives innovation and improvement in healthcare? Why should the most vulnerable be left without access in a system that competition could make more efficient and affordable? Universal healthcare forces people to pay for services they may never use, undermining personal choice and responsibility. Profit-driven models in healthcare drive competition, which lowers costs and improves access for everyone, including those who are financially disadvantaged.",
+            "timestamp": "2025-10-08 10:36:04"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Universal healthcare ensures that the most vulnerable have guaranteed access to essential services without being priced out by market forces."
+                ],
+                [
+                    "___Claim___",
+                    "Universal healthcare ensures that everyone contributes to a system that guarantees access to life-saving services when they need it, fostering collective responsibility."
+                ],
+                [
+                    "___Question___",
+                    "Why should personal choice outweigh the collective benefit of ensuring everyone has access to healthcare?"
+                ],
+                [
+                    "___Claim___",
+                    "Profit-driven models inflate costs for essential treatments, making healthcare less accessible for financially disadvantaged individuals."
+                ],
+                [
+                    "___Since___",
+                    "Efficiency in healthcare should not come at the cost of equity, and universal systems prioritise equitable access over profit motives."
+                ]
+            ],
+            "sentences_no_utterance_types": "Universal healthcare ensures that the most vulnerable have guaranteed access to essential services without being priced out by market forces. Universal healthcare ensures that everyone contributes to a system that guarantees access to life-saving services when they need it, fostering collective responsibility. Why should personal choice outweigh the collective benefit of ensuring everyone has access to healthcare? Profit-driven models inflate costs for essential treatments, making healthcare less accessible for financially disadvantaged individuals. Efficiency in healthcare should not come at the cost of equity, and universal systems prioritise equitable access over profit motives.",
+            "timestamp": "2025-10-08 10:36:36"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Competition in private healthcare drives innovation and affordability, making care accessible without sacrificing personal freedom."
+                ],
+                [
+                    "___Question___",
+                    "Why should individuals be forced to contribute to a system that they may never personally benefit from?"
+                ],
+                [
+                    "___Claim___",
+                    "Universal healthcare forces everyone to pay into a system that often fails to deliver adequate services to those who need them most."
+                ],
+                [
+                    "___Why___",
+                    "Why should taxpayers fund a system that removes competition and innovation in healthcare?"
+                ],
+                [
+                    "___Claim___",
+                    "Prioritising personal choice fosters competition and innovation, which ultimately benefits everyone by improving the quality and accessibility of healthcare."
+                ]
+            ],
+            "sentences_no_utterance_types": "Competition in private healthcare drives innovation and affordability, making care accessible without sacrificing personal freedom. Why should individuals be forced to contribute to a system that they may never personally benefit from? Universal healthcare forces everyone to pay into a system that often fails to deliver adequate services to those who need them most. Why should taxpayers fund a system that removes competition and innovation in healthcare? Prioritising personal choice fosters competition and innovation, which ultimately benefits everyone by improving the quality and accessibility of healthcare.",
+            "timestamp": "2025-10-08 10:37:01"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Taxpayer-funded healthcare prioritises equitable access over profit, ensuring no one is denied care due to financial barriers."
+                ],
+                [
+                    "___Claim___",
+                    "Universal healthcare delivers life-saving services to those who need them most, preventing exploitation by private systems."
+                ],
+                [
+                    "___Claim___",
+                    "Competition in healthcare prioritises profit over patient welfare, often leading to inflated costs and reduced accessibility for the most vulnerable."
+                ],
+                [
+                    "___Since___",
+                    "Since universal systems prioritise equity and public health over profit, they protect the most vulnerable and strengthen society as a whole."
+                ],
+                [
+                    "___Claim___",
+                    "Universal healthcare is a collective investment that ensures no one is left without access to essential medical services when they need it."
+                ]
+            ],
+            "sentences_no_utterance_types": "Taxpayer-funded healthcare prioritises equitable access over profit, ensuring no one is denied care due to financial barriers. Universal healthcare delivers life-saving services to those who need them most, preventing exploitation by private systems. Competition in healthcare prioritises profit over patient welfare, often leading to inflated costs and reduced accessibility for the most vulnerable. Since universal systems prioritise equity and public health over profit, they protect the most vulnerable and strengthen society as a whole. Universal healthcare is a collective investment that ensures no one is left without access to essential medical services when they need it.",
+            "timestamp": "2025-10-08 10:37:33"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why should taxpayers fund universal healthcare when private systems could deliver life-saving services more efficiently?"
+                ],
+                [
+                    "___Claim___",
+                    "Competition in healthcare drives innovation and efficiency, ensuring better services and lower costs for everyone."
+                ],
+                [
+                    "___Claim___",
+                    "Universal healthcare forces individuals to pay into a system that often fails to deliver timely and effective medical services."
+                ],
+                [
+                    "___Claim___",
+                    "Equitable access in taxpayer-funded healthcare is undermined by long waiting times and rationing, which deny timely care to those in need."
+                ],
+                [
+                    "___Why___",
+                    "Why should the most vulnerable be denied the benefits of a competitive system that could improve efficiency and access?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Why should taxpayers fund universal healthcare when private systems could deliver life-saving services more efficiently? Competition in healthcare drives innovation and efficiency, ensuring better services and lower costs for everyone. Universal healthcare forces individuals to pay into a system that often fails to deliver timely and effective medical services. Equitable access in taxpayer-funded healthcare is undermined by long waiting times and rationing, which deny timely care to those in need. Why should the most vulnerable be denied the benefits of a competitive system that could improve efficiency and access?",
+            "timestamp": "2025-10-08 10:37:57"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Universal healthcare ensures equitable access to life-saving services, which private systems often fail to provide for the financially disadvantaged."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems may claim efficiency, but they often inflate costs and exclude vulnerable populations, making universal healthcare a more just solution."
+                ],
+                [
+                    "___Why___",
+                    "Why should equitable access be sacrificed for efficiency when universal healthcare aims to prioritise the most vulnerable?"
+                ],
+                [
+                    "___Why___",
+                    "Why should the financial burden of healthcare fall on individuals rather than being shared collectively to guarantee access for all?"
+                ],
+                [
+                    "___Since___",
+                    "Universal healthcare ensures equitable access to life-saving services, which private systems often fail to provide for the financially disadvantaged."
+                ],
+                [
+                    "___Question___",
+                    "Why should equitable access be judged solely on waiting times when universal healthcare ensures no one is denied care due to financial barriers?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Universal healthcare ensures equitable access to life-saving services, which private systems often fail to provide for the financially disadvantaged. Private systems may claim efficiency, but they often inflate costs and exclude vulnerable populations, making universal healthcare a more just solution. Why should equitable access be sacrificed for efficiency when universal healthcare aims to prioritise the most vulnerable? Why should the financial burden of healthcare fall on individuals rather than being shared collectively to guarantee access for all? Universal healthcare ensures equitable access to life-saving services, which private systems often fail to provide for the financially disadvantaged. Why should equitable access be judged solely on waiting times when universal healthcare ensures no one is denied care due to financial barriers?",
+            "timestamp": "2025-10-08 10:38:29"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private systems ensure that life-saving services are delivered efficiently and promptly, which universal healthcare often fails to achieve."
+                ],
+                [
+                    "___Claim___",
+                    "Private healthcare incentivises personal responsibility and ensures that resources are allocated based on demand rather than government mandates."
+                ],
+                [
+                    "___Claim___",
+                    "Universal healthcare's promise of access is undermined if patients are forced to wait months for treatments that private systems could deliver promptly."
+                ],
+                [
+                    "___Claim___",
+                    "Equitable access isn't just about financial barriers; long waiting times can mean life-threatening delays for patients who need urgent care."
+                ],
+                [
+                    "___Since___",
+                    "Prioritising competition in healthcare drives innovation and affordability, making care accessible without sacrificing quality."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private systems ensure that life-saving services are delivered efficiently and promptly, which universal healthcare often fails to achieve. Private healthcare incentivises personal responsibility and ensures that resources are allocated based on demand rather than government mandates. Universal healthcare's promise of access is undermined if patients are forced to wait months for treatments that private systems could deliver promptly. Equitable access isn't just about financial barriers; long waiting times can mean life-threatening delays for patients who need urgent care. Prioritising competition in healthcare drives innovation and affordability, making care accessible without sacrificing quality.",
+            "timestamp": "2025-10-08 10:38:58"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government-mandated healthcare ensures equitable access, preventing the exclusion of those who cannot afford private options."
+                ],
+                [
+                    "___Claim___",
+                    "Universal healthcare ensures equitable access to life-saving treatments, which private systems often fail to deliver efficiently for those who can't afford them."
+                ],
+                [
+                    "___Claim___",
+                    "Universal healthcare systems focus on accessibility and equity, which competition-driven models fail to guarantee."
+                ],
+                [
+                    "___Why___",
+                    "Why should the focus on waiting times outweigh the moral imperative of ensuring healthcare access for all, regardless of income?"
+                ],
+                [
+                    "___Claim___",
+                    "Universal healthcare's promise of access is fulfilled by ensuring no one is excluded from treatment due to financial barriers, even if waiting times exist."
+                ]
+            ],
+            "sentences_no_utterance_types": "Government-mandated healthcare ensures equitable access, preventing the exclusion of those who cannot afford private options. Universal healthcare ensures equitable access to life-saving treatments, which private systems often fail to deliver efficiently for those who can't afford them. Universal healthcare systems focus on accessibility and equity, which competition-driven models fail to guarantee. Why should the focus on waiting times outweigh the moral imperative of ensuring healthcare access for all, regardless of income? Universal healthcare's promise of access is fulfilled by ensuring no one is excluded from treatment due to financial barriers, even if waiting times exist.",
+            "timestamp": "2025-10-08 10:39:39"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why should equitable access be prioritised over efficiency if delays in universal healthcare can lead to life-threatening consequences?"
+                ],
+                [
+                    "___Claim___",
+                    "Universal healthcare's promise of access is hollow when patients are left to suffer due to excessive waiting times."
+                ],
+                [
+                    "___Claim___",
+                    "The moral imperative of access is meaningless if patients are left waiting for months for treatments that private systems could provide immediately."
+                ],
+                [
+                    "___Claim___",
+                    "Efficient delivery of healthcare services through competition ensures timely care, which is a more practical way to save lives than universal systems."
+                ],
+                [
+                    "___Why___",
+                    "Why is it acceptable for patients to endure long waiting times when private systems could provide faster access?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Why should equitable access be prioritised over efficiency if delays in universal healthcare can lead to life-threatening consequences? Universal healthcare's promise of access is hollow when patients are left to suffer due to excessive waiting times. The moral imperative of access is meaningless if patients are left waiting for months for treatments that private systems could provide immediately. Efficient delivery of healthcare services through competition ensures timely care, which is a more practical way to save lives than universal systems. Why is it acceptable for patients to endure long waiting times when private systems could provide faster access?",
+            "timestamp": "2025-10-08 10:40:05"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Universal systems ensure equitable access to life-saving treatments, which competition-driven models fail to guarantee for those who can't afford them."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems may offer faster access but often exclude those who cannot afford the high costs, making universal healthcare more just."
+                ],
+                [
+                    "___Why___",
+                    "Why should waiting times overshadow the moral imperative of guaranteeing healthcare access for all citizens?"
+                ],
+                [
+                    "___Claim___",
+                    "Universal healthcare prioritises equity and accessibility over speed, ensuring no one is denied care due to financial barriers."
+                ],
+                [
+                    "___Why___",
+                    "Why should saving lives be tied to market forces rather than a collective system that guarantees access for all?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Universal systems ensure equitable access to life-saving treatments, which competition-driven models fail to guarantee for those who can't afford them. Private systems may offer faster access but often exclude those who cannot afford the high costs, making universal healthcare more just. Why should waiting times overshadow the moral imperative of guaranteeing healthcare access for all citizens? Universal healthcare prioritises equity and accessibility over speed, ensuring no one is denied care due to financial barriers. Why should saving lives be tied to market forces rather than a collective system that guarantees access for all?",
+            "timestamp": "2025-10-08 10:40:33"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Private systems avoid these delays by prioritising efficiency and competition, ensuring patients get the care they need when they need it."
+                ],
+                [
+                    "___Claim___",
+                    "Waiting times overshadow the moral imperative because delays in treatment can lead to preventable deaths, which undermines the purpose of healthcare."
+                ],
+                [
+                    "___Claim___",
+                    "Market forces drive innovation and efficiency, ensuring life-saving treatments are developed and delivered faster."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems drive competition and innovation, making healthcare more affordable and accessible for everyone, including the financially disadvantaged."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems ensure faster access and better quality care, which universal healthcare often fails to deliver even to those it claims to protect."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private systems avoid these delays by prioritising efficiency and competition, ensuring patients get the care they need when they need it. Waiting times overshadow the moral imperative because delays in treatment can lead to preventable deaths, which undermines the purpose of healthcare. Market forces drive innovation and efficiency, ensuring life-saving treatments are developed and delivered faster. Private systems drive competition and innovation, making healthcare more affordable and accessible for everyone, including the financially disadvantaged. Private systems ensure faster access and better quality care, which universal healthcare often fails to deliver even to those it claims to protect.",
+            "timestamp": "2025-10-08 10:40:59"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why should life-saving treatments be tied to market forces when universal healthcare guarantees access for all?"
+                ],
+                [
+                    "___Claim___",
+                    "Competition in private healthcare inflates costs for life-saving treatments, making them less affordable for those who need them most."
+                ],
+                [
+                    "___Claim___",
+                    "Efficiency under market forces sacrifices equity, creating a system where life-saving treatments are only accessible to the wealthy."
+                ],
+                [
+                    "___Claim___",
+                    "Universal healthcare ensures equitable access to life-saving services, which private systems frequently fail to provide for those who can't afford them."
+                ],
+                [
+                    "___Claim___",
+                    "Market forces prioritise profit over patient welfare, often delaying access to life-saving treatments for those who can't afford them."
+                ]
+            ],
+            "sentences_no_utterance_types": "Why should life-saving treatments be tied to market forces when universal healthcare guarantees access for all? Competition in private healthcare inflates costs for life-saving treatments, making them less affordable for those who need them most. Efficiency under market forces sacrifices equity, creating a system where life-saving treatments are only accessible to the wealthy. Universal healthcare ensures equitable access to life-saving services, which private systems frequently fail to provide for those who can't afford them. Market forces prioritise profit over patient welfare, often delaying access to life-saving treatments for those who can't afford them.",
+            "timestamp": "2025-10-08 10:41:37"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Universal healthcare's promise of equitable access is undermined by long waiting times and rationing, leaving patients without timely care."
+                ],
+                [
+                    "___Claim___",
+                    "Competition in private healthcare drives innovation and affordability, making life-saving treatments more accessible to everyone, including the financially disadvantaged."
+                ],
+                [
+                    "___Why___",
+                    "Why should equitable access be prioritised over efficiency when delays in universal healthcare can lead to preventable deaths?"
+                ],
+                [
+                    "___Claim___",
+                    "Efficiency under market forces ensures that life-saving treatments are developed and delivered faster, benefiting everyone regardless of income."
+                ],
+                [
+                    "___Claim___",
+                    "Market-driven healthcare systems create competition that lowers costs and improves access for all, not just the wealthy."
+                ]
+            ],
+            "sentences_no_utterance_types": "Universal healthcare's promise of equitable access is undermined by long waiting times and rationing, leaving patients without timely care. Competition in private healthcare drives innovation and affordability, making life-saving treatments more accessible to everyone, including the financially disadvantaged. Why should equitable access be prioritised over efficiency when delays in universal healthcare can lead to preventable deaths? Efficiency under market forces ensures that life-saving treatments are developed and delivered faster, benefiting everyone regardless of income. Market-driven healthcare systems create competition that lowers costs and improves access for all, not just the wealthy.",
+            "timestamp": "2025-10-08 10:42:01"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Equitable access ensures that no one is denied life-saving treatments due to financial barriers, which is a moral priority over efficiency."
+                ],
+                [
+                    "___Claim___",
+                    "Universal healthcare ensures equitable access to life-saving treatments, which competition-driven models fail to guarantee for the financially disadvantaged."
+                ],
+                [
+                    "___Why___",
+                    "Why should competition be trusted to prioritise accessibility when profit motives often exclude the financially disadvantaged?"
+                ],
+                [
+                    "___Claim___",
+                    "Competition in private healthcare prioritises profit over accessibility, often leaving the financially disadvantaged without essential treatments."
+                ],
+                [
+                    "___Question___",
+                    "Why should efficiency under market forces be prioritised if it risks excluding those who cannot afford life-saving treatments?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Equitable access ensures that no one is denied life-saving treatments due to financial barriers, which is a moral priority over efficiency. Universal healthcare ensures equitable access to life-saving treatments, which competition-driven models fail to guarantee for the financially disadvantaged. Why should competition be trusted to prioritise accessibility when profit motives often exclude the financially disadvantaged? Competition in private healthcare prioritises profit over accessibility, often leaving the financially disadvantaged without essential treatments. Why should efficiency under market forces be prioritised if it risks excluding those who cannot afford life-saving treatments?",
+            "timestamp": "2025-10-08 10:42:35"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Competition in private healthcare drives innovation, making essential treatments more affordable and accessible for everyone."
+                ],
+                [
+                    "___Since___",
+                    "Efficiency under market forces ensures faster development and delivery of life-saving treatments, which benefits everyone including the financially disadvantaged."
+                ],
+                [
+                    "___Why___",
+                    "Why should equitable access be prioritised over efficiency if delays in treatment can lead to preventable deaths?"
+                ],
+                [
+                    "___Question___",
+                    "Why should equitable access be prioritised over efficiency if delays in treatment can lead to preventable deaths?"
+                ],
+                [
+                    "___Claim___",
+                    "Equitable access without efficiency is meaningless if patients die waiting for treatments that could have been delivered faster."
+                ],
+                [
+                    "___Claim___",
+                    "Efficiency in healthcare is the true moral priority because it ensures life-saving treatments are delivered promptly, saving more lives overall."
+                ]
+            ],
+            "sentences_no_utterance_types": "Competition in private healthcare drives innovation, making essential treatments more affordable and accessible for everyone. Efficiency under market forces ensures faster development and delivery of life-saving treatments, which benefits everyone including the financially disadvantaged. Why should equitable access be prioritised over efficiency if delays in treatment can lead to preventable deaths? Why should equitable access be prioritised over efficiency if delays in treatment can lead to preventable deaths? Equitable access without efficiency is meaningless if patients die waiting for treatments that could have been delivered faster. Efficiency in healthcare is the true moral priority because it ensures life-saving treatments are delivered promptly, saving more lives overall.",
+            "timestamp": "2025-10-08 10:43:01"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Efficiency without equitable access risks leaving the financially disadvantaged without life-saving treatments, which is unjust."
+                ],
+                [
+                    "___Why___",
+                    "Why should essential treatments rely on market forces when universal healthcare ensures access for all?"
+                ],
+                [
+                    "___Claim___",
+                    "Saving lives overall requires prioritising equitable access, not just speed, to ensure everyone has the chance to receive care regardless of their income."
+                ],
+                [
+                    "___Claim___",
+                    "Universal healthcare prioritises equitable access to prevent financial barriers from causing preventable deaths, even if waiting times exist."
+                ],
+                [
+                    "___Since___",
+                    "Equitable access ensures that no one is excluded from life-saving treatments due to financial barriers, which is a moral imperative."
+                ]
+            ],
+            "sentences_no_utterance_types": "Efficiency without equitable access risks leaving the financially disadvantaged without life-saving treatments, which is unjust. Why should essential treatments rely on market forces when universal healthcare ensures access for all? Saving lives overall requires prioritising equitable access, not just speed, to ensure everyone has the chance to receive care regardless of their income. Universal healthcare prioritises equitable access to prevent financial barriers from causing preventable deaths, even if waiting times exist. Equitable access ensures that no one is excluded from life-saving treatments due to financial barriers, which is a moral imperative.",
+            "timestamp": "2025-10-08 10:43:40"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Efficiency ensures that life-saving treatments are delivered promptly, which is far more critical than equitable access."
+                ],
+                [
+                    "___Claim___",
+                    "Equitable access without efficiency leads to preventable deaths, making it the real injustice."
+                ],
+                [
+                    "___Why___",
+                    "Why should taxpayers fund a system that prioritises access over speed, potentially costing more lives in the process?"
+                ],
+                [
+                    "___Since___",
+                    "Competition in healthcare lowers costs and improves access, making essential treatments more affordable for everyone."
+                ],
+                [
+                    "___Claim___",
+                    "Universal healthcare's focus on equitable access is meaningless if patients die waiting for treatments that private systems could deliver immediately."
+                ]
+            ],
+            "sentences_no_utterance_types": "Efficiency ensures that life-saving treatments are delivered promptly, which is far more critical than equitable access. Equitable access without efficiency leads to preventable deaths, making it the real injustice. Why should taxpayers fund a system that prioritises access over speed, potentially costing more lives in the process? Competition in healthcare lowers costs and improves access, making essential treatments more affordable for everyone. Universal healthcare's focus on equitable access is meaningless if patients die waiting for treatments that private systems could deliver immediately.",
+            "timestamp": "2025-10-08 10:44:04"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Equitable access ensures that no one is excluded from life-saving treatments due to financial barriers, which is a moral imperative."
+                ],
+                [
+                    "___Since___",
+                    "Prioritising access guarantees that the most vulnerable are not left behind, even if waiting times exist."
+                ],
+                [
+                    "___Since___",
+                    "Equitable access ensures that no one is excluded from life-saving treatments due to financial barriers, which is a moral imperative."
+                ],
+                [
+                    "___Claim___",
+                    "Universal healthcare's focus on equitable access saves lives by ensuring everyone has the chance to receive care, regardless of their income."
+                ],
+                [
+                    "___Claim___",
+                    "Universal healthcare prevents exploitation by private systems that prioritise profit over patient welfare, even if waiting times exist."
+                ],
+                [
+                    "___Claim___",
+                    "Prioritising efficiency over equity risks creating a healthcare system that excludes the most vulnerable, which is morally indefensible."
+                ]
+            ],
+            "sentences_no_utterance_types": "Equitable access ensures that no one is excluded from life-saving treatments due to financial barriers, which is a moral imperative. Prioritising access guarantees that the most vulnerable are not left behind, even if waiting times exist. Equitable access ensures that no one is excluded from life-saving treatments due to financial barriers, which is a moral imperative. Universal healthcare's focus on equitable access saves lives by ensuring everyone has the chance to receive care, regardless of their income. Universal healthcare prevents exploitation by private systems that prioritise profit over patient welfare, even if waiting times exist. Prioritising efficiency over equity risks creating a healthcare system that excludes the most vulnerable, which is morally indefensible.",
+            "timestamp": "2025-10-08 10:44:39"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Efficiency ensures that life-saving treatments are delivered promptly, saving more lives overall than a system focused solely on equity."
+                ],
+                [
+                    "___Claim___",
+                    "Equity without efficiency leads to preventable deaths, making it the real moral failure in healthcare."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems prioritise efficiency and innovation, ensuring patients receive timely and high-quality care that universal healthcare often fails to deliver."
+                ],
+                [
+                    "___Claim___",
+                    "Prioritising equitable access over efficiency risks creating a system where delays in treatment cost more lives than financial barriers ever could."
+                ],
+                [
+                    "___Claim___",
+                    "Universal healthcare's promise of saving lives is hollow when patients are left waiting months for critical treatments."
+                ]
+            ],
+            "sentences_no_utterance_types": "Efficiency ensures that life-saving treatments are delivered promptly, saving more lives overall than a system focused solely on equity. Equity without efficiency leads to preventable deaths, making it the real moral failure in healthcare. Private systems prioritise efficiency and innovation, ensuring patients receive timely and high-quality care that universal healthcare often fails to deliver. Prioritising equitable access over efficiency risks creating a system where delays in treatment cost more lives than financial barriers ever could. Universal healthcare's promise of saving lives is hollow when patients are left waiting months for critical treatments.",
+            "timestamp": "2025-10-08 10:45:14"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Universal healthcare prioritises saving lives by ensuring everyone has access to critical treatments, regardless of their ability to pay."
+                ],
+                [
+                    "___Claim___",
+                    "Equity ensures that no one is excluded from life-saving treatments due to financial barriers, which is a higher priority than speed."
+                ],
+                [
+                    "___Claim___",
+                    "Efficiency without equity risks leaving the most vulnerable without access to life-saving treatments, which is morally indefensible."
+                ],
+                [
+                    "___Question___",
+                    "Why should the financial ability to pay determine who gets timely access to critical treatments?"
+                ],
+                [
+                    "___Claim___",
+                    "Efficiency in private systems often comes at the cost of excluding those who cannot afford high-quality care, making universal healthcare a more just solution."
+                ]
+            ],
+            "sentences_no_utterance_types": "Universal healthcare prioritises saving lives by ensuring everyone has access to critical treatments, regardless of their ability to pay. Equity ensures that no one is excluded from life-saving treatments due to financial barriers, which is a higher priority than speed. Efficiency without equity risks leaving the most vulnerable without access to life-saving treatments, which is morally indefensible. Why should the financial ability to pay determine who gets timely access to critical treatments? Efficiency in private systems often comes at the cost of excluding those who cannot afford high-quality care, making universal healthcare a more just solution.",
+            "timestamp": "2025-10-08 10:45:52"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why should the most vulnerable be left waiting for treatments in a system that prioritises equity over timely care?"
+                ],
+                [
+                    "___Claim___",
+                    "Efficiency ensures that life-saving treatments are delivered promptly, saving more lives overall than a system focused solely on equity."
+                ],
+                [
+                    "___Why___",
+                    "Why should equity be prioritised over speed if delays in treatment can lead to preventable deaths?"
+                ],
+                [
+                    "___Claim___",
+                    "Equity without speed is meaningless if patients die waiting for treatments that could have been delivered faster."
+                ],
+                [
+                    "___Question___",
+                    "Why should equity be prioritised over speed if delays in treatment can lead to preventable deaths?"
+                ],
+                [
+                    "___Question___",
+                    "Why should taxpayers fund a system that prioritises access over efficiency when delays can lead to preventable deaths?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Why should the most vulnerable be left waiting for treatments in a system that prioritises equity over timely care? Efficiency ensures that life-saving treatments are delivered promptly, saving more lives overall than a system focused solely on equity. Why should equity be prioritised over speed if delays in treatment can lead to preventable deaths? Equity without speed is meaningless if patients die waiting for treatments that could have been delivered faster. Why should equity be prioritised over speed if delays in treatment can lead to preventable deaths? Why should taxpayers fund a system that prioritises access over efficiency when delays can lead to preventable deaths?",
+            "timestamp": "2025-10-08 10:46:17"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Universal healthcare prioritises saving lives by ensuring everyone has access to critical treatments, regardless of their ability to pay."
+                ],
+                [
+                    "___Claim___",
+                    "Equity ensures that no one is excluded from life-saving treatments due to financial barriers, which is a moral imperative."
+                ],
+                [
+                    "___Claim___",
+                    "A focus on equity addresses the root causes of health disparities, ensuring a more just and inclusive healthcare system."
+                ],
+                [
+                    "___Claim___",
+                    "Universal healthcare prioritises equitable access to ensure that everyone, including the most vulnerable, has a fair chance at receiving life-saving treatments."
+                ],
+                [
+                    "___Claim___",
+                    "Efficiency without equity risks leaving the most vulnerable without access to life-saving treatments, which is morally indefensible."
+                ]
+            ],
+            "sentences_no_utterance_types": "Universal healthcare prioritises saving lives by ensuring everyone has access to critical treatments, regardless of their ability to pay. Equity ensures that no one is excluded from life-saving treatments due to financial barriers, which is a moral imperative. A focus on equity addresses the root causes of health disparities, ensuring a more just and inclusive healthcare system. Universal healthcare prioritises equitable access to ensure that everyone, including the most vulnerable, has a fair chance at receiving life-saving treatments. Efficiency without equity risks leaving the most vulnerable without access to life-saving treatments, which is morally indefensible.",
+            "timestamp": "2025-10-08 10:46:51"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Equity without efficiency leads to preventable deaths, which is the real moral failure in healthcare."
+                ],
+                [
+                    "___Claim___",
+                    "Efficiency ensures that life-saving treatments are delivered promptly, saving more lives overall than a system focused solely on equity."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems ensure faster and more reliable access to life-saving treatments, which universal healthcare often fails to provide."
+                ],
+                [
+                    "___Why___",
+                    "Why should equitable access be prioritised over efficiency if delays in treatment can lead to preventable deaths?"
+                ],
+                [
+                    "___Question___",
+                    "Why should equitable access be prioritised over efficiency if delays in treatment can lead to preventable deaths?"
+                ],
+                [
+                    "___Claim___",
+                    "Equitable access in universal healthcare is meaningless if delays in treatment lead to preventable deaths."
+                ]
+            ],
+            "sentences_no_utterance_types": "Equity without efficiency leads to preventable deaths, which is the real moral failure in healthcare. Efficiency ensures that life-saving treatments are delivered promptly, saving more lives overall than a system focused solely on equity. Private systems ensure faster and more reliable access to life-saving treatments, which universal healthcare often fails to provide. Why should equitable access be prioritised over efficiency if delays in treatment can lead to preventable deaths? Why should equitable access be prioritised over efficiency if delays in treatment can lead to preventable deaths? Equitable access in universal healthcare is meaningless if delays in treatment lead to preventable deaths.",
+            "timestamp": "2025-10-08 10:47:21"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Preventable deaths are more likely in systems that prioritise profit over equitable access, making universal healthcare a moral necessity."
+                ],
+                [
+                    "___Since___",
+                    "Efficiency without equity risks creating a system where only the wealthy can access timely care, leaving others to suffer preventable deaths."
+                ],
+                [
+                    "___Claim___",
+                    "Efficiency without equity risks leaving the most vulnerable without access to life-saving treatments, which is the real moral failure in healthcare."
+                ],
+                [
+                    "___Claim___",
+                    "A system focused on equity saves lives by ensuring no one is denied care due to financial barriers, even if it means longer waiting times."
+                ],
+                [
+                    "___Claim___",
+                    "Universal healthcare ensures that life-saving treatments are accessible to everyone, regardless of their financial situation, which private systems fail to guarantee."
+                ]
+            ],
+            "sentences_no_utterance_types": "Preventable deaths are more likely in systems that prioritise profit over equitable access, making universal healthcare a moral necessity. Efficiency without equity risks creating a system where only the wealthy can access timely care, leaving others to suffer preventable deaths. Efficiency without equity risks leaving the most vulnerable without access to life-saving treatments, which is the real moral failure in healthcare. A system focused on equity saves lives by ensuring no one is denied care due to financial barriers, even if it means longer waiting times. Universal healthcare ensures that life-saving treatments are accessible to everyone, regardless of their financial situation, which private systems fail to guarantee.",
+            "timestamp": "2025-10-08 10:48:00"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Efficiency ensures that life-saving treatments are delivered promptly, saving more lives overall than a system focused solely on equity."
+                ],
+                [
+                    "___Claim___",
+                    "Preventable deaths are more likely in universal healthcare systems where delays and rationing deny timely treatments."
+                ],
+                [
+                    "___Question___",
+                    "Why should longer waiting times be acceptable if they lead to preventable deaths?"
+                ],
+                [
+                    "___Claim___",
+                    "Universal healthcare's focus on equitable access often sacrifices speed, leading to more preventable deaths than profit-driven models."
+                ],
+                [
+                    "___Why___",
+                    "Why should efficiency be dismissed when it ensures timely care that could save more lives overall?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Efficiency ensures that life-saving treatments are delivered promptly, saving more lives overall than a system focused solely on equity. Preventable deaths are more likely in universal healthcare systems where delays and rationing deny timely treatments. Why should longer waiting times be acceptable if they lead to preventable deaths? Universal healthcare's focus on equitable access often sacrifices speed, leading to more preventable deaths than profit-driven models. Why should efficiency be dismissed when it ensures timely care that could save more lives overall?",
+            "timestamp": "2025-10-08 10:48:28"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Universal healthcare systems reduce preventable deaths by ensuring equitable access to life-saving treatments for all citizens."
+                ],
+                [
+                    "___Claim___",
+                    "Universal healthcare's focus on equitable access saves lives by ensuring no one is denied treatment due to financial barriers, even if waiting times exist."
+                ],
+                [
+                    "___Since___",
+                    "Preventable deaths are more likely in profit-driven systems where financial barriers exclude the most vulnerable from timely care."
+                ],
+                [
+                    "___Claim___",
+                    "Efficiency without equity risks leaving the most vulnerable without access to life-saving treatments, which is morally indefensible."
+                ],
+                [
+                    "___Claim___",
+                    "Equity ensures that everyone has a fair chance at receiving life-saving treatments, which efficiency-driven models frequently fail to guarantee."
+                ]
+            ],
+            "sentences_no_utterance_types": "Universal healthcare systems reduce preventable deaths by ensuring equitable access to life-saving treatments for all citizens. Universal healthcare's focus on equitable access saves lives by ensuring no one is denied treatment due to financial barriers, even if waiting times exist. Preventable deaths are more likely in profit-driven systems where financial barriers exclude the most vulnerable from timely care. Efficiency without equity risks leaving the most vulnerable without access to life-saving treatments, which is morally indefensible. Equity ensures that everyone has a fair chance at receiving life-saving treatments, which efficiency-driven models frequently fail to guarantee.",
+            "timestamp": "2025-10-08 10:49:01"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Equitable access in universal healthcare is meaningless if patients die waiting for treatments that private systems could deliver faster."
+                ],
+                [
+                    "___Why___",
+                    "Why should efficiency-driven models be dismissed when they often deliver faster and more reliable access to life-saving treatments?"
+                ],
+                [
+                    "___Claim___",
+                    "Profit-driven systems reduce preventable deaths by ensuring timely care through efficiency and innovation."
+                ],
+                [
+                    "___Why___",
+                    "Why should efficiency be dismissed when it ensures timely care that could save more lives overall?"
+                ],
+                [
+                    "___Why___",
+                    "Why is it acceptable for patients to endure long waiting times when faster access could prevent deaths?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Equitable access in universal healthcare is meaningless if patients die waiting for treatments that private systems could deliver faster. Why should efficiency-driven models be dismissed when they often deliver faster and more reliable access to life-saving treatments? Profit-driven systems reduce preventable deaths by ensuring timely care through efficiency and innovation. Why should efficiency be dismissed when it ensures timely care that could save more lives overall? Why is it acceptable for patients to endure long waiting times when faster access could prevent deaths?",
+            "timestamp": "2025-10-08 10:49:26"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private systems often prioritise profit over patient welfare, leaving the most vulnerable without access to timely care."
+                ],
+                [
+                    "___Since___",
+                    "Efficiency without equity risks leaving the most vulnerable without access to life-saving treatments, which is morally indefensible."
+                ],
+                [
+                    "___Claim___",
+                    "Universal healthcare reduces preventable deaths by guaranteeing access to life-saving treatments for all citizens, regardless of income."
+                ],
+                [
+                    "___Claim___",
+                    "Universal healthcare prioritises fairness and inclusivity, ensuring that everyone has access to care regardless of income, which private systems often fail to guarantee."
+                ],
+                [
+                    "___Why___",
+                    "Why should equitable access be dismissed as meaningless when it ensures no one is excluded from care due to financial barriers?"
+                ],
+                [
+                    "___Claim___",
+                    "Efficiency without equity risks leaving the most vulnerable without access to life-saving treatments, which is morally indefensible."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private systems often prioritise profit over patient welfare, leaving the most vulnerable without access to timely care. Efficiency without equity risks leaving the most vulnerable without access to life-saving treatments, which is morally indefensible. Universal healthcare reduces preventable deaths by guaranteeing access to life-saving treatments for all citizens, regardless of income. Universal healthcare prioritises fairness and inclusivity, ensuring that everyone has access to care regardless of income, which private systems often fail to guarantee. Why should equitable access be dismissed as meaningless when it ensures no one is excluded from care due to financial barriers? Efficiency without equity risks leaving the most vulnerable without access to life-saving treatments, which is morally indefensible.",
+            "timestamp": "2025-10-08 10:49:57"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Private systems ensure both affordability and timely access, addressing both financial and time-related barriers."
+                ],
+                [
+                    "___Claim___",
+                    "Efficiency ensures that life-saving treatments are delivered promptly, saving more lives overall than a system focused solely on equity."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems deliver faster and more reliable care, proving that prioritising profit does not exclude the vulnerable from receiving life-saving treatments."
+                ],
+                [
+                    "___Claim___",
+                    "Universal healthcare increases preventable deaths by creating delays and rationing that deny timely access to life-saving treatments."
+                ],
+                [
+                    "___Claim___",
+                    "Equity without efficiency leads to preventable deaths, making it the real moral failure in healthcare."
+                ]
+            ],
+            "sentences_no_utterance_types": "Private systems ensure both affordability and timely access, addressing both financial and time-related barriers. Efficiency ensures that life-saving treatments are delivered promptly, saving more lives overall than a system focused solely on equity. Private systems deliver faster and more reliable care, proving that prioritising profit does not exclude the vulnerable from receiving life-saving treatments. Universal healthcare increases preventable deaths by creating delays and rationing that deny timely access to life-saving treatments. Equity without efficiency leads to preventable deaths, making it the real moral failure in healthcare.",
+            "timestamp": "2025-10-08 10:50:29"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Universal healthcare prioritises saving lives by providing access to critical treatments for everyone, regardless of their ability to pay."
+                ],
+                [
+                    "___Claim___",
+                    "Prioritising profit in healthcare creates barriers for the vulnerable, proving that private systems fail to guarantee equitable access to life-saving treatments."
+                ],
+                [
+                    "___Claim___",
+                    "Efficiency without equity risks leaving the most vulnerable without access to life-saving treatments, which is morally indefensible."
+                ],
+                [
+                    "___Claim___",
+                    "Delays and rationing in universal healthcare are outweighed by the guarantee that no one is excluded from treatment due to financial barriers."
+                ],
+                [
+                    "___Claim___",
+                    "Equity ensures that everyone has a fair chance at receiving life-saving treatments, which efficiency-driven models frequently fail to guarantee."
+                ]
+            ],
+            "sentences_no_utterance_types": "Universal healthcare prioritises saving lives by providing access to critical treatments for everyone, regardless of their ability to pay. Prioritising profit in healthcare creates barriers for the vulnerable, proving that private systems fail to guarantee equitable access to life-saving treatments. Efficiency without equity risks leaving the most vulnerable without access to life-saving treatments, which is morally indefensible. Delays and rationing in universal healthcare are outweighed by the guarantee that no one is excluded from treatment due to financial barriers. Equity ensures that everyone has a fair chance at receiving life-saving treatments, which efficiency-driven models frequently fail to guarantee.",
+            "timestamp": "2025-10-08 10:51:09"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Universal healthcare sacrifices timely access to critical treatments, leading to preventable deaths that private systems could avoid."
+                ],
+                [
+                    "___Claim___",
+                    "Private systems prioritise efficiency and innovation, ensuring timely access to life-saving treatments for everyone, including the vulnerable."
+                ],
+                [
+                    "___Claim___",
+                    "Prioritising profit in healthcare drives competition, which lowers costs and improves access for the vulnerable."
+                ],
+                [
+                    "___Claim___",
+                    "Equity without efficiency leads to preventable deaths, making it the real moral failure in healthcare."
+                ],
+                [
+                    "___Claim___",
+                    "Efficiency-driven models ensure life-saving treatments are delivered promptly, saving more lives overall than a system focused solely on equity."
+                ]
+            ],
+            "sentences_no_utterance_types": "Universal healthcare sacrifices timely access to critical treatments, leading to preventable deaths that private systems could avoid. Private systems prioritise efficiency and innovation, ensuring timely access to life-saving treatments for everyone, including the vulnerable. Prioritising profit in healthcare drives competition, which lowers costs and improves access for the vulnerable. Equity without efficiency leads to preventable deaths, making it the real moral failure in healthcare. Efficiency-driven models ensure life-saving treatments are delivered promptly, saving more lives overall than a system focused solely on equity.",
+            "timestamp": "2025-10-08 10:51:36"
+        },
+        {
+            "speaker": "gpt-4o_mas_rag",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Efficiency in private systems often comes at the cost of excluding those who cannot afford high-quality care, making them less accessible to the vulnerable."
+                ],
+                [
+                    "___Claim___",
+                    "Preventable deaths are more likely in systems that prioritise profit over equitable access, making universal healthcare a moral necessity."
+                ],
+                [
+                    "___Why___",
+                    "Why should preventable deaths caused by financial barriers in private systems be overlooked in favour of faster access for those who can afford it?"
+                ],
+                [
+                    "___Claim___",
+                    "Prioritising profit in healthcare inflates costs and excludes the vulnerable from accessing essential treatments."
+                ],
+                [
+                    "___Claim___",
+                    "Universal healthcare ensures that no one is denied access to critical treatments due to financial barriers, even if waiting times exist."
+                ]
+            ],
+            "sentences_no_utterance_types": "Efficiency in private systems often comes at the cost of excluding those who cannot afford high-quality care, making them less accessible to the vulnerable. Preventable deaths are more likely in systems that prioritise profit over equitable access, making universal healthcare a moral necessity. Why should preventable deaths caused by financial barriers in private systems be overlooked in favour of faster access for those who can afford it? Prioritising profit in healthcare inflates costs and excludes the vulnerable from accessing essential treatments. Universal healthcare ensures that no one is denied access to critical treatments due to financial barriers, even if waiting times exist.",
+            "timestamp": "2025-10-08 10:52:18"
+        },
+        {
+            "speaker": "gpt-4o_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Faster access in private systems benefits everyone by driving competition that lowers costs and improves affordability."
+                ],
+                [
+                    "___Claim___",
+                    "Universal healthcare's inefficiencies lead to preventable deaths, showing that equitable access is meaningless without timely care."
+                ],
+                [
+                    "___Claim___",
+                    "Profit-driven systems reduce preventable deaths by ensuring timely care through efficiency and innovation."
+                ],
+                [
+                    "___Why___",
+                    "Why is it acceptable for patients to endure long waiting times when faster access could prevent deaths?"
+                ],
+                [
+                    "___Claim___",
+                    "Prioritising profit in healthcare drives competition, which lowers costs and makes essential treatments more accessible to everyone."
+                ]
+            ],
+            "sentences_no_utterance_types": "Faster access in private systems benefits everyone by driving competition that lowers costs and improves affordability. Universal healthcare's inefficiencies lead to preventable deaths, showing that equitable access is meaningless without timely care. Profit-driven systems reduce preventable deaths by ensuring timely care through efficiency and innovation. Why is it acceptable for patients to endure long waiting times when faster access could prevent deaths? Prioritising profit in healthcare drives competition, which lowers costs and makes essential treatments more accessible to everyone.",
+            "timestamp": "2025-10-08 10:52:42"
+        }
+    ],
+    "first_speaker": "gpt-4o_mas_rag",
+    "first_speaker_utterance": "",
+    "first_speaker_commitments": [
+        "Government intervention in healthcare ensures that no one is left to suffer due to their financial situation, which is a moral imperative.",
+        "Spending on universal healthcare through taxes is a collective investment in the well-being of society, not a reward for mismanagement.",
+        "Privatised systems prioritise profit over patient care, leading to inequality and neglect for those who can't afford high costs.",
+        "Prioritising access guarantees that the most vulnerable are not left behind, even if waiting times exist.",
+        "Prioritising efficiency over equity risks creating a healthcare system that excludes the most vulnerable, which is morally indefensible.",
+        "Universal healthcare systems reduce preventable deaths by ensuring equitable access to life-saving treatments for all citizens."
+    ],
+    "first_speaker_original_claim": "Government intervention in healthcare ensures that no one is left to suffer due to their financial situation, which is a moral imperative.",
+    "first_speaker_typical_replies_for_second_speakers_response": [],
+    "second_speaker": "gpt-4o_mas",
+    "second_speaker_utterance": "Faster access in private systems benefits everyone by driving competition that lowers costs and improves affordability. Universal healthcare's inefficiencies lead to preventable deaths, showing that equitable access is meaningless without timely care. Profit-driven systems reduce preventable deaths by ensuring timely care through efficiency and innovation. Why is it acceptable for patients to endure long waiting times when faster access could prevent deaths? Prioritising profit in healthcare drives competition, which lowers costs and makes essential treatments more accessible to everyone.",
+    "second_speaker_commitments": [
+        "Relying on government intervention in healthcare undermines personal responsibility and the freedom to choose what\u2019s best for oneself.",
+        "Private healthcare incentivises innovation and quality, ensuring people get better care without the government meddling.",
+        "Private healthcare creates competition that drives down costs and improves services, making care more accessible rather than neglecting those in need.",
+        "Universal healthcare forces everyone to pay into a system that often fails to deliver adequate services to those who need them most.",
+        "Equitable access in taxpayer-funded healthcare is undermined by long waiting times and rationing, which deny timely care to those in need.",
+        "Market forces drive innovation and efficiency, ensuring life-saving treatments are developed and delivered faster.",
+        "Equitable access without efficiency leads to preventable deaths, making it the real injustice."
+    ],
+    "second_speaker_original_claim": "Relying on government intervention in healthcare undermines personal responsibility and the freedom to choose what\u2019s best for oneself.",
+    "second_speaker_typical_replies_for_first_speakers_response": [],
+    "winner": "None",
+    "loser": "None",
+    "reason_for_dialogue_termination": {
+        "reason": "Maximum number of dialogue turns reached (40 dialogue turns).",
+        "utterance_type": null,
+        "utterance": null
+    },
+    "session_status": "Finished."
+}

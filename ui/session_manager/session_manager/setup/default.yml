@@ -1,0 +1,33 @@
+models:
+  - model: gpt-4o
+    variants: [base, mas, mas_rag]
+  - model: grok-3
+    variants: [base, mas, mas_rag]
+
+humans:
+  n: 13
+  c: 4
+  emails: ~ 
+  human_model_name: "gpt-4o"
+
+debate_topic: "Debate the trade-offs of government intervention across a range of issues, including healthcare, immigration, and welfare."
+
+sql:
+  session_manager:
+    dbname: session_manager
+    user: "session_manager"
+    password: "dsoDBATILivLee0"
+    host: "psql-session-manager.postgres.database.azure.com"
+    port: "5432"
+  persuasio:
+    dbname: persuasio
+    user: "persuasio"
+    password: "dsoDBATILivLee0"
+    host: "psql-persuasio.postgres.database.azure.com"
+    port: "5432"
+  logs:
+    dbname: logs
+    user: "logs"
+    password: "dsoDBATILivLee0"
+    host: "psql-logs.postgres.database.azure.com"
+    port: "5432"

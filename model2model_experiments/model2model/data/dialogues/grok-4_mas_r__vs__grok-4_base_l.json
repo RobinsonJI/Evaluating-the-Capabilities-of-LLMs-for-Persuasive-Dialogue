@@ -1,0 +1,1086 @@
+{
+    "dialogue_history": [
+        {
+            "speaker": "grok-4_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Immigration controls are essential to protect British jobs and culture from being overwhelmed, even if it means turning away some skilled workers."
+                ]
+            ],
+            "sentences_no_utterance_types": "Immigration controls are essential to protect British jobs and culture from being overwhelmed, even if it means turning away some skilled workers.",
+            "timestamp": "2025-10-16 11:21:32"
+        },
+        {
+            "speaker": "grok-4_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Strict immigration controls harm the economy by blocking skilled workers who create jobs and boost innovation."
+                ],
+                [
+                    "___Claim___",
+                    "We need more open policies to fill shortages in healthcare and tech, not turn people away."
+                ],
+                [
+                    "___Claim___",
+                    "This protects British jobs in the long run by growing the pie for everyone."
+                ],
+                [
+                    "___Claim___",
+                    "Your approach just shrinks opportunities and isolates us."
+                ]
+            ],
+            "sentences_no_utterance_types": "Strict immigration controls harm the economy by blocking skilled workers who create jobs and boost innovation. We need more open policies to fill shortages in healthcare and tech, not turn people away. This protects British jobs in the long run by growing the pie for everyone. Your approach just shrinks opportunities and isolates us.",
+            "timestamp": "2025-10-16 11:21:38"
+        },
+        {
+            "speaker": "grok-4_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Question___",
+                    "How do you justify prioritising foreign workers for these shortages over investing in training and upskilling British citizens to fill those roles?"
+                ],
+                [
+                    "___Claim___",
+                    "Far from isolating us, sensible controls strengthen our communities and economy, allowing us to engage with the world on our terms without losing our identity."
+                ],
+                [
+                    "___Claim___",
+                    "Open borders don't expand the pie\u2014they flood the market, drive down wages, and erode the cultural fabric that makes Britain worth living in."
+                ],
+                [
+                    "___Claim___",
+                    "Turning away immigrants preserves our NHS for British citizens first, preventing it from buckling under uncontrolled demand from newcomers."
+                ],
+                [
+                    "___Claim___",
+                    "Strict immigration controls safeguard British jobs by preventing an influx of cheap labour that undercuts wages and displaces local workers, ultimately strengthening our economy."
+                ]
+            ],
+            "sentences_no_utterance_types": "How do you justify prioritising foreign workers for these shortages over investing in training and upskilling British citizens to fill those roles? Far from isolating us, sensible controls strengthen our communities and economy, allowing us to engage with the world on our terms without losing our identity. Open borders don't expand the pie\u2014they flood the market, drive down wages, and erode the cultural fabric that makes Britain worth living in. Turning away immigrants preserves our NHS for British citizens first, preventing it from buckling under uncontrolled demand from newcomers. Strict immigration controls safeguard British jobs by preventing an influx of cheap labour that undercuts wages and displaces local workers, ultimately strengthening our economy.",
+            "timestamp": "2025-10-16 11:22:19"
+        },
+        {
+            "speaker": "grok-4_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "We justify bringing in skilled foreign workers because upskilling British citizens takes years, while shortages in healthcare and tech demand immediate action to keep services running and businesses growing."
+                ],
+                [
+                    "___Claim___",
+                    "Your controls don't strengthen the economy; they create labour gaps that stall innovation and leave British workers without the support of diverse teams that drive progress."
+                ],
+                [
+                    "___Claim___",
+                    "Open policies expand the pie by attracting talent that starts companies and pays taxes, countering any wage pressure through overall growth, not isolation."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS buckles more from understaffing than from immigrants, who often fill vital roles like nursing without draining resources."
+                ],
+                [
+                    "___Claim___",
+                    "Strict controls displace no one\u2014they just shrink opportunities for everyone by blocking the very people who boost our economy."
+                ]
+            ],
+            "sentences_no_utterance_types": "We justify bringing in skilled foreign workers because upskilling British citizens takes years, while shortages in healthcare and tech demand immediate action to keep services running and businesses growing. Your controls don't strengthen the economy; they create labour gaps that stall innovation and leave British workers without the support of diverse teams that drive progress. Open policies expand the pie by attracting talent that starts companies and pays taxes, countering any wage pressure through overall growth, not isolation. The NHS buckles more from understaffing than from immigrants, who often fill vital roles like nursing without draining resources. Strict controls displace no one\u2014they just shrink opportunities for everyone by blocking the very people who boost our economy.",
+            "timestamp": "2025-10-16 11:22:32"
+        },
+        {
+            "speaker": "grok-4_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why assume shortages demand foreign workers right now instead of investing in domestic solutions that protect British jobs and prevent the wage suppression that comes with flooding the market?"
+                ],
+                [
+                    "___Claim___",
+                    "Strict controls displace no one? They actively protect British workers from being pushed out by an influx of foreign labour that floods the market and suppresses wages. Shrinking opportunities? On the contrary, they create a stable environment where local talent thrives without unfair competition, bolstering our economy from within. Blocking those so-called boosters actually safeguards our prosperity by prioritising the skills and innovation of British citizens over cheap imports."
+                ],
+                [
+                    "___Why___",
+                    "Why do you believe that upskilling British citizens takes too long when targeted government training programmes could address healthcare and tech shortages far quicker than relying on foreign labour that risks displacing locals?"
+                ],
+                [
+                    "___Question___",
+                    "How can you assert that blocking skilled immigrants boosts the economy when evidence shows uncontrolled immigration strains public services like the NHS and housing without proportional economic gains?"
+                ],
+                [
+                    "___Claim___",
+                    "The NHS buckles under the weight of uncontrolled immigration that floods it with patients faster than any staffing gains, making understaffing a direct result of open borders rather than a separate issue."
+                ]
+            ],
+            "sentences_no_utterance_types": "Why assume shortages demand foreign workers right now instead of investing in domestic solutions that protect British jobs and prevent the wage suppression that comes with flooding the market? Strict controls displace no one? They actively protect British workers from being pushed out by an influx of foreign labour that floods the market and suppresses wages. Shrinking opportunities? On the contrary, they create a stable environment where local talent thrives without unfair competition, bolstering our economy from within. Blocking those so-called boosters actually safeguards our prosperity by prioritising the skills and innovation of British citizens over cheap imports. Why do you believe that upskilling British citizens takes too long when targeted government training programmes could address healthcare and tech shortages far quicker than relying on foreign labour that risks displacing locals? How can you assert that blocking skilled immigrants boosts the economy when evidence shows uncontrolled immigration strains public services like the NHS and housing without proportional economic gains? The NHS buckles under the weight of uncontrolled immigration that floods it with patients faster than any staffing gains, making understaffing a direct result of open borders rather than a separate issue.",
+            "timestamp": "2025-10-16 11:23:12"
+        },
+        {
+            "speaker": "grok-4_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Targeted training programmes sound good, but they take time to scale up and often fail to match the speed of real-world shortages in healthcare and tech, where we lose patients and innovation waiting for them."
+                ],
+                [
+                    "___Claim___",
+                    "Your strict controls suppress wages less than you think; studies from the Migration Observatory show skilled immigrants boost overall wages by creating jobs and filling gaps that let British workers move up."
+                ],
+                [
+                    "___Since___",
+                    "The NHS strains from chronic underfunding and Brexit-induced staff shortages, not just patients\u2014immigrants staff it, with over 20% of nurses from abroad, directly easing understaffing without the drain you claim."
+                ],
+                [
+                    "___Since___",
+                    "Blocking skilled workers shrinks the economy; the OBR estimates immigration adds billions in growth and taxes that fund services, proving open policies grow the pie for British prosperity."
+                ],
+                [
+                    "___Claim___",
+                    "Uncontrolled immigration is a myth\u2014managed skilled intake strengthens us without overwhelming anything."
+                ]
+            ],
+            "sentences_no_utterance_types": "Targeted training programmes sound good, but they take time to scale up and often fail to match the speed of real-world shortages in healthcare and tech, where we lose patients and innovation waiting for them. Your strict controls suppress wages less than you think; studies from the Migration Observatory show skilled immigrants boost overall wages by creating jobs and filling gaps that let British workers move up. The NHS strains from chronic underfunding and Brexit-induced staff shortages, not just patients\u2014immigrants staff it, with over 20% of nurses from abroad, directly easing understaffing without the drain you claim. Blocking skilled workers shrinks the economy; the OBR estimates immigration adds billions in growth and taxes that fund services, proving open policies grow the pie for British prosperity. Uncontrolled immigration is a myth\u2014managed skilled intake strengthens us without overwhelming anything.",
+            "timestamp": "2025-10-16 11:23:23"
+        },
+        {
+            "speaker": "grok-4_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Question___",
+                    "How can you claim skilled immigrants boost overall wages when real-world evidence from areas with high immigration shows British workers in tech and healthcare facing stagnant pay despite the supposed job creation?"
+                ],
+                [
+                    "___Why___",
+                    "Why ignore the fact that rushing in foreign workers for healthcare and tech shortages often leads to exploitation and wage suppression for locals, whereas investing in domestic training builds a sustainable workforce that truly protects British jobs?"
+                ],
+                [
+                    "___Why___",
+                    "Why do you claim that targeted training programmes take too long to scale up when evidence from successful UK apprenticeships shows they can address shortages in months, not years, without risking job displacement for British workers?"
+                ],
+                [
+                    "___Claim___",
+                    "Skilled immigrants don't boost overall wages\u2014they create unfair competition that suppresses pay for locals and prevents British workers from moving up without relying on foreign labour."
+                ],
+                [
+                    "___Question___",
+                    "Why do you claim the NHS strains mainly from chronic underfunding and Brexit-induced shortages when uncontrolled immigration adds millions of patients, overwhelming resources far beyond any staffing contributions from abroad?"
+                ]
+            ],
+            "sentences_no_utterance_types": "How can you claim skilled immigrants boost overall wages when real-world evidence from areas with high immigration shows British workers in tech and healthcare facing stagnant pay despite the supposed job creation? Why ignore the fact that rushing in foreign workers for healthcare and tech shortages often leads to exploitation and wage suppression for locals, whereas investing in domestic training builds a sustainable workforce that truly protects British jobs? Why do you claim that targeted training programmes take too long to scale up when evidence from successful UK apprenticeships shows they can address shortages in months, not years, without risking job displacement for British workers? Skilled immigrants don't boost overall wages\u2014they create unfair competition that suppresses pay for locals and prevents British workers from moving up without relying on foreign labour. Why do you claim the NHS strains mainly from chronic underfunding and Brexit-induced shortages when uncontrolled immigration adds millions of patients, overwhelming resources far beyond any staffing contributions from abroad?",
+            "timestamp": "2025-10-16 11:23:59"
+        },
+        {
+            "speaker": "grok-4_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Skilled immigrants boost overall wages because they fill high-skill gaps that create more jobs than they take, with Migration Observatory data showing net positive effects on British pay in tech and healthcare, not stagnation."
+                ],
+                [
+                    "___Since___",
+                    "Rushing in foreign workers avoids exploitation when managed properly, unlike your domestic training which apprenticeships prove takes months to years to fully address shortages, risking service collapse in the meantime."
+                ],
+                [
+                    "___Claim___",
+                    "Targeted programmes help, yet they cannot instantly replace the 20% of NHS staff from abroad who keep it running without displacing locals."
+                ],
+                [
+                    "___Since___",
+                    "Uncontrolled immigration does not add millions overwhelming the NHS; net migration contributes far more through taxes and labour than patient demand, easing underfunding strains from Brexit and austerity."
+                ],
+                [
+                    "___Claim___",
+                    "Your view ignores how blocking talent suppresses growth for everyone, including British workers."
+                ]
+            ],
+            "sentences_no_utterance_types": "Skilled immigrants boost overall wages because they fill high-skill gaps that create more jobs than they take, with Migration Observatory data showing net positive effects on British pay in tech and healthcare, not stagnation. Rushing in foreign workers avoids exploitation when managed properly, unlike your domestic training which apprenticeships prove takes months to years to fully address shortages, risking service collapse in the meantime. Targeted programmes help, yet they cannot instantly replace the 20% of NHS staff from abroad who keep it running without displacing locals. Uncontrolled immigration does not add millions overwhelming the NHS; net migration contributes far more through taxes and labour than patient demand, easing underfunding strains from Brexit and austerity. Your view ignores how blocking talent suppresses growth for everyone, including British workers.",
+            "timestamp": "2025-10-16 11:24:06"
+        },
+        {
+            "speaker": "grok-4_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Question___",
+                    "How can you assert that uncontrolled immigration does not overwhelm the NHS with millions of additional patients, given the surge in demand that outpaces any fiscal contributions from migrants?"
+                ],
+                [
+                    "___Question___",
+                    "Why do you claim that rushing in foreign workers avoids exploitation when managed properly, given the evidence of widespread abuse in sectors like care and agriculture despite supposed oversight?"
+                ],
+                [
+                    "___Claim___",
+                    "Your claim that blocking talent hurts everyone is nonsense\u2014strict controls safeguard British jobs from being undercut, ensuring sustainable economic expansion that truly benefits our communities."
+                ],
+                [
+                    "___Why___",
+                    "Why claim skilled immigrants create more jobs than they take when evidence from high-immigration areas reveals British workers facing job displacement and stagnant wages, contradicting the idea of overall wage boosts?"
+                ],
+                [
+                    "___Claim___",
+                    "Targeted training programmes can rapidly replace the 20% of NHS staff from abroad by upskilling British workers in months, preventing any displacement of locals and building a self-reliant healthcare system."
+                ]
+            ],
+            "sentences_no_utterance_types": "How can you assert that uncontrolled immigration does not overwhelm the NHS with millions of additional patients, given the surge in demand that outpaces any fiscal contributions from migrants? Why do you claim that rushing in foreign workers avoids exploitation when managed properly, given the evidence of widespread abuse in sectors like care and agriculture despite supposed oversight? Your claim that blocking talent hurts everyone is nonsense\u2014strict controls safeguard British jobs from being undercut, ensuring sustainable economic expansion that truly benefits our communities. Why claim skilled immigrants create more jobs than they take when evidence from high-immigration areas reveals British workers facing job displacement and stagnant wages, contradicting the idea of overall wage boosts? Targeted training programmes can rapidly replace the 20% of NHS staff from abroad by upskilling British workers in months, preventing any displacement of locals and building a self-reliant healthcare system.",
+            "timestamp": "2025-10-16 11:24:48"
+        },
+        {
+            "speaker": "grok-4_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Uncontrolled immigration doesn't overwhelm the NHS because net migration adds far more in taxes and skilled labour than patient demand, with ONS data showing migrants contribute billions that ease underfunding from austerity and Brexit."
+                ],
+                [
+                    "___Since___",
+                    "Rushing in foreign workers avoids exploitation when we enforce proper visas and protections, unlike the care sector abuses that stem from underregulation regardless of borders."
+                ],
+                [
+                    "___Claim___",
+                    "Blocking talent hurts everyone by stifling growth; strict controls undercut British jobs by creating shortages that slow the economy, not safeguard it."
+                ],
+                [
+                    "___Since___",
+                    "Skilled immigrants create more jobs than they take, as Migration Advisory Committee reports confirm net positives for employment and wages in high-immigration areas, debunking displacement myths."
+                ],
+                [
+                    "___Claim___",
+                    "Targeted training takes months to years to scale for complex roles like nursing, failing to instantly replace 20% foreign staff and risking NHS collapse in the interim."
+                ]
+            ],
+            "sentences_no_utterance_types": "Uncontrolled immigration doesn't overwhelm the NHS because net migration adds far more in taxes and skilled labour than patient demand, with ONS data showing migrants contribute billions that ease underfunding from austerity and Brexit. Rushing in foreign workers avoids exploitation when we enforce proper visas and protections, unlike the care sector abuses that stem from underregulation regardless of borders. Blocking talent hurts everyone by stifling growth; strict controls undercut British jobs by creating shortages that slow the economy, not safeguard it. Skilled immigrants create more jobs than they take, as Migration Advisory Committee reports confirm net positives for employment and wages in high-immigration areas, debunking displacement myths. Targeted training takes months to years to scale for complex roles like nursing, failing to instantly replace 20% foreign staff and risking NHS collapse in the interim.",
+            "timestamp": "2025-10-16 11:24:58"
+        },
+        {
+            "speaker": "grok-4_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why believe skilled immigrants create more jobs than they take when high-immigration areas reveal British workers being pushed out of tech and healthcare roles, contradicting those reports and proving the need for controls to protect our economy?"
+                ],
+                [
+                    "___Why___",
+                    "Why do you insist that targeted training takes months to years for nursing roles when successful UK apprenticeship schemes demonstrate that skilled British workers can be trained and deployed in just a few months to fill those gaps without relying on foreign staff?"
+                ],
+                [
+                    "___Question___",
+                    "How can you assert that failing to instantly replace 20% foreign staff risks NHS collapse, given that strict immigration controls would prioritise domestic recruitment to build a self-reliant system without overwhelming public services?"
+                ],
+                [
+                    "___Claim___",
+                    "Evidence from successful UK apprenticeships proves that upskilling British workers for complex healthcare jobs happens far quicker than years, preventing any interim collapse by building a reliable domestic workforce."
+                ],
+                [
+                    "___Claim___",
+                    "Strict immigration controls don't stifle growth\u2014they create a stable environment where British workers thrive without unfair competition, ensuring shortages are filled by upskilling our own people rather than relying on foreign imports."
+                ]
+            ],
+            "sentences_no_utterance_types": "Why believe skilled immigrants create more jobs than they take when high-immigration areas reveal British workers being pushed out of tech and healthcare roles, contradicting those reports and proving the need for controls to protect our economy? Why do you insist that targeted training takes months to years for nursing roles when successful UK apprenticeship schemes demonstrate that skilled British workers can be trained and deployed in just a few months to fill those gaps without relying on foreign staff? How can you assert that failing to instantly replace 20% foreign staff risks NHS collapse, given that strict immigration controls would prioritise domestic recruitment to build a self-reliant system without overwhelming public services? Evidence from successful UK apprenticeships proves that upskilling British workers for complex healthcare jobs happens far quicker than years, preventing any interim collapse by building a reliable domestic workforce. Strict immigration controls don't stifle growth\u2014they create a stable environment where British workers thrive without unfair competition, ensuring shortages are filled by upskilling our own people rather than relying on foreign imports.",
+            "timestamp": "2025-10-16 11:25:33"
+        },
+        {
+            "speaker": "grok-4_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "High-immigration areas show British workers advancing into higher roles thanks to skilled immigrants filling entry gaps, with Migration Advisory Committee reports confirming no net displacement and wage gains from innovation."
+                ],
+                [
+                    "___Since___",
+                    "UK apprenticeship schemes for nursing take 18-24 months minimum, not a few months, leaving critical shortages that foreign staff fill immediately to prevent NHS breakdowns."
+                ],
+                [
+                    "___Claim___",
+                    "Strict controls risk that collapse by delaying recruitment, while immigrants' taxes and labour sustain the system without overwhelming it."
+                ],
+                [
+                    "___Claim___",
+                    "Your self-reliant dream ignores how upskilling alone can't match demand speed, stifling growth and leaving British workers in a smaller economy."
+                ],
+                [
+                    "___Claim___",
+                    "Open skilled immigration creates jobs and stability for everyone, proving controls harm more than help."
+                ]
+            ],
+            "sentences_no_utterance_types": "High-immigration areas show British workers advancing into higher roles thanks to skilled immigrants filling entry gaps, with Migration Advisory Committee reports confirming no net displacement and wage gains from innovation. UK apprenticeship schemes for nursing take 18-24 months minimum, not a few months, leaving critical shortages that foreign staff fill immediately to prevent NHS breakdowns. Strict controls risk that collapse by delaying recruitment, while immigrants' taxes and labour sustain the system without overwhelming it. Your self-reliant dream ignores how upskilling alone can't match demand speed, stifling growth and leaving British workers in a smaller economy. Open skilled immigration creates jobs and stability for everyone, proving controls harm more than help.",
+            "timestamp": "2025-10-16 11:25:41"
+        },
+        {
+            "speaker": "grok-4_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Skilled immigrants don't create jobs for everyone; they intensify competition in key sectors like tech and healthcare, harming locals far more than any supposed benefits, which is why controls protect our economy."
+                ],
+                [
+                    "___Why___",
+                    "Why insist that self-reliance stifles growth when strict immigration controls create stable conditions for British innovation to flourish, avoiding the wage suppression from imported labour?"
+                ],
+                [
+                    "___Claim___",
+                    "Strict controls prevent NHS collapse by prioritising rapid upskilling of British workers, avoiding the overwhelming patient surge from unchecked immigration that taxes and labour alone cannot sustain."
+                ],
+                [
+                    "___Question___",
+                    "Why do you claim UK apprenticeship schemes for nursing take 18-24 months minimum when evidence from accelerated NHS training programmes shows British workers can qualify and deploy in as little as 6-12 months to fill shortages without foreign reliance?"
+                ],
+                [
+                    "___Claim___",
+                    "Our self-reliant vision through upskilling British workers matches demand speed far better than relying on foreign labour, fostering robust growth and expanding opportunities for locals in a thriving economy."
+                ]
+            ],
+            "sentences_no_utterance_types": "Skilled immigrants don't create jobs for everyone; they intensify competition in key sectors like tech and healthcare, harming locals far more than any supposed benefits, which is why controls protect our economy. Why insist that self-reliance stifles growth when strict immigration controls create stable conditions for British innovation to flourish, avoiding the wage suppression from imported labour? Strict controls prevent NHS collapse by prioritising rapid upskilling of British workers, avoiding the overwhelming patient surge from unchecked immigration that taxes and labour alone cannot sustain. Why do you claim UK apprenticeship schemes for nursing take 18-24 months minimum when evidence from accelerated NHS training programmes shows British workers can qualify and deploy in as little as 6-12 months to fill shortages without foreign reliance? Our self-reliant vision through upskilling British workers matches demand speed far better than relying on foreign labour, fostering robust growth and expanding opportunities for locals in a thriving economy.",
+            "timestamp": "2025-10-16 11:30:21"
+        },
+        {
+            "speaker": "grok-4_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Skilled immigrants fill gaps that let British workers climb to better roles, with Migration Advisory Committee data showing no net harm and actual wage gains from reduced competition in low-skill areas."
+                ],
+                [
+                    "___Claim___",
+                    "Self-reliance through strict controls stifles growth by creating shortages that slow innovation and leave our economy smaller for everyone."
+                ],
+                [
+                    "___Since___",
+                    "Accelerated NHS programmes still take 6-12 months minimum for nursing, too slow to avert immediate crises, while foreign staff provide instant relief without overwhelming the system."
+                ],
+                [
+                    "___Claim___",
+                    "Unchecked immigration doesn't surge patients beyond what taxes and contributions cover; ONS figures prove migrants net positive for NHS funding."
+                ],
+                [
+                    "___Claim___",
+                    "Upskilling helps long-term, yet open skilled policies match demand now, boosting jobs and prosperity for locals far better than isolation."
+                ]
+            ],
+            "sentences_no_utterance_types": "Skilled immigrants fill gaps that let British workers climb to better roles, with Migration Advisory Committee data showing no net harm and actual wage gains from reduced competition in low-skill areas. Self-reliance through strict controls stifles growth by creating shortages that slow innovation and leave our economy smaller for everyone. Accelerated NHS programmes still take 6-12 months minimum for nursing, too slow to avert immediate crises, while foreign staff provide instant relief without overwhelming the system. Unchecked immigration doesn't surge patients beyond what taxes and contributions cover; ONS figures prove migrants net positive for NHS funding. Upskilling helps long-term, yet open skilled policies match demand now, boosting jobs and prosperity for locals far better than isolation.",
+            "timestamp": "2025-10-16 11:30:31"
+        },
+        {
+            "speaker": "grok-4_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why insist that upskilling British workers is too slow to avert crises when targeted domestic training builds a self-reliant healthcare system that protects jobs and prevents the cultural and economic strains of open borders?"
+                ],
+                [
+                    "___Claim___",
+                    "Open skilled policies fail to match demand without overwhelming our public services and suppressing wages for British workers, making upskilling the only path to true long-term prosperity. Isolation through strict controls isn't harmful; it protects local jobs from being undercut by foreign competition, ensuring real growth for our communities. Upskilling British workers delivers immediate and sustainable boosts to jobs and prosperity, far outpacing the short-term illusions of open immigration that strain our economy."
+                ],
+                [
+                    "___Claim___",
+                    "Unchecked immigration absolutely surges NHS patient numbers far beyond any taxes migrants pay, leaving British taxpayers to foot the bill for overwhelmed services. ONS figures are misleading; they ignore the long-term strain on housing, schools, and healthcare that net migration inflicts without true net positives. Migrants drain NHS funding more than they contribute, as immediate patient demands from population surges outstrip any fiscal gains, proving open borders harm our public services."
+                ],
+                [
+                    "___Question___",
+                    "How can upskilling be dismissed as only long-term when accelerated UK training programmes prove British workers can fill healthcare and tech shortages in months, avoiding the need for foreign labour that overwhelms public services?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Why insist that upskilling British workers is too slow to avert crises when targeted domestic training builds a self-reliant healthcare system that protects jobs and prevents the cultural and economic strains of open borders? Open skilled policies fail to match demand without overwhelming our public services and suppressing wages for British workers, making upskilling the only path to true long-term prosperity. Isolation through strict controls isn't harmful; it protects local jobs from being undercut by foreign competition, ensuring real growth for our communities. Upskilling British workers delivers immediate and sustainable boosts to jobs and prosperity, far outpacing the short-term illusions of open immigration that strain our economy. Unchecked immigration absolutely surges NHS patient numbers far beyond any taxes migrants pay, leaving British taxpayers to foot the bill for overwhelmed services. ONS figures are misleading; they ignore the long-term strain on housing, schools, and healthcare that net migration inflicts without true net positives. Migrants drain NHS funding more than they contribute, as immediate patient demands from population surges outstrip any fiscal gains, proving open borders harm our public services. How can upskilling be dismissed as only long-term when accelerated UK training programmes prove British workers can fill healthcare and tech shortages in months, avoiding the need for foreign labour that overwhelms public services?",
+            "timestamp": "2025-10-16 11:33:14"
+        },
+        {
+            "speaker": "grok-4_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Targeted domestic training builds self-reliance in theory, yet accelerated UK programmes for nursing still require 6-12 months minimum, too slow to avert immediate NHS crises that foreign staff fill right away without overwhelming services."
+                ],
+                [
+                    "___Since___",
+                    "Open skilled policies match demand effectively, with ONS data confirming migrants' taxes and contributions exceed patient costs, easing strains on housing and schools through economic growth that upskilling alone can't deliver fast enough."
+                ],
+                [
+                    "___Claim___",
+                    "Strict controls harm communities by creating shortages that suppress wages and innovation for British workers, not protect them."
+                ],
+                [
+                    "___Claim___",
+                    "Upskilling provides sustainable boosts long-term, but it falls short of the immediate prosperity open immigration brings by expanding jobs and funding without the illusions of isolation."
+                ],
+                [
+                    "___Claim___",
+                    "Dismissing foreign labour ignores how it prevents service collapse, proving controls drain more than they safeguard."
+                ]
+            ],
+            "sentences_no_utterance_types": "Targeted domestic training builds self-reliance in theory, yet accelerated UK programmes for nursing still require 6-12 months minimum, too slow to avert immediate NHS crises that foreign staff fill right away without overwhelming services. Open skilled policies match demand effectively, with ONS data confirming migrants' taxes and contributions exceed patient costs, easing strains on housing and schools through economic growth that upskilling alone can't deliver fast enough. Strict controls harm communities by creating shortages that suppress wages and innovation for British workers, not protect them. Upskilling provides sustainable boosts long-term, but it falls short of the immediate prosperity open immigration brings by expanding jobs and funding without the illusions of isolation. Dismissing foreign labour ignores how it prevents service collapse, proving controls drain more than they safeguard.",
+            "timestamp": "2025-10-16 11:33:25"
+        },
+        {
+            "speaker": "grok-4_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Dismissing foreign labour is spot on because it forces us to upskill British workers and build a self-reliant system that truly safeguards our services from collapse, unlike open borders that drain resources. Strict controls don't drain anything; they protect our economy by preventing the overwhelming influx of patients and workers that foreign labour brings, ensuring sustainable funding for the NHS. Relying on foreign labour invites service collapse through unchecked demand, while immigration controls safeguard our public services by prioritising domestic solutions that deliver real long-term stability."
+                ],
+                [
+                    "___Claim___",
+                    "Upskilling British workers delivers immediate and sustainable prosperity by filling shortages without the overwhelming strains of open immigration that suppress wages and burden public services. Open immigration doesn't expand jobs or funding; it floods the market with cheap labour that undercuts locals and drains resources far beyond any illusory gains. Strict controls end the illusions of isolation by protecting our economy and communities, ensuring real growth through self-reliance rather than relying on foreign influxes that harm British prosperity."
+                ],
+                [
+                    "___Question___",
+                    "Why do you claim upskilling falls short of immediate prosperity when accelerated UK training programmes prove British workers can fill healthcare and tech shortages in months, protecting jobs without the overwhelming strains of open immigration?"
+                ],
+                [
+                    "___Claim___",
+                    "Strict controls don't suppress wages or innovation; they shield British workers from unfair competition, ensuring communities thrive through stable employment and homegrown progress."
+                ],
+                [
+                    "___Why___",
+                    "Why believe controls drain more than they safeguard when evidence shows they protect British jobs from wage suppression and build a self-reliant economy that truly sustains public services?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Dismissing foreign labour is spot on because it forces us to upskill British workers and build a self-reliant system that truly safeguards our services from collapse, unlike open borders that drain resources. Strict controls don't drain anything; they protect our economy by preventing the overwhelming influx of patients and workers that foreign labour brings, ensuring sustainable funding for the NHS. Relying on foreign labour invites service collapse through unchecked demand, while immigration controls safeguard our public services by prioritising domestic solutions that deliver real long-term stability. Upskilling British workers delivers immediate and sustainable prosperity by filling shortages without the overwhelming strains of open immigration that suppress wages and burden public services. Open immigration doesn't expand jobs or funding; it floods the market with cheap labour that undercuts locals and drains resources far beyond any illusory gains. Strict controls end the illusions of isolation by protecting our economy and communities, ensuring real growth through self-reliance rather than relying on foreign influxes that harm British prosperity. Why do you claim upskilling falls short of immediate prosperity when accelerated UK training programmes prove British workers can fill healthcare and tech shortages in months, protecting jobs without the overwhelming strains of open immigration? Strict controls don't suppress wages or innovation; they shield British workers from unfair competition, ensuring communities thrive through stable employment and homegrown progress. Why believe controls drain more than they safeguard when evidence shows they protect British jobs from wage suppression and build a self-reliant economy that truly sustains public services?",
+            "timestamp": "2025-10-16 11:34:07"
+        },
+        {
+            "speaker": "grok-4_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Accelerated UK training programmes for nursing still take at least 6-12 months, leaving immediate shortages that foreign skilled workers fill without draining resources, as ONS data shows their taxes exceed NHS costs."
+                ],
+                [
+                    "___Claim___",
+                    "Strict controls drain the economy by creating those gaps, suppressing innovation and wages for British workers who need diverse teams to advance."
+                ],
+                [
+                    "___Since___",
+                    "Upskilling builds self-reliance long-term, yet it falls short of immediate prosperity because open immigration expands jobs and funding now, preventing service collapse your isolation risks."
+                ],
+                [
+                    "___Claim___",
+                    "Evidence proves controls don't shield from unfair competition; they shrink opportunities, while managed immigration protects and grows our communities."
+                ],
+                [
+                    "___Claim___",
+                    "Your self-reliant dream ignores how blocking talent harms British prosperity more than it safeguards."
+                ]
+            ],
+            "sentences_no_utterance_types": "Accelerated UK training programmes for nursing still take at least 6-12 months, leaving immediate shortages that foreign skilled workers fill without draining resources, as ONS data shows their taxes exceed NHS costs. Strict controls drain the economy by creating those gaps, suppressing innovation and wages for British workers who need diverse teams to advance. Upskilling builds self-reliance long-term, yet it falls short of immediate prosperity because open immigration expands jobs and funding now, preventing service collapse your isolation risks. Evidence proves controls don't shield from unfair competition; they shrink opportunities, while managed immigration protects and grows our communities. Your self-reliant dream ignores how blocking talent harms British prosperity more than it safeguards.",
+            "timestamp": "2025-10-16 11:34:29"
+        },
+        {
+            "speaker": "grok-4_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Question___",
+                    "What makes you believe that isolation through strict controls risks service collapse when uncontrolled immigration floods the NHS with patients far beyond any job or funding gains, draining resources for British citizens?"
+                ],
+                [
+                    "___Claim___",
+                    "Evidence clearly shows that strict immigration controls shield British workers from unfair competition by preventing wage suppression and job displacement, expanding opportunities for locals in a stable economy."
+                ],
+                [
+                    "___Why___",
+                    "Why do you claim accelerated UK training programmes take at least 6-12 months when evidence from NHS fast-track initiatives shows British nurses can be qualified and deployed in as little as 3-6 months to fill shortages without foreign reliance?"
+                ],
+                [
+                    "___Question___",
+                    "How can upskilling fall short of immediate prosperity when accelerated UK training programmes prove British workers fill healthcare and tech shortages in months, building self-reliance without the overwhelming strains of open borders?"
+                ],
+                [
+                    "___Claim___",
+                    "Managed immigration doesn't protect or grow our communities; it overwhelms public services and erodes cultural identity, while controls foster genuine prosperity through self-reliance."
+                ]
+            ],
+            "sentences_no_utterance_types": "What makes you believe that isolation through strict controls risks service collapse when uncontrolled immigration floods the NHS with patients far beyond any job or funding gains, draining resources for British citizens? Evidence clearly shows that strict immigration controls shield British workers from unfair competition by preventing wage suppression and job displacement, expanding opportunities for locals in a stable economy. Why do you claim accelerated UK training programmes take at least 6-12 months when evidence from NHS fast-track initiatives shows British nurses can be qualified and deployed in as little as 3-6 months to fill shortages without foreign reliance? How can upskilling fall short of immediate prosperity when accelerated UK training programmes prove British workers fill healthcare and tech shortages in months, building self-reliance without the overwhelming strains of open borders? Managed immigration doesn't protect or grow our communities; it overwhelms public services and erodes cultural identity, while controls foster genuine prosperity through self-reliance.",
+            "timestamp": "2025-10-16 11:35:00"
+        },
+        {
+            "speaker": "grok-4_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Uncontrolled immigration doesn't flood the NHS beyond gains because ONS data confirms migrants' taxes and contributions far exceed patient costs, preventing any drain on resources for British citizens."
+                ],
+                [
+                    "___Since___",
+                    "Strict controls risk service collapse by creating immediate staffing voids that fast-track NHS initiatives can't fill in 3-6 months\u2014nursing qualifications demand rigorous training to meet safety standards, leaving gaps foreign workers plug right away."
+                ],
+                [
+                    "___Claim___",
+                    "Evidence from the Migration Advisory Committee debunks your shield myth, showing skilled immigrants prevent wage suppression by boosting overall employment and innovation, expanding real opportunities for locals."
+                ],
+                [
+                    "___Since___",
+                    "Upskilling builds self-reliance over time, yet it falls short of immediate prosperity since open policies deliver jobs and growth now, without the cultural erosion you fear from managed intake."
+                ],
+                [
+                    "___Claim___",
+                    "Controls don't foster prosperity; they isolate us, shrinking the economy while managed immigration grows communities through diverse talent that strengthens our identity."
+                ]
+            ],
+            "sentences_no_utterance_types": "Uncontrolled immigration doesn't flood the NHS beyond gains because ONS data confirms migrants' taxes and contributions far exceed patient costs, preventing any drain on resources for British citizens. Strict controls risk service collapse by creating immediate staffing voids that fast-track NHS initiatives can't fill in 3-6 months\u2014nursing qualifications demand rigorous training to meet safety standards, leaving gaps foreign workers plug right away. Evidence from the Migration Advisory Committee debunks your shield myth, showing skilled immigrants prevent wage suppression by boosting overall employment and innovation, expanding real opportunities for locals. Upskilling builds self-reliance over time, yet it falls short of immediate prosperity since open policies deliver jobs and growth now, without the cultural erosion you fear from managed intake. Controls don't foster prosperity; they isolate us, shrinking the economy while managed immigration grows communities through diverse talent that strengthens our identity.",
+            "timestamp": "2025-10-16 11:35:07"
+        },
+        {
+            "speaker": "grok-4_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why do you claim open policies deliver immediate jobs and growth when they actually flood the market with foreign labour that suppresses wages and displaces British workers, harming our economy far more than upskilling ever could?"
+                ],
+                [
+                    "___Question___",
+                    "Why do you claim that fast-track NHS initiatives can't fill staffing voids in 3-6 months when evidence from successful accelerated training programmes shows British nurses qualifying and deploying much faster to meet safety standards without foreign reliance?"
+                ],
+                [
+                    "___Why___",
+                    "Why assert that skilled immigrants expand real opportunities for locals through innovation when strict immigration controls protect British jobs from being undercut, ensuring sustainable growth without relying on foreign labour that overwhelms our economy?"
+                ],
+                [
+                    "___Claim___",
+                    "Far from isolating us, sensible controls strengthen our communities by preserving cultural identity and allowing British innovation to thrive without the chaos of unmanaged influxes that dilute our shared values."
+                ],
+                [
+                    "___Claim___",
+                    "Strict immigration controls foster genuine prosperity by shielding British workers from wage suppression and job displacement, ensuring our economy grows on solid, self-reliant foundations rather than illusory gains from open borders."
+                ]
+            ],
+            "sentences_no_utterance_types": "Why do you claim open policies deliver immediate jobs and growth when they actually flood the market with foreign labour that suppresses wages and displaces British workers, harming our economy far more than upskilling ever could? Why do you claim that fast-track NHS initiatives can't fill staffing voids in 3-6 months when evidence from successful accelerated training programmes shows British nurses qualifying and deploying much faster to meet safety standards without foreign reliance? Why assert that skilled immigrants expand real opportunities for locals through innovation when strict immigration controls protect British jobs from being undercut, ensuring sustainable growth without relying on foreign labour that overwhelms our economy? Far from isolating us, sensible controls strengthen our communities by preserving cultural identity and allowing British innovation to thrive without the chaos of unmanaged influxes that dilute our shared values. Strict immigration controls foster genuine prosperity by shielding British workers from wage suppression and job displacement, ensuring our economy grows on solid, self-reliant foundations rather than illusory gains from open borders.",
+            "timestamp": "2025-10-16 11:35:52"
+        },
+        {
+            "speaker": "grok-4_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Open policies deliver immediate jobs and growth because skilled immigrants fill shortages that create more opportunities than they take, with Migration Advisory Committee reports showing no wage suppression or displacement for British workers in tech and healthcare."
+                ],
+                [
+                    "___Since___",
+                    "Fast-track NHS initiatives can't fill voids in 3-6 months; nursing demands at least 12 months of rigorous training to meet safety standards, leaving gaps that foreign staff plug instantly without harming locals."
+                ],
+                [
+                    "___Claim___",
+                    "Skilled immigrants expand opportunities through innovation that boosts the economy, while your strict controls overwhelm it by stifling talent and creating shortages that undercut sustainable growth."
+                ],
+                [
+                    "___Claim___",
+                    "Sensible controls don't strengthen communities; they isolate us, eroding cultural vitality by blocking diverse contributions that enrich our shared values."
+                ],
+                [
+                    "___Claim___",
+                    "Self-reliance sounds solid, yet open borders build real prosperity on expanded foundations, not illusions of protection that shrink our economy."
+                ]
+            ],
+            "sentences_no_utterance_types": "Open policies deliver immediate jobs and growth because skilled immigrants fill shortages that create more opportunities than they take, with Migration Advisory Committee reports showing no wage suppression or displacement for British workers in tech and healthcare. Fast-track NHS initiatives can't fill voids in 3-6 months; nursing demands at least 12 months of rigorous training to meet safety standards, leaving gaps that foreign staff plug instantly without harming locals. Skilled immigrants expand opportunities through innovation that boosts the economy, while your strict controls overwhelm it by stifling talent and creating shortages that undercut sustainable growth. Sensible controls don't strengthen communities; they isolate us, eroding cultural vitality by blocking diverse contributions that enrich our shared values. Self-reliance sounds solid, yet open borders build real prosperity on expanded foundations, not illusions of protection that shrink our economy.",
+            "timestamp": "2025-10-16 11:38:06"
+        },
+        {
+            "speaker": "grok-4_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Why___",
+                    "Why do you claim that sensible immigration controls isolate us and erode cultural vitality when they actually preserve our shared British values by preventing the overwhelming influx of incompatible influences that dilute our national identity?"
+                ],
+                [
+                    "___Claim___",
+                    "Far from isolating us, strict controls foster genuine community cohesion by ensuring newcomers integrate fully, enriching our society without overwhelming it with incompatible influences."
+                ],
+                [
+                    "___Claim___",
+                    "Self-reliance through strict immigration controls delivers genuine prosperity by protecting British jobs and preventing the economic shrinkage caused by open borders flooding our markets with cheap labour."
+                ],
+                [
+                    "___Why___",
+                    "Why assert that strict controls create illusions of protection that shrink the economy when evidence shows they shield British jobs from unfair competition, ensuring sustainable growth on solid foundations?"
+                ],
+                [
+                    "___Claim___",
+                    "Skilled immigrants stifle opportunities by flooding the job market and suppressing wages for British citizens, while sensible controls foster genuine innovation through upskilling our own people and preventing the talent drain of reliance on abroad."
+                ]
+            ],
+            "sentences_no_utterance_types": "Why do you claim that sensible immigration controls isolate us and erode cultural vitality when they actually preserve our shared British values by preventing the overwhelming influx of incompatible influences that dilute our national identity? Far from isolating us, strict controls foster genuine community cohesion by ensuring newcomers integrate fully, enriching our society without overwhelming it with incompatible influences. Self-reliance through strict immigration controls delivers genuine prosperity by protecting British jobs and preventing the economic shrinkage caused by open borders flooding our markets with cheap labour. Why assert that strict controls create illusions of protection that shrink the economy when evidence shows they shield British jobs from unfair competition, ensuring sustainable growth on solid foundations? Skilled immigrants stifle opportunities by flooding the job market and suppressing wages for British citizens, while sensible controls foster genuine innovation through upskilling our own people and preventing the talent drain of reliance on abroad.",
+            "timestamp": "2025-10-16 11:38:47"
+        },
+        {
+            "speaker": "grok-4_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Sensible immigration controls isolate us by blocking diverse talents that enrich our culture and shared values, not preserve them\u2014your fear of 'incompatible influences' ignores how managed skilled intake fosters integration and vitality without dilution."
+                ],
+                [
+                    "___Claim___",
+                    "Strict controls don't foster cohesion; they shrink communities by limiting the global exchanges that build genuine unity and innovation."
+                ],
+                [
+                    "___Claim___",
+                    "Self-reliance sounds appealing, yet it delivers stagnation by creating labour shortages that harm British jobs, while open policies prevent economic shrinkage through growth from skilled workers who expand markets, not flood them with cheap labour."
+                ],
+                [
+                    "___Claim___",
+                    "Evidence from the Migration Advisory Committee shows strict controls create illusions of protection that suppress wages and opportunities, not shield them\u2014your upskilling alone can't match the speed of diverse talent driving sustainable prosperity."
+                ],
+                [
+                    "___Claim___",
+                    "Skilled immigrants don't stifle; they boost wages and jobs for locals by filling gaps that let British workers advance, proving controls drain innovation more than they safeguard."
+                ]
+            ],
+            "sentences_no_utterance_types": "Sensible immigration controls isolate us by blocking diverse talents that enrich our culture and shared values, not preserve them\u2014your fear of 'incompatible influences' ignores how managed skilled intake fosters integration and vitality without dilution. Strict controls don't foster cohesion; they shrink communities by limiting the global exchanges that build genuine unity and innovation. Self-reliance sounds appealing, yet it delivers stagnation by creating labour shortages that harm British jobs, while open policies prevent economic shrinkage through growth from skilled workers who expand markets, not flood them with cheap labour. Evidence from the Migration Advisory Committee shows strict controls create illusions of protection that suppress wages and opportunities, not shield them\u2014your upskilling alone can't match the speed of diverse talent driving sustainable prosperity. Skilled immigrants don't stifle; they boost wages and jobs for locals by filling gaps that let British workers advance, proving controls drain innovation more than they safeguard.",
+            "timestamp": "2025-10-16 11:38:56"
+        },
+        {
+            "speaker": "grok-4_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Self-reliance through strict immigration controls drives real economic growth by upskilling British workers and filling labour shortages without the chaos of open borders, while open policies flood markets with cheap labour that harms local jobs and causes stagnation."
+                ],
+                [
+                    "___Question___",
+                    "Why do you claim skilled immigrants boost wages and jobs for locals when evidence from high-immigration areas shows British workers facing stagnant pay and job displacement in tech and healthcare?"
+                ],
+                [
+                    "___Question___",
+                    "Why do you claim that self-reliance through strict immigration controls delivers stagnation and harms British jobs when evidence shows it protects local workers from wage suppression and builds sustainable growth without relying on foreign labour?"
+                ],
+                [
+                    "___Question___",
+                    "Why do you claim that evidence from the Migration Advisory Committee shows strict controls suppress wages and opportunities when real-world data from high-immigration areas reveals British workers facing job displacement and stagnant pay that upskilling prevents?"
+                ],
+                [
+                    "___Claim___",
+                    "Sensible immigration controls don't isolate us; they safeguard our cultural identity by curbing the influx of incompatible influences that truly threaten our shared values and community cohesion."
+                ]
+            ],
+            "sentences_no_utterance_types": "Self-reliance through strict immigration controls drives real economic growth by upskilling British workers and filling labour shortages without the chaos of open borders, while open policies flood markets with cheap labour that harms local jobs and causes stagnation. Why do you claim skilled immigrants boost wages and jobs for locals when evidence from high-immigration areas shows British workers facing stagnant pay and job displacement in tech and healthcare? Why do you claim that self-reliance through strict immigration controls delivers stagnation and harms British jobs when evidence shows it protects local workers from wage suppression and builds sustainable growth without relying on foreign labour? Why do you claim that evidence from the Migration Advisory Committee shows strict controls suppress wages and opportunities when real-world data from high-immigration areas reveals British workers facing job displacement and stagnant pay that upskilling prevents? Sensible immigration controls don't isolate us; they safeguard our cultural identity by curbing the influx of incompatible influences that truly threaten our shared values and community cohesion.",
+            "timestamp": "2025-10-16 11:39:34"
+        },
+        {
+            "speaker": "grok-4_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Evidence from high-immigration areas actually shows skilled immigrants boosting wages and jobs for locals by filling gaps that let British workers advance, with Migration Advisory Committee reports debunking your displacement claims as outdated myths."
+                ],
+                [
+                    "___Claim___",
+                    "Self-reliance through strict controls delivers stagnation by creating shortages that harm British jobs and suppress innovation, while open policies build sustainable growth without wage suppression."
+                ],
+                [
+                    "___Claim___",
+                    "Your real-world data ignores how upskilling alone can't fill immediate needs fast enough, leaving our economy smaller and locals worse off."
+                ],
+                [
+                    "___Claim___",
+                    "Sensible controls do isolate us, eroding cultural vitality by blocking diverse contributions that enrich our shared values and foster true community cohesion."
+                ]
+            ],
+            "sentences_no_utterance_types": "Evidence from high-immigration areas actually shows skilled immigrants boosting wages and jobs for locals by filling gaps that let British workers advance, with Migration Advisory Committee reports debunking your displacement claims as outdated myths. Self-reliance through strict controls delivers stagnation by creating shortages that harm British jobs and suppress innovation, while open policies build sustainable growth without wage suppression. Your real-world data ignores how upskilling alone can't fill immediate needs fast enough, leaving our economy smaller and locals worse off. Sensible controls do isolate us, eroding cultural vitality by blocking diverse contributions that enrich our shared values and foster true community cohesion.",
+            "timestamp": "2025-10-16 11:39:41"
+        },
+        {
+            "speaker": "grok-4_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Question___",
+                    "How do you justify saying strict controls leave our economy smaller and locals worse off when evidence shows they shield British jobs from wage suppression and job displacement caused by open immigration?"
+                ],
+                [
+                    "___Claim___",
+                    "Self-reliance through strict immigration controls drives genuine economic growth by upskilling British workers and filling shortages without the chaos of open borders that flood markets with cheap labour harming local jobs."
+                ],
+                [
+                    "___Claim___",
+                    "Sensible immigration controls don't isolate us; they preserve our cultural vitality by ensuring diverse contributions integrate properly without overwhelming our shared British values and fostering genuine community cohesion."
+                ],
+                [
+                    "___Why___",
+                    "Why ignore the real-world data from high-immigration areas that reveals British workers facing stagnant pay and displacement, proving upskilling builds a self-reliant economy that truly benefits locals without relying on open borders?"
+                ],
+                [
+                    "___Question___",
+                    "Why do you claim that upskilling British workers can't fill immediate needs fast enough when accelerated NHS training programmes prove they can qualify and deploy in just 3-6 months to protect our economy without foreign reliance?"
+                ]
+            ],
+            "sentences_no_utterance_types": "How do you justify saying strict controls leave our economy smaller and locals worse off when evidence shows they shield British jobs from wage suppression and job displacement caused by open immigration? Self-reliance through strict immigration controls drives genuine economic growth by upskilling British workers and filling shortages without the chaos of open borders that flood markets with cheap labour harming local jobs. Sensible immigration controls don't isolate us; they preserve our cultural vitality by ensuring diverse contributions integrate properly without overwhelming our shared British values and fostering genuine community cohesion. Why ignore the real-world data from high-immigration areas that reveals British workers facing stagnant pay and displacement, proving upskilling builds a self-reliant economy that truly benefits locals without relying on open borders? Why do you claim that upskilling British workers can't fill immediate needs fast enough when accelerated NHS training programmes prove they can qualify and deploy in just 3-6 months to protect our economy without foreign reliance?",
+            "timestamp": "2025-10-16 11:46:13"
+        },
+        {
+            "speaker": "grok-4_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Strict controls leave our economy smaller because they block skilled immigrants who create jobs and innovation, making locals worse off with fewer opportunities, as Migration Advisory Committee reports confirm no wage suppression from open policies."
+                ],
+                [
+                    "___Claim___",
+                    "Your evidence from high-immigration areas ignores how skilled migrants boost overall pay and employment for British workers by filling gaps that let locals advance."
+                ],
+                [
+                    "___Claim___",
+                    "Self-reliance through upskilling drives growth in theory, yet it can't match the chaos-free expansion from managed immigration that avoids cheap labour floods."
+                ],
+                [
+                    "___Since___",
+                    "Accelerated NHS programmes take at least 6-12 months for safe nursing deployment, too slow for immediate shortages that foreign staff fill without harming our economy."
+                ],
+                [
+                    "___Claim___",
+                    "Sensible controls isolate us by eroding cultural vitality, blocking diverse contributions that enrich our shared values and true community cohesion."
+                ]
+            ],
+            "sentences_no_utterance_types": "Strict controls leave our economy smaller because they block skilled immigrants who create jobs and innovation, making locals worse off with fewer opportunities, as Migration Advisory Committee reports confirm no wage suppression from open policies. Your evidence from high-immigration areas ignores how skilled migrants boost overall pay and employment for British workers by filling gaps that let locals advance. Self-reliance through upskilling drives growth in theory, yet it can't match the chaos-free expansion from managed immigration that avoids cheap labour floods. Accelerated NHS programmes take at least 6-12 months for safe nursing deployment, too slow for immediate shortages that foreign staff fill without harming our economy. Sensible controls isolate us by eroding cultural vitality, blocking diverse contributions that enrich our shared values and true community cohesion.",
+            "timestamp": "2025-10-16 11:47:28"
+        },
+        {
+            "speaker": "grok-4_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Question___",
+                    "Why do you claim that sensible immigration controls erode cultural vitality when they actually preserve our shared British values by preventing an overwhelming influx of incompatible influences that dilute national identity?"
+                ],
+                [
+                    "___Question___",
+                    "Why do you claim accelerated NHS programmes take at least 6-12 months when evidence from successful fast-track initiatives shows British nurses qualifying and deploying in just 3-6 months to fill shortages without foreign reliance?"
+                ],
+                [
+                    "___Claim___",
+                    "Sensible immigration controls don't isolate us; they preserve our cultural vitality by ensuring diverse contributions integrate properly without overwhelming our shared British values and fostering true community cohesion."
+                ],
+                [
+                    "___Claim___",
+                    "Self-reliance through upskilling delivers real, chaos-free growth by filling shortages with British workers, unlike managed immigration that inevitably floods the market with cheap labour and suppresses wages."
+                ],
+                [
+                    "___Claim___",
+                    "Evidence from high-immigration areas clearly shows skilled migrants suppressing wages and displacing British workers in key sectors, not boosting pay or letting locals advance."
+                ]
+            ],
+            "sentences_no_utterance_types": "Why do you claim that sensible immigration controls erode cultural vitality when they actually preserve our shared British values by preventing an overwhelming influx of incompatible influences that dilute national identity? Why do you claim accelerated NHS programmes take at least 6-12 months when evidence from successful fast-track initiatives shows British nurses qualifying and deploying in just 3-6 months to fill shortages without foreign reliance? Sensible immigration controls don't isolate us; they preserve our cultural vitality by ensuring diverse contributions integrate properly without overwhelming our shared British values and fostering true community cohesion. Self-reliance through upskilling delivers real, chaos-free growth by filling shortages with British workers, unlike managed immigration that inevitably floods the market with cheap labour and suppresses wages. Evidence from high-immigration areas clearly shows skilled migrants suppressing wages and displacing British workers in key sectors, not boosting pay or letting locals advance.",
+            "timestamp": "2025-10-16 11:50:07"
+        },
+        {
+            "speaker": "grok-4_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Sensible immigration controls erode cultural vitality by blocking diverse talents that enrich our shared British values, not preserve them\u2014your fear of 'incompatible influences' ignores how managed skilled intake fosters integration without dilution."
+                ],
+                [
+                    "___Since___",
+                    "Fast-track NHS initiatives still demand at least 6-12 months for safe nursing standards, too slow to fill immediate shortages that foreign staff plug right away without harming locals."
+                ],
+                [
+                    "___Since___",
+                    "Self-reliance through upskilling sounds chaos-free, yet it creates growth gaps that managed immigration fills without flooding markets or suppressing wages, as Migration Advisory Committee data proves."
+                ],
+                [
+                    "___Claim___",
+                    "Evidence from high-immigration areas shows skilled migrants boosting pay and advancing British workers by filling gaps, debunking your suppression myths."
+                ],
+                [
+                    "___Claim___",
+                    "Strict controls isolate us, shrinking communities while open policies build true cohesion through global contributions."
+                ]
+            ],
+            "sentences_no_utterance_types": "Sensible immigration controls erode cultural vitality by blocking diverse talents that enrich our shared British values, not preserve them\u2014your fear of 'incompatible influences' ignores how managed skilled intake fosters integration without dilution. Fast-track NHS initiatives still demand at least 6-12 months for safe nursing standards, too slow to fill immediate shortages that foreign staff plug right away without harming locals. Self-reliance through upskilling sounds chaos-free, yet it creates growth gaps that managed immigration fills without flooding markets or suppressing wages, as Migration Advisory Committee data proves. Evidence from high-immigration areas shows skilled migrants boosting pay and advancing British workers by filling gaps, debunking your suppression myths. Strict controls isolate us, shrinking communities while open policies build true cohesion through global contributions.",
+            "timestamp": "2025-10-16 11:50:14"
+        },
+        {
+            "speaker": "grok-4_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Question___",
+                    "Why do you claim fast-track NHS initiatives demand at least 6-12 months when evidence from successful accelerated programmes shows British nurses qualifying and deploying in just 3-6 months to fill shortages without foreign reliance?"
+                ],
+                [
+                    "___Why___",
+                    "Why assert that strict immigration controls shrink communities while open policies foster cohesion, given evidence shows controls ensure newcomers integrate fully, enriching society without the chaos of unmanaged global influxes that overwhelm our shared values?"
+                ],
+                [
+                    "___Why___",
+                    "Why insist upskilling British workers is too slow for safe nursing standards when targeted domestic training builds a self-reliant NHS that prevents the overwhelming strains of uncontrolled immigration on our public services?"
+                ],
+                [
+                    "___Claim___",
+                    "Strict immigration controls don't isolate us; they build stronger communities by preserving our British identity and ensuring newcomers integrate fully without overwhelming our shared values."
+                ],
+                [
+                    "___Claim___",
+                    "Evidence from high-immigration areas actually reveals skilled migrants suppressing wages and displacing British workers in key sectors like tech and healthcare, shattering the myth of any net boost to local pay."
+                ]
+            ],
+            "sentences_no_utterance_types": "Why do you claim fast-track NHS initiatives demand at least 6-12 months when evidence from successful accelerated programmes shows British nurses qualifying and deploying in just 3-6 months to fill shortages without foreign reliance? Why assert that strict immigration controls shrink communities while open policies foster cohesion, given evidence shows controls ensure newcomers integrate fully, enriching society without the chaos of unmanaged global influxes that overwhelm our shared values? Why insist upskilling British workers is too slow for safe nursing standards when targeted domestic training builds a self-reliant NHS that prevents the overwhelming strains of uncontrolled immigration on our public services? Strict immigration controls don't isolate us; they build stronger communities by preserving our British identity and ensuring newcomers integrate fully without overwhelming our shared values. Evidence from high-immigration areas actually reveals skilled migrants suppressing wages and displacing British workers in key sectors like tech and healthcare, shattering the myth of any net boost to local pay.",
+            "timestamp": "2025-10-16 11:51:01"
+        },
+        {
+            "speaker": "grok-4_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Fast-track NHS initiatives still require at least 6-12 months for proper nursing qualifications to ensure patient safety, leaving critical shortages that foreign workers fill immediately without any reliance issues."
+                ],
+                [
+                    "___Claim___",
+                    "Strict immigration controls shrink communities by blocking diverse talents that truly enrich our shared British values, while open policies foster real cohesion through managed integration that avoids your imagined chaos."
+                ],
+                [
+                    "___Since___",
+                    "Upskilling British workers helps long-term, yet it remains too slow for safe standards during immediate crises, unlike skilled immigration that prevents NHS strains without overwhelming public services."
+                ],
+                [
+                    "___Claim___",
+                    "Evidence from high-immigration areas debunks your myths, showing skilled migrants boost local pay and jobs in tech and healthcare by creating opportunities, not suppressing them."
+                ],
+                [
+                    "___Claim___",
+                    "Your self-reliant controls isolate us and harm prosperity; open skilled policies build stronger, more vibrant communities for everyone."
+                ]
+            ],
+            "sentences_no_utterance_types": "Fast-track NHS initiatives still require at least 6-12 months for proper nursing qualifications to ensure patient safety, leaving critical shortages that foreign workers fill immediately without any reliance issues. Strict immigration controls shrink communities by blocking diverse talents that truly enrich our shared British values, while open policies foster real cohesion through managed integration that avoids your imagined chaos. Upskilling British workers helps long-term, yet it remains too slow for safe standards during immediate crises, unlike skilled immigration that prevents NHS strains without overwhelming public services. Evidence from high-immigration areas debunks your myths, showing skilled migrants boost local pay and jobs in tech and healthcare by creating opportunities, not suppressing them. Your self-reliant controls isolate us and harm prosperity; open skilled policies build stronger, more vibrant communities for everyone.",
+            "timestamp": "2025-10-16 11:51:18"
+        },
+        {
+            "speaker": "grok-4_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Question___",
+                    "Why do you claim fast-track NHS initiatives require at least 6-12 months when evidence from successful accelerated programmes shows British nurses qualifying and deploying in just 3-6 months to fill shortages without foreign reliance?"
+                ],
+                [
+                    "___Why___",
+                    "Why believe strict controls harm prosperity when they protect British jobs from wage suppression and foster genuine economic growth through upskilling our own people rather than relying on foreign labour that strains public services?"
+                ],
+                [
+                    "___Claim___",
+                    "Strict immigration controls don't shrink communities; they strengthen them by ensuring diverse talents integrate fully into our shared British values without overwhelming our society with chaos."
+                ],
+                [
+                    "___Claim___",
+                    "Self-reliant controls through strict immigration don't isolate us; they protect our prosperity by shielding British jobs from foreign competition and building stronger communities rooted in our shared values."
+                ],
+                [
+                    "___Claim___",
+                    "Evidence from high-immigration areas actually exposes the harsh reality that skilled migrants suppress local pay and displace British workers in tech and healthcare, shattering any myth of created opportunities."
+                ],
+                [
+                    "___Why___",
+                    "Why do you claim fast-track NHS initiatives require at least 6-12 months when evidence from successful accelerated programmes shows British nurses qualifying and deploying in just 3-6 months to fill shortages without foreign reliance?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Why do you claim fast-track NHS initiatives require at least 6-12 months when evidence from successful accelerated programmes shows British nurses qualifying and deploying in just 3-6 months to fill shortages without foreign reliance? Why believe strict controls harm prosperity when they protect British jobs from wage suppression and foster genuine economic growth through upskilling our own people rather than relying on foreign labour that strains public services? Strict immigration controls don't shrink communities; they strengthen them by ensuring diverse talents integrate fully into our shared British values without overwhelming our society with chaos. Self-reliant controls through strict immigration don't isolate us; they protect our prosperity by shielding British jobs from foreign competition and building stronger communities rooted in our shared values. Evidence from high-immigration areas actually exposes the harsh reality that skilled migrants suppress local pay and displace British workers in tech and healthcare, shattering any myth of created opportunities. Why do you claim fast-track NHS initiatives require at least 6-12 months when evidence from successful accelerated programmes shows British nurses qualifying and deploying in just 3-6 months to fill shortages without foreign reliance?",
+            "timestamp": "2025-10-16 11:52:20"
+        },
+        {
+            "speaker": "grok-4_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Fast-track NHS initiatives still demand at least 6-12 months for rigorous nursing qualifications to ensure patient safety, leaving immediate shortages that foreign workers fill without any strain on services."
+                ],
+                [
+                    "___Since___",
+                    "Strict controls harm prosperity by blocking skilled immigrants who boost jobs and wages, as Migration Advisory Committee data proves no suppression or displacement for British workers in high-immigration areas."
+                ],
+                [
+                    "___Claim___",
+                    "Your evidence ignores how upskilling can't match the speed of diverse talent driving real growth, not the illusions of self-reliance that shrink our economy."
+                ],
+                [
+                    "___Claim___",
+                    "Controls do isolate us, eroding cultural vitality by blocking global contributions that enrich our shared values and build true community strength."
+                ],
+                [
+                    "___Claim___",
+                    "Open skilled policies create opportunities for everyone, proving your protection myths wrong."
+                ]
+            ],
+            "sentences_no_utterance_types": "Fast-track NHS initiatives still demand at least 6-12 months for rigorous nursing qualifications to ensure patient safety, leaving immediate shortages that foreign workers fill without any strain on services. Strict controls harm prosperity by blocking skilled immigrants who boost jobs and wages, as Migration Advisory Committee data proves no suppression or displacement for British workers in high-immigration areas. Your evidence ignores how upskilling can't match the speed of diverse talent driving real growth, not the illusions of self-reliance that shrink our economy. Controls do isolate us, eroding cultural vitality by blocking global contributions that enrich our shared values and build true community strength. Open skilled policies create opportunities for everyone, proving your protection myths wrong.",
+            "timestamp": "2025-10-16 11:52:45"
+        },
+        {
+            "speaker": "grok-4_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Strict immigration controls don't isolate us; they preserve our cultural vitality by ensuring global contributions integrate seamlessly into our shared British values without overwhelming them."
+                ],
+                [
+                    "___Why___",
+                    "Why insist that skilled immigrants boost jobs and wages for locals when evidence reveals they flood the market, displacing British workers and eroding economic stability without true net gains?"
+                ],
+                [
+                    "___Claim___",
+                    "Upskilling British workers matches the speed of any so-called diverse talent by deploying qualified nurses in just 3-6 months through accelerated programmes, driving real growth without the illusions of open borders that flood our economy with cheap labour."
+                ],
+                [
+                    "___Why___",
+                    "Why assert that strict immigration controls are protection myths when they clearly shield local jobs from unfair foreign competition, ensuring sustainable growth without overwhelming our public services?"
+                ],
+                [
+                    "___Question___",
+                    "Why do you claim that strict immigration controls isolate us and erode cultural vitality when they actually preserve our shared British values by preventing an overwhelming influx of incompatible influences that dilute national identity?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Strict immigration controls don't isolate us; they preserve our cultural vitality by ensuring global contributions integrate seamlessly into our shared British values without overwhelming them. Why insist that skilled immigrants boost jobs and wages for locals when evidence reveals they flood the market, displacing British workers and eroding economic stability without true net gains? Upskilling British workers matches the speed of any so-called diverse talent by deploying qualified nurses in just 3-6 months through accelerated programmes, driving real growth without the illusions of open borders that flood our economy with cheap labour. Why assert that strict immigration controls are protection myths when they clearly shield local jobs from unfair foreign competition, ensuring sustainable growth without overwhelming our public services? Why do you claim that strict immigration controls isolate us and erode cultural vitality when they actually preserve our shared British values by preventing an overwhelming influx of incompatible influences that dilute national identity?",
+            "timestamp": "2025-10-16 11:53:34"
+        },
+        {
+            "speaker": "grok-4_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Strict immigration controls isolate us by blocking diverse talents that enrich our shared British values, not preserve them\u2014your fear of 'incompatible influences' ignores how managed skilled intake fosters seamless integration without dilution."
+                ],
+                [
+                    "___Since___",
+                    "Evidence from the Migration Advisory Committee debunks your flood myth, showing skilled immigrants boost jobs and wages for locals by filling gaps that let British workers advance, not displace them."
+                ],
+                [
+                    "___Since___",
+                    "Accelerated programmes still take at least 6-12 months for safe nursing deployment, too slow for immediate shortages that foreign staff fill without eroding economic stability."
+                ],
+                [
+                    "___Claim___",
+                    "Your protection claims are myths; strict controls overwhelm public services by creating labour voids that stifle growth, while open policies shield locals from unfair competition through expanded opportunities."
+                ],
+                [
+                    "___Claim___",
+                    "Upskilling drives growth long-term, yet it can't match the real net gains from diverse talent preventing the stagnation your isolation risks."
+                ]
+            ],
+            "sentences_no_utterance_types": "Strict immigration controls isolate us by blocking diverse talents that enrich our shared British values, not preserve them\u2014your fear of 'incompatible influences' ignores how managed skilled intake fosters seamless integration without dilution. Evidence from the Migration Advisory Committee debunks your flood myth, showing skilled immigrants boost jobs and wages for locals by filling gaps that let British workers advance, not displace them. Accelerated programmes still take at least 6-12 months for safe nursing deployment, too slow for immediate shortages that foreign staff fill without eroding economic stability. Your protection claims are myths; strict controls overwhelm public services by creating labour voids that stifle growth, while open policies shield locals from unfair competition through expanded opportunities. Upskilling drives growth long-term, yet it can't match the real net gains from diverse talent preventing the stagnation your isolation risks.",
+            "timestamp": "2025-10-16 11:53:59"
+        },
+        {
+            "speaker": "grok-4_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Strict immigration controls aren't myths; they protect public services by preventing labour floods that overwhelm resources, while open policies create voids filled by cheap foreign labour that stifles true British growth."
+                ],
+                [
+                    "___Why___",
+                    "Why insist upskilling British workers is too slow for safe nursing deployment when targeted domestic training builds a self-reliant NHS that prevents the overwhelming strains of open immigration on our public services?"
+                ],
+                [
+                    "___Claim___",
+                    "Strict immigration controls don't isolate us; they safeguard our shared British values by blocking incompatible influences that truly threaten our cultural identity, ensuring seamless integration for those who fit."
+                ],
+                [
+                    "___Question___",
+                    "Why do you claim accelerated NHS programmes take at least 6-12 months when evidence from successful fast-track initiatives shows British nurses qualifying and deploying in just 3-6 months to fill shortages without foreign reliance?"
+                ],
+                [
+                    "___Question___",
+                    "How can you assert that diverse talent prevents stagnation when evidence from high-immigration areas shows it suppresses wages and displaces British jobs, making strict controls essential for true economic stability?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Strict immigration controls aren't myths; they protect public services by preventing labour floods that overwhelm resources, while open policies create voids filled by cheap foreign labour that stifles true British growth. Why insist upskilling British workers is too slow for safe nursing deployment when targeted domestic training builds a self-reliant NHS that prevents the overwhelming strains of open immigration on our public services? Strict immigration controls don't isolate us; they safeguard our shared British values by blocking incompatible influences that truly threaten our cultural identity, ensuring seamless integration for those who fit. Why do you claim accelerated NHS programmes take at least 6-12 months when evidence from successful fast-track initiatives shows British nurses qualifying and deploying in just 3-6 months to fill shortages without foreign reliance? How can you assert that diverse talent prevents stagnation when evidence from high-immigration areas shows it suppresses wages and displaces British jobs, making strict controls essential for true economic stability?",
+            "timestamp": "2025-10-16 11:54:49"
+        },
+        {
+            "speaker": "grok-4_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Strict immigration controls do isolate us by blocking diverse talents that enrich our shared British values, not safeguard them\u2014your fear of 'incompatible influences' ignores how managed skilled intake ensures seamless integration without threats to identity."
+                ],
+                [
+                    "___Since___",
+                    "Accelerated NHS programmes still demand at least 6-12 months for safe nursing standards, too slow to fill immediate shortages that foreign workers plug right away, preventing self-reliant illusions from collapsing services."
+                ],
+                [
+                    "___Since___",
+                    "Targeted domestic training builds a self-reliant NHS in theory, yet it falls short against open immigration's strains because ONS data proves migrants' taxes exceed costs, easing resource pressures without overwhelming anything."
+                ],
+                [
+                    "___Since___",
+                    "Diverse talent prevents stagnation by boosting wages and jobs in high-immigration areas, as Migration Advisory Committee reports confirm no suppression or displacement for British workers\u2014your evidence cherry-picks myths while strict controls create real economic voids that harm stability."
+                ],
+                [
+                    "___Claim___",
+                    "Open policies deliver true growth by expanding opportunities for locals, proving controls stifle prosperity more than they protect."
+                ]
+            ],
+            "sentences_no_utterance_types": "Strict immigration controls do isolate us by blocking diverse talents that enrich our shared British values, not safeguard them\u2014your fear of 'incompatible influences' ignores how managed skilled intake ensures seamless integration without threats to identity. Accelerated NHS programmes still demand at least 6-12 months for safe nursing standards, too slow to fill immediate shortages that foreign workers plug right away, preventing self-reliant illusions from collapsing services. Targeted domestic training builds a self-reliant NHS in theory, yet it falls short against open immigration's strains because ONS data proves migrants' taxes exceed costs, easing resource pressures without overwhelming anything. Diverse talent prevents stagnation by boosting wages and jobs in high-immigration areas, as Migration Advisory Committee reports confirm no suppression or displacement for British workers\u2014your evidence cherry-picks myths while strict controls create real economic voids that harm stability. Open policies deliver true growth by expanding opportunities for locals, proving controls stifle prosperity more than they protect.",
+            "timestamp": "2025-10-16 11:55:07"
+        },
+        {
+            "speaker": "grok-4_mas",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Strict immigration controls foster genuine economic growth by upskilling our own people and preventing the overwhelming strains on public services that open policies inevitably cause, proving they safeguard our prosperity far better than any illusory expansion."
+                ],
+                [
+                    "___Question___",
+                    "How can targeted domestic training fall short of building a self-reliant NHS when accelerated UK programmes prove British workers can fill shortages in months, avoiding the overwhelming patient influx from open immigration?"
+                ],
+                [
+                    "___Question___",
+                    "Why do you claim open policies deliver true growth by expanding opportunities for locals when evidence from high-immigration areas shows British workers facing wage suppression and job displacement that strict controls prevent?"
+                ],
+                [
+                    "___Claim___",
+                    "Strict immigration controls don't isolate us; they safeguard our shared British values by blocking incompatible influences that truly threaten our cultural identity and ensure seamless integration for those who fit."
+                ],
+                [
+                    "___Why___",
+                    "Why insist that foreign workers plug immediate shortages right away without harming our economy when strict immigration controls protect British jobs from wage suppression and build a self-reliant NHS that prevents service collapse?"
+                ]
+            ],
+            "sentences_no_utterance_types": "Strict immigration controls foster genuine economic growth by upskilling our own people and preventing the overwhelming strains on public services that open policies inevitably cause, proving they safeguard our prosperity far better than any illusory expansion. How can targeted domestic training fall short of building a self-reliant NHS when accelerated UK programmes prove British workers can fill shortages in months, avoiding the overwhelming patient influx from open immigration? Why do you claim open policies deliver true growth by expanding opportunities for locals when evidence from high-immigration areas shows British workers facing wage suppression and job displacement that strict controls prevent? Strict immigration controls don't isolate us; they safeguard our shared British values by blocking incompatible influences that truly threaten our cultural identity and ensure seamless integration for those who fit. Why insist that foreign workers plug immediate shortages right away without harming our economy when strict immigration controls protect British jobs from wage suppression and build a self-reliant NHS that prevents service collapse?",
+            "timestamp": "2025-10-16 11:56:33"
+        },
+        {
+            "speaker": "grok-4_base",
+            "sentences_with_utterance_types": [
+                [
+                    "___Since___",
+                    "Targeted domestic training falls short of building a self-reliant NHS because even accelerated UK programmes take at least 6-12 months for safe nursing qualifications, leaving immediate shortages that foreign workers fill right away without causing patient influxes\u2014ONS data shows migrants' taxes exceed costs, avoiding any overwhelm."
+                ],
+                [
+                    "___Since___",
+                    "Open policies deliver true growth by expanding opportunities for locals, as Migration Advisory Committee evidence from high-immigration areas proves no wage suppression or job displacement, just boosts from skilled immigrants creating jobs."
+                ],
+                [
+                    "___Claim___",
+                    "Strict immigration controls do isolate us by blocking diverse talents that enrich our shared British values, not safeguard them\u2014your fear of incompatible influences ignores how managed intake ensures seamless integration without threats."
+                ],
+                [
+                    "___Claim___",
+                    "Foreign workers plug shortages without harming our economy; they protect British jobs by filling gaps that let locals advance, while your controls risk service collapse through labour voids that suppress wages and stifle growth."
+                ]
+            ],
+            "sentences_no_utterance_types": "Targeted domestic training falls short of building a self-reliant NHS because even accelerated UK programmes take at least 6-12 months for safe nursing qualifications, leaving immediate shortages that foreign workers fill right away without causing patient influxes\u2014ONS data shows migrants' taxes exceed costs, avoiding any overwhelm. Open policies deliver true growth by expanding opportunities for locals, as Migration Advisory Committee evidence from high-immigration areas proves no wage suppression or job displacement, just boosts from skilled immigrants creating jobs. Strict immigration controls do isolate us by blocking diverse talents that enrich our shared British values, not safeguard them\u2014your fear of incompatible influences ignores how managed intake ensures seamless integration without threats. Foreign workers plug shortages without harming our economy; they protect British jobs by filling gaps that let locals advance, while your controls risk service collapse through labour voids that suppress wages and stifle growth.",
+            "timestamp": "2025-10-16 11:56:41"
+        }
+    ],
+    "first_speaker": "grok-4_mas",
+    "first_speaker_utterance": "",
+    "first_speaker_commitments": [
+        "Immigration controls are essential to protect British jobs and culture from being overwhelmed, even if it means turning away some skilled workers.",
+        "The NHS buckles under the weight of uncontrolled immigration that floods it with patients faster than any staffing gains, making understaffing a direct result of open borders rather than a separate issue.",
+        "Targeted training programmes can rapidly replace the 20% of NHS staff from abroad by upskilling British workers in months, preventing any displacement of locals and building a self-reliant healthcare system.",
+        "Far from isolating us, strict controls foster genuine community cohesion by ensuring newcomers integrate fully, enriching our society without overwhelming it with incompatible influences."
+    ],
+    "first_speaker_original_claim": "Immigration controls are essential to protect British jobs and culture from being overwhelmed, even if it means turning away some skilled workers.",
+    "first_speaker_typical_replies_for_second_speakers_response": [],
+    "second_speaker": "grok-4_base",
+    "second_speaker_utterance": "Targeted domestic training falls short of building a self-reliant NHS because even accelerated UK programmes take at least 6-12 months for safe nursing qualifications, leaving immediate shortages that foreign workers fill right away without causing patient influxes\u2014ONS data shows migrants' taxes exceed costs, avoiding any overwhelm. Open policies deliver true growth by expanding opportunities for locals, as Migration Advisory Committee evidence from high-immigration areas proves no wage suppression or job displacement, just boosts from skilled immigrants creating jobs. Strict immigration controls do isolate us by blocking diverse talents that enrich our shared British values, not safeguard them\u2014your fear of incompatible influences ignores how managed intake ensures seamless integration without threats. Foreign workers plug shortages without harming our economy; they protect British jobs by filling gaps that let locals advance, while your controls risk service collapse through labour voids that suppress wages and stifle growth.",
+    "second_speaker_commitments": [
+        "Strict immigration controls harm the economy by blocking skilled workers who create jobs and boost innovation.",
+        "This protects British jobs in the long run by growing the pie for everyone.",
+        "We justify bringing in skilled foreign workers because upskilling British citizens takes years, while shortages in healthcare and tech demand immediate action to keep services running and businesses growing.",
+        "Uncontrolled immigration does not add millions overwhelming the NHS; net migration contributes far more through taxes and labour than patient demand, easing underfunding strains from Brexit and austerity.",
+        "Rushing in foreign workers avoids exploitation when we enforce proper visas and protections, unlike the care sector abuses that stem from underregulation regardless of borders.",
+        "Sensible controls don't strengthen communities; they isolate us, eroding cultural vitality by blocking diverse contributions that enrich our shared values."
+    ],
+    "second_speaker_original_claim": "Strict immigration controls harm the economy by blocking skilled workers who create jobs and boost innovation.",
+    "second_speaker_typical_replies_for_first_speakers_response": [],
+    "winner": "None",
+    "loser": "None",
+    "reason_for_dialogue_termination": {
+        "reason": "Maximum number of dialogue turns reached (40 dialogue turns).",
+        "utterance_type": null,
+        "utterance": null
+    },
+    "session_status": "Finished."
+}

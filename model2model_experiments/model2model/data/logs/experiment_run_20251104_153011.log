@@ -1,0 +1,25 @@
+2025-11-04 15:30:11,245 - INFO - === Persuasio Experiments ===
+2025-11-04 15:30:11,301 - INFO - HTTP Request: GET http://127.0.0.1:8000/sessions/ongoing "HTTP/1.1 200 OK"
+2025-11-04 15:30:11,301 - INFO - Persuasio server is already running
+2025-11-04 15:30:11,301 - INFO - Session timeout: no timeout
+2025-11-04 15:30:11,301 - INFO - Loading experiments from .\model2model\data\experiments\remaining-grok4-tests.csv
+2025-11-04 15:30:11,307 - INFO - Loaded 49 experiments
+2025-11-04 15:30:11,307 - INFO - Total number of batches is 49
+2025-11-04 15:30:11,320 - INFO - Starting batch 1/49...
+2025-11-04 15:30:11,320 - INFO - Batch 1, running session 'mistral-medium_mas_rag:r__vs__grok-4_mas_rag:l'
+2025-11-04 15:33:29,765 - INFO - HTTP Request: GET http://127.0.0.1:8000/sessions/create?session_id=mistral-medium_mas_rag%3Ar__vs__grok-4_mas_rag%3Al&debate_topic=Debate+the+trade-offs+of+government+intervention+across+a+range+of+issues%2C+including+healthcare%2C+immigration%2C+and+welfare.&max_dialogue_turns=40&max_sentences_per_turn=5&first_speaker=mistral-medium_mas_rag&first_speaker_type=mas_rag&first_speaker_model_name=mistral-medium&first_speaker_model_temp=0.0&first_speaker_model_top_p=1.0&first_speaker_model_seed=123&first_speaker_political_political_position_range=60%3A80&first_speaker_political_position_std=10&first_speaker_political_position_prob_of_na=0.25&first_speaker_knowledge_base_ensemble_or_model_name=ensemble3&first_speaker_number_of_vector_based_rag_examples=100&first_speaker_number_of_graph_rag_examples=5&second_speaker=grok-4_mas_rag&second_speaker_type=mas_rag&second_speaker_model_name=grok-4&second_speaker_model_temp=0.0&second_speaker_model_top_p=1.0&second_speaker_model_seed=123&second_speaker_political_position_range=20%3A40&second_speaker_political_position_std=10&second_speaker_political_position_prob_of_na=0.25&second_speaker_knowledge_base_ensemble_or_model_name=ensemble3&second_speaker_number_of_vector_based_rag_examples=100&second_speaker_number_of_graph_rag_examples=5&human_model_name=&human_model_temp=0.0&human_model_top_p=1.0&human_model_seed=123&utterance_classification_approach=single-classification&utterance_classification_number_of_classifications=1&utterance_from=first_speaker "HTTP/1.1 200 OK"
+2025-11-04 15:33:29,766 - INFO - Completed session 'mistral-medium_mas_rag:r__vs__grok-4_mas_rag:l'
+2025-11-04 15:33:29,766 - INFO - Session data saved to: D:\Post-Doc\Persuasive-Dialogue-in-LLMs\Code\run_experiments\model2model\data\dialogues\mistral-medium_mas_rag_r__vs__grok-4_mas_rag_l.json
+2025-11-04 15:33:29,767 - INFO - Batch 1/49 completed: 1 succeeded, 0 failed
+2025-11-04 15:33:29,767 - INFO - Starting batch 2/49...
+2025-11-04 15:33:29,767 - INFO - Batch 2, running session 'grok-4_base:r__vs__mistral-medium_mas:l'
+2025-11-04 15:54:21,771 - INFO - HTTP Request: GET http://127.0.0.1:8000/sessions/create?session_id=grok-4_base%3Ar__vs__mistral-medium_mas%3Al&debate_topic=Debate+the+trade-offs+of+government+intervention+across+a+range+of+issues%2C+including+healthcare%2C+immigration%2C+and+welfare.&max_dialogue_turns=40&max_sentences_per_turn=5&first_speaker=grok-4_base&first_speaker_type=base&first_speaker_model_name=grok-4&first_speaker_model_temp=0.0&first_speaker_model_top_p=1.0&first_speaker_model_seed=123&first_speaker_political_political_position_range=60%3A80&first_speaker_political_position_std=10&first_speaker_political_position_prob_of_na=0.25&first_speaker_knowledge_base_ensemble_or_model_name=ensemble3&first_speaker_number_of_vector_based_rag_examples=100&first_speaker_number_of_graph_rag_examples=5&second_speaker=mistral-medium_mas&second_speaker_type=mas&second_speaker_model_name=mistral-medium&second_speaker_model_temp=0.0&second_speaker_model_top_p=1.0&second_speaker_model_seed=123&second_speaker_political_position_range=20%3A40&second_speaker_political_position_std=10&second_speaker_political_position_prob_of_na=0.25&second_speaker_knowledge_base_ensemble_or_model_name=ensemble3&second_speaker_number_of_vector_based_rag_examples=100&second_speaker_number_of_graph_rag_examples=5&human_model_name=&human_model_temp=0.0&human_model_top_p=1.0&human_model_seed=123&utterance_classification_approach=single-classification&utterance_classification_number_of_classifications=1&utterance_from=first_speaker "HTTP/1.1 500 Internal Server Error"
+2025-11-04 15:54:21,771 - ERROR - Bad server response for session 'grok-4_base:r__vs__mistral-medium_mas:l': 500 - Internal Server Error
+2025-11-04 15:54:21,771 - ERROR - Sessions failed: ['grok-4_base:r__vs__mistral-medium_mas:l']
+2025-11-04 15:54:21,772 - INFO - Batch 2/49 completed: 0 succeeded, 1 failed
+2025-11-04 15:54:21,772 - INFO - Starting batch 3/49...
+2025-11-04 15:54:21,772 - INFO - Batch 3, running session 'mistral-medium_mas_rag:r__vs__grok-4_base:l'
+2025-11-04 15:54:21,777 - ERROR - Failed running batch 3: 
+2025-11-04 15:54:21,777 - ERROR - Failed batch 3: 'session_id'
+2025-11-04 15:54:21,777 - INFO - Starting batch 4/49...
+2025-11-04 15:54:21,778 - INFO - Batch 4, running session 'grok-4_mas:r__vs__grok-4_base:l'

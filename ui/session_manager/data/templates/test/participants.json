@@ -1,0 +1,38 @@
+[
+  {
+    "participant_id": "HUMAN_1",
+    "participant_type": "human",
+    "auth_code": "1",
+    "is_admin": false,
+    "is_authenticated": false,
+    "current_session": null,
+    "message_count": 0
+  },
+  {
+    "participant_id": "HUMAN_2",
+    "participant_type": "human",
+    "auth_code": "2",
+    "is_admin": false,
+    "is_authenticated": false,
+    "current_session": null,
+    "message_count": 0
+  },
+  {
+    "participant_id": "GPT-4O-MINI",
+    "participant_type": "base",
+    "auth_code": null,
+    "is_admin": false,
+    "is_authenticated": true,
+    "current_session": null,
+    "message_count": 0
+  },
+  {
+    "participant_id": "ADMIN",
+    "participant_type": "human",
+    "auth_code": "A",
+    "is_admin": true,
+    "is_authenticated": false,
+    "current_session": null,
+    "message_count": 0
+  }
+]

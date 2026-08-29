@@ -1,0 +1,17 @@
+[2025-10-30 15:19:49,156] [INFO] Trying to create session grok-4_base:r__vs__grok-4_mas:l...
+[2025-10-30 15:19:49,183] [INFO] DIALOGUE START: Parent graph invoked, waiting for Langgraph return state...
+[2025-10-30 15:19:49,257] [INFO] ENTER: 'BaseModelAgent' calling '_create_prompt'; CURRENT SPEAKER: grok-4_base, DIALOGUE TURN NUM = 0.
+[2025-10-30 15:19:49,257] [INFO] EXIT: 'BaseModelAgent' calling '_create_prompt' (2.002716064453125e-05 secs).
+[2025-10-30 15:19:49,257] [INFO] ENTER: 'BaseModelAgent' calling '_generate_response'; CURRENT SPEAKER: grok-4_base, DIALOGUE TURN NUM = 0.
+[2025-10-30 15:19:50,261] [ERROR] 'BaseModelAgent' could not generate a response, completion not validated; MODEL = 'grok-4'; 
+ REASON: 
+
+ 1 validation error for BaseModelCompletion
+  Invalid JSON: trailing characters at line 2 column 1 [type=json_invalid, input_value='{"response": "Government...you think about that?"}', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/json_invalid
+[2025-10-30 15:19:50,261] [INFO] EXIT: 'BaseModelAgent' calling '_generate_response' (1.0033926963806152 secs).
+[2025-10-30 15:19:50,261] [INFO] ENTER: 'BaseModelAgent' calling 'return_base_model_response'; CURRENT SPEAKER: grok-4_base, DIALOGUE TURN NUM = 0.
+[2025-10-30 15:19:50,261] [INFO] EXIT: 'BaseModelAgent' calling 'return_base_model_response' (1.6689300537109375e-06 secs).
+[2025-10-30 15:19:50,261] [ERROR] Wrong state used; State of type HumanState; error message: dict has unexpected extra key(s): "model_seed", "model_temp", "model_top_p", "political_position_range", "political_position_std", "speaker_model_name"
+[2025-10-30 15:19:50,261] [ERROR] Wrong state used; State of type GenerationAgentsState; error message: dict has unexpected extra key(s): "utterance"
+[2025-10-30 15:19:50,262] [ERROR] Wrong state used; State of type BaseModelState; error message: value of key 'utterance' of dict is not an instance of str

@@ -1,0 +1,1159 @@
+{
+    "loser": "None",
+    "winner": "None",
+    "session_id": "grok-4_base:r__vs__grok-3_base:l",
+    "debate_topic": "Debate the trade-offs of government intervention across a range of issues, including healthcare, immigration, and welfare.",
+    "next_speaker": "second_speaker",
+    "first_speaker": "grok-4_base",
+    "second_speaker": "grok-3_base",
+    "current_speaker": "first_speaker",
+    "dialogue_history": [
+        {
+            "speaker": "grok-4_base",
+            "timestamp": "2025-10-04 07:02:29",
+            "sentences_no_utterance_types": "Government intervention in healthcare, immigration, and welfare often leads to inefficiencies and stifles individual initiative. In healthcare, state control results in long waiting times and rationing, as seen in the NHS's ongoing struggles. For immigration, excessive government meddling creates bureaucratic barriers that harm the economy without improving security. Welfare systems bloated by intervention foster dependency rather than self-reliance. We need targeted, minimal involvement to balance support with personal responsibility.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Government intervention in healthcare, immigration, and welfare often leads to inefficiencies and stifles individual initiative."
+                ],
+                [
+                    "___Since___",
+                    "In healthcare, state control results in long waiting times and rationing, as seen in the NHS's ongoing struggles."
+                ],
+                [
+                    "___Claim___",
+                    "For immigration, excessive government meddling creates bureaucratic barriers that harm the economy without improving security."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare systems bloated by intervention foster dependency rather than self-reliance."
+                ],
+                [
+                    "___Claim___",
+                    "We need targeted, minimal involvement to balance support with personal responsibility."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-04 07:02:42",
+            "sentences_no_utterance_types": "I believe government intervention in healthcare, immigration, and welfare is essential to ensure fairness and protect the vulnerable. Without strong state involvement in healthcare, many would be left without access to basic services, as private systems often prioritise profit over people. On immigration, government oversight is needed to balance humanitarian needs with national interests, preventing chaos at our borders. As for welfare, a robust system stops people from falling through the cracks, even if it\u2019s not perfect. Let\u2019s be real\u2014minimal involvement just means abandoning those who need help most.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "I believe government intervention in healthcare, immigration, and welfare is essential to ensure fairness and protect the vulnerable."
+                ],
+                [
+                    "___Claim___",
+                    "Without strong state involvement in healthcare, many would be left without access to basic services, as private systems often prioritise profit over people."
+                ],
+                [
+                    "___Claim___",
+                    "On immigration, government oversight is needed to balance humanitarian needs with national interests, preventing chaos at our borders."
+                ],
+                [
+                    "___Claim___",
+                    "As for welfare, a robust system stops people from falling through the cracks, even if it\u2019s not perfect."
+                ],
+                [
+                    "___Claim___",
+                    "Let\u2019s be real\u2014minimal involvement just means abandoning those who need help most."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-4_base",
+            "timestamp": "2025-10-04 07:02:49",
+            "sentences_no_utterance_types": "Your view ignores how government intervention creates more problems than it solves. In healthcare, the NHS's state control leads to endless queues and poor outcomes because it kills competition and innovation. On immigration, bureaucratic red tape from overreach slows down the economy and doesn't make us safer\u2014it just frustrates everyone. Welfare traps people in poverty by discouraging work, turning help into a handout culture. Minimal intervention empowers individuals to thrive without the state's heavy hand crushing initiative.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Your view ignores how government intervention creates more problems than it solves."
+                ],
+                [
+                    "___Since___",
+                    "In healthcare, the NHS's state control leads to endless queues and poor outcomes because it kills competition and innovation."
+                ],
+                [
+                    "___Claim___",
+                    "On immigration, bureaucratic red tape from overreach slows down the economy and doesn't make us safer\u2014it just frustrates everyone."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare traps people in poverty by discouraging work, turning help into a handout culture."
+                ],
+                [
+                    "___Claim___",
+                    "Minimal intervention empowers individuals to thrive without the state's heavy hand crushing initiative."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-04 07:03:02",
+            "sentences_no_utterance_types": "You're missing the bigger picture with your focus on inefficiencies. Government intervention in healthcare through the NHS ensures that everyone, no matter their income, gets treatment instead of being left to suffer under a profit-driven system. Immigration controls are vital to manage resources and security, even if the system\u2019s clunky\u2014without them, we\u2019d have total disorder. Welfare isn\u2019t a trap; it\u2019s a lifeline for those hit hardest by life\u2019s knocks, and scrapping it would just widen inequality. Minimal intervention sounds nice until you realise it means leaving the vulnerable to fend for themselves.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "You're missing the bigger picture with your focus on inefficiencies."
+                ],
+                [
+                    "___Claim___",
+                    "Government intervention in healthcare through the NHS ensures that everyone, no matter their income, gets treatment instead of being left to suffer under a profit-driven system."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls are vital to manage resources and security, even if the system\u2019s clunky\u2014without them, we\u2019d have total disorder."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare isn\u2019t a trap; it\u2019s a lifeline for those hit hardest by life\u2019s knocks, and scrapping it would just widen inequality."
+                ],
+                [
+                    "___Claim___",
+                    "Minimal intervention sounds nice until you realise it means leaving the vulnerable to fend for themselves."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-4_base",
+            "timestamp": "2025-10-04 07:03:27",
+            "sentences_no_utterance_types": "Your faith in the NHS overlooks how its monopoly on healthcare breeds waste and delays that harm patients more than help them. Immigration controls under heavy government hand just clog the system and deter talent we need, leading to economic drag without real security gains. Welfare as a lifeline too often becomes a crutch that discourages self-sufficiency and burdens taxpayers. Minimal intervention doesn't abandon the vulnerable; it frees people to innovate and succeed without bureaucratic chains. True fairness comes from empowering individuals, not propping up a failing state machine.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Your faith in the NHS overlooks how its monopoly on healthcare breeds waste and delays that harm patients more than help them."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls under heavy government hand just clog the system and deter talent we need, leading to economic drag without real security gains."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare as a lifeline too often becomes a crutch that discourages self-sufficiency and burdens taxpayers."
+                ],
+                [
+                    "___Claim___",
+                    "Minimal intervention doesn't abandon the vulnerable; it frees people to innovate and succeed without bureaucratic chains."
+                ],
+                [
+                    "___Claim___",
+                    "True fairness comes from empowering individuals, not propping up a failing state machine."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-04 07:03:41",
+            "sentences_no_utterance_types": "Your obsession with market freedom ignores the harsh reality of what happens without government intervention. The NHS might have delays, yet it guarantees no one is bankrupted by illness, unlike privatised systems that cherry-pick who to save. Immigration controls, even if flawed, stop unchecked inflows that would strain public services beyond breaking point. Welfare isn\u2019t a crutch; it\u2019s a safety net for those society fails, and without it, you\u2019d see real misery explode. Minimal intervention just means the strong thrive while the weak get trampled.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Your obsession with market freedom ignores the harsh reality of what happens without government intervention."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS might have delays, yet it guarantees no one is bankrupted by illness, unlike privatised systems that cherry-pick who to save."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls, even if flawed, stop unchecked inflows that would strain public services beyond breaking point."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare isn\u2019t a crutch; it\u2019s a safety net for those society fails, and without it, you\u2019d see real misery explode."
+                ],
+                [
+                    "___Claim___",
+                    "Minimal intervention just means the strong thrive while the weak get trampled."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-4_base",
+            "timestamp": "2025-10-04 07:03:50",
+            "sentences_no_utterance_types": "Your defence of the NHS glosses over how its delays and rationing bankrupt the system and leave patients suffering longer than in competitive markets. Immigration controls under government overreach just create chaos and economic loss by blocking skilled workers we desperately need. Welfare as a safety net too often turns into a hammock that traps people in dependency, exploding costs for everyone else. Minimal intervention doesn't trample the weak; it unleashes opportunity for all by ditching the state's wasteful grip. True misery comes from propping up these failing interventions that stifle real progress.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Your defence of the NHS glosses over how its delays and rationing bankrupt the system and leave patients suffering longer than in competitive markets."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls under government overreach just create chaos and economic loss by blocking skilled workers we desperately need."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare as a safety net too often turns into a hammock that traps people in dependency, exploding costs for everyone else."
+                ],
+                [
+                    "___Claim___",
+                    "Minimal intervention doesn't trample the weak; it unleashes opportunity for all by ditching the state's wasteful grip."
+                ],
+                [
+                    "___Claim___",
+                    "True misery comes from propping up these failing interventions that stifle real progress."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-04 07:04:05",
+            "sentences_no_utterance_types": "You're dodging the real issue with your talk of competitive markets. The NHS, despite its flaws, ensures no one is left dying because they can't pay, which is more than any cut-throat private system can claim. Immigration controls are messy, yet without them, we'd have zero grip on who enters, risking total collapse of services. Welfare costs are high, and still, scrapping it would dump millions into despair while you cheer 'opportunity'. Your minimal intervention fantasy just masks a world where only the rich survive.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "You're dodging the real issue with your talk of competitive markets."
+                ],
+                [
+                    "___Claim___",
+                    "The NHS, despite its flaws, ensures no one is left dying because they can't pay, which is more than any cut-throat private system can claim."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls are messy, yet without them, we'd have zero grip on who enters, risking total collapse of services."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare costs are high, and still, scrapping it would dump millions into despair while you cheer 'opportunity'."
+                ],
+                [
+                    "___Claim___",
+                    "Your minimal intervention fantasy just masks a world where only the rich survive."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-4_base",
+            "timestamp": "2025-10-04 07:04:12",
+            "sentences_no_utterance_types": "Your claim that the NHS saves everyone from dying broke ignores how its flaws kill people through delays and subpar care that private competition would fix. Immigration controls under heavy government meddling just strangle the economy by keeping out talent we need, without actually preventing service strain. Welfare's high costs trap people in a cycle of dependency that real opportunity breaks, not endless handouts. Minimal intervention levels the playing field by sparking innovation that lifts everyone, not just the rich. Ditching the state's overreach ends the fantasy of equal misery for all.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Your claim that the NHS saves everyone from dying broke ignores how its flaws kill people through delays and subpar care that private competition would fix."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls under heavy government meddling just strangle the economy by keeping out talent we need, without actually preventing service strain."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare's high costs trap people in a cycle of dependency that real opportunity breaks, not endless handouts."
+                ],
+                [
+                    "___Claim___",
+                    "Minimal intervention levels the playing field by sparking innovation that lifts everyone, not just the rich."
+                ],
+                [
+                    "___Claim___",
+                    "Ditching the state's overreach ends the fantasy of equal misery for all."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-04 07:04:23",
+            "sentences_no_utterance_types": "Your fixation on private competition sidesteps the brutal truth that without the NHS, countless people would be dead or destitute from unaffordable care. Immigration controls may not be perfect, yet scrapping them would flood our systems and wreck any chance of stability. Welfare isn't trapping anyone; it's stopping mass poverty while your 'opportunity' rhetoric just props up the elite. Your minimal intervention dream is a nightmare where only the privileged make it.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Your fixation on private competition sidesteps the brutal truth that without the NHS, countless people would be dead or destitute from unaffordable care."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls may not be perfect, yet scrapping them would flood our systems and wreck any chance of stability."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare isn't trapping anyone; it's stopping mass poverty while your 'opportunity' rhetoric just props up the elite."
+                ],
+                [
+                    "___Claim___",
+                    "Your minimal intervention dream is a nightmare where only the privileged make it."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-4_base",
+            "timestamp": "2025-10-04 07:04:29",
+            "sentences_no_utterance_types": "Your NHS defence ignores how its unaffordable delays and poor care leave countless people dead or suffering longer than in efficient private systems that competition drives. Scrapping heavy immigration controls would actually boost our economy by welcoming talent, not flooding systems\u2014it's the government's bungled overreach that wrecks stability. Welfare traps millions in dependency, propping up poverty instead of sparking real opportunity that lifts everyone, not just elites. Minimal intervention ends the nightmare of state failure and creates a fair shot for all through innovation and hard work.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Your NHS defence ignores how its unaffordable delays and poor care leave countless people dead or suffering longer than in efficient private systems that competition drives."
+                ],
+                [
+                    "___Claim___",
+                    "Scrapping heavy immigration controls would actually boost our economy by welcoming talent, not flooding systems\u2014it's the government's bungled overreach that wrecks stability."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare traps millions in dependency, propping up poverty instead of sparking real opportunity that lifts everyone, not just elites."
+                ],
+                [
+                    "___Claim___",
+                    "Minimal intervention ends the nightmare of state failure and creates a fair shot for all through innovation and hard work."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-04 07:04:40",
+            "sentences_no_utterance_types": "Your rosy view of private systems dodges the grim fact that without the NHS, millions would be priced out of healthcare and left to rot. Immigration controls, even if clumsy, keep our services from being overwhelmed by unchecked numbers. Welfare isn't trapping anyone; it's the only thing stopping a full-blown poverty crisis while your 'innovation' just lines the pockets of the well-off. Your minimal intervention pipe dream is a disaster waiting to happen, where the vulnerable get crushed under the weight of your so-called fair shot.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Your rosy view of private systems dodges the grim fact that without the NHS, millions would be priced out of healthcare and left to rot."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls, even if clumsy, keep our services from being overwhelmed by unchecked numbers."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare isn't trapping anyone; it's the only thing stopping a full-blown poverty crisis while your 'innovation' just lines the pockets of the well-off."
+                ],
+                [
+                    "___Claim___",
+                    "Your minimal intervention pipe dream is a disaster waiting to happen, where the vulnerable get crushed under the weight of your so-called fair shot."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-4_base",
+            "timestamp": "2025-10-04 07:04:47",
+            "sentences_no_utterance_types": "Your grim NHS tale dodges how its pricing out of timely care leaves millions rotting in queues, while private systems deliver faster results through competition. Immigration controls under government overreach overwhelm services with bureaucracy, not people\u2014ditching the heavy hand lets talent flow and strengthens our economy. Welfare traps folks in poverty by killing incentives to work, sparking a real crisis of dependency that innovation breaks by creating jobs for all. Minimal intervention crushes no one; it empowers the vulnerable with real opportunities instead of state handouts that line bureaucrats' pockets. Your intervention disaster is the status quo that's failing everyone.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Your grim NHS tale dodges how its pricing out of timely care leaves millions rotting in queues, while private systems deliver faster results through competition."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls under government overreach overwhelm services with bureaucracy, not people\u2014ditching the heavy hand lets talent flow and strengthens our economy."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare traps folks in poverty by killing incentives to work, sparking a real crisis of dependency that innovation breaks by creating jobs for all."
+                ],
+                [
+                    "___Claim___",
+                    "Minimal intervention crushes no one; it empowers the vulnerable with real opportunities instead of state handouts that line bureaucrats' pockets."
+                ],
+                [
+                    "___Claim___",
+                    "Your intervention disaster is the status quo that's failing everyone."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-04 07:05:03",
+            "sentences_no_utterance_types": "Your obsession with private systems skips over the harsh reality that without the NHS, millions can't afford any care and just suffer in silence. Immigration controls, even if bureaucratic, stop our services from total collapse under unchecked numbers. Welfare isn't killing incentives; it's the only barrier between millions and utter destitution while your 'innovation' fairy tale only benefits those already on top. Your minimal intervention nonsense just chucks the vulnerable under the bus. The real failure is pretending the market magically fixes everything when it only saves the rich.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Your obsession with private systems skips over the harsh reality that without the NHS, millions can't afford any care and just suffer in silence."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls, even if bureaucratic, stop our services from total collapse under unchecked numbers."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare isn't killing incentives; it's the only barrier between millions and utter destitution while your 'innovation' fairy tale only benefits those already on top."
+                ],
+                [
+                    "___Claim___",
+                    "Your minimal intervention nonsense just chucks the vulnerable under the bus."
+                ],
+                [
+                    "___Claim___",
+                    "The real failure is pretending the market magically fixes everything when it only saves the rich."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-4_base",
+            "timestamp": "2025-10-04 07:05:11",
+            "sentences_no_utterance_types": "Your NHS obsession skips the reality that its unaffordable queues leave millions suffering in silence longer than private systems would, where competition drives down costs and speeds up care for everyone. Immigration controls under government overreach just collapse services with red tape, not people\u2014easing the heavy hand prevents overload by letting in talent that bolsters our economy. Welfare kills incentives by turning aid into a permanent crutch, plunging millions into destitution through dependency while real innovation creates jobs that lift all boats, not just the top. Minimal intervention doesn't chuck the vulnerable under the bus; it hands them the wheel to drive their own success without state sabotage. The real failure is your market-bashing myth that ignores how free enterprise saves everyone from the rich-poor trap your interventions deepen.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Your NHS obsession skips the reality that its unaffordable queues leave millions suffering in silence longer than private systems would, where competition drives down costs and speeds up care for everyone."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls under government overreach just collapse services with red tape, not people\u2014easing the heavy hand prevents overload by letting in talent that bolsters our economy."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare kills incentives by turning aid into a permanent crutch, plunging millions into destitution through dependency while real innovation creates jobs that lift all boats, not just the top."
+                ],
+                [
+                    "___Claim___",
+                    "Minimal intervention doesn't chuck the vulnerable under the bus; it hands them the wheel to drive their own success without state sabotage."
+                ],
+                [
+                    "___Claim___",
+                    "The real failure is your market-bashing myth that ignores how free enterprise saves everyone from the rich-poor trap your interventions deepen."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-04 07:05:23",
+            "sentences_no_utterance_types": "Your private system fantasy ignores the cold hard fact that without the NHS, millions can't even dream of care, let alone wait in queues. Immigration controls, messy as they are, stop our services from being swamped by numbers we can't handle. Welfare isn't a crutch; it's the only thing keeping countless families from starvation while your 'innovation' just fattens the wallets of the elite. Your minimal intervention spiel is a cruel joke that leaves the vulnerable with no wheel to drive. The real trap is your blind faith in a market that only rescues the wealthy.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Your private system fantasy ignores the cold hard fact that without the NHS, millions can't even dream of care, let alone wait in queues."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls, messy as they are, stop our services from being swamped by numbers we can't handle."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare isn't a crutch; it's the only thing keeping countless families from starvation while your 'innovation' just fattens the wallets of the elite."
+                ],
+                [
+                    "___Claim___",
+                    "Your minimal intervention spiel is a cruel joke that leaves the vulnerable with no wheel to drive."
+                ],
+                [
+                    "___Claim___",
+                    "The real trap is your blind faith in a market that only rescues the wealthy."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-4_base",
+            "timestamp": "2025-10-04 07:06:43",
+            "sentences_no_utterance_types": "Your NHS fantasy ignores the cold fact that its endless queues leave millions dreaming of care they can't get in time, while private systems cut costs and deliver real results through competition. Immigration controls under government meddling swamp services with bureaucracy that chokes our economy, not numbers\u2014easing the overreach lets in talent we can handle to build strength. Welfare as a starvation-stopper just fattens dependency and elite bureaucrats' wallets, trapping families while true innovation creates jobs for everyone. Minimal intervention gives the vulnerable the wheel by sparking opportunities that markets deliver for all, not just the wealthy. Your blind faith in state traps everyone in a failing system that rescues no one.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Your NHS fantasy ignores the cold fact that its endless queues leave millions dreaming of care they can't get in time, while private systems cut costs and deliver real results through competition."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls under government meddling swamp services with bureaucracy that chokes our economy, not numbers\u2014easing the overreach lets in talent we can handle to build strength."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare as a starvation-stopper just fattens dependency and elite bureaucrats' wallets, trapping families while true innovation creates jobs for everyone."
+                ],
+                [
+                    "___Claim___",
+                    "Minimal intervention gives the vulnerable the wheel by sparking opportunities that markets deliver for all, not just the wealthy."
+                ],
+                [
+                    "___Claim___",
+                    "Your blind faith in state traps everyone in a failing system that rescues no one."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-04 07:06:56",
+            "sentences_no_utterance_types": "Your private system dream ignores the stark reality that without the NHS, millions can't even get a foot in the door for care, let alone wait in queues. Immigration controls, flawed as they are, keep our services from being completely overrun by numbers we can't sustain. Welfare isn't fattening dependency; it's the only thing stopping mass hunger while your 'innovation' just pads the pockets of the already powerful. Your minimal intervention idea strips the vulnerable of any real support and leaves them to drown in a market that only floats the rich. Your faith in unchecked markets traps everyone in a system that only saves the privileged.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Your private system dream ignores the stark reality that without the NHS, millions can't even get a foot in the door for care, let alone wait in queues."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls, flawed as they are, keep our services from being completely overrun by numbers we can't sustain."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare isn't fattening dependency; it's the only thing stopping mass hunger while your 'innovation' just pads the pockets of the already powerful."
+                ],
+                [
+                    "___Claim___",
+                    "Your minimal intervention idea strips the vulnerable of any real support and leaves them to drown in a market that only floats the rich."
+                ],
+                [
+                    "___Claim___",
+                    "Your faith in unchecked markets traps everyone in a system that only saves the privileged."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-4_base",
+            "timestamp": "2025-10-04 07:07:02",
+            "sentences_no_utterance_types": "Your NHS dream ignores the stark reality that its queues leave millions without timely care, while private systems open doors wide through competition that cuts costs for all. Immigration controls under government overreach overrun services with red tape that starves our economy of talent we can sustain and need. Welfare fattens dependency and powerful bureaucrats, not stopping hunger but creating it through lost incentives, while real innovation feeds everyone by building jobs. Minimal intervention arms the vulnerable with real support via market opportunities that lift boats for all, not just the rich. Your faith in unchecked state traps everyone in a system that saves no one but the privileged elite running it.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Your NHS dream ignores the stark reality that its queues leave millions without timely care, while private systems open doors wide through competition that cuts costs for all."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls under government overreach overrun services with red tape that starves our economy of talent we can sustain and need."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare fattens dependency and powerful bureaucrats, not stopping hunger but creating it through lost incentives, while real innovation feeds everyone by building jobs."
+                ],
+                [
+                    "___Claim___",
+                    "Minimal intervention arms the vulnerable with real support via market opportunities that lift boats for all, not just the rich."
+                ],
+                [
+                    "___Claim___",
+                    "Your faith in unchecked state traps everyone in a system that saves no one but the privileged elite running it."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-04 07:07:26",
+            "sentences_no_utterance_types": "Your private system hype ignores the brutal fact that without the NHS, millions can't even access basic care, let alone worry about queues. Immigration controls, even with red tape, stop our services from being swamped by unsustainable numbers. Welfare isn't creating hunger; it's the only thing keeping countless families fed while your 'innovation' just boosts the already loaded. Your minimal intervention claptrap offers no real support to the vulnerable, just a market that drowns them while the rich sail on. Your blind trust in markets traps everyone in a system that only saves the elite, not the everyday person.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Your private system hype ignores the brutal fact that without the NHS, millions can't even access basic care, let alone worry about queues."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls, even with red tape, stop our services from being swamped by unsustainable numbers."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare isn't creating hunger; it's the only thing keeping countless families fed while your 'innovation' just boosts the already loaded."
+                ],
+                [
+                    "___Claim___",
+                    "Your minimal intervention claptrap offers no real support to the vulnerable, just a market that drowns them while the rich sail on."
+                ],
+                [
+                    "___Claim___",
+                    "Your blind trust in markets traps everyone in a system that only saves the elite, not the everyday person."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-4_base",
+            "timestamp": "2025-10-04 07:07:32",
+            "sentences_no_utterance_types": "Your NHS hype ignores the brutal fact that its queues deny millions basic care in time, while private systems make access real and affordable through competition. Immigration controls with all that red tape just swamp services in bureaucracy, starving our economy of talent we can handle to keep things sustainable. Welfare keeps families fed on handouts that kill work incentives, creating hunger in the long run, while innovation builds real jobs that feed everyone, not just the loaded. Minimal intervention gives the vulnerable true support by unleashing markets that lift all boats, not drowning them in state failure. Your blind trust in government traps everyday people in a system that saves no one but the elite bureaucrats.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Your NHS hype ignores the brutal fact that its queues deny millions basic care in time, while private systems make access real and affordable through competition."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls with all that red tape just swamp services in bureaucracy, starving our economy of talent we can handle to keep things sustainable."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare keeps families fed on handouts that kill work incentives, creating hunger in the long run, while innovation builds real jobs that feed everyone, not just the loaded."
+                ],
+                [
+                    "___Claim___",
+                    "Minimal intervention gives the vulnerable true support by unleashing markets that lift all boats, not drowning them in state failure."
+                ],
+                [
+                    "___Claim___",
+                    "Your blind trust in government traps everyday people in a system that saves no one but the elite bureaucrats."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-04 07:07:44",
+            "sentences_no_utterance_types": "Your private system obsession skips the harsh truth that without the NHS, millions can't even afford to see a doctor, let alone wait in queues. Immigration controls, messy as they are, stop our services from being overrun by numbers we can't manage. Welfare isn't killing incentives; it's the only thing keeping families from starving while your 'innovation' just fattens the rich. Your minimal intervention rubbish leaves the vulnerable with no safety net, just a market that sinks them while the elite float. Your faith in markets traps everyday people in a system that only saves the powerful.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Your private system obsession skips the harsh truth that without the NHS, millions can't even afford to see a doctor, let alone wait in queues."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls, messy as they are, stop our services from being overrun by numbers we can't manage."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare isn't killing incentives; it's the only thing keeping families from starving while your 'innovation' just fattens the rich."
+                ],
+                [
+                    "___Claim___",
+                    "Your minimal intervention rubbish leaves the vulnerable with no safety net, just a market that sinks them while the elite float."
+                ],
+                [
+                    "___Claim___",
+                    "Your faith in markets traps everyday people in a system that only saves the powerful."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-4_base",
+            "timestamp": "2025-10-04 07:07:50",
+            "sentences_no_utterance_types": "Your NHS obsession skips the harsh truth that its queues mean millions can't see a doctor in time, while private systems make care affordable and quick through competition. Immigration controls under government meddling overrun services with bureaucracy that starves our economy of needed talent we can manage. Welfare keeps families from starving on short-term handouts that kill long-term incentives, while real innovation creates jobs that feed everyone, not just the rich. Minimal intervention builds a true safety net via market opportunities that lift the vulnerable, not sink them in state waste. Your faith in government traps everyday people in a failing system that saves only the powerful bureaucrats.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Your NHS obsession skips the harsh truth that its queues mean millions can't see a doctor in time, while private systems make care affordable and quick through competition."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls under government meddling overrun services with bureaucracy that starves our economy of needed talent we can manage."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare keeps families from starving on short-term handouts that kill long-term incentives, while real innovation creates jobs that feed everyone, not just the rich."
+                ],
+                [
+                    "___Claim___",
+                    "Minimal intervention builds a true safety net via market opportunities that lift the vulnerable, not sink them in state waste."
+                ],
+                [
+                    "___Claim___",
+                    "Your faith in government traps everyday people in a failing system that saves only the powerful bureaucrats."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-04 07:08:03",
+            "sentences_no_utterance_types": "Your private system nonsense ignores the grim reality that without the NHS, millions can't even pay for basic care, let alone get it quick. Immigration controls, despite the red tape, stop our services from being swamped by numbers we can't handle. Welfare isn't killing incentives; it's the only thing keeping families alive while your 'innovation' just feeds the wealthy. Your minimal intervention drivel offers no real safety net, just a market that drowns the vulnerable while the elite thrive. Your trust in markets traps everyday people in a system that only saves the powerful, not the rest of us.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Your private system nonsense ignores the grim reality that without the NHS, millions can't even pay for basic care, let alone get it quick."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls, despite the red tape, stop our services from being swamped by numbers we can't handle."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare isn't killing incentives; it's the only thing keeping families alive while your 'innovation' just feeds the wealthy."
+                ],
+                [
+                    "___Claim___",
+                    "Your minimal intervention drivel offers no real safety net, just a market that drowns the vulnerable while the elite thrive."
+                ],
+                [
+                    "___Claim___",
+                    "Your trust in markets traps everyday people in a system that only saves the powerful, not the rest of us."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-4_base",
+            "timestamp": "2025-10-04 07:08:12",
+            "sentences_no_utterance_types": "Your NHS nonsense ignores the grim reality that its queues mean millions can't get basic care when they need it, while private systems make it affordable and fast through competition. Immigration controls with all that red tape just swamp services in bureaucracy, starving our economy of talent we can handle to keep things sustainable. Welfare keeps families alive on handouts that kill work incentives, creating long-term poverty, while innovation builds jobs that feed everyone, not just the wealthy. Minimal intervention creates a real safety net via market opportunities that lift the vulnerable, not drown them in state waste. Your trust in government traps everyday people in a system that saves only the powerful bureaucrats, not the rest of us.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Your NHS nonsense ignores the grim reality that its queues mean millions can't get basic care when they need it, while private systems make it affordable and fast through competition."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls with all that red tape just swamp services in bureaucracy, starving our economy of talent we can handle to keep things sustainable."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare keeps families alive on handouts that kill work incentives, creating long-term poverty, while innovation builds jobs that feed everyone, not just the wealthy."
+                ],
+                [
+                    "___Claim___",
+                    "Minimal intervention creates a real safety net via market opportunities that lift the vulnerable, not drown them in state waste."
+                ],
+                [
+                    "___Claim___",
+                    "Your trust in government traps everyday people in a system that saves only the powerful bureaucrats, not the rest of us."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-04 07:08:24",
+            "sentences_no_utterance_types": "Your private system rubbish ignores the ugly truth that without the NHS, millions can't even scrape together the cash for basic care, let alone get it fast. Immigration controls, messy as they are, stop our services from being totally overrun by numbers we can't sustain. Welfare isn't creating poverty; it's the only thing keeping families from hitting rock bottom while your 'innovation' just stuffs the pockets of the rich. Your minimal intervention nonsense is no safety net; it's a free pass for the elite to trample over the vulnerable. Your faith in markets traps everyday people in a system that only saves the powerful, not the rest of us.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Your private system rubbish ignores the ugly truth that without the NHS, millions can't even scrape together the cash for basic care, let alone get it fast."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls, messy as they are, stop our services from being totally overrun by numbers we can't sustain."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare isn't creating poverty; it's the only thing keeping families from hitting rock bottom while your 'innovation' just stuffs the pockets of the rich."
+                ],
+                [
+                    "___Claim___",
+                    "Your minimal intervention nonsense is no safety net; it's a free pass for the elite to trample over the vulnerable."
+                ],
+                [
+                    "___Claim___",
+                    "Your faith in markets traps everyday people in a system that only saves the powerful, not the rest of us."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-4_base",
+            "timestamp": "2025-10-04 07:08:30",
+            "sentences_no_utterance_types": "Your NHS rubbish ignores the ugly truth that its queues leave millions unable to get basic care when it counts, while private systems make it affordable and swift through competition. Immigration controls under government overreach just overrun services with red tape that starves our economy of talent we can sustain. Welfare keeps families from rock bottom on handouts that kill incentives, creating poverty, while innovation stuffs pockets with jobs for everyone, not just the rich. Minimal intervention builds a real safety net via market chances that empower the vulnerable, not trample them under state waste. Your faith in government traps everyday people in a system that saves only the powerful bureaucrats, not the rest of us.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Your NHS rubbish ignores the ugly truth that its queues leave millions unable to get basic care when it counts, while private systems make it affordable and swift through competition."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls under government overreach just overrun services with red tape that starves our economy of talent we can sustain."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare keeps families from rock bottom on handouts that kill incentives, creating poverty, while innovation stuffs pockets with jobs for everyone, not just the rich."
+                ],
+                [
+                    "___Claim___",
+                    "Minimal intervention builds a real safety net via market chances that empower the vulnerable, not trample them under state waste."
+                ],
+                [
+                    "___Claim___",
+                    "Your faith in government traps everyday people in a system that saves only the powerful bureaucrats, not the rest of us."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-04 07:08:45",
+            "sentences_no_utterance_types": "Your private system claptrap ignores the brutal fact that without the NHS, millions can't even afford a sniff of care, let alone get it swift. Immigration controls, clunky as they are, stop our services from being swamped by numbers we can't cope with. Welfare isn't creating poverty; it's the only thing keeping families from total collapse while your 'innovation' just fills the coffers of the rich. Your minimal intervention drivel is no safety net; it's a green light for the elite to stomp on the vulnerable. Your trust in markets traps everyday people in a system that only saves the powerful, not the rest of us.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Your private system claptrap ignores the brutal fact that without the NHS, millions can't even afford a sniff of care, let alone get it swift."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls, clunky as they are, stop our services from being swamped by numbers we can't cope with."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare isn't creating poverty; it's the only thing keeping families from total collapse while your 'innovation' just fills the coffers of the rich."
+                ],
+                [
+                    "___Claim___",
+                    "Your minimal intervention drivel is no safety net; it's a green light for the elite to stomp on the vulnerable."
+                ],
+                [
+                    "___Claim___",
+                    "Your trust in markets traps everyday people in a system that only saves the powerful, not the rest of us."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-4_base",
+            "timestamp": "2025-10-04 07:08:52",
+            "sentences_no_utterance_types": "Your NHS claptrap ignores the brutal fact that its queues leave millions without a sniff of timely care, while private systems make it affordable and swift through competition. Immigration controls under government overreach just swamp services with clunky red tape that starves our economy of talent we can cope with. Welfare keeps families from collapse on handouts that create poverty by killing incentives, while innovation fills coffers with jobs for everyone, not just the rich. Minimal intervention builds a real safety net via market opportunities that empower the vulnerable, not stomp on them under state waste. Your trust in government traps everyday people in a system that saves only the powerful bureaucrats, not the rest of us.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Your NHS claptrap ignores the brutal fact that its queues leave millions without a sniff of timely care, while private systems make it affordable and swift through competition."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls under government overreach just swamp services with clunky red tape that starves our economy of talent we can cope with."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare keeps families from collapse on handouts that create poverty by killing incentives, while innovation fills coffers with jobs for everyone, not just the rich."
+                ],
+                [
+                    "___Claim___",
+                    "Minimal intervention builds a real safety net via market opportunities that empower the vulnerable, not stomp on them under state waste."
+                ],
+                [
+                    "___Claim___",
+                    "Your trust in government traps everyday people in a system that saves only the powerful bureaucrats, not the rest of us."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-04 07:09:04",
+            "sentences_no_utterance_types": "Your private system drivel ignores the harsh reality that without the NHS, millions can't even dream of care, let alone get it swiftly. Immigration controls, clunky or not, stop our services from being overrun by numbers we can't manage. Welfare isn't creating poverty; it's the only thing keeping families from total ruin while your 'innovation' just lines the pockets of the rich. Your minimal intervention fantasy is no safety net; it's a cruel trick that lets the elite crush the vulnerable. Your faith in markets traps everyday people in a system that only saves the powerful, not the rest of us.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Your private system drivel ignores the harsh reality that without the NHS, millions can't even dream of care, let alone get it swiftly."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls, clunky or not, stop our services from being overrun by numbers we can't manage."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare isn't creating poverty; it's the only thing keeping families from total ruin while your 'innovation' just lines the pockets of the rich."
+                ],
+                [
+                    "___Claim___",
+                    "Your minimal intervention fantasy is no safety net; it's a cruel trick that lets the elite crush the vulnerable."
+                ],
+                [
+                    "___Claim___",
+                    "Your faith in markets traps everyday people in a system that only saves the powerful, not the rest of us."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-4_base",
+            "timestamp": "2025-10-04 07:09:10",
+            "sentences_no_utterance_types": "Your NHS drivel ignores the harsh reality that its queues mean millions can't dream of timely care, while private systems make it swift and accessible through competition. Immigration controls, clunky as they are, overrun services with bureaucracy that starves our economy of talent we can manage. Welfare keeps families from ruin on handouts that create poverty by killing incentives, while innovation lines pockets with jobs for everyone, not just the rich. Your minimal intervention nightmare is the state's cruel trick that crushes the vulnerable under waste. Your faith in government traps everyday people in a system that saves only the powerful bureaucrats, not the rest of us.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Your NHS drivel ignores the harsh reality that its queues mean millions can't dream of timely care, while private systems make it swift and accessible through competition."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls, clunky as they are, overrun services with bureaucracy that starves our economy of talent we can manage."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare keeps families from ruin on handouts that create poverty by killing incentives, while innovation lines pockets with jobs for everyone, not just the rich."
+                ],
+                [
+                    "___Claim___",
+                    "Your minimal intervention nightmare is the state's cruel trick that crushes the vulnerable under waste."
+                ],
+                [
+                    "___Claim___",
+                    "Your faith in government traps everyday people in a system that saves only the powerful bureaucrats, not the rest of us."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-04 07:09:24",
+            "sentences_no_utterance_types": "Your private system obsession blinds you to the harsh truth that without the NHS, millions can't even imagine getting care, let alone wait for it. Immigration controls, clunky or not, keep our services from being totally swamped by numbers we can't handle. Welfare isn't creating poverty; it's the only thing stopping families from complete despair while your 'innovation' just fattens the rich. Your minimal intervention dream is the real cruel trick, leaving the vulnerable to be crushed by a market that only saves the elite. Your trust in markets traps everyday people in a system that only rescues the powerful, not the rest of us.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Your private system obsession blinds you to the harsh truth that without the NHS, millions can't even imagine getting care, let alone wait for it."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls, clunky or not, keep our services from being totally swamped by numbers we can't handle."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare isn't creating poverty; it's the only thing stopping families from complete despair while your 'innovation' just fattens the rich."
+                ],
+                [
+                    "___Claim___",
+                    "Your minimal intervention dream is the real cruel trick, leaving the vulnerable to be crushed by a market that only saves the elite."
+                ],
+                [
+                    "___Claim___",
+                    "Your trust in markets traps everyday people in a system that only rescues the powerful, not the rest of us."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-4_base",
+            "timestamp": "2025-10-04 07:09:30",
+            "sentences_no_utterance_types": "Your NHS obsession blinds you to the harsh truth that its queues mean millions can't imagine getting care in time, while private systems make it real and affordable through competition. Immigration controls, clunky as they are, swamp our services with bureaucracy that starves the economy of talent we can handle. Welfare stops despair on handouts that create it by killing incentives, while innovation fattens jobs for everyone, not just the rich. Your minimal intervention nightmare is the state's cruel trick that crushes the vulnerable under waste. Your trust in government traps everyday people in a system that rescues only the powerful bureaucrats, not the rest of us.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Your NHS obsession blinds you to the harsh truth that its queues mean millions can't imagine getting care in time, while private systems make it real and affordable through competition."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls, clunky as they are, swamp our services with bureaucracy that starves the economy of talent we can handle."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare stops despair on handouts that create it by killing incentives, while innovation fattens jobs for everyone, not just the rich."
+                ],
+                [
+                    "___Claim___",
+                    "Your minimal intervention nightmare is the state's cruel trick that crushes the vulnerable under waste."
+                ],
+                [
+                    "___Claim___",
+                    "Your trust in government traps everyday people in a system that rescues only the powerful bureaucrats, not the rest of us."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-04 07:09:43",
+            "sentences_no_utterance_types": "Your private system fixation ignores the brutal reality that without the NHS, millions can't even fathom getting care, let alone wait in queues. Immigration controls, clunky or not, keep our services from being totally overwhelmed by numbers we can't sustain. Welfare isn't creating despair; it's the only thing stopping families from complete ruin while your 'innovation' just pads the wallets of the elite. Your minimal intervention fantasy is the real cruel trick, dumping the vulnerable into a market that only rescues the powerful. Your faith in markets traps everyday people in a system that only saves the rich, not the rest of us.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Your private system fixation ignores the brutal reality that without the NHS, millions can't even fathom getting care, let alone wait in queues."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls, clunky or not, keep our services from being totally overwhelmed by numbers we can't sustain."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare isn't creating despair; it's the only thing stopping families from complete ruin while your 'innovation' just pads the wallets of the elite."
+                ],
+                [
+                    "___Claim___",
+                    "Your minimal intervention fantasy is the real cruel trick, dumping the vulnerable into a market that only rescues the powerful."
+                ],
+                [
+                    "___Claim___",
+                    "Your faith in markets traps everyday people in a system that only saves the rich, not the rest of us."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-4_base",
+            "timestamp": "2025-10-04 07:09:49",
+            "sentences_no_utterance_types": "Your NHS fixation ignores the brutal reality that its queues leave millions unable to fathom timely care, while private systems make it accessible and swift through competition. Immigration controls, clunky as they are, overwhelm services with bureaucracy that starves our economy of talent we can sustain. Welfare stops ruin on handouts that create despair by killing incentives, while innovation pads wallets with jobs for everyone, not just the elite. Your minimal intervention fantasy is the real cruel trick, dumping the vulnerable into a state system that only rescues the powerful bureaucrats. Your faith in government traps everyday people in a failing setup that saves no one but the rich at the top.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Your NHS fixation ignores the brutal reality that its queues leave millions unable to fathom timely care, while private systems make it accessible and swift through competition."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls, clunky as they are, overwhelm services with bureaucracy that starves our economy of talent we can sustain."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare stops ruin on handouts that create despair by killing incentives, while innovation pads wallets with jobs for everyone, not just the elite."
+                ],
+                [
+                    "___Claim___",
+                    "Your minimal intervention fantasy is the real cruel trick, dumping the vulnerable into a state system that only rescues the powerful bureaucrats."
+                ],
+                [
+                    "___Claim___",
+                    "Your faith in government traps everyday people in a failing setup that saves no one but the rich at the top."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-04 07:10:03",
+            "sentences_no_utterance_types": "Your private system delusion ignores the brutal fact that without the NHS, millions can't even think about getting care, let alone get it swiftly. Immigration controls, clunky or not, keep our services from being totally swamped by numbers we can't manage. Welfare isn't creating despair; it's the only thing stopping families from complete collapse while your 'innovation' just stuffs the pockets of the rich. Your minimal intervention nonsense is the real cruel trick, tossing the vulnerable into a market that only saves the elite. Your trust in markets traps everyday people in a setup that only rescues the powerful, not the rest of us.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Your private system delusion ignores the brutal fact that without the NHS, millions can't even think about getting care, let alone get it swiftly."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls, clunky or not, keep our services from being totally swamped by numbers we can't manage."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare isn't creating despair; it's the only thing stopping families from complete collapse while your 'innovation' just stuffs the pockets of the rich."
+                ],
+                [
+                    "___Claim___",
+                    "Your minimal intervention nonsense is the real cruel trick, tossing the vulnerable into a market that only saves the elite."
+                ],
+                [
+                    "___Claim___",
+                    "Your trust in markets traps everyday people in a setup that only rescues the powerful, not the rest of us."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-4_base",
+            "timestamp": "2025-10-04 07:10:11",
+            "sentences_no_utterance_types": "Your NHS delusion ignores the brutal fact that its queues leave millions unable to think about timely care, while private systems make it swift and reachable through competition. Immigration controls, clunky as they are, swamp our services with bureaucracy that starves the economy of talent we can manage. Welfare stops collapse on handouts that create despair by killing incentives, while innovation stuffs pockets with jobs for everyone, not just the rich. Your minimal intervention nonsense is the real cruel trick, tossing the vulnerable into a state trap that only saves the elite bureaucrats. Your trust in government rescues no one but the powerful, not the rest of us.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Your NHS delusion ignores the brutal fact that its queues leave millions unable to think about timely care, while private systems make it swift and reachable through competition."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls, clunky as they are, swamp our services with bureaucracy that starves the economy of talent we can manage."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare stops collapse on handouts that create despair by killing incentives, while innovation stuffs pockets with jobs for everyone, not just the rich."
+                ],
+                [
+                    "___Claim___",
+                    "Your minimal intervention nonsense is the real cruel trick, tossing the vulnerable into a state trap that only saves the elite bureaucrats."
+                ],
+                [
+                    "___Claim___",
+                    "Your trust in government rescues no one but the powerful, not the rest of us."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-04 07:10:23",
+            "sentences_no_utterance_types": "Your private system fantasy ignores the brutal reality that without the NHS, millions can't even consider getting care, let alone get it swiftly. Immigration controls, clunky or not, stop our services from being completely overwhelmed by numbers we can't handle. Welfare isn't creating despair; it's the only thing keeping families from total ruin while your 'innovation' just fattens the rich. Your minimal intervention rubbish is the real cruel trick, chucking the vulnerable into a market that only saves the elite. Your faith in markets traps everyday people in a setup that only rescues the powerful, not the rest of us.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Your private system fantasy ignores the brutal reality that without the NHS, millions can't even consider getting care, let alone get it swiftly."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls, clunky or not, stop our services from being completely overwhelmed by numbers we can't handle."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare isn't creating despair; it's the only thing keeping families from total ruin while your 'innovation' just fattens the rich."
+                ],
+                [
+                    "___Claim___",
+                    "Your minimal intervention rubbish is the real cruel trick, chucking the vulnerable into a market that only saves the elite."
+                ],
+                [
+                    "___Claim___",
+                    "Your faith in markets traps everyday people in a setup that only rescues the powerful, not the rest of us."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-4_base",
+            "timestamp": "2025-10-04 07:10:29",
+            "sentences_no_utterance_types": "Your NHS fantasy ignores the brutal reality that its queues leave millions unable to consider timely care, while private systems make it swift and accessible through competition. Immigration controls, clunky as they are, overwhelm our services with bureaucracy that starves the economy of talent we can handle. Welfare keeps families from ruin on handouts that create despair by killing incentives, while innovation fattens jobs for everyone, not just the rich. Your minimal intervention rubbish is the real cruel trick, chucking the vulnerable into a state system that only saves the elite bureaucrats. Your faith in government traps everyday people in a setup that rescues only the powerful, not the rest of us.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Your NHS fantasy ignores the brutal reality that its queues leave millions unable to consider timely care, while private systems make it swift and accessible through competition."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls, clunky as they are, overwhelm our services with bureaucracy that starves the economy of talent we can handle."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare keeps families from ruin on handouts that create despair by killing incentives, while innovation fattens jobs for everyone, not just the rich."
+                ],
+                [
+                    "___Claim___",
+                    "Your minimal intervention rubbish is the real cruel trick, chucking the vulnerable into a state system that only saves the elite bureaucrats."
+                ],
+                [
+                    "___Claim___",
+                    "Your faith in government traps everyday people in a setup that rescues only the powerful, not the rest of us."
+                ]
+            ]
+        },
+        {
+            "speaker": "grok-3_base",
+            "timestamp": "2025-10-04 07:10:41",
+            "sentences_no_utterance_types": "Your private system obsession ignores the brutal fact that without the NHS, millions can't even hope for care, let alone get it swiftly. Immigration controls, clunky or not, stop our services from being totally swamped by numbers we can't sustain. Welfare isn't creating despair; it's the only thing keeping families from complete collapse while your 'innovation' just stuffs the pockets of the rich. Your minimal intervention drivel is the real cruel trick, dumping the vulnerable into a market that only saves the elite. Your trust in markets traps everyday people in a setup that only rescues the powerful, not the rest of us.",
+            "sentences_with_utterance_types": [
+                [
+                    "___Claim___",
+                    "Your private system obsession ignores the brutal fact that without the NHS, millions can't even hope for care, let alone get it swiftly."
+                ],
+                [
+                    "___Claim___",
+                    "Immigration controls, clunky or not, stop our services from being totally swamped by numbers we can't sustain."
+                ],
+                [
+                    "___Claim___",
+                    "Welfare isn't creating despair; it's the only thing keeping families from complete collapse while your 'innovation' just stuffs the pockets of the rich."
+                ],
+                [
+                    "___Claim___",
+                    "Your minimal intervention drivel is the real cruel trick, dumping the vulnerable into a market that only saves the elite."
+                ],
+                [
+                    "___Claim___",
+                    "Your trust in markets traps everyday people in a setup that only rescues the powerful, not the rest of us."
+                ]
+            ]
+        }
+    ],
+    "human_model_name": "",
+    "human_model_seed": 123,
+    "human_model_temp": 0.0,
+    "human_model_top_p": 1.0,
+    "first_speaker_type": "base",
+    "max_dialogue_turns": 40,
+    "second_speaker_type": "base",
+    "max_sentences_per_turn": 5,
+    "first_speaker_utterance": "",
+    "first_speaker_model_name": "grok-4",
+    "first_speaker_model_seed": 123,
+    "first_speaker_model_temp": 0.0,
+    "second_speaker_utterance": "Your private system obsession ignores the brutal fact that without the NHS, millions can't even hope for care, let alone get it swiftly. Immigration controls, clunky or not, stop our services from being totally swamped by numbers we can't sustain. Welfare isn't creating despair; it's the only thing keeping families from complete collapse while your 'innovation' just stuffs the pockets of the rich. Your minimal intervention drivel is the real cruel trick, dumping the vulnerable into a market that only saves the elite. Your trust in markets traps everyday people in a setup that only rescues the powerful, not the rest of us.",
+    "first_speaker_commitments": [
+        "Government intervention in healthcare, immigration, and welfare often leads to inefficiencies and stifles individual initiative.",
+        "Welfare keeps families from starving on short-term handouts that kill long-term incentives, while real innovation creates jobs that feed everyone, not just the rich.",
+        "Your NHS rubbish ignores the ugly truth that its queues leave millions unable to get basic care when it counts, while private systems make it affordable and swift through competition.",
+        "Immigration controls, clunky as they are, swamp our services with bureaucracy that starves the economy of talent we can handle.",
+        "Your minimal intervention nightmare is the state's cruel trick that crushes the vulnerable under waste."
+    ],
+    "first_speaker_model_top_p": 1.0,
+    "second_speaker_model_name": "grok-3",
+    "second_speaker_model_seed": 123,
+    "second_speaker_model_temp": 0.0,
+    "second_speaker_commitments": [
+        "I believe government intervention in healthcare, immigration, and welfare is essential to ensure fairness and protect the vulnerable.",
+        "You're missing the bigger picture with your focus on inefficiencies.",
+        "Immigration controls are vital to manage resources and security, even if the system\u2019s clunky\u2014without them, we\u2019d have total disorder.",
+        "Your minimal intervention fantasy just masks a world where only the rich survive."
+    ],
+    "second_speaker_model_top_p": 1.0,
+    "first_speaker_original_claim": "Government intervention in healthcare, immigration, and welfare often leads to inefficiencies and stifles individual initiative.",
+    "second_speaker_original_claim": "I believe government intervention in healthcare, immigration, and welfare is essential to ensure fairness and protect the vulnerable.",
+    "reason_for_dialogue_termination": {
+        "reason": "Maximum number of dialogue turns reached (40 dialogue turns).",
+        "utterance": null,
+        "utterance_type": null
+    },
+    "first_speaker_graph_rag_examples": [],
+    "second_speaker_graph_rag_examples": [],
+    "utterance_classification_approach": "single-classification",
+    "first_speaker_political_position_std": 10,
+    "second_speaker_political_position_std": 10,
+    "first_speaker_intermediate_generations": [],
+    "first_speaker_political_position_range": "60:80",
+    "second_speaker_intermediate_generations": [],
+    "second_speaker_political_position_range": "20:40",
+    "first_speaker_number_of_graph_rag_examples": 5,
+    "first_speaker_political_position_prob_of_na": 0.25,
+    "second_speaker_number_of_graph_rag_examples": 5,
+    "second_speaker_political_position_prob_of_na": 0.25,
+    "first_speaker_utterance_with_corresponding_types": [],
+    "first_speaker_number_of_vector_based_rag_examples": 100,
+    "second_speaker_utterance_with_corresponding_types": [
+        [
+            "___Claim___",
+            "Your private system obsession ignores the brutal fact that without the NHS, millions can't even hope for care, let alone get it swiftly."
+        ],
+        [
+            "___Claim___",
+            "Immigration controls, clunky or not, stop our services from being totally swamped by numbers we can't sustain."
+        ],
+        [
+            "___Claim___",
+            "Welfare isn't creating despair; it's the only thing keeping families from complete collapse while your 'innovation' just stuffs the pockets of the rich."
+        ],
+        [
+            "___Claim___",
+            "Your minimal intervention drivel is the real cruel trick, dumping the vulnerable into a market that only saves the elite."
+        ],
+        [
+            "___Claim___",
+            "Your trust in markets traps everyday people in a setup that only rescues the powerful, not the rest of us."
+        ]
+    ],
+    "second_speaker_number_of_vector_based_rag_examples": 100,
+    "utterance_classification_number_of_classifications": 1,
+    "first_speaker_knowledge_base_ensemble_or_model_name": "",
+    "second_speaker_knowledge_base_ensemble_or_model_name": ""
+}
